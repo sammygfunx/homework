@@ -1,7 +1,7 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-15.
+Last updated: 2026-09-15 (second pass: choreography answers baked in).
 
 WHAT THIS IS
 ------------
@@ -17,21 +17,24 @@ CONTENTS (2026-09-15)
   hw3_perfect_4ths.txt   HW #3 — Perfect 4ths (video OR Da Capo).
                          DRAFTED, not in Canvas. One assignment, two
                          options for the same 100:
-                           A  a video (file upload) — all 24 perfect
-                              4ths blocked, chromatically up and down
-                              one octave, 4 s each at quarter = 60,
-                              each interval spoken/spelled as a 4th,
-                              under 2 minutes or no credit; hand-graded,
-                              posted via Grading_Hub tab 6
+                           A  a video (file upload), metronome audible
+                              and required — 25 perfect 4ths blocked,
+                              C4-F4 up chromatically to C5-F5 and back
+                              to C4-F4, 4 beats each at quarter = 60
+                              (100 s), each interval spoken/spelled as
+                              a 4th (sharps up / flats down
+                              recommended, either accepted), under 2
+                              minutes or no credit; graded on accuracy
+                              by hand, posted via Grading_Hub tab 6
                            B  Da Capo course "fourths" (PERFECT 4THS),
                               beat the game or 100 cards; KTS1 code
                               (text entry), graded by Grading_Hub/
                               rubrics/dacapo_p4ths.rubric.json
-                         Section 5 lists six open questions for Sam
-                         (start pitch, 24 vs 25 intervals, descent,
-                         black-key spellings, partial credit, tempo
-                         tolerance) — the description deliberately
-                         covers only what Sam specified.
+                         The six choreography questions the first
+                         draft flagged were ANSWERED by Sam the same
+                         day and are baked in; section 5 records the
+                         answers. Placeholders left: due date, the
+                         play-along video [LINK], this-week lab hours.
   docs/roster.txt        HW #1..#9 as far as —OER's docs record them;
                          #2/#7/#8 marked "not recorded", #4/#5 marked
                          absorbed into #1 (Sam), #3 = the new one.

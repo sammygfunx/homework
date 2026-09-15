@@ -1,6 +1,7 @@
 ===========================================================
 HW #3 — PERFECT 4THS (video OR Da Capo) — CANVAS ASSIGNMENT
-One assignment, two ways to earn it. Written 2026-09-15 (Pass 24).
+One assignment, two ways to earn it. Written 2026-09-15 (Pass 24);
+choreography settled by Sam the same day (section 5).
 Da Capo course id for Option B: "fourths".
 ===========================================================
 
@@ -10,23 +11,24 @@ WHAT THIS FILE IS
     section 2  the ninety-second version to say in class
     section 3  the message to students
     section 4  Sam's click-path in Grading_Hub before the first student
-               sits it — INCLUDING the new "Also accept" step that lets
-               one assignment take a code OR a file
-    section 5  thread notes — what is true about this assignment that
-               does NOT belong in front of students, and the open
-               questions only Sam can answer
+               sits it — INCLUDING the "Also accept" step that lets one
+               assignment take a code OR a file
+    section 5  thread notes — Sam's answers to the six choreography
+               questions, and what is true about this assignment that
+               does NOT belong in front of students
 
   WHY THE NUMBER IS #3. This fall's HW #1 absorbed the content that used
   to be HW #3, #4 and #5, so the course has had no HW #3/#4/#5 (Sam,
   2026-09-15). This assignment backfills #3. See docs/roster.txt.
 
   WHY THIS FILE LIVES HERE AND NOT IN Da_Capo/. Option A is not an app at
-  all — a student, a piano and a phone camera — and Option B is Da Capo.
-  An assignment that spans "no app" and one game does not belong to
-  either project's repo, so it is the first resident of —OER/—Homework/.
-  Da_Capo/canvas_assignment_p4ths.txt (the earlier standalone draft) is
-  SUPERSEDED by this file and says so in its own header; the game, the
-  course, the rubric and the 100-card floor are all unchanged.
+  all — a student, a piano, a metronome and a phone camera — and Option
+  B is Da Capo. An assignment that spans "no app" and one game does not
+  belong to either project's repo, so it is the first resident of
+  —OER/—Homework/. Da_Capo/canvas_assignment_p4ths.txt (the earlier
+  standalone draft) is SUPERSEDED by this file and says so in its own
+  header; the game, the course, the rubric and the 100-card floor are
+  all unchanged.
 
 THE TWO FACTS EVERYTHING HANGS ON
   OPTION B  COURSE ID       "fourths"          <- the rubric's `mode`
@@ -35,21 +37,22 @@ THE TWO FACTS EVERYTHING HANGS ON
             the rubric and every code grades as unmatched (Da Capo
             project_state 0m/0p). Rubric: Grading_Hub/rubrics/
             dacapo_p4ths.rubric.json, unchanged by this pass.
-  OPTION A  UNDER TWO MINUTES, or no credit. Sam's rule. The performance
-            itself is about a hundred seconds (24 intervals x 4 s = 96 s),
-            so a video that runs long is a video that stopped and
-            restarted, or a tempo well under 60.
+  OPTION A  UNDER TWO MINUTES, WITH A METRONOME, or no credit. Sam's
+            rules. The performance is 25 blocked intervals (C4-F4 up to
+            C5-F5 and back down to C4-F4) at four beats each, quarter =
+            60 — exactly 100 seconds — so a video that runs long is a
+            video that stopped and restarted.
 
 CANVAS SETTINGS
   Submission Type: Online -> BOTH "Text Entry" AND "File Uploads"
     (Grading_Hub tab 5: dropdown "Online — text entry", then tick
     "Also accept: Online — file upload" — built this pass, see section
     4). A student who pastes a code is Option B; a student who uploads a
-    file is Option A. Canvas does not force one-or-the-other; section 5
-    says what happens if someone does both.
+    file is Option A. Canvas does not force one-or-the-other; the
+    description says ONE is counted (section 5 says what happens if
+    someone does both).
   Points: 100   (Option B's rubric is one threshold column worth 100;
-    Option A is hand-graded out of 100 — see section 5 for the partial-
-    credit question)
+    Option A is hand-graded on accuracy out of 100)
   Attempts: unlimited — a student may submit a later, better run or a
     re-recorded video
   Due: [FILL IN — Sam's call. Not yet decided as of 2026-09-15.]
@@ -64,6 +67,14 @@ CANVAS SETTINGS
     group name and module prefix into tab 5 (Grading_Hub/
     canvas_assignment_creation.txt Q1/Q2). Do not guess them from this
     file.
+  ONE [LINK] TO FILL IN: the Perfect 4ths play-along video from the class
+    YouTube playlist, referenced twice in the description (Sam: "the
+    practice play-along videos from the YouTube playlist for TSD for
+    perfect 4ths"). Paste its URL where the description says [LINK].
+  LAB HOURS IN THE DESCRIPTION are the remaining hours of the week of
+    2026-09-14 (W 5-6pm, Th 9:30-11:00am, F 5-6pm), as Sam gave them. If
+    the due date lands in a later week, update that paragraph before
+    creating the assignment.
 
 
 ===========================================================
@@ -74,24 +85,28 @@ CANVAS SETTINGS
 HW #3 — Perfect 4ths (video OR Da Capo)
 
 --------------------------- DESCRIPTION ---------------------------
-(Paste everything between the two ===HTML=== lines into Canvas's rich
-text editor using the HTML editor view — the "</>" toggle at the bottom
-right of the editor — so the headings, lists and bold survive. Pasting
-into the visual editor instead will paste the tags as literal text.)
+(Paste everything between the two ===HTML=== lines into Grading_Hub tab
+5's Description box — the hub passes HTML through untouched. If you ever
+paste it straight into Canvas instead, use the rich text editor's HTML
+view — the "</>" toggle at the bottom right — so the headings, lists and
+bold survive; the visual editor would paste the tags as literal text.)
 
 ===HTML===
-<h3>Choose ONE of the two options below. Either one earns full credit for HW #3. Do not do both.</h3>
+<h3>Choose ONE option and submit ONLY ONE. Either option earns full credit for HW #3.</h3>
+<p>You may do both for extra practice if you like, but only one submission is counted. Pick the one you want graded and submit that.</p>
 
-<h4>Option A &mdash; Record a video: play and spell every perfect 4th</h4>
-<p>Record a video of yourself at the piano playing <strong>all of the perfect 4ths, chromatically, up and down one octave</strong>, and <strong>say the spelling of each one out loud as you play it</strong>.</p>
+<h4>Option A &mdash; Record a video: play and spell every perfect 4th, with a metronome</h4>
+<p><strong>A METRONOME IS REQUIRED for this option, and it must be audible in your recording.</strong> Every interval has to land on a click. Any metronome works &mdash; a phone app, or the built-in metronome on the keyboards in Room 269 (see the lab hours below).</p>
+<p>Record a video of yourself at the piano playing <strong>every perfect 4th as a blocked (harmonic) interval, chromatically up from middle C and back down</strong>, and <strong>saying the spelling of each one out loud as you play it</strong>. This is exactly the perfect 4ths play-along video from our class YouTube playlist (<a href="[LINK]">[LINK]</a>) &mdash; the same intervals in the same order &mdash; except that you name every interval as you go, and you get more time on each one.</p>
 <ul>
-  <li><strong>Play each perfect 4th as a harmonic interval</strong> &mdash; both notes together (blocked), not one after the other.</li>
-  <li><strong>Hold each interval for 4 seconds</strong>: quarter note = 60, four beats per interval. Set a metronome to 60 and change intervals every four clicks. The whole performance takes about 100 seconds.</li>
-  <li><strong>Go up chromatically through one octave and back down.</strong> Every one of the 24 perfect 4ths must be there &mdash; 12 on the way up, 12 on the way down.</li>
-  <li><strong>Speak the spelling of every interval as you play it, spelled as a FOURTH.</strong> For example: <em>&ldquo;F to B-flat, perfect 4th.&rdquo;</em> The two letter names must be four letters apart (F-G-A-B = a 4th). &ldquo;F to A-sharp&rdquo; is <em>not</em> a perfect 4th &mdash; it is the same sound spelled as a 3rd, and it does not count. On a black-key root, either correct spelling is fine as long as the upper note is a 4th above it (C-sharp to F-sharp, or D-flat to G-flat &mdash; not D-flat to F-sharp).</li>
+  <li><strong>Start on C4&ndash;F4</strong> (middle C with the F above it). Go up chromatically one interval at a time: C&ndash;F, C&sharp;&ndash;F&sharp;, D&ndash;G &hellip; <strong>turn around on C5&ndash;F5</strong>, then come back down chromatically <strong>to end on C4&ndash;F4</strong>. That is <strong>25 intervals in all</strong> (13 going up, 12 coming down).</li>
+  <li><strong>Play each perfect 4th as a harmonic interval</strong> &mdash; both notes together (blocked), not one after the other &mdash; and <strong>land every interval on a click</strong>.</li>
+  <li><strong>The goal is four beats per interval at quarter note = 60</strong>: set the metronome to 60 and change intervals every four clicks (that is 100 seconds for the whole thing). You may go faster if you like, as long as every blocked interval falls on a click and you stay with the beat the whole way.</li>
+  <li><strong>Say the spelling of every interval as you play it, spelled as a FOURTH.</strong> For example: <em>&ldquo;F to B-flat, perfect 4th.&rdquo;</em> The two letter names must be four letters apart (F&ndash;G&ndash;A&ndash;B = a 4th). &ldquo;F to A-sharp&rdquo; is <em>not</em> a perfect 4th &mdash; it is the same sound spelled as a 3rd, and it does not count. <strong>Recommended: sharps on the way up, flats on the way down</strong> (C&sharp;&ndash;F&sharp; going up, D&flat;&ndash;G&flat; coming down). Either spelling is accepted as long as the interval is correctly spelled and named as a perfect 4th (C&sharp;&ndash;F&sharp; or D&flat;&ndash;G&flat; &mdash; never D&flat;&ndash;F&sharp;). On the way down you may name the two notes in either order (&ldquo;B to E&rdquo; or &ldquo;E down to B&rdquo;).</li>
   <li><strong>Your video file must be under 2 minutes long.</strong> A file that is 2:00 or longer receives no credit. One take, no editing needed &mdash; if you stumble, stop and record again.</li>
-  <li>Your hands, the keyboard and your voice all need to be clearly on the recording. A phone propped on the music stand is fine.</li>
+  <li>Your hands, the keyboard, your voice and the metronome all need to be clearly on the recording. A phone propped on the music stand is fine.</li>
 </ul>
+<p><strong>How Option A is graded:</strong> on accuracy &mdash; all 25 intervals present in the right order, every one blocked and on a click, every one correctly spelled and named as a perfect 4th, and the file under two minutes.</p>
 <p><strong>To submit Option A:</strong> use the <strong>File Upload</strong> tab below and upload the video file itself (.mp4 or .mov from a phone is fine). Do not paste a link to a cloud drive; upload the file.</p>
 
 <h4>Option B &mdash; Play Da Capo on its PERFECT 4THS course</h4>
@@ -109,8 +124,8 @@ into the visual editor instead will paste the tags as literal text.)
   <li>you have cleared 100 cards.</li>
 </ul>
 <p>Whichever comes first. The game keeps count for you: GET CODE (from the pause menu, or from the screen at the end) tells you whether you have earned credit yet and, if not, exactly how many more cards you need.</p>
-<p><strong>You do not need a MIDI keyboard.</strong> The letters A to G on your computer keyboard play those notes. For a black key, tap T (sharp) or R (flat) first and the next letter plays it. When a card shows two notes stacked on top of each other, play them <em>together</em> &mdash; press both letters at the same time, the way you would on a piano.</p>
-<p><strong>You do need a laptop or a desktop computer.</strong> Da Capo has no touch controls at all, so a phone or an iPad cannot play it, with or without a keyboard. Use a computer, or a lab machine.</p>
+<p><strong>You do not need a MIDI keyboard.</strong> The letters A to G on your computer keyboard play those notes. For a black key, tap T (sharp) or R (flat) first and the next letter plays it. When a card shows two notes stacked on top of each other, play them <em>together</em> &mdash; press both letters at the same time, the way you would on a piano. If you would rather play it on a real keyboard, the Room 269 keyboards work as MIDI controllers during lab hours (cables provided) &mdash; see below.</p>
+<p><strong>You do need a laptop or a desktop computer.</strong> Da Capo has no touch controls at all, so a phone or an iPad cannot play it, with or without a keyboard. Use your own computer, the music computer lab, or anywhere you have the internet and a laptop or desktop.</p>
 <p><strong>Coming back to a run:</strong> your run is saved in that browser, on that computer. Use the SAME browser on the SAME computer every time; when you come back, press <strong>CONTINUE</strong> on the title screen (not START GAME, which begins a brand new run); if the game asks, choose KEEP THE SAVED RUN.</p>
 <p><strong>To submit Option B:</strong> press GET CODE (pause menu, or the screen after the last stage), type your first name, last name and school ID once, then COPY CODE and paste it into the <strong>Text Entry</strong> tab below.</p>
 <ul>
@@ -119,8 +134,17 @@ into the visual editor instead will paste the tags as literal text.)
   <li>Paste ALL of it, from KTS1 to the very last letter.</li>
 </ul>
 
+<h4>Lab hours this week (Room 269)</h4>
+<p>Every keyboard in Room 269 has a built-in metronome, and each one can be plugged into a computer as a MIDI keyboard for Da Capo (cables provided). Come use them for either option during the remaining lab hours this week:</p>
+<ul>
+  <li>Wednesday 5:00&ndash;6:00 pm</li>
+  <li>Thursday 9:30&ndash;11:00 am</li>
+  <li>Friday 5:00&ndash;6:00 pm</li>
+</ul>
+<p>Or do either option on your own equipment wherever you like &mdash; the lab is there if you want it, not required.</p>
+
 <h4>Which option should I pick?</h4>
-<p>Pick the video if you have a piano or keyboard where you practice and you want the spelling in your mouth as well as your hands. Pick Da Capo if you would rather drill by reading, or if you do not have a keyboard handy this week. They are worth the same. Do one.</p>
+<p>Pick the video if you have a keyboard where you practice and you want the spelling in your mouth as well as your hands. Pick Da Capo if you would rather drill by reading. They are worth the same. <strong>Submit one.</strong></p>
 ===HTML===
 -------------------------------------------------------------------
 
@@ -129,15 +153,19 @@ into the visual editor instead will paste the tags as literal text.)
 2. WHAT TO SAY IN CLASS (about ninety seconds)
 ===========================================================
 
-"HW #3 is perfect 4ths, and you get to pick how you do it.
+"HW #3 is perfect 4ths, and you get to pick how you do it. Submit ONE.
 
-Option A: make a video. Sit at a piano, set a metronome to 60, and play
-every perfect 4th as a blocked interval, chromatically up one octave and
-back down -- four beats on each one. While you hold each interval, SAY
-it: 'F to B-flat, perfect 4th.' Spell it as a fourth -- F to B-flat, not
-F to A-sharp. That's the whole thing, about a hundred seconds. Upload the
-video file to Canvas. It has to be under two minutes or it doesn't count,
-so if you flub one, stop and start over rather than pushing through.
+Option A: make a video. Metronome on -- it has to be in the recording.
+Start on middle C up to F, and play every perfect 4th as a blocked
+interval going up chromatically: C-F, C-sharp F-sharp, D-G, all the way
+up to C5-F5, then turn around and come back down to where you started.
+Twenty-five intervals, exactly the play-along video on the playlist.
+Four beats on each one at 60, and every interval lands on a click.
+While you hold each one, SAY it: 'F to B-flat, perfect 4th.' Spell it
+as a fourth -- F to B-flat, not F to A-sharp. Sharps going up, flats
+coming down is the easy way. About a hundred seconds. Upload the video
+file to Canvas. It has to be under two minutes or it doesn't count, so
+if you flub one, stop and start over.
 
 Option B: Da Capo. Same game as before, one new course. On the title
 screen press HOMEWORK, then PERFECT 4THS -- that starts it. Every card is
@@ -147,24 +175,30 @@ only, same browser every time, CONTINUE not START GAME when you come
 back. At the end, GET CODE, type your name and school ID, copy the code,
 paste the whole thing into the text box on Canvas.
 
-Video goes in the file-upload tab, code goes in the text-entry tab. Same
-assignment, same grade. Do one, not both."
+The keyboards in 269 have metronomes and plug in as MIDI for Da Capo --
+lab hours are on the assignment. Video goes in the file-upload tab, code
+goes in the text-entry tab. Same assignment, same grade. Do one. If you
+do both for practice, fine, but I only count one."
 
 
 ===========================================================
 3. THE MESSAGE TO STUDENTS (Sam sends this)
 ===========================================================
 
-Subject: HW #3 -- Perfect 4ths, two ways to do it
+Subject: HW #3 -- Perfect 4ths, two ways to do it (submit ONE)
 
-HW #3 is on Canvas: "HW #3 -- Perfect 4ths (video OR Da Capo)". Pick ONE.
+HW #3 is on Canvas: "HW #3 -- Perfect 4ths (video OR Da Capo)". Pick ONE
+and submit only that one.
 
-OPTION A -- a video of you at the piano playing every perfect 4th,
-blocked, chromatically up one octave and back down, four seconds each at
-quarter note = 60, saying the spelling of each one out loud as you play
-it ("F to B-flat, perfect 4th" -- spelled as a 4th, never as a 3rd).
-About a hundred seconds. Upload the video file itself in the File Upload
-tab. It must be UNDER TWO MINUTES to receive credit.
+OPTION A -- a video of you at the piano, WITH A METRONOME running (it
+must be audible), playing every perfect 4th blocked, chromatically from
+C4-F4 up to C5-F5 and back down to C4-F4 -- 25 intervals, exactly like
+the play-along video on our playlist -- four beats each at quarter = 60,
+every interval on a click, saying the spelling of each one out loud as
+you play it ("F to B-flat, perfect 4th" -- spelled as a 4th, never as a
+3rd; sharps up, flats down is easiest). About a hundred seconds. Upload
+the video file itself in the File Upload tab. It must be UNDER TWO
+MINUTES to receive credit.
 
 OPTION B -- Da Capo's PERFECT 4THS course.
   https://da-capo-game.netlify.app
@@ -174,6 +208,11 @@ do not need a MIDI keyboard (A-G on your laptop play the notes), but you
 do need a laptop or desktop -- it will not run on a phone or iPad. Paste
 the whole code into the Text Entry tab.
 
+The keyboards in Room 269 have built-in metronomes and plug into a
+computer as MIDI keyboards for Da Capo (cables provided). Lab hours for
+the rest of this week: Wednesday 5-6 pm, Thursday 9:30-11:00 am, Friday
+5-6 pm. Or use your own gear anywhere.
+
 Same grade either way. Due [FILL IN].
 
 
@@ -181,6 +220,11 @@ Same grade either way. Due [FILL IN].
 4. BEFORE THE FIRST STUDENT SITS IT (Sam's click-path)
 ===========================================================
 
+  [ ] FILL IN the two placeholders in section 1's HTML: [LINK] (the
+      play-along video URL, appears twice in one <a> tag) and, if the
+      due date is not this week, the lab-hours paragraph. Then the due
+      date in this file's CANVAS SETTINGS, section 3 and the Due line
+      below.
   [ ] TAKE OPTION B YOURSELF, ON THE LIVE SITE, and decode your own code.
       https://da-capo-game.netlify.app in Chrome. HOMEWORK -> PERFECT
       4THS. Play a few minutes, GET CODE, COPY CODE. Then close the tab,
@@ -226,7 +270,9 @@ Same grade either way. Due [FILL IN].
       (Grading_Hub tests 774/774) but has NOT been sent to real Canvas
       yet. If you want to restrict uploads to video extensions, this is
       the moment: edit the assignment, "Restrict Upload File Types",
-      type "mp4,mov,m4v,webm". The hub does not set that field.
+      type "mp4,mov,m4v,webm". The hub does not set that field. Also
+      click the play-along [LINK] in the description to be sure it
+      resolves.
   [ ] Student View (Canvas's "View as student"): confirm the submission
       box offers BOTH a Text Entry tab and a File Upload tab.
   [ ] Publish (tick the box on a re-run, or publish in Canvas by hand).
@@ -245,19 +291,20 @@ Same grade either way. Due [FILL IN].
       uploaded a video is mistaken for a student who never submitted.
       (Built this pass: CanvasPull.uploads_without_code.)
   [ ] VIDEOS (Option A): watch each one in SpeedGrader (it shows the
-      file's duration -- under 2:00 or no credit). Grade by eye/ear: all
-      24 intervals present, blocked, ~4 s each at 60, every spelling
-      spoken as a 4th. Enter each grade in your grading sheet -- the
-      same Google Sheet shape tab 6 already reads: "MUSC 1105 (001)"
-      marker rows, a "Canvas ID" column, a "TOTAL" column. ONLY the
-      video students need rows; leave code students out (or leave their
-      TOTAL blank -- a blank grade cell is skipped and listed, never
-      posted as 0). Then Grading_Hub tab 6 "Post External Grades":
-      Sections lines "001,173801,<HW #3 assignment id>" per section,
-      choose the sheet CSV, Enable, Preview, Post. Same PUT as tab 4.
+      file's duration -- under 2:00 or no credit). Grade on accuracy:
+      metronome audible, all 25 intervals in order (C4-F4 up to C5-F5
+      and back), each blocked and on a click, every spelling spoken as
+      a P4. Enter each grade in your grading sheet -- the same Google
+      Sheet shape tab 6 already reads: "MUSC 1105 (001)" marker rows, a
+      "Canvas ID" column, a "TOTAL" column. ONLY the video students need
+      rows; leave code students out (or leave their TOTAL blank -- a
+      blank grade cell is skipped and listed, never posted as 0). Then
+      Grading_Hub tab 6 "Post External Grades": Sections lines
+      "001,173801,<HW #3 assignment id>" per section, choose the sheet
+      CSV, Enable, Preview, Post. Same PUT as tab 4.
       ORDER DOES NOT MATTER between the two paths -- each writes only its
-      own students' cells -- but if a student somehow appears in BOTH
-      (did both options), whichever you post LAST wins; section 5.
+      own students' cells -- but if a student appears in BOTH (did both
+      options), whichever you post LAST wins; section 5.
 
   NOTHING CHANGES IN DA CAPO. ResultCode.gd already ships `mode` = the
   course id and `goal` = the per-course verdict
@@ -269,48 +316,40 @@ Same grade either way. Due [FILL IN].
 5. THREAD NOTES — true, but NOT for the assignment text
 ===========================================================
 
-OPEN QUESTIONS FOR SAM -- the description above was written to cover
-exactly what he specified and no more; these are the places where a
-student (or a TA grading) could still reasonably ask "which?":
-  1. STARTING PITCH. "All perfect 4ths chromatically, up and down one
-     octave" does not say which root starts. C-F is the natural guess
-     and the description does not name one -- any chromatic start
-     covers the same 12 intervals. If Sam wants everyone to start on C
-     (easier to grade by ear), add "start on C" to the bullet.
-  2. 24 OR 25. Twelve roots ascending, then twelve descending = 24
-     intervals = 96 s -- the "~100 seconds" figure and the "all 24" in
-     the grading criteria both point at this, so the description says
-     24 (12 up, 12 down). But "up one octave and back" read literally
-     is 13 positions up (C to C) and 12 back = 25 intervals = exactly
-     100 s. If Sam means the octave-top C-F to be played twice (as the
-     turnaround), the bullet should say 25. Cheap to fix either way;
-     the two-minute cap is unaffected.
-  3. DESCENDING ORDER. The description says "and back down" and leaves
-     it there. Presumably the same 12 intervals in reverse (B-E down to
-     C-F). If the descent should instead be spoken/spelled differently
-     (e.g. spelled from the top note down, "B-flat down to F"), say so.
-  4. BLACK-KEY SPELLINGS. Sam's rule was "spelled as fourths, not as an
-     enharmonic 3rd". The description therefore accepts EITHER correct
-     4th spelling on a black-key root (C#-F# or Db-Gb) and rejects the
-     mixed one (Db-F#). The one odd case is the root F#/Gb: F#-B is a
-     white-key top; Gb-Cb is the "other" spelling and needs C-flat. Both
-     are perfect 4ths; both are accepted as written. If Sam wants ONLY
-     sharps going up and ONLY flats coming down (a common drill
-     convention), that is a one-line addition.
-  5. PARTIAL CREDIT FOR OPTION A. Option B is all-or-nothing (the rubric
-     is one threshold column: 100 or unmatched). Option A is hand-
-     graded, and the only stated rule is "under two minutes or no
-     credit". The description says "full credit" for meeting all the
-     criteria and is silent about a video with 23 of 24 intervals or one
-     wrong spelling. Sam decides at grading time (the sheet's TOTAL
-     column takes any number); if he wants a rule announced up front
-     ("-5 per missing or misspelled interval, 0 if over two minutes"),
-     add it to the bullet list before publishing.
-  6. TEMPO TOLERANCE. "4 seconds per interval at quarter = 60" is exact
-     on paper. A phone-camera video with a student counting silently
-     will drift. Grade "steady, roughly four beats each" by ear unless
-     Sam wants a metronome audible in the recording (worth saying if
-     so).
+THE SIX CHOREOGRAPHY QUESTIONS, ANSWERED BY SAM (2026-09-15) and now
+baked into section 1 -- kept here so the next reader knows the
+description is settled, not a guess:
+  1. STARTING PITCH: C4-F4, middle C building up a perfect 4th -- the
+     same as the perfect 4ths play-along video in the class YouTube
+     playlist (Sam: "the practice play-along videos from the YouTube
+     playlist for TSD"). Students play exactly what that video plays,
+     naming each interval aloud, with more time per interval than the
+     video gives. THE VIDEO'S URL IS THE ONE [LINK] LEFT IN THE HTML.
+  2. 25 INTERVALS: up from C4-F4, turn around on C5-F5, back down to
+     end on C4-F4. 25 x 4 s = 100 s exactly at quarter = 60.
+  3. DESCENT: chromatically back down, same as the video and the same
+     weekly drill shape as every previous interval. On the descent the
+     two pitches may be named in either order (top-down or bottom-up).
+  4. SPELLINGS: sharps going up, flats coming down RECOMMENDED; either
+     accepted, full credit, as long as every interval is spelled and
+     named as a P4 (C#-F# or Db-Gb, never Db-F#).
+  5. GRADING / PARTIAL CREDIT: the video is graded ON ACCURACY --
+     staying under two minutes, always playing with the beat (four
+     beats at 60 is the goal; faster is allowed, but every blocked P4
+     must fall on a click). Therefore a METRONOME IS REQUIRED, stated at
+     the top of the option. Sam grades the accuracy scale at grading
+     time; the sheet's TOTAL column takes any number. No per-error
+     deduction is announced up front.
+  6. METRONOME AUDIBLE: yes, required in the recording. The description
+     says so, and points at Room 269's keyboards (built-in metronomes;
+     also MIDI-capable for Da Capo, cables provided) during the
+     remaining lab hours of the week of 2026-09-14 -- W 5-6pm, Th
+     9:30-11:00am, F 5-6pm -- while making clear students may use their
+     own devices, the music computer lab, or anywhere with internet and
+     a laptop/desktop instead.
+  ALSO FROM SAM: submit ONLY ONE option; doing both for practice is
+  fine, but only one is counted. Said at the top of the description, at
+  the bottom, and in sections 2 and 3.
 
 WHAT HAPPENS IF A STUDENT DOES BOTH. Canvas allows it (two submission
 attempts, one of each type; the latest attempt is what SpeedGrader shows
@@ -318,7 +357,9 @@ by default). The hub's two paths each write only their own students, so
 a student with a code AND a video gets whichever grade Sam posts last.
 Both options are worth the same 100, so the only way this matters is a
 failing video and a passing code (or vice versa) -- in which case, take
-the better one: the assignment says "either one earns full credit".
+the better one: the assignment says either option earns full credit,
+and "only one is counted" was meant as "you need not do both", not as a
+penalty.
 
 HOW THE TWO GRADING PATHS COEXIST -- checked in code, not assumed
 (Grading_Hub, 2026-09-15):

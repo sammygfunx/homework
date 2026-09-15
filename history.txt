@@ -29,3 +29,17 @@ report), 774/774 + smoke. Da_Capo/canvas_assignment_p4ths.txt marked
 superseded; its THREAD 13 and conversation_starter pointed here.
 Verified: every path/course id/rubric/title quoted in hw3 checked
 against the owning repo; "fourths" untouched everywhere.
+
+PASS 1b (2026-09-15, same day, Opus 5) — choreography settled
+--------------------------------------------------------------
+Sam answered the six Option A questions in one message; the description,
+in-class script, student message, click-path and section 5 were
+rewritten to carry them: start C4-F4 (the class play-along video), 25
+intervals turning on C5-F5, chromatic descent with either naming order,
+sharps-up/flats-down recommended but either P4 spelling accepted,
+graded on accuracy with a REQUIRED and AUDIBLE metronome (goal 4 beats
+at 60, faster allowed if every interval lands on a click), Room 269
+keyboards (metronomes + MIDI cables) during this week's lab hours, and
+"submit ONLY ONE" at top and bottom. Left for Sam: due date, the
+play-along video [LINK], and the lab-hours paragraph if the due date
+moves to a later week.
