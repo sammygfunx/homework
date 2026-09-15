@@ -78,5 +78,5 @@ CONVENTIONS
 
 REPO
 ----
-Local git only as of 2026-09-15; remote to be created by Sam (suggested
-sammygfunx/homework). See conversation_starter.txt REPO STATE.
+github.com/sammygfunx/homework, branch main — remote created by Sam and
+first pushed 2026-09-15.

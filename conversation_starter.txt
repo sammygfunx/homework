@@ -56,14 +56,11 @@ HOW IT RELATES TO THE REST OF THE OER
 
 REPO STATE
 ----------
-Local git repo, initialised 2026-09-15. NO GITHUB REMOTE YET — Sam
-creates it (suggested name: sammygfunx/homework, private, like every
-other —Apps/—Games repo), then:
-  git remote add origin https://github.com/sammygfunx/homework.git
-  git push -u origin main
-Until then, commit locally at the end of every pass. —OER's own
-.gitignore lists —Homework/ beside —Games/, —Apps/, —Coursepack/ so the
-master repo never nests this one.
+Local git repo, initialised 2026-09-15, remote
+github.com/sammygfunx/homework (created by Sam the same day), branch
+main. Push at the end of every pass (git add -A && git commit && git
+push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
+—Coursepack/ so the master repo never nests this one.
 
 NEXT ACTION
 -----------
@@ -74,4 +71,4 @@ click-path in Grading_Hub. No agent work is queued until those land.
 Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status
 moved), completed work -> history.txt, then git add -A && git commit
-(&& git push once the remote exists).
+&& git push.

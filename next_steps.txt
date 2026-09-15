@@ -3,16 +3,9 @@ HOMEWORK — NEXT STEPS
 Updated: 2026-09-15 (Pass 24 — repo created; hw3_perfect_4ths.txt +
 docs/roster.txt drafted. Same day, second pass: Sam's six choreography
 answers, due date (Fri 2026-09-18 18:00) and video links baked into hw3
-— items 1a/1b DONE; 1c (the click-path) is next. Everything below item 0
-waits on Sam.)
+— items 1a/1b DONE; 1c (the click-path) is next. Remote
+sammygfunx/homework created + pushed. Everything below waits on Sam.)
 Ranked high -> low.
-
-0. GITHUB REMOTE. (Sam, 2 minutes; agent cannot.)
-   The repo is git init'd and committed locally with no remote.
-   Suggested: sammygfunx/homework (private). Then
-     git remote add origin https://github.com/sammygfunx/homework.git
-     git push -u origin main
-   and delete this item.
 
 1. HW #3 — SAM'S DECISIONS, then the click-path. (Sam, in-app + in
    Canvas; no agent code needed unless an answer changes the text.)
