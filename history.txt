@@ -43,3 +43,10 @@ keyboards (metronomes + MIDI cables) during this week's lab hours, and
 "submit ONLY ONE" at top and bottom. Left for Sam: due date, the
 play-along video [LINK], and the lab-hours paragraph if the due date
 moves to a later week.
+
+PASS 1c (2026-09-15, same day) — due date + links
+--------------------------------------------------
+Due Fri 2026-09-18 18:00 Eastern (2026-09-18T22:00:00Z, Week 5) filled
+in everywhere; the P4 chromatic play-along (https://youtu.be/xg1L2ccDO9M)
+and the full interval playlist embedded as link text in the description
+and given in the student message. No placeholders remain in hw3.

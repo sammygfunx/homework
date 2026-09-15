@@ -63,16 +63,15 @@ HW #3  Perfect 4ths (video OR Da Capo). NEW 2026-09-15, backfills the
          or clear 100 cards; TEXT ENTRY (KTS1 code).
        One Canvas assignment accepting BOTH types (Grading_Hub tab 5's
          new "Also accept" row, built this pass).
-       Due: [NOT YET DECIDED — Sam's call.]
+       Due: Fri 2026-09-18 18:00 Eastern (Week 5).
        Rubric: Grading_Hub/rubrics/dacapo_p4ths.rubric.json (Option B
          only; Option A is hand-graded into a sheet and posted through
          Grading_Hub tab 6 "Post External Grades").
        Content: —Homework/hw3_perfect_4ths.txt (this repo).
          Supersedes —Games/Da_Capo/canvas_assignment_p4ths.txt.
-       Status: DRAFTED, choreography settled by Sam 2026-09-15 (section
-         5). Still to fill: due date, the play-along video [LINK], and
-         the lab-hours paragraph if the due date moves past the week of
-         2026-09-14.
+       Status: DRAFTED, complete — choreography, due date and video
+         links all settled by Sam 2026-09-15. Ready for the section 4
+         click-path (create in Canvas).
 
 HW #4  Absorbed into HW #1 this fall — does not exist as a separate
        assignment. (Sam, 2026-09-15.)

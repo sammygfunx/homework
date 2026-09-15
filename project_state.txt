@@ -33,8 +33,9 @@ CONTENTS (2026-09-15)
                          The six choreography questions the first
                          draft flagged were ANSWERED by Sam the same
                          day and are baked in; section 5 records the
-                         answers. Placeholders left: due date, the
-                         play-along video [LINK], this-week lab hours.
+                         answers. Due Fri 2026-09-18 18:00 Eastern and
+                         both video links filled in the same day — no
+                         placeholders left.
   docs/roster.txt        HW #1..#9 as far as —OER's docs record them;
                          #2/#7/#8 marked "not recorded", #4/#5 marked
                          absorbed into #1 (Sam), #3 = the new one.

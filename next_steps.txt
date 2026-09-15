@@ -2,8 +2,9 @@ HOMEWORK — NEXT STEPS
 ======================
 Updated: 2026-09-15 (Pass 24 — repo created; hw3_perfect_4ths.txt +
 docs/roster.txt drafted. Same day, second pass: Sam's six choreography
-answers baked into hw3 — item 1b DONE. Everything below item 0 waits on
-Sam.)
+answers, due date (Fri 2026-09-18 18:00) and video links baked into hw3
+— items 1a/1b DONE; 1c (the click-path) is next. Everything below item 0
+waits on Sam.)
 Ranked high -> low.
 
 0. GITHUB REMOTE. (Sam, 2 minutes; agent cannot.)
@@ -15,17 +16,13 @@ Ranked high -> low.
 
 1. HW #3 — SAM'S DECISIONS, then the click-path. (Sam, in-app + in
    Canvas; no agent code needed unless an answer changes the text.)
-   a) DUE DATE — hw3_perfect_4ths.txt has [FILL IN] in its CANVAS
-      SETTINGS block, section 3's message, and section 4's Due line.
-      Put the real date in all three so the file and Canvas never drift.
+   a) DONE 2026-09-15 — due Fri 2026-09-18 18:00 Eastern, filled in
+      everywhere; video links embedded as link text.
    b) DONE 2026-09-15 — Sam answered all six choreography questions
       (C4-F4 start, 25 intervals turning on C5-F5, chromatic descent
       with either naming order, sharps-up/flats-down recommended,
       graded on accuracy with a REQUIRED audible metronome, Room 269
-      lab hours) and the description carries them. Two placeholders
-      remain beside the due date: the play-along video [LINK] (one <a>
-      tag) and the lab-hours paragraph if the due date moves past the
-      week of 2026-09-14.
+      lab hours) and the description carries them.
    c) Section 4's click-path, in order: take Option B yourself on the
       live site -> load dacapo_p4ths.rubric.json alone and grade your
       own code -> tab 5 create with "Also accept: file upload" ticked ->

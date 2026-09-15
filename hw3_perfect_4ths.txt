@@ -1,7 +1,7 @@
 ===========================================================
 HW #3 — PERFECT 4THS (video OR Da Capo) — CANVAS ASSIGNMENT
 One assignment, two ways to earn it. Written 2026-09-15 (Pass 24);
-choreography settled by Sam the same day (section 5).
+choreography, due date and links settled by Sam the same day.
 Da Capo course id for Option B: "fourths".
 ===========================================================
 
@@ -55,7 +55,10 @@ CANVAS SETTINGS
     Option A is hand-graded on accuracy out of 100)
   Attempts: unlimited — a student may submit a later, better run or a
     re-recorded video
-  Due: [FILL IN — Sam's call. Not yet decided as of 2026-09-15.]
+  Due: Friday 2026-09-18 18:00 Eastern (Sam, 2026-09-15). The hub sends
+    2026-09-18T22:00:00Z (EDT). Confirm that pair in Preview. Week 5 on
+    the course calendar (Mon Sep 14 - Sun Sep 20; AssignmentCreate.
+    WEEK_UNLOCK_UTC[5] / WEEK_DUE_UTC[5]).
   NO AVAILABILITY WINDOW, same reasoning as Steps and Skips: not sat in
     class, one due date across all four sections, stays open so a student
     can keep playing and submit a better run.
@@ -67,14 +70,13 @@ CANVAS SETTINGS
     group name and module prefix into tab 5 (Grading_Hub/
     canvas_assignment_creation.txt Q1/Q2). Do not guess them from this
     file.
-  ONE [LINK] TO FILL IN: the Perfect 4ths play-along video from the class
-    YouTube playlist, referenced twice in the description (Sam: "the
-    practice play-along videos from the YouTube playlist for TSD for
-    perfect 4ths"). Paste its URL where the description says [LINK].
+  VIDEO LINKS (Sam, 2026-09-15), embedded as link text in the description:
+    the perfect 4ths chromatic play-along  https://youtu.be/xg1L2ccDO9M
+    the full interval play-along playlist
+      https://www.youtube.com/playlist?list=PLnO4XsbPuZRTRSBYWxtqjlrUKX5JrdTJl
   LAB HOURS IN THE DESCRIPTION are the remaining hours of the week of
-    2026-09-14 (W 5-6pm, Th 9:30-11:00am, F 5-6pm), as Sam gave them. If
-    the due date lands in a later week, update that paragraph before
-    creating the assignment.
+    2026-09-14 (W 5-6pm, Th 9:30-11:00am, F 5-6pm) — the due date is in
+    that same week, so they stand.
 
 
 ===========================================================
@@ -97,7 +99,7 @@ bold survive; the visual editor would paste the tags as literal text.)
 
 <h4>Option A &mdash; Record a video: play and spell every perfect 4th, with a metronome</h4>
 <p><strong>A METRONOME IS REQUIRED for this option, and it must be audible in your recording.</strong> Every interval has to land on a click. Any metronome works &mdash; a phone app, or the built-in metronome on the keyboards in Room 269 (see the lab hours below).</p>
-<p>Record a video of yourself at the piano playing <strong>every perfect 4th as a blocked (harmonic) interval, chromatically up from middle C and back down</strong>, and <strong>saying the spelling of each one out loud as you play it</strong>. This is exactly the perfect 4ths play-along video from our class YouTube playlist (<a href="[LINK]">[LINK]</a>) &mdash; the same intervals in the same order &mdash; except that you name every interval as you go, and you get more time on each one.</p>
+<p>Record a video of yourself at the piano playing <strong>every perfect 4th as a blocked (harmonic) interval, chromatically up from middle C and back down</strong>, and <strong>saying the spelling of each one out loud as you play it</strong>. This is exactly what <a href="https://youtu.be/xg1L2ccDO9M">the perfect 4ths chromatic play-along video</a> does &mdash; the same intervals in the same order &mdash; except that you name every interval as you go, and you get more time on each one. (The whole <a href="https://www.youtube.com/playlist?list=PLnO4XsbPuZRTRSBYWxtqjlrUKX5JrdTJl">interval play-along playlist</a> is there too if you want the others for practice.)</p>
 <ul>
   <li><strong>Start on C4&ndash;F4</strong> (middle C with the F above it). Go up chromatically one interval at a time: C&ndash;F, C&sharp;&ndash;F&sharp;, D&ndash;G &hellip; <strong>turn around on C5&ndash;F5</strong>, then come back down chromatically <strong>to end on C4&ndash;F4</strong>. That is <strong>25 intervals in all</strong> (13 going up, 12 coming down).</li>
   <li><strong>Play each perfect 4th as a harmonic interval</strong> &mdash; both notes together (blocked), not one after the other &mdash; and <strong>land every interval on a click</strong>.</li>
@@ -134,6 +136,7 @@ bold survive; the visual editor would paste the tags as literal text.)
   <li>Paste ALL of it, from KTS1 to the very last letter.</li>
 </ul>
 
+<h4>Due Friday, September 18 at 6:00 pm.</h4>
 <h4>Lab hours this week (Room 269)</h4>
 <p>Every keyboard in Room 269 has a built-in metronome, and each one can be plugged into a computer as a MIDI keyboard for Da Capo (cables provided). Come use them for either option during the remaining lab hours this week:</p>
 <ul>
@@ -177,8 +180,8 @@ paste the whole thing into the text box on Canvas.
 
 The keyboards in 269 have metronomes and plug in as MIDI for Da Capo --
 lab hours are on the assignment. Video goes in the file-upload tab, code
-goes in the text-entry tab. Same assignment, same grade. Do one. If you
-do both for practice, fine, but I only count one."
+goes in the text-entry tab. Due Friday at six. Same assignment, same
+grade. Do one. If you do both for practice, fine, but I only count one."
 
 
 ===========================================================
@@ -213,18 +216,19 @@ computer as MIDI keyboards for Da Capo (cables provided). Lab hours for
 the rest of this week: Wednesday 5-6 pm, Thursday 9:30-11:00 am, Friday
 5-6 pm. Or use your own gear anywhere.
 
-Same grade either way. Due [FILL IN].
+Same grade either way. Due Friday 9/18 by 6:00 pm.
+
+The perfect 4ths play-along video, if you want it for reference:
+  https://youtu.be/xg1L2ccDO9M
+(the full interval playlist: https://www.youtube.com/playlist?list=PLnO4XsbPuZRTRSBYWxtqjlrUKX5JrdTJl)
 
 
 ===========================================================
 4. BEFORE THE FIRST STUDENT SITS IT (Sam's click-path)
 ===========================================================
 
-  [ ] FILL IN the two placeholders in section 1's HTML: [LINK] (the
-      play-along video URL, appears twice in one <a> tag) and, if the
-      due date is not this week, the lab-hours paragraph. Then the due
-      date in this file's CANVAS SETTINGS, section 3 and the Due line
-      below.
+  (Due date and video links are filled in as of 2026-09-15 — nothing
+  left to fill in section 1.)
   [ ] TAKE OPTION B YOURSELF, ON THE LIVE SITE, and decode your own code.
       https://da-capo-game.netlify.app in Chrome. HOMEWORK -> PERFECT
       4THS. Play a few minutes, GET CODE, COPY CODE. Then close the tab,
@@ -250,9 +254,10 @@ Same grade either way. Due [FILL IN].
         Also accept  TICK "Online — file upload"    <- NEW THIS PASS
                      (leave "website URL" and "text entry" unticked)
         Group        <the exact group heading -- copy-paste, see Q1>
-        Module       <e.g. "Week 6" -- whatever week the due date lands>
+        Module       Week 5   (Sep 14-20 holds the Sep 18 due date)
         Available from   blank
-        Due          [FILL IN] as YYYY-MM-DD HH:MM Eastern
+        Due          2026-09-18 18:00   (Eastern; Preview must show
+                     2026-09-18T22:00:00Z beside it)
         Until        blank
         Description  the HTML block from section 1, between the
                      ===HTML=== lines (the hub passes HTML through
@@ -271,8 +276,7 @@ Same grade either way. Due [FILL IN].
       yet. If you want to restrict uploads to video extensions, this is
       the moment: edit the assignment, "Restrict Upload File Types",
       type "mp4,mov,m4v,webm". The hub does not set that field. Also
-      click the play-along [LINK] in the description to be sure it
-      resolves.
+      click both video links in the description to be sure they open.
   [ ] Student View (Canvas's "View as student"): confirm the submission
       box offers BOTH a Text Entry tab and a File Upload tab.
   [ ] Publish (tick the box on a re-run, or publish in Canvas by hand).
@@ -324,7 +328,10 @@ description is settled, not a guess:
      playlist (Sam: "the practice play-along videos from the YouTube
      playlist for TSD"). Students play exactly what that video plays,
      naming each interval aloud, with more time per interval than the
-     video gives. THE VIDEO'S URL IS THE ONE [LINK] LEFT IN THE HTML.
+     video gives. Links (Sam, same day): the P4 chromatic video
+     https://youtu.be/xg1L2ccDO9M and the full playlist https://www.
+     youtube.com/playlist?list=PLnO4XsbPuZRTRSBYWxtqjlrUKX5JrdTJl,
+     both embedded as link text in the description.
   2. 25 INTERVALS: up from C4-F4, turn around on C5-F5, back down to
      end on C4-F4. 25 x 4 s = 100 s exactly at quarter = 60.
   3. DESCENT: chromatically back down, same as the video and the same
