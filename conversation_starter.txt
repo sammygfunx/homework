@@ -1,0 +1,77 @@
+HOMEWORK — CONVERSATION STARTER
+================================
+Read this first, then project_state.txt, then next_steps.txt. Do NOT
+read history.txt unless you need the backstory of a past pass.
+Canonical copy: /Volumes/SSG (2025)/—OER/—Homework
+
+WHAT THIS IS
+------------
+The home for MUSC 1105 (Fall 2026) homework assignments that do NOT
+belong to one single app. Every —Games/ and —Apps/ project keeps its own
+canvas_assignment_*.txt when an assignment IS that app (Da Capo's Steps
+and Skips, Diatonic Triad Dodge's HW #9). An assignment that spans "no
+app at all" and one game — or two apps, or a paper option beside an app
+option — has no natural owner, and before 2026-09-15 would have been
+parked in whichever repo was nearest. This folder is where those live.
+
+It is text only: no Godot project, no build, no deploy. It holds
+  hw<N>_<slug>.txt      one ready-to-paste assignment per file, in the
+                        same five-section shape every canvas_assignment_
+                        *.txt in the OER already uses (1 title + HTML
+                        description, 2 the ninety-second in-class
+                        version, 3 the message to students, 4 Sam's
+                        Grading_Hub click-path, 5 thread notes + open
+                        questions — never for students)
+  docs/roster.txt       ONE running table of every "HW #N" of the
+                        semester: title, apps + submission types, due
+                        date, rubric path in Grading_Hub, content file,
+                        status (drafted / created in Canvas / live /
+                        graded). Update it whenever a row's status
+                        changes, in any pass, in any repo.
+  the four docs         this file, project_state.txt, next_steps.txt,
+                        history.txt
+
+Created 2026-09-15 (Pass 24, launched from —OER since it touched
+Grading_Hub + Da_Capo + this new folder). First resident:
+hw3_perfect_4ths.txt — HW #3, "Perfect 4ths (video OR Da Capo)".
+
+HOW IT RELATES TO THE REST OF THE OER
+-------------------------------------
+  - GRADING_HUB (—Apps/Grading_Hub) owns every rubric (rubrics/*.rubric.
+    json), CREATES the Canvas assignments (tab 5), pulls + grades KTS1
+    codes (tabs 1/3/4) and posts hand-graded sheets (tab 6). Nothing in
+    this folder is a rubric; every row of docs/roster.txt points at the
+    rubric's path there. The hub BUILDS rubrics and CREATES assignments
+    in its own UI — that is Sam's click-path (each hw file's section
+    4), not something to hand-write here.
+  - THE GAMES/APPS own their course ids and their own single-app
+    assignment files. A COURSE ID IS A PUBLIC IDENTIFIER once a rubric
+    names it (Da Capo's "steps", "fourths") — a file here may quote it
+    but never decides it.
+  - —OER/docs is the program-level roadmap; a pass that touches this
+    folder gets a line in —OER/docs/project_state.txt's pass writeups
+    like any other repo.
+  - Canvas assignment TITLES are the hub's idempotent re-run match key.
+    Once created, the title in a hw file's section 1 must not change.
+
+REPO STATE
+----------
+Local git repo, initialised 2026-09-15. NO GITHUB REMOTE YET — Sam
+creates it (suggested name: sammygfunx/homework, private, like every
+other —Apps/—Games repo), then:
+  git remote add origin https://github.com/sammygfunx/homework.git
+  git push -u origin main
+Until then, commit locally at the end of every pass. —OER's own
+.gitignore lists —Homework/ beside —Games/, —Apps/, —Coursepack/ so the
+master repo never nests this one.
+
+NEXT ACTION
+-----------
+next_steps.txt item 1 — Sam's decisions on HW #3 (due date + the six
+open questions in hw3_perfect_4ths.txt section 5), then its section 4
+click-path in Grading_Hub. No agent work is queued until those land.
+
+Standing rule: end every pass updating conversation_starter.txt +
+project_state.txt + next_steps.txt (+ docs/roster.txt when a status
+moved), completed work -> history.txt, then git add -A && git commit
+(&& git push once the remote exists).

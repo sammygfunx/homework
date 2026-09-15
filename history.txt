@@ -1,0 +1,31 @@
+HOMEWORK — HISTORY (completed work archive)
+============================================
+
+PASS 1 (2026-09-15, Opus 5, launched from —OER; also touched Grading_Hub
+and Da_Capo — recorded there and in —OER/docs/project_state.txt "PASS 24")
+-----------------------------------------------------------------------
+Folder created from empty. Sam's ask: a new HW #3 (the course had no
+#3/#4/#5 this fall because HW #1 absorbed their old content) where a
+student picks ONE of two options for the same 100 — a video of all
+perfect 4ths played blocked, chromatically up and down one octave at 4 s
+each (quarter = 60, ~100 s, under 2 minutes, every interval spoken and
+spelled as a 4th) uploaded as a file, OR Da Capo's PERFECT 4THS course
+(id "fourths", live since THREAD 13 that morning) submitted as a KTS1
+code — in ONE Canvas assignment accepting both text entry and file
+upload.
+
+Built here: hw3_perfect_4ths.txt (five sections; HTML description;
+Sam's wording kept; six genuine choreography/grading ambiguities flagged
+in section 5 rather than resolved), docs/roster.txt (HW #1..#9 as the
+OER's docs record them, gaps marked), the four docs, LICENSE,
+.gitignore. git init + first commit; no remote (Sam creates).
+
+Built elsewhere for it: Grading_Hub could not create a two-type Canvas
+assignment (one submission_type string, one repeated param) — fixed
+additively (AssignmentSpec submission_types set + compat string,
+AssignmentCreate.submission_type_parts, "Also accept" checkboxes,
+CanvasPull.uploads_without_code so video uploads are listed in the pull
+report), 774/774 + smoke. Da_Capo/canvas_assignment_p4ths.txt marked
+superseded; its THREAD 13 and conversation_starter pointed here.
+Verified: every path/course id/rubric/title quoted in hw3 checked
+against the owning repo; "fourths" untouched everywhere.

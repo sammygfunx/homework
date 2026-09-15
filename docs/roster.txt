@@ -1,0 +1,113 @@
+MUSC 1105 FALL 2026 — HOMEWORK ROSTER
+======================================
+Created: 2026-09-15 (Pass 24). One running table: every numbered HW
+assignment, what it runs on, how it is submitted, where its rubric and
+its ready-to-paste content live, and how far along it is. Update the row
+when a status changes; add a row when a new HW is drafted. This is the
+index — the content itself lives in the file each row points at.
+
+STATUS VALUES   drafted            content file written, nothing in Canvas
+                created in Canvas  assignment exists (published or not)
+                live               published, students can submit
+                graded             grades posted for all four sections
+
+WHAT IS NOT HERE. The twelve weekly Portato "Reading Sprint — Week N"
+assignments (Grading_Hub/AssignmentCreate.gd's tables, rubrics/
+portato_sprint.rubric.json) and the in-class quizzes (Quiz #1, #2 —
+Grading_Hub next_steps 11.5/11.7) are their own series with their own
+numbering and are tracked in Grading_Hub and Portato_Web. Only the
+"HW #N" series is listed below.
+
+GAPS, STATED PLAINLY. The ecosystem's docs record HW #1, HW #6 and HW #9
+clearly (rubrics and/or assignment files exist). HW #2, #7 and #8 are
+not described anywhere in —OER's docs as of 2026-09-15 — they may be
+traditional (paper/recording) assignments that never needed an app, or
+they may not exist yet. Their rows below say "not recorded in —OER docs"
+rather than guessing. Sam fills those in.
+
+-----------------------------------------------------------------------
+HW #   TITLE / WHAT IT IS
+       APPS + SUBMISSION TYPES
+       DUE
+       RUBRIC (Grading_Hub path)
+       CONTENT FILE
+       STATUS
+-----------------------------------------------------------------------
+
+HW #1  Note Reading and Interval Reading Assessment.
+       THIS ONE ABSORBED THE OLD HW #3, #4 AND #5 (Sam, 2026-09-15),
+       which is why the fall numbering skips from #1 to #6 and why the
+       new Perfect 4ths assignment below backfills #3.
+       Portato_Web READING DIAGNOSTIC; text entry (KTS1 code).
+       Due: early semester (exact date not recorded in —OER docs; it has
+       been graded — see Grading_Hub history 2026-08-25/26).
+       Rubric: Grading_Hub/rubrics/hw1_note_interval_reading.rubric.json
+       (flat completion, 100; Canvas assignments 2204033 / 2204072 /
+       2204169 / 2204428 for sections 001-004).
+       Content: no ready-to-paste file anywhere in —OER — it predates
+       the canvas_assignment_*.txt convention (created directly in
+       Canvas). —Apps/Portato_Web/semester_assignments.txt discusses it
+       (section 2's nine rules came from grading it).
+       Status: GRADED (batch-posted 2026-08-25; a wrong-rubric post was
+       corrected — Grading_Hub next_steps item 0).
+
+HW #2  Not recorded in —OER docs. [Sam to fill in.]
+
+HW #3  Perfect 4ths (video OR Da Capo). NEW 2026-09-15, backfills the
+       gap left by HW #1 (above).
+       Option A: no app — a video of the student playing + spelling all
+         24 perfect 4ths, blocked, chromatically up and down one octave,
+         4 s each at quarter = 60, under 2 minutes; FILE UPLOAD.
+       Option B: Da Capo course "fourths" (PERFECT 4THS), beat the game
+         or clear 100 cards; TEXT ENTRY (KTS1 code).
+       One Canvas assignment accepting BOTH types (Grading_Hub tab 5's
+         new "Also accept" row, built this pass).
+       Due: [NOT YET DECIDED — Sam's call.]
+       Rubric: Grading_Hub/rubrics/dacapo_p4ths.rubric.json (Option B
+         only; Option A is hand-graded into a sheet and posted through
+         Grading_Hub tab 6 "Post External Grades").
+       Content: —Homework/hw3_perfect_4ths.txt (this repo).
+         Supersedes —Games/Da_Capo/canvas_assignment_p4ths.txt.
+       Status: DRAFTED. Open questions for Sam in the content file's
+         section 5 (start pitch, 24 vs 25 intervals, partial credit).
+
+HW #4  Absorbed into HW #1 this fall — does not exist as a separate
+       assignment. (Sam, 2026-09-15.)
+
+HW #5  Absorbed into HW #1 this fall — does not exist as a separate
+       assignment. (Sam, 2026-09-15.)
+
+HW #6  The composition (steps and skips), with an opt-in alternative:
+       "HW #6 (alternative) — Da Capo: Steps and Skips".
+       Composition: traditional, not an app (submission type not
+         recorded in —OER docs).
+       Alternative: Da Capo course "steps" (STEPS AND SKIPS); TEXT ENTRY
+         (KTS1 code); its own Canvas assignment beside the composition.
+       Due: Week 4, Thursday night = 2026-09-10 23:59 Eastern (Sam,
+         2026-09-08; Grading_Hub/canvas_assignment_creation.txt uses
+         that date as its worked example).
+       Rubric: Grading_Hub/rubrics/dacapo_steps.rubric.json (one
+         threshold column, 100). Also rubrics/dacapo_intervals.rubric.json
+         for students who were mis-instructed into the INTERVALS course
+         (see that file's header).
+       Content: —Games/Da_Capo/canvas_assignment_steps.txt.
+       Status: LIVE (Da Capo pass 14 deployed 2026-09-08; the hub's
+         creation walkthrough was written from creating it in all four
+         sections). Graded? — not recorded in —OER docs as of
+         2026-09-15; check Canvas.
+
+HW #7  Not recorded in —OER docs. [Sam to fill in.]
+
+HW #8  Not recorded in —OER docs. [Sam to fill in.] (Week 8 is the
+       midterm per docs/semester_hw_plan.txt — may be no HW.)
+
+HW #9  Diatonic Triad Dodge: the 49 white-key triads.
+       Diatonic_Triad_Dodge; TEXT ENTRY (KTS1 code).
+       Due: Fri 2026-10-16 (per the content file's student message).
+       Rubric: Grading_Hub/rubrics/triad_dodge_hw9.rubric.json
+         (mastered/49 x 100, linear).
+       Content: —Games/Diatonic_Triad_Dodge/canvas_assignment_hw9.txt.
+       Status: DRAFTED (2026-09-12, Pass 21c). NOTE the live DTD build
+         still prints the 2025 "60 correct OR 30 min" rule in three
+         places — DTD next_steps item 1e, a deploy owed before
+         2026-10-16.

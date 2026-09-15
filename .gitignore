@@ -1,0 +1,8 @@
+# macOS junk (this volume is exFAT — Finder leaves AppleDouble "._" forks)
+.DS_Store
+._*
+
+# Never commit student work or grades here (FERPA). Sheets/CSVs live in
+# ~/Documents/MUSC1105_Grades/, outside every repo.
+*.csv
+*.xlsx

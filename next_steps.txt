@@ -1,0 +1,60 @@
+HOMEWORK — NEXT STEPS
+======================
+Updated: 2026-09-15 (Pass 24 — repo created; hw3_perfect_4ths.txt +
+docs/roster.txt drafted. Everything below item 0 waits on Sam.)
+Ranked high -> low.
+
+0. GITHUB REMOTE. (Sam, 2 minutes; agent cannot.)
+   The repo is git init'd and committed locally with no remote.
+   Suggested: sammygfunx/homework (private). Then
+     git remote add origin https://github.com/sammygfunx/homework.git
+     git push -u origin main
+   and delete this item.
+
+1. HW #3 — SAM'S DECISIONS, then the click-path. (Sam, in-app + in
+   Canvas; no agent code needed unless an answer changes the text.)
+   a) DUE DATE — hw3_perfect_4ths.txt has [FILL IN] in its CANVAS
+      SETTINGS block, section 3's message, and section 4's Due line.
+      Put the real date in all three so the file and Canvas never drift.
+   b) THE SIX OPEN QUESTIONS in section 5 (start pitch; 24 vs 25
+      intervals; descending order; black-key spellings; partial credit
+      for the video; tempo tolerance). Each is a one-line edit to the
+      Option A bullet list if the answer differs from what the
+      description currently says. If the answers are "as written", say
+      so in section 5 and move on.
+   c) Section 4's click-path, in order: take Option B yourself on the
+      live site -> load dacapo_p4ths.rubric.json alone and grade your
+      own code -> tab 5 create with "Also accept: file upload" ticked ->
+      OPEN IT IN CANVAS AS A TEACHER and confirm both Text Entry and
+      File Uploads are on (the first two-type assignment the hub has
+      ever created; the request is test-pinned, not live-proven) ->
+      Student View -> publish.
+   d) Update docs/roster.txt HW #3's status + due date when done.
+   Model: n/a (Sam). If (b) changes the choreography materially and
+   Sam wants the file re-drafted: sonnet, low effort, single repo,
+   launch from inside —Homework/.
+
+2. HW #3 — FIRST GRADING RUN, AND WHAT TO WATCH. (Sam, after the due
+   date; agent only if something breaks.)
+   Both paths into one column: tab 1 batch pull (codes) — its report now
+   lists "N file upload(s), no code" by Canvas user id — then tab 6 for
+   the video grades from the sheet. Watch for: a student in both lists
+   (last post wins — take the better grade), a video over 2:00, whether
+   100 cards feels equal to the video in effort. Record findings in
+   history.txt and, if the balance is off, Da Capo's tiers are four
+   lines in Curriculum.spec_for (that is a Da_Capo pass, not this repo).
+
+3. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2,
+   #7 and #8 as "not recorded in —OER docs" and HW #1's exact due date
+   and HW #6's graded-status as unknown. One line each from the Canvas
+   assignments list closes them. No agent work.
+
+4. FUTURE MULTI-APP ASSIGNMENTS land here as hw<N>_<slug>.txt with a
+   roster row, following hw3_perfect_4ths.txt's shape exactly. If one
+   needs a NEW hub capability (the way HW #3 needed two submission
+   types), the hub change is a Grading_Hub pass launched from —OER
+   (both repos reachable), the way Pass 24 ran — write "THIS TOUCHES
+   TWO REPOS, start from —OER" into the queued item, per —OER/docs/
+   project_state.txt Pass 23's recommendation.
+   Model: sonnet | Effort: medium for a text-only assignment; opus if
+   the hub needs code.
