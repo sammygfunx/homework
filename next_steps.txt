@@ -38,6 +38,100 @@ Ranked high -> low.
    history.txt and, if the balance is off, Da Capo's tiers are four
    lines in Curriculum.spec_for (that is a Da_Capo pass, not this repo).
 
+2. HW #4 — CHORD PROGRESSIONS (video OR Progression Pond) — PLANNING PASS
+   FIRST. Queued 2026-09-15 (Sam). Launch from —OER (touches —Homework,
+   Grading_Hub, Progression_Pond, Brains). Model: opus | Effort: high
+   (planning + docs + queued prompts, NO game code; the build passes it
+   designs are Fable/Opus and it says which). The prompt is the block
+   below, verbatim:
+
+   ---8<--- PROMPT ---8<---
+   This is a PLANNING pass in Sam Gingher's OER (ECU MUSC 1105, Fall
+   2026). Working directory /Volumes/SSG (2025)/—OER; every —Apps/ and
+   —Games/ and —Homework/ folder is its own git repo with its own remote.
+   Read, in order: docs/conversation_starter.txt, docs/project_state.txt
+   (at least the PASS 24 and PASS 23 writeups), docs/next_steps.txt;
+   then IN FULL: —Homework/conversation_starter.txt + —Homework/
+   hw3_perfect_4ths.txt (the template this assignment copies), —Apps/
+   Grading_Hub/conversation_starter.txt, —Games/Progression_Pond/
+   conversation_starter.txt + project_state.txt + next_steps.txt, and
+   —Games/Da_Capo/conversation_starter.txt (prior art: how a game grew a
+   HOMEWORK menu, a per-course KTS1 code, and a hub rubric — THREADS
+   11-13 in its next_steps.txt). Also read —Apps/Brains/
+   shared_music_game_foundation/modules/score_report/INTEGRATION.txt —
+   the shared KTS1 code module every graded app vendors.
+
+   THE ASK. HW #4, an either/or assignment shaped exactly like HW #3:
+     OPTION A — a video: the student plays THREE chord progressions —
+       I V6 I,  I IV6/4 I,  I V6/5 I — in THREE key areas, C, F and G
+       major (nine progressions), hands together, carefully, with
+       correct fingering, uploaded as a file.
+     OPTION B — play Progression Pond (—Games/Progression_Pond, live at
+       https://progression-pond.netlify.app, UNLISTED on gingherstudios
+       by Sam's decision) and paste a KTS1 code.
+   One Canvas assignment accepting text entry + file upload
+   (Grading_Hub tab 5's "Also accept" row, built Pass 24). Content
+   file: —Homework/hw4_chord_progressions.txt, five-section shape,
+   real-HTML description, plus a row in —Homework/docs/roster.txt.
+   Due date and per-option grading scale are Sam's — [FILL IN], never
+   guessed. These are students meeting these progressions for the
+   FIRST TIME; pedagogy first (—OER working agreement: ~15 min/day on
+   screens, the rest at the piano).
+
+   WHAT IS TRUE TODAY, so you plan against reality: Progression Pond
+   has keys C/G/F and a "crossing" challenge of I-IV64-I-V65-I (data/
+   challenges.json, five challenges total) but NO I-V6-I anywhere; NO
+   KTS1 / ScoreReport / GET CODE path at all (Brains' registry has
+   "catacombs" and "dacapo" but no pond entry); NO HOMEWORK menu; four
+   passes total, last 2026-08-30, playtest #4 still open (its next_steps
+   item 1); a 25-key limitation documented in its README. MIDI carries
+   no finger data, so NO game can verify fingering — Option A is the
+   only place fingering is graded; say so plainly in the plan.
+
+   DELIVERABLES OF THIS PASS (docs + queued prompts only — do not write
+   game code, do not touch Brains' registry, do not create anything in
+   Canvas):
+   1. —Games/Progression_Pond/docs/hw4_design.txt: the game-side
+      design. What "HOMEWORK" means in this game (a title-screen item
+      onto a curated list, like Da Capo's Curriculum.HOMEWORK_COURSES,
+      or something better suited to a pond adventure — argue it); the
+      dedicated levels/creatures/interactions that TEACH then DRILL
+      I-V6-I, I-IV64-I, I-V65-I in C, F and G (reuse the Crossing
+      signature mode and the hybrid direction project_state.txt
+      argues for; new creatures only where a mechanic needs one); what
+      "done" means for credit (a threshold the game owns and ships as
+      ONE verdict row, like Da Capo's "goal", so the hub rubric is one
+      threshold column); the KTS1 integration (ScoreReport vendored,
+      a "pond" registry entry in Brains re-copied to Grading_Hub, a
+      ResultCode-style encoder, a GET CODE screen with name/ID entry —
+      mirror Da Capo's, cite its files); and the SPLIT INTO PASSES with
+      model + effort per pass (Fable for the level/creature build,
+      Opus for the code-path + hub wiring; say what each pass must
+      verify — headless suites, screenshots eyeballed, web export
+      driven, deploy + hash-verify, and Sam's playtest gate before any
+      Canvas assignment points at it).
+   2. —Games/Progression_Pond/next_steps.txt: the queued passes as
+      ready-to-paste prompts, ranked, each saying which repos it
+      touches and "launch from —OER" where it spans repos.
+   3. —Apps/Grading_Hub/next_steps.txt: one queued item for the
+      registry re-copy + rubrics/pond_hw4.rubric.json + a pinning test
+      (shape of _test_dacapo_p4ths_rubric).
+   4. —Homework/hw4_chord_progressions.txt: a DRAFT with Option A
+      written fully (Sam's wording: three progressions, three keys,
+      hands together, careful, correct fingering; flag every ambiguity
+      — tempo? one take or nine clips? metronome? time cap? order of
+      keys? — in section 5 as questions, do not resolve them) and
+      Option B as a placeholder that names what the game will provide
+      once built. Roster row, status "planned".
+   5. A short "WHAT HAPPENED" entry in —OER/docs/project_state.txt and
+      an Updated line in —OER/docs/next_steps.txt.
+   Update the four docs in every repo you touched, commit with a real
+   message ending in the Co-Authored-By line the recent commits use,
+   and push every repo (all four have remotes). End with a plain
+   report: the recommended pass sequence with models/efforts, the open
+   questions for Sam, and what you deliberately did not decide.
+   ---8<--- END PROMPT ---8<---
+
 3. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2,
    #7 and #8 as "not recorded in —OER docs" and HW #1's exact due date
    and HW #6's graded-status as unknown. One line each from the Canvas
