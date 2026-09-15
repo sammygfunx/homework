@@ -6,7 +6,9 @@ its ready-to-paste content live, and how far along it is. Update the row
 when a status changes; add a row when a new HW is drafted. This is the
 index — the content itself lives in the file each row points at.
 
-STATUS VALUES   drafted            content file written, nothing in Canvas
+STATUS VALUES   planned            content file exists but part of it
+                                   waits on an app that is not built yet
+                drafted            content file written, nothing in Canvas
                 created in Canvas  assignment exists (published or not)
                 live               published, students can submit
                 graded             grades posted for all four sections
@@ -36,8 +38,9 @@ HW #   TITLE / WHAT IT IS
 
 HW #1  Note Reading and Interval Reading Assessment.
        THIS ONE ABSORBED THE OLD HW #3, #4 AND #5 (Sam, 2026-09-15),
-       which is why the fall numbering skips from #1 to #6 and why the
-       new Perfect 4ths assignment below backfills #3.
+       which is why the fall numbering skipped from #1 to #6 and why
+       the new Perfect 4ths and Chord Progressions assignments below
+       backfill #3 and #4.
        Portato_Web READING DIAGNOSTIC; text entry (KTS1 code).
        Due: early semester (exact date not recorded in —OER docs; it has
        been graded — see Grading_Hub history 2026-08-25/26).
@@ -73,8 +76,28 @@ HW #3  Perfect 4ths (video OR Da Capo). NEW 2026-09-15, backfills the
          links all settled by Sam 2026-09-15. Ready for the section 4
          click-path (create in Canvas).
 
-HW #4  Absorbed into HW #1 this fall — does not exist as a separate
-       assignment. (Sam, 2026-09-15.)
+HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
+       (same day as HW #3), backfills the second gap left by HW #1.
+       Option A: no app — a video of the student playing I-V6-I,
+         I-IV6/4-I, I-V6/5-I in C, F and G major (nine progressions),
+         hands together, carefully, with correct fingering — the ONLY
+         option where fingering is graded (MIDI carries no finger
+         data); FILE UPLOAD, hand-graded on a scale that is Sam's
+         [FILL IN].
+       Option B: Progression Pond HOMEWORK adventure "THE THREE
+         SPRINGS" (course id "three_springs", recommended, unconfirmed);
+         TEXT ENTRY (KTS1 code). NOT BUILT — Progression_Pond
+         next_steps items 1-4 (design: its docs/hw4_design.txt).
+       One Canvas assignment accepting BOTH types (Grading_Hub item 12).
+       Due: [FILL IN] (Sam). Week 5 (Sep 14-20) is the semester slot;
+         Option B cannot be live that week — hw4 section 5 question 0.
+       Rubric: Grading_Hub/rubrics/pond_hw4.rubric.json (PLANNED,
+         Grading_Hub next_steps item 13; Option B only; Option A is
+         hand-graded into a sheet and posted through tab 6).
+       Content: —Homework/hw4_chord_progressions.txt (this repo).
+       Status: PLANNED — Option A drafted in full with ten open
+         questions in section 5; Option B is a placeholder until the
+         game ships and Sam has played it.
 
 HW #5  Absorbed into HW #1 this fall — does not exist as a separate
        assignment. (Sam, 2026-09-15.)

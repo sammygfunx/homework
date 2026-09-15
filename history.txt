@@ -1,6 +1,64 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
 
+PASS 2 (2026-09-15, Opus 5, PLANNING, launched from —OER; also touched
+Progression_Pond docs and Grading_Hub docs — —OER/docs/project_state.txt
+"PASS 25")
+-----------------------------------------------------------------------
+HW #4 "Chord Progressions (video OR Progression Pond)" planned, not
+built. hw4_chord_progressions.txt drafted: Option A in Sam's words
+(I-V6-I, I-IV6/4-I, I-V6/5-I in C, F, G; hands together; carefully;
+correct fingering; the only option where fingering is graded, because
+MIDI carries no finger data) with TEN open questions in section 5 (0
+timing — Week 5 is now and the game is not built; 1 key order; 2 tempo/
+metronome; 3 takes; 4 time cap; 5 voicings; 6 whose fingering; 7 the
+scale; 8 the game's threshold; 9 the course id; 10 MIDI-only?) left
+unresolved by instruction and marked [FILL IN] in the HTML so it cannot
+be pasted early; Option B as a placeholder naming what the game will
+provide. Roster row HW #4, status PLANNED (a new status value). The
+game-side design went to —Games/Progression_Pond/docs/hw4_design.txt
+and its next_steps items 1-4; the hub half to Grading_Hub next_steps
+item 13. The planning prompt that ran, archived from next_steps item 2:
+
+   ---8<--- PROMPT (2026-09-15, ran as Pass 25) ---8<---
+   This is a PLANNING pass in Sam Gingher's OER (ECU MUSC 1105, Fall
+   2026). Working directory /Volumes/SSG (2025)/—OER; every —Apps/ and
+   —Games/ and —Homework/ folder is its own git repo with its own remote.
+   Read, in order: docs/conversation_starter.txt, docs/project_state.txt
+   (at least the PASS 24 and PASS 23 writeups), docs/next_steps.txt;
+   then IN FULL: —Homework/conversation_starter.txt + —Homework/
+   hw3_perfect_4ths.txt (the template this assignment copies), —Apps/
+   Grading_Hub/conversation_starter.txt, —Games/Progression_Pond/
+   conversation_starter.txt + project_state.txt + next_steps.txt, and
+   —Games/Da_Capo/conversation_starter.txt (prior art: how a game grew a
+   HOMEWORK menu, a per-course KTS1 code, and a hub rubric — THREADS
+   11-13 in its next_steps.txt). Also read —Apps/Brains/
+   shared_music_game_foundation/modules/score_report/INTEGRATION.txt —
+   the shared KTS1 code module every graded app vendors.
+   THE ASK. HW #4, an either/or assignment shaped exactly like HW #3:
+   OPTION A — a video: the student plays THREE chord progressions — I V6
+   I, I IV6/4 I, I V6/5 I — in THREE key areas, C, F and G major (nine
+   progressions), hands together, carefully, with correct fingering,
+   uploaded as a file. OPTION B — play Progression Pond and paste a KTS1
+   code. One Canvas assignment accepting text entry + file upload.
+   Content file: —Homework/hw4_chord_progressions.txt, five-section
+   shape, real-HTML description, plus a row in docs/roster.txt. Due date
+   and per-option grading scale are Sam's — [FILL IN], never guessed.
+   Pedagogy first. WHAT IS TRUE TODAY: Pond has keys C/G/F and a
+   "crossing" of I-IV64-I-V65-I but NO I-V6-I; NO KTS1 / ScoreReport /
+   GET CODE path; NO HOMEWORK menu; four passes, last 2026-08-30,
+   playtest #4 open; a 25-key limitation. MIDI carries no finger data —
+   say so plainly. DELIVERABLES (docs + queued prompts only): 1 Pond
+   docs/hw4_design.txt (HOMEWORK meaning, levels that TEACH then DRILL,
+   "done", KTS1 integration mirroring Da Capo, split into passes with
+   model + effort + what each verifies); 2 Pond next_steps.txt prompts;
+   3 Grading_Hub next_steps item (registry re-copy + pond_hw4 rubric +
+   pinning test); 4 hw4_chord_progressions.txt DRAFT (Option A full,
+   ambiguities as questions, Option B placeholder), roster row
+   "planned"; 5 —OER project_state entry + next_steps Updated line.
+   Update the four docs in every repo touched, commit, push all four.
+   ---8<--- END PROMPT ---8<---
+
 PASS 1 (2026-09-15, Opus 5, launched from —OER; also touched Grading_Hub
 and Da_Capo — recorded there and in —OER/docs/project_state.txt "PASS 24")
 -----------------------------------------------------------------------

@@ -34,6 +34,12 @@ It is text only: no Godot project, no build, no deploy. It holds
 Created 2026-09-15 (Pass 24, launched from —OER since it touched
 Grading_Hub + Da_Capo + this new folder). First resident:
 hw3_perfect_4ths.txt — HW #3, "Perfect 4ths (video OR Da Capo)".
+Second resident, same day (Pass 25, planning): hw4_chord_progressions
+.txt — HW #4, "Chord Progressions (video OR Progression Pond)", status
+PLANNED: Option A (nine progressions, hands together, fingering graded)
+is drafted with ten open questions in its section 5; Option B waits on
+Progression Pond's homework mode (—Games/Progression_Pond/docs/
+hw4_design.txt + its next_steps items 1-4).
 
 HOW IT RELATES TO THE REST OF THE OER
 -------------------------------------
@@ -68,7 +74,11 @@ next_steps.txt item 1c — HW #3 is fully drafted (due Fri 2026-09-18
 18:00, links in, choreography settled); what remains is Sam's section 4
 click-path in Grading_Hub tab 5 (with "Also accept: file upload"
 ticked), then the in-Canvas check that both submission types are on.
-No agent work is queued until that lands.
+THEN item 2 — HW #4: Sam answers hw4_chord_progressions.txt section 5's
+ten questions (question 0 first: video-only now, or wait for the game);
+the game build runs from Progression_Pond's next_steps; Option B's text
+is written from the shipped screens by its item 4 (launched from —OER,
+touches this repo).
 
 Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status

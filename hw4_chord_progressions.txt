@@ -1,0 +1,401 @@
+===========================================================
+HW #4 — CHORD PROGRESSIONS (video OR Progression Pond) — CANVAS ASSIGNMENT
+One assignment, two ways to earn it. DRAFT written 2026-09-15 (Pass 25,
+launched from —OER). STATUS: PLANNED — Option A is written in full with
+its open questions listed in section 5; Option B is a PLACEHOLDER until
+the game's homework mode is built and played (Progression_Pond
+next_steps items 1-4). Due date and grading scale are [FILL IN] — Sam's.
+Progression Pond course id for Option B (recommended, unconfirmed):
+"three_springs".
+===========================================================
+
+WHAT THIS FILE IS
+  Everything for HW #4, in the same five-section shape as
+  hw3_perfect_4ths.txt (the template this copies):
+    section 1  the Canvas assignment (title + description, real HTML)
+    section 2  the ninety-second version to say in class
+    section 3  the message to students
+    section 4  Sam's click-path in Grading_Hub before the first student
+               sits it — the same "Also accept" step HW #3 uses
+    section 5  thread notes — the OPEN QUESTIONS on Option A's
+               choreography (not resolved here, by instruction), what
+               the game will and will not certify, and what is true
+               about this assignment that does NOT belong in front of
+               students
+
+  WHY THE NUMBER IS #4. This fall's HW #1 absorbed the content that used
+  to be HW #3, #4 and #5. HW #3 (Perfect 4ths) backfilled #3 on
+  2026-09-15; this assignment backfills #4 the same day. See
+  docs/roster.txt.
+
+  WHY THIS FILE LIVES HERE. Option A is not an app — a student, a piano
+  and a phone camera. Option B is Progression Pond (—OER/—Games/
+  Progression_Pond, live at https://progression-pond.netlify.app,
+  UNLISTED on gingherstudios.com by Sam's decision). An assignment that
+  spans "no app" and one game belongs in —Homework/, like HW #3.
+
+  WHERE THIS SITS IN THE SEMESTER. docs/semester_hw_plan.txt Week 5:
+  "Trad: I-V6-I, I-IV64-I, I-V65-I progressions." Week 5 is Sep 14-20,
+  2026. Students are meeting these progressions for the FIRST TIME.
+
+THE TWO FACTS EVERYTHING HANGS ON
+  OPTION A  NINE PROGRESSIONS, HANDS TOGETHER, CAREFULLY, WITH CORRECT
+            FINGERING — Sam's words (2026-09-15). Three progressions
+              I  V6  I        I  IV6/4  I        I  V6/5  I
+            in three key areas, C major, F major and G major. Uploaded
+            as a video FILE. This is the ONLY option where FINGERING
+            and HANDS are graded — MIDI carries neither (section 5).
+  OPTION B  A Progression Pond KTS1 code from its HOMEWORK adventure
+            "THE THREE SPRINGS" (course id "three_springs" — once the
+            Grading_Hub rubric names it, it is frozen; a renamed course
+            silently stops matching and every code grades as unmatched,
+            the Da Capo rule). NOT BUILT YET (2026-09-15). What it will
+            certify: the correct chord, in the correct inversion (bass
+            note), played together, in order, in all three keys. What
+            it cannot: fingering, which hand.
+
+CANVAS SETTINGS
+  Submission Type: Online -> BOTH "Text Entry" AND "File Uploads"
+    (Grading_Hub tab 5: dropdown "Online — text entry", then tick
+    "Also accept: Online — file upload" — item 12, built for HW #3).
+    A student who pastes a code is Option B; a student who uploads a
+    file is Option A. Canvas does not force one-or-the-other; the
+    description says ONE is counted.
+  Points: 100   (Option B's rubric is one threshold column worth 100;
+    Option A is hand-graded out of 100 on a scale that is [FILL IN] —
+    section 5, question 7)
+  Attempts: unlimited — a later, better run or a re-recorded video
+  Due: [FILL IN] (Sam). The hub sends the Eastern wall-clock time as
+    UTC; confirm the pair in Preview. Module = the week that holds the
+    due date (AssignmentCreate.WEEK_UNLOCK_UTC / WEEK_DUE_UTC).
+    SEE SECTION 5, QUESTION 0: Option B cannot be live in Week 5.
+  NO AVAILABILITY WINDOW, same reasoning as HW #3: not sat in class,
+    one due date across all four sections, stays open.
+  ALLOWED FILE TYPES: the hub does not set Canvas's "restrict upload
+    file types" field. Leave it unrestricted (.mp4, .mov, .m4v, .webm)
+    or restrict by hand in Canvas after creation — section 4.
+  ASSIGNMENT GROUP / MODULE PLACEMENT: NOT SETTLED HERE — Sam types the
+    group name and module prefix into tab 5 (Grading_Hub/
+    canvas_assignment_creation.txt Q1/Q2).
+  PLAY-ALONG / DEMO VIDEO for these progressions: [FILL IN — is there
+    one on the class playlist, as there was for the P4 drill?] If yes,
+    embed it as link text the way HW #3 does.
+  LAB HOURS: [FILL IN for the due-date week] — Room 269 keyboards are
+    full-size and MIDI-capable (cables provided); HW #3's paragraph is
+    the template.
+
+
+===========================================================
+1. THE CANVAS ASSIGNMENT
+===========================================================
+
+------------------------------ TITLE ------------------------------
+HW #4 — Chord Progressions (video OR Progression Pond)
+
+--------------------------- DESCRIPTION ---------------------------
+(Paste everything between the two ===HTML=== lines into Grading_Hub tab
+5's Description box — the hub passes HTML through untouched. Every
+[FILL IN] below is a decision only Sam can make; the description MUST
+NOT be pasted while one remains. Option B's block is a placeholder and
+is replaced wholesale by Progression_Pond next_steps item 4 (Pass C)
+from the shipped screens.)
+
+===HTML===
+<h3>Choose ONE option and submit ONLY ONE. Either option earns full credit for HW #4.</h3>
+<p>You may do both for extra practice if you like, but only one submission is counted. Pick the one you want graded and submit that.</p>
+
+<h4>Option A &mdash; Record a video: three chord progressions in three keys, hands together</h4>
+<p>Record a video of yourself at the piano playing these <strong>three chord progressions</strong>:</p>
+<ul>
+  <li><strong>I &ndash; V<sup>6</sup> &ndash; I</strong></li>
+  <li><strong>I &ndash; IV<sup>6</sup><sub>4</sub> &ndash; I</strong></li>
+  <li><strong>I &ndash; V<sup>6</sup><sub>5</sub> &ndash; I</strong></li>
+</ul>
+<p>in each of <strong>three key areas: C major, F major and G major</strong> &mdash; nine progressions in all. Play each one <strong>hands together</strong>, <strong>carefully</strong>, and <strong>with the correct fingering</strong>. This is the one assignment this week where your fingering is graded, so take the time to get it right: the point is the hand shape and the voice leading, not speed.</p>
+<ul>
+  <li>Play all three progressions in one key before moving to the next key. [FILL IN: key order &mdash; C, F, G, or any order?]</li>
+  <li>[FILL IN: tempo / metronome &mdash; a set tempo with an audible metronome, or "carefully, at your own steady pace"?]</li>
+  <li>[FILL IN: one continuous take, or up to nine separate clips / a single file with pauses allowed?]</li>
+  <li>[FILL IN: time cap &mdash; is there a maximum length, as HW #3 had?]</li>
+  <li>Your hands and the keyboard need to be clearly on the recording, from an angle where your fingers can be seen. A phone propped on the music stand is fine.</li>
+</ul>
+<p><strong>How Option A is graded:</strong> [FILL IN: the scale &mdash; accuracy of the chords and inversions, hands together, fingering, each out of what?] Fingering counts in this option and nowhere else.</p>
+<p><strong>To submit Option A:</strong> use the <strong>File Upload</strong> tab below and upload the video file itself (.mp4 or .mov from a phone is fine). Do not paste a link to a cloud drive; upload the file.</p>
+
+<h4>Option B &mdash; Play Progression Pond: THE THREE SPRINGS</h4>
+<p>[PLACEHOLDER &mdash; NOT AVAILABLE YET. This block is rewritten from the finished game by Progression_Pond next_steps item 4. What it will say, so the shape is known now:]</p>
+<p>Play Progression Pond's homework adventure, <strong>THE THREE SPRINGS</strong>: <a href="https://progression-pond.netlify.app">https://progression-pond.netlify.app</a></p>
+<p>You are a frog leading the pond's silenced springs back to song. Each spring is a short crossing whose lily pads only grow when you play the right chord: the first spring is <strong>I &ndash; V<sup>6</sup> &ndash; I</strong>, the second <strong>I &ndash; IV<sup>6</sup><sub>4</sub> &ndash; I</strong>, the third <strong>I &ndash; V<sup>6</sup><sub>5</sub> &ndash; I</strong>. You cross all three springs in <strong>C major</strong> with the keys lit up to show you, cross back in <strong>F major</strong> with only the bass note named, and cross once more in <strong>G major</strong> from the Roman numerals alone &mdash; the same nine progressions as the video, taught first and then drilled.</p>
+<ol>
+  <li>On the title screen choose <strong>HOMEWORK</strong>.</li>
+  <li>Select <strong>THE THREE SPRINGS</strong>.</li>
+</ol>
+<p><strong>You have full credit when</strong> [the game's own verdict line &mdash; recommended: all nine spring crossings are cleared; Sam confirms after playing]. The game keeps count: GET CODE tells you whether you have earned credit yet and, if not, exactly how many springs you still need.</p>
+<p><strong>What the game checks, and what it cannot.</strong> The game hears your MIDI keyboard: it checks that you played the right chord, in the right inversion (the right note on the bottom), with the notes together, in every key. It cannot see your fingers or which hand you used, so play hands together the way we do in class &mdash; the game will show you the bass note an octave below the chord &mdash; but know that fingering is only graded in the video option.</p>
+<p><strong>You need a MIDI keyboard for this option</strong> (Chrome or Edge on a laptop or desktop; Safari and iPads have no Web MIDI). The Room 269 keyboards plug in as MIDI controllers during lab hours (cables provided). The computer keyboard and the on-screen piano work for exploring, but a chord progression wants real keys under your hands. [25-key boards: turn the control zone off in the Tab panel and steer with the arrow keys, or play with both hands above the lowest octave &mdash; wording from the shipped README.]</p>
+<p><strong>Coming back to a run:</strong> your progress is saved in that browser, on that computer. Use the SAME browser on the SAME computer every time; when you come back, choose HOMEWORK, then <strong>CONTINUE</strong>.</p>
+<p><strong>To submit Option B:</strong> press GET CODE (from the HOMEWORK screen, or at the end), type your first name, last name and school ID once, then COPY CODE and paste it into the <strong>Text Entry</strong> tab below.</p>
+<ul>
+  <li>Use the school ID your gradebook knows you by.</li>
+  <li>Paste ONLY the code &mdash; nothing typed after it in the same submission.</li>
+  <li>Paste ALL of it, from KTS1 to the very last letter.</li>
+</ul>
+
+<h4>Due [FILL IN].</h4>
+<h4>Lab hours (Room 269)</h4>
+<p>[FILL IN for the due-date week &mdash; HW #3's paragraph is the template. Every keyboard in Room 269 is full-size and plugs into a computer as a MIDI keyboard for Progression Pond (cables provided).]</p>
+
+<h4>Which option should I pick?</h4>
+<p>Pick the video if you want your fingering and hand shape checked &mdash; that only happens here. Pick Progression Pond if you would rather drill the chords with the game watching your notes. They are worth the same. <strong>Submit one.</strong></p>
+===HTML===
+-------------------------------------------------------------------
+
+
+===========================================================
+2. WHAT TO SAY IN CLASS (about ninety seconds) — DRAFT, Option B TBD
+===========================================================
+
+"HW #4 is the three progressions we started this week, and you get to
+pick how you do it. Submit ONE.
+
+Option A: make a video. I-V6-I, I-IV6/4-I, I-V6/5-I, each one in C, F
+and G -- nine progressions. Hands together, carefully, correct
+fingering. This is the one place I grade your fingering, so I need to
+see your hands. [FILL IN: tempo / takes / cap.] Upload the video file
+to Canvas.
+
+Option B: Progression Pond, the frog game. [PLACEHOLDER until built:]
+HOMEWORK, then THE THREE SPRINGS. Three springs, one progression each;
+you cross them in C with the keys lit, back in F with just the bass
+named, and again in G from the numerals. The game hears your chords and
+inversions but it cannot see your fingers -- if you want fingering
+checked, do the video. You need a MIDI keyboard for this one, Chrome or
+Edge, laptop or desktop; the 269 keyboards plug right in. GET CODE,
+name and ID, copy, paste the whole thing into the text box.
+
+Video goes in the file-upload tab, code goes in the text-entry tab. Due
+[FILL IN]. Same assignment, same grade. Do one."
+
+
+===========================================================
+3. THE MESSAGE TO STUDENTS (Sam sends this) — DRAFT
+===========================================================
+
+Subject: HW #4 -- Chord Progressions, two ways to do it (submit ONE)
+
+HW #4 is on Canvas: "HW #4 -- Chord Progressions (video OR Progression
+Pond)". Pick ONE and submit only that one.
+
+OPTION A -- a video of you at the piano playing I-V6-I, I-IV6/4-I and
+I-V6/5-I in C major, F major and G major (nine progressions), hands
+together, carefully, with correct fingering -- your hands must be
+visible. [FILL IN: tempo / takes / cap.] Upload the video file itself
+in the File Upload tab. This is the only option where fingering is
+graded.
+
+OPTION B -- Progression Pond's homework adventure, THE THREE SPRINGS
+[PLACEHOLDER until built]:
+  https://progression-pond.netlify.app
+HOMEWORK, then THE THREE SPRINGS. The same nine progressions: crossed in
+C with the keys shown, in F with the bass named, in G from the numerals.
+You need a MIDI keyboard (Chrome/Edge, laptop or desktop -- not a phone
+or iPad); the Room 269 keyboards plug in. The game checks your chords
+and inversions, not your fingers. Paste the whole code into the Text
+Entry tab.
+
+Same grade either way. Due [FILL IN].
+
+
+===========================================================
+4. BEFORE THE FIRST STUDENT SITS IT (Sam's click-path)
+===========================================================
+
+  BLOCKED UNTIL: every [FILL IN] in section 1 is resolved, AND (for
+  Option B) Progression_Pond next_steps items 1-4 have shipped and Sam
+  has played THE THREE SPRINGS on the live site (its item 3). If HW #4
+  must go out before that, see section 5 question 0 (video-only first).
+
+  [ ] TAKE OPTION B YOURSELF, ON THE LIVE SITE, and decode your own
+      code. https://progression-pond.netlify.app in Chrome with a MIDI
+      keyboard. HOMEWORK -> THE THREE SPRINGS. Cross at least one
+      spring, GET CODE, COPY CODE. Close the tab, reopen, HOMEWORK ->
+      CONTINUE picks the run back up -- browser clipboard and IndexedDB
+      persistence are part of what this assignment depends on and a
+      local run proves neither. (Same gate HW #3 sat Da Capo through.)
+  [ ] Grading_Hub -> tab 3 -> load rubrics/pond_hw4.rubric.json (written
+      by Progression_Pond item 2 / Grading_Hub item 13) and confirm your
+      own code grades as the verdict said (100 if the goal line said
+      FULL CREDIT). LOAD IT ALONE -- Grading_Hub/README.txt's ONE RUBRIC
+      PER GRADE rule.
+  [ ] Grading_Hub -> tab 5 "Create Assignments" -> create it in all four
+      sections. Follow canvas_assignment_creation.txt's walkthrough; the
+      values that differ from the Steps and Skips example are:
+        Sections     the four "label,course_id" lines, as always
+        Title        HW #4 — Chord Progressions (video OR Progression Pond)
+                     (copy from section 1 so the em dash is real; this
+                     string is the re-run match key)
+        Points       100
+        Submission   Online — text entry            <- the dropdown
+        Also accept  TICK "Online — file upload"    <- item 12's row
+                     (leave "website URL" and "text entry" unticked)
+        Group        <the exact group heading -- copy-paste, see Q1>
+        Module       Week N   (the week holding the due date)
+        Available from   blank
+        Due          [FILL IN] (Eastern; Preview must show the matching
+                     UTC beside it)
+        Until        blank
+        Description  the HTML block from section 1, between the
+                     ===HTML=== lines, with NO [FILL IN] left in it
+        Publish immediately   unticked for the rehearsal run
+      Tick "Enable assignment creation", press Preview, and CHECK the
+      Submission line reads exactly
+          Submission   Online — text entry + Online — file upload
+      Then Create.
+  [ ] OPEN THE ASSIGNMENT IN CANVAS AS A TEACHER and confirm the
+      Submission Type box says "Online" with BOTH "Text Entry" and "File
+      Uploads" checked. (If HW #3's creation already proved the two-type
+      request against real Canvas, this is a glance; if not, this is
+      the first proof -- Grading_Hub item 12a.) Optionally "Restrict
+      Upload File Types": mp4,mov,m4v,webm.
+  [ ] Student View: confirm the submission box offers BOTH a Text Entry
+      tab and a File Upload tab.
+  [ ] Publish.
+
+  GRADING IT, after the due date -- two paths into ONE gradebook column,
+  HW #3's procedure verbatim:
+  [ ] CODES (Option B): Grading_Hub tab 1, Batch pull with
+      pond_hw4.rubric.json loaded ALONE -> one CSV per section, or tab 4
+      Batch Post. The report's per-section line prints
+          N file upload(s), no code — hand-grade these, post via tab 6
+      -- that is the Option A list, by Canvas user id.
+  [ ] VIDEOS (Option A): watch each one in SpeedGrader. Grade on the
+      scale from section 5 question 7. Enter each grade in the grading
+      sheet (the tab 6 shape: "MUSC 1105 (001)" marker rows, a "Canvas
+      ID" column, a "TOTAL" column), video students ONLY, then
+      Grading_Hub tab 6 "Post External Grades". Last post wins for a
+      student in both lists -- take the better one (HW #3 section 5's
+      reasoning applies unchanged).
+
+  NOTHING IN THIS FILE CHANGES THE GAME. The credit threshold lives in
+  Progression_Pond's ResultCode (GOAL_CROSSINGS_BY_COURSE), the course id
+  in its data/homework.json, and both are decided there, not here.
+
+
+===========================================================
+5. THREAD NOTES — true, but NOT for the assignment text
+===========================================================
+
+OPEN QUESTIONS FOR SAM — NOT RESOLVED HERE, by instruction. Each is a
+one-line edit to section 1 once answered. Numbered so an answer can
+name them, as HW #3's six were.
+
+  0. TIMING. Week 5 (Sep 14-20) is the semester slot for these
+     progressions and it is now. Option B cannot be live this week: the
+     game needs Progression_Pond items 1 and 2 built, your playtest
+     (item 3), and item 4. Two honest paths: (a) run those passes this
+     week and set the due date after the playtest; (b) create HW #4
+     VIDEO-ONLY now and add Option B later by re-running tab 5 with the
+     SAME TITLE — the hub's update path re-sends the description and
+     the submission-type set (AssignmentCreate.update_request), so the
+     assignment keeps its id and any submissions; re-enter every other
+     field identically or they are overwritten too. Which?
+  1. KEY ORDER. All three progressions in C, then F, then G (the game's
+     order)? Or any order the student likes? Or each progression in all
+     three keys before the next progression?
+  2. TEMPO AND METRONOME. HW #3 required an audible metronome at
+     quarter = 60. Here "carefully" suggests no set tempo. Is a
+     metronome required, recommended, or not mentioned? If required, at
+     what tempo, and how many beats per chord?
+  3. ONE TAKE OR NINE CLIPS. One continuous video? A single file with
+     pauses between keys allowed? Up to nine separate uploads (Canvas
+     allows multiple files in one submission, but SpeedGrader shows
+     them one at a time)? HW #3 said "one take, if you stumble, stop
+     and record again" — does that carry over?
+  4. TIME CAP. HW #3 had a hard under-2-minutes rule. Is there a cap
+     here? (Nine progressions at a careful pace with pauses is roughly
+     2-4 minutes.)
+  5. VOICINGS. In class, is V6 played as B-D-G (RH) over B (LH), IV6/4
+     as C-F-A over C, V6/5 as the three-note B-F-G over B (the shape
+     Progression Pond's judge accepts via allow_omit_fifth) or the full
+     four-note B-D-F-G? Does a student who plays a full four-note V6/5
+     get the same credit as three-note? (The game accepts both; the
+     video rubric should say.)
+  6. FINGERING — WHOSE. "Correct fingering" = the fingering on the
+     class handout / in the coursepack chapter? Point to it by name in
+     the description so "correct" is defined. Is there a play-along or
+     demo video on the class playlist for these progressions (as there
+     was for the P4 drill)?
+  7. THE GRADING SCALE for Option A, out of 100. HW #3 was "on
+     accuracy". Here three things are named — hands together,
+     carefully, correct fingering — plus chord/inversion correctness.
+     Equal weight? Per-progression (nine x ~11)? A wrong chord vs. a
+     wrong finger? A video that omits a key? Whatever the scale, the
+     sheet's TOTAL column takes any number; the description should say
+     what counts.
+  8. OPTION B's THRESHOLD. The design recommends "all nine spring
+     crossings" (the assignment's content, certified). The constant is
+     one line in the game (GOAL_CROSSINGS_BY_COURSE); a lower floor
+     (six = two keys) is available if the playtest says nine is too
+     much for a first contact. Decide after playing, not before.
+  9. OPTION B's COURSE ID. Recommended "three_springs". It becomes a
+     public identifier the moment Grading_Hub's rubric names it
+     (Progression_Pond item 2). Confirm or rename BEFORE that pass.
+ 10. MIDI-ONLY FOR OPTION B? The draft says "you need a MIDI keyboard".
+     The game is fully playable with the computer keyboard and the on-
+     screen piano (letter rows, click-latching), so a student without
+     MIDI at home COULD do it by typing/clicking chords — but that is
+     not playing a progression. HW #3's Da Capo option explicitly
+     allowed the computer keyboard. Allow it here, or steer those
+     students to Room 269 / Option A?
+
+WHAT THE GAME CERTIFIES AND WHAT IT CANNOT — say it plainly, everywhere
+this assignment is described. MIDI carries pitch, velocity and timing;
+it carries NO finger data and NO hand assignment. Progression Pond's
+judge (ChordJudge.gd) checks the sounding pitch-class set, the bass
+note when the challenge requires it (every spring does), whether a
+seventh chord's 5th may be omitted, and a 120 ms settle window for
+"together". It never reads note-off timing, velocity, or which hand.
+So Option B certifies: the correct chord, in the correct inversion,
+played together, in order, in all three keys, with an honest count of
+wrong chords and time. It cannot certify fingering or hands together.
+Option A is the ONLY place fingering is graded, and the description's
+"Which option should I pick?" paragraph says so in the student's
+terms. Full argument: Progression_Pond/docs/hw4_design.txt.
+
+WHAT OPTION B WILL PROVIDE ONCE BUILT (so this placeholder is not a
+guess): a HOMEWORK item on the title screen; an adventure "THE THREE
+SPRINGS" with three 3-lane crossings (I-V6-I, I-IV64-I, I-V65-I),
+crossed northward in C with the keys lit (hint 3), southward in F with
+the bass named (hint 1), northward in G from the numeral alone (hint
+0); a keeper creature on each bank that asks the progression in order
+on land before the timed water crossing; a key-change scene at each
+far bank; checkpoints (game over respawns at the last bank, counters
+kept); a saved run (CONTINUE, same browser same computer); GET CODE
+with first/last/ID and an honest verdict; a KTS1 code with app_id
+"pond", mode = the course id, and a "goal" row the hub grades with ONE
+threshold column (rubrics/pond_hw4.rubric.json). Da Capo's exact shape
+(ResultCode.gd, Menu.gd's CODE screen), cited in the design.
+
+THE 25-KEY CAVEAT, for the Option B text later: on a 25-key board the
+control zone is C3-E3 and in F MAJOR both dominant chords have bass E
+(V6 = C-E-G over E, V6/5 over E) — E3 is the zone's EAST key, so a
+left-hand bass in the low octave is impossible there. Play the bass an
+octave up with the chord above (E4-G4-C5 fits), or turn the zone off in
+the Tab panel and use the arrow keys. Room 269's boards are full-size.
+
+WHAT HAPPENS IF A STUDENT DOES BOTH, and HOW THE TWO GRADING PATHS
+COEXIST: unchanged from hw3_perfect_4ths.txt section 5 (checked in
+code there, 2026-09-15) — file uploads never reach the rubric, the pull
+report lists them by Canvas user id, tab 6 posts only the sheet's rows,
+last post wins per student, take the better one.
+
+THE DOUBLE-CREDIT LEAK does not apply: Progression Pond will have ONE
+rubric that names its mode, and no beat-the-game twin without a mode.
+(If a second Pond assignment ever omits `mode`, HW #3's section 5
+analysis applies.)
+
+WHAT THIS PASS DELIBERATELY DID NOT DECIDE: everything in the ten
+questions above, the due date, Option A's scale, and Option B's final
+wording — which must be written from the SHIPPED screens, not from the
+design, so the on-screen names in the assignment are the ones a student
+actually sees.

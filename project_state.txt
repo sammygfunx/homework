@@ -1,7 +1,8 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-15 (second pass: choreography answers baked in).
+Last updated: 2026-09-15 (Pass 25, planning: hw4_chord_progressions.txt
+drafted, status PLANNED; roster row; no other repo's code touched).
 
 WHAT THIS IS
 ------------
@@ -36,9 +37,40 @@ CONTENTS (2026-09-15)
                          answers. Due Fri 2026-09-18 18:00 Eastern and
                          both video links filled in the same day — no
                          placeholders left.
+  hw4_chord_progressions.txt
+                         HW #4 — Chord Progressions (video OR
+                         Progression Pond). PLANNED (2026-09-15, Pass
+                         25). One assignment, two options for the same
+                         100:
+                           A  a video (file upload): I-V6-I, I-IV6/4-I,
+                              I-V6/5-I in C, F and G major (nine
+                              progressions), hands together, carefully,
+                              correct fingering — Sam's wording, written
+                              in full; tempo / metronome / takes / time
+                              cap / key order / voicings / fingering
+                              source / grading scale are TEN OPEN
+                              QUESTIONS in section 5 (question 0: launch
+                              video-only now or wait for the game),
+                              deliberately unresolved; [FILL IN] markers
+                              in the HTML so it cannot be pasted early.
+                              The ONLY option where fingering is graded.
+                           B  Progression Pond HOMEWORK adventure "THE
+                              THREE SPRINGS", course id "three_springs"
+                              (recommended, unconfirmed), KTS1 code,
+                              rubric pond_hw4.rubric.json — NONE OF IT
+                              BUILT. Section 1 carries a PLACEHOLDER
+                              block naming what the game will provide,
+                              rewritten from the shipped screens by
+                              Progression_Pond next_steps item 4.
+                         Design authority for Option B: —Games/
+                         Progression_Pond/docs/hw4_design.txt. Section
+                         5 states what the game certifies (chord,
+                         inversion, together, all three keys) and what
+                         it cannot (fingering, hands).
   docs/roster.txt        HW #1..#9 as far as —OER's docs record them;
-                         #2/#7/#8 marked "not recorded", #4/#5 marked
-                         absorbed into #1 (Sam), #3 = the new one.
+                         #2/#7/#8 marked "not recorded", #5 marked
+                         absorbed into #1 (Sam), #3 and #4 = the new
+                         ones (#3 drafted, #4 planned).
   LICENSE                CC BY-NC 4.0, same as every other OER project.
   .gitignore             macOS junk + *.csv/*.xlsx (no student data).
 
