@@ -121,7 +121,7 @@ HW #5  The First Three Stars (Orbit). NEW 2026-09-16 — REPLACES the
          night before Quiz 3, whose melodies item this prepares].
        Rubric: Grading_Hub/rubrics/orbit_hw5.rubric.json (to be built in
          Orbit next_steps #0b; one threshold column on "goal").
-       Content: —Games/../—Apps/Orbit/canvas_assignment_hw5.txt (single-
+       Content: —Apps/Orbit/canvas_assignment_hw5.txt (single-
          app convention; to be written in Orbit next_steps #0c).
        Status: PLANNED — design settled (—Apps/Orbit/docs/hw5_design.txt,
          —OER Pass 26); build passes #0a/#0b queued; nothing in Canvas.
