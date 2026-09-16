@@ -39,6 +39,29 @@ there needed changing. docs/roster.txt HW #4 row moved PLANNED ->
 DRAFTED. Due date and Option A's ten open questions remained Sam's at
 the end of this half of the pass.
 
+PASS 3, SAME DAY, SECOND FOLLOW-UP (2026-09-16) — voice pass on
+Option A/B's HTML after Sam created the assignment and read it back
+-----------------------------------------------------------------------
+Sam created HW #4 in Grading_Hub and pushed it to Canvas (not yet
+published), then pasted the rendered text back and flagged two things:
+several sentences had mid-word chunks missing ("sinks ng on at once",
+the "FULL CREDIT EARNED" sentence cut off partway through, several
+more) and the prose read AI-generated to him — too many em dashes, too
+much bold. On the missing chunks: every gap sits mid-sentence with no
+relation to any HTML tag boundary in this file, which points at a
+copy/paste artifact from how Sam read the rendered Canvas page back
+into chat, not a stored-content bug — flagged as such rather than
+silently assumed fixed. On the voice: rewrote the whole description,
+replacing nearly every &mdash; with a period or comma, and cutting
+<strong> down to on-screen button/screen names (File Upload, Website
+URL, HOMEWORK, THE THREE SPRINGS, BEGIN, GET CODE, CONTINUE, START
+OVER, PRACTICE A KEY, Text Entry) plus the two sentences that most need
+to stand out (Option A's grading line, Option B's MIDI-required line),
+not every emphasized phrase. Content unchanged — same facts, same
+choreography, same credit rule — sentences just shorter and plainer.
+Sam pastes this version fresh over what's in Canvas now (not yet
+published, so a straight re-paste is safe).
+
 PASS 3, SAME DAY, FOLLOW-UP (2026-09-16) — every open question answered
 -----------------------------------------------------------------------
 Sam answered section 5's ten questions plus hands-together-or-separate
