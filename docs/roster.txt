@@ -80,27 +80,31 @@ HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
        (same day as HW #3), backfills the second gap left by HW #1.
        Option A: no app — a video of the student playing I-V6-I,
          I-IV6/4-I, I-V6/5-I in C, F and G major (nine progressions),
-         hands together, carefully, with correct fingering — the ONLY
-         option where fingering is graded (MIDI carries no finger
-         data); FILE UPLOAD, hand-graded on a scale that is Sam's
-         [FILL IN].
+         careful, correct fingering, hands together preferred (hands
+         separately OK too) — the ONLY option where fingering is graded
+         (MIDI carries no finger data); FILE UPLOAD or an unlisted
+         YouTube link (WEBSITE URL, NEW this pass), hand-graded on
+         accuracy and fingering (no fixed point breakdown, Sam's call).
        Option B: Progression Pond HOMEWORK adventure "THE THREE
          SPRINGS" (course id "three_springs", CONFIRMED, a public
-         identifier); TEXT ENTRY (KTS1 code). SHIPPED and LIVE (v0.6.9,
-         2026-09-16); full credit needs all nine springs AND the Murk
-         Bullfrog boss beaten (Sam's call after playing it through).
-       One Canvas assignment accepting BOTH types (Grading_Hub item 12).
-       Due: [FILL IN] (Sam). Week 5 (Sep 14-20) is the semester slot;
-         Option B cannot be live that week — hw4 section 5 question 0.
-       Rubric: Grading_Hub/rubrics/pond_hw4.rubric.json (BUILT, 791
+         identifier); TEXT ENTRY (KTS1 code), MIDI REQUIRED. SHIPPED and
+         LIVE (v0.6.9, 2026-09-16); full credit needs all nine springs
+         AND the Murk Bullfrog boss beaten (Sam's call after playing it
+         through).
+       One Canvas assignment accepting ALL THREE types (text entry +
+         file upload + website URL — Grading_Hub item 12, extended this
+         pass for the third type).
+       Due: Fri 2026-09-18, 6:00 PM Eastern (Sam, 2026-09-16 — published
+         same day, a deliberately short window to pull students into the
+         lab or onto their own keyboards this week).
+       Rubric: Grading_Hub/rubrics/pond_hw4.rubric.json (BUILT, 795
          tests; Option B only; Option A is hand-graded into a sheet and
          posted through tab 6).
        Content: —Homework/hw4_chord_progressions.txt (this repo).
-       Status: DRAFTED — Option A drafted in full with open questions
-         (0-7, 10) still in section 5; Option B is now written in full
-         from the shipped, played, live game (Pass C, 2026-09-16). Due
-         date and Option A's scale are the only [FILL IN]s left before
-         section 4's Canvas click-path.
+       Status: DRAFTED, COMPLETE — no [FILL IN] remains anywhere in
+         section 1; every open question in section 5 answered by Sam
+         2026-09-16. Ready for section 4's Canvas click-path (create,
+         publish today).
 
 HW #5  Absorbed into HW #1 this fall — does not exist as a separate
        assignment. (Sam, 2026-09-15.)

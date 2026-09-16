@@ -36,15 +36,18 @@ Grading_Hub + Da_Capo + this new folder). First resident:
 hw3_perfect_4ths.txt — HW #3, "Perfect 4ths (video OR Da Capo)".
 Second resident, same day (Pass 25, planning): hw4_chord_progressions
 .txt — HW #4, "Chord Progressions (video OR Progression Pond)". Status
-DRAFTED (2026-09-16, Pass 3 = PASS C, launched from —OER): Option A
-(nine progressions, hands together, fingering graded) is drafted with
-open questions (1-7, 10) still in its section 5; Option B is now
-written in full from Progression Pond's shipped, live homework mode
-(v0.6.9, —Games/Progression_Pond/docs/hw4_design.txt + course id
-"three_springs", CONFIRMED public identifier), including the credit
-rule Sam set after playing the Murk boss through: full credit needs all
-nine springs AND the boss beaten. Due date and Option A's scale are the
-only remaining [FILL IN]s before Sam's section 4 Canvas click-path.
+DRAFTED, COMPLETE (2026-09-16, Pass 3 = PASS C + Sam's same-day answers,
+launched from —OER): Option A (nine progressions, correct fingering,
+hands together preferred/separate OK, three-note voicings, no
+metronome, one continuous video OR an unlisted YouTube link, vague
+accuracy+fingering grading) and Option B (Progression Pond's shipped,
+live homework mode, v0.6.9, MIDI required, credit needs all nine
+springs AND the Murk boss beaten — course id "three_springs", CONFIRMED
+public identifier) are BOTH written in full. No [FILL IN] remains in
+section 1's HTML. Due Fri 2026-09-18, 6:00 PM Eastern, published same
+day it was finished. Canvas now accepts THREE submission types (text
+entry + file upload + website URL); Grading_Hub's uploads_without_code
+was extended the same pass to catch the new website-URL path.
 
 HOW IT RELATES TO THE REST OF THE OER
 -------------------------------------
@@ -79,10 +82,11 @@ next_steps.txt item 1c — HW #3 is fully drafted (due Fri 2026-09-18
 18:00, links in, choreography settled); what remains is Sam's section 4
 click-path in Grading_Hub tab 5 (with "Also accept: file upload"
 ticked), then the in-Canvas check that both submission types are on.
-THEN item 2 — HW #4: Option B is now written (Pass 3 = PASS C,
-2026-09-16); Sam answers hw4_chord_progressions.txt section 5's
-remaining Option A questions (1-7, 10) and the due date, then section
-4's Canvas click-path.
+THEN item 2 — HW #4 is fully written and ready to paste (Pass 3 = PASS
+C, 2026-09-16, Sam answered every open question the same day); what
+remains is Sam's section 4 click-path: create in all four sections with
+THREE submission types ticked (text entry + file upload + website URL),
+publish today, due Fri 2026-09-18 6:00 PM Eastern.
 
 Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status

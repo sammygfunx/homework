@@ -2,14 +2,25 @@ HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
 Last updated: 2026-09-16 (Pass 3 = PASS C, Sonnet 5, launched from
-—OER: Progression Pond's homework mode is fully shipped, played, and
-LIVE at v0.6.9 — Sam played it again this pass and confirmed the
-balance as shipped, so no fish/pad numbers changed. hw4_chord_
-progressions.txt's Option B block replaced with real text written from
-the shipped screens, including the credit rule requiring the Murk boss;
-roster row PLANNED -> DRAFTED; Grading_Hub/rubrics/pond_hw4.rubric.json
-header comment reworded to say the credit floor is nine springs AND the
-boss, not nine springs alone).
+—OER, two passes the same day). FIRST: Progression Pond's homework mode
+is fully shipped, played, and LIVE at v0.6.9 — Sam played it again and
+confirmed the balance as shipped, so no fish/pad numbers changed.
+hw4_chord_progressions.txt's Option B block replaced with real text
+written from the shipped screens, including the credit rule requiring
+the Murk boss; Grading_Hub/rubrics/pond_hw4.rubric.json header comment
+reworded to say the credit floor is nine springs AND the boss. SECOND,
+same day: Sam answered every remaining open question at once (key
+order, tempo/metronome, takes, time cap, hands together/separate,
+voicings, fingering source, grading scale, MIDI-only for Option B) and
+set the due date (Fri 2026-09-18, 6:00 PM Eastern, published same day).
+Section 1's HTML now has NO [FILL IN] anywhere and is ready to paste.
+Option A also gained a second submission path (an unlisted YouTube link
+via Canvas's Website URL type, alongside File Upload), which required a
+real code fix in Grading_Hub: CanvasPull.uploads_without_code did not
+recognize "online_url" submissions and would have made a URL-only
+student invisible to both the code-decode path and the hand-grade list
+— fixed, 791 -> 795 tests + smoke. Roster row PLANNED -> DRAFTED
+(COMPLETE).
 Before that: 2026-09-15 (Pass 25, planning: hw4_chord_progressions.txt
 drafted, status PLANNED; roster row; no other repo's code touched).
 
@@ -48,10 +59,11 @@ CONTENTS (2026-09-15)
                          placeholders left.
   hw4_chord_progressions.txt
                          HW #4 — Chord Progressions (video OR
-                         Progression Pond). DRAFTED (planned 2026-09-15
-                         Pass 25; Option B written 2026-09-16 Pass 3 =
-                         PASS C). One assignment, two options for the
-                         same 100:
+                         Progression Pond). DRAFTED, COMPLETE (planned
+                         2026-09-15 Pass 25; Option B written and every
+                         remaining question answered 2026-09-16 Pass 3
+                         = PASS C, same day). No [FILL IN] left. One
+                         assignment, two options for the same 100:
                            A  a video (file upload): I-V6-I, I-IV6/4-I,
                               I-V6/5-I in C, F and G major (nine
                               progressions), hands together, carefully,
@@ -95,14 +107,22 @@ CONTENTS (2026-09-15)
 WHAT PASS 3 (2026-09-16, PASS C) CHANGED ELSEWHERE
 ----------------------------------------------------------------------
   Grading_Hub (sammygfunx/grading-hub): rubrics/pond_hw4.rubric.json's
-    header comment reworded only — it described the game's credit floor
+    header comment reworded — it described the game's credit floor
     as "nine springs" alone; now says nine springs AND the Murk boss
     beaten (ResultCode.GOAL_BOSS_BY_COURSE, v0.6.9), matching
     Progression_Pond's own project_state.txt note that this pass should
     reword it. The rubric's functional JSON (one threshold column on
-    "goal", 100 points) did not change — the game owns the floor, the
-    rubric only checks "goal" is 1. Checked —Apps/Brains for a stale
-    "nine springs" note per the same instruction; found none to fix.
+    "goal", 100 points) did not change. Checked —Apps/Brains for a
+    stale "nine springs" note per the same instruction; found none.
+    ALSO a real code fix, from Sam's same-day answers: Option A now
+    accepts an unlisted YouTube link (Canvas "online_url") beside a
+    file upload, and CanvasPull.uploads_without_code only ever
+    recognized "online_upload" — a URL-only student would have looked
+    exactly like one who never submitted. Fixed to also catch
+    "online_url"; a URL submission still shows "0 attachment(s)" in the
+    report (Canvas puts the link in a "url" field parse_submissions
+    never carried) but the student's Canvas user id is now correctly
+    flagged for hand-grading in SpeedGrader. 791 -> 795 tests + smoke.
   Progression_Pond (sammygfunx/progression-pond): no code change this
     pass. Sam played the live v0.6.9 build again and confirmed the
     balance stands as shipped, so no fish/pad tuning numbers were

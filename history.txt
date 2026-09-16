@@ -36,7 +36,57 @@ nine springs AND the boss, game-side, rubric unchanged (still one
 threshold column on "goal"). Checked —Apps/Brains for a stale "nine
 springs" REGISTRY note per the same instruction — found none; nothing
 there needed changing. docs/roster.txt HW #4 row moved PLANNED ->
-DRAFTED. Due date and Option A's ten open questions remain Sam's.
+DRAFTED. Due date and Option A's ten open questions remained Sam's at
+the end of this half of the pass.
+
+PASS 3, SAME DAY, FOLLOW-UP (2026-09-16) — every open question answered
+-----------------------------------------------------------------------
+Sam answered section 5's ten questions plus hands-together-or-separate
+in one message, all at once, and wanted HW #4 published THE SAME DAY,
+due Fri 2026-09-18 6:00 PM Eastern (a deliberately short ~2-day window
+to pull students into the lab or onto their own keyboards this week).
+Rewrote section 1's HTML in full: key order flexible (C/F/G offered as
+the natural order); no metronome, no set tempo, just a steady pulse; one
+continuous video only (no separate clips), submitted as EITHER a file
+upload OR an unlisted YouTube link (NEW — Option A gained a second
+delivery path); no time cap but the video should show real practice;
+hands together preferred, hands separately acceptable (all nine
+progressions once per hand instead of nine hands-together); three-note
+voicings matching Progression Pond's (the 5th omitted on V6/5, not the
+full four-note chord — group piano doesn't play the four-note voicing);
+fingering referenced generically to the class's practice play-along
+videos and handouts (no specific link was given, unlike HW #3's P4
+video); grading scale left deliberately vague — accuracy and fingering,
+no fixed point breakdown, a judgment call, without naming TAs boldly in
+the student-facing text; Option B's MIDI requirement made explicit and
+absolute (no computer-keyboard/on-screen-piano fallback, unlike Da
+Capo's HW #3). Sam also confirmed he'd played through the whole live
+build again and all codes check out, which let section 4's two
+"take a run yourself" checklist items be marked DONE (previously
+resolved only by citing playtest #5).
+THE REAL BUG THIS SURFACED: accepting an unlisted YouTube link as an
+Option A delivery method means Canvas's third submission type,
+"online_url", needed to be added to the "Also accept" ticks. But
+Grading_Hub/scripts/engine/CanvasPull.gd's uploads_without_code
+(built 2026-09-15 for HW #3's file-upload path) only recognized
+submission_type == "online_upload" (or a nonzero attachment count) —
+an online_url submission has NEITHER, so a student who submitted a
+YouTube link would have fallen through BOTH the code-decode path (no
+KTS1 in the body) and the upload-without-code list, and looked
+indistinguishable from a student who never submitted at all. FIXED:
+uploads_without_code now also catches submission_type == "online_url".
+The report still can't show the actual link (Canvas puts a URL
+submission's link in a "url" field parse_submissions never carried,
+so it shows "0 attachment(s)"), but the student's Canvas user id is
+now correctly flagged for Sam to find and hand-grade in SpeedGrader,
+which shows the real link regardless. _test_pull_uploads_without_code
+gained an online_url fixture; 791 -> 795 tests + scene smoke, all
+green. docs/roster.txt HW #4 row: DRAFTED -> DRAFTED, COMPLETE (no
+[FILL IN] anywhere; only Sam's Canvas click-path remains). All four
+—Homework docs, this repo's roster.txt, and Grading_Hub's history.txt/
+conversation_starter.txt/project_state.txt/next_steps.txt updated;
+pushed in both repos (—Homework and Grading_Hub — Progression_Pond
+untouched by this half of the pass).
 
 PASS 2 (2026-09-15, Opus 5, PLANNING, launched from —OER; also touched
 Progression_Pond docs and Grading_Hub docs — —OER/docs/project_state.txt
