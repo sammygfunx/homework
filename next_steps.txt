@@ -19,6 +19,11 @@ separate, voicings, fingering, grading scale) and the due date (Fri
 2026-09-18 6:00 PM Eastern) are ALL answered — section 1's HTML has no
 [FILL IN] left. Item 2a/2c are DONE; item 2d — Sam's Canvas click-path
 — is the only thing left, and Sam wants it live TODAY.)
+Updated: 2026-09-16, evening (—OER Pass 26 — HW #5 "The First Three
+Stars" (Orbit) PLANNED: roster row replaced, retired HW #7 text
+preserved under its row. The build is Orbit next_steps #0a/#0b; the
+assignment file goes in Orbit (single app), and #0c updates this roster
+to DRAFTED. Nothing for this repo to do until then.)
 Ranked high -> low.
 
 1. HW #3 — SAM'S DECISIONS, then the click-path. (Sam, in-app + in

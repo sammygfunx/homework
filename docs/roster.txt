@@ -106,8 +106,25 @@ HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
          2026-09-16. Ready for section 4's Canvas click-path (create,
          publish today).
 
-HW #5  Absorbed into HW #1 this fall — does not exist as a separate
-       assignment. (Sam, 2026-09-15.)
+HW #5  The First Three Stars (Orbit). NEW 2026-09-16 — REPLACES the
+       unpublished Fall 2025 "HW #7: Melody in Scale Degrees" (see HW #7
+       below); the earlier "absorbed into HW #1" note (2026-09-15) is
+       superseded.
+       Orbit only (no video option — Orbit needs no MIDI): drill scale
+         degrees in C, G and F to Orbit's proficiency floor (15 attempts
+         at 75%, the existing key-unlock rule) AND master one Week 5
+         coursepack melody per key (Mary, Itsy Bitsy Spider, Jingle
+         Bells, Vivaldi Spring, Twinkle, Happy Birthday) at the slow
+         tempo tier; TEXT ENTRY (KTS1 code, app "orbit", mode
+         "three_stars").
+       Due: [Sam — suggested Thu 2026-09-24 23:59 Eastern, Week 6, the
+         night before Quiz 3, whose melodies item this prepares].
+       Rubric: Grading_Hub/rubrics/orbit_hw5.rubric.json (to be built in
+         Orbit next_steps #0b; one threshold column on "goal").
+       Content: —Games/../—Apps/Orbit/canvas_assignment_hw5.txt (single-
+         app convention; to be written in Orbit next_steps #0c).
+       Status: PLANNED — design settled (—Apps/Orbit/docs/hw5_design.txt,
+         —OER Pass 26); build passes #0a/#0b queued; nothing in Canvas.
 
 HW #6  The composition (steps and skips), with an opt-in alternative:
        "HW #6 (alternative) — Da Capo: Steps and Skips".
@@ -128,7 +145,35 @@ HW #6  The composition (steps and skips), with an opt-in alternative:
          sections). Graded? — not recorded in —OER docs as of
          2026-09-15; check Canvas.
 
-HW #7  Not recorded in —OER docs. [Sam to fill in.]
+HW #7  Melody in Scale Degrees — RETIRED for Fall 2026 (Sam, 2026-09-16;
+       unpublished in Canvas before any student started; replaced by HW
+       #5 above). Kept here in case a class melody bank comes back later
+       in the semester. The Fall 2025 text, for the record:
+         "HW #7: Melody in Scale Degrees - due Thursday, September 17th
+         by 11:59pm. After working through the Simple Melodies for
+         Harmonization handout, think about a melody you love and would
+         like to contribute to the class. The melody can be from any
+         genre, but try to pick something fun that most would recognize.
+         You could even pick a theme from a popular TV show, movie, or
+         pop song. Alternatively, you could challenge yourself to find a
+         notated melody (perhaps from your current classical/jazz
+         repertoire) and translate the melody notes into scale degrees.
+         You only need to notate scale degrees (numbers) and correct
+         rhythms. Examples will be given in class, and there is space on
+         the 2nd page of the handout to write out your melody, or feel
+         free to use a sheet of paper and scan/upload. To receive full
+         credit, the file you submit should: 1) include your name; 2)
+         include the title of the piece/song the melody comes from; 3)
+         include the artist's name (do not contribute your own original
+         melody); 4) if you transcribed this melody by ear, include a
+         YouTube URL in the submission comments so students can listen
+         and practice along; 5) if you transcribed it from a written
+         score, include a copy of the score used (URL link) in addition
+         to your submission."
+       The Coursepack's four redesign options (Clef Runner melody
+       assignment, a scale-degree hearing game, a class melody bank, a
+       6A/6B-style split) are in —Coursepack/docs/project_state.txt
+       Pass 13, "HOMEWORK 7 ALTERNATIVES".
 
 HW #8  Not recorded in —OER docs. [Sam to fill in.] (Week 8 is the
        midterm per docs/semester_hw_plan.txt — may be no HW.)
