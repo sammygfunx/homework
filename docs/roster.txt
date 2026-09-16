@@ -85,19 +85,22 @@ HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
          data); FILE UPLOAD, hand-graded on a scale that is Sam's
          [FILL IN].
        Option B: Progression Pond HOMEWORK adventure "THE THREE
-         SPRINGS" (course id "three_springs", recommended, unconfirmed);
-         TEXT ENTRY (KTS1 code). NOT BUILT — Progression_Pond
-         next_steps items 1-4 (design: its docs/hw4_design.txt).
+         SPRINGS" (course id "three_springs", CONFIRMED, a public
+         identifier); TEXT ENTRY (KTS1 code). SHIPPED and LIVE (v0.6.9,
+         2026-09-16); full credit needs all nine springs AND the Murk
+         Bullfrog boss beaten (Sam's call after playing it through).
        One Canvas assignment accepting BOTH types (Grading_Hub item 12).
        Due: [FILL IN] (Sam). Week 5 (Sep 14-20) is the semester slot;
          Option B cannot be live that week — hw4 section 5 question 0.
-       Rubric: Grading_Hub/rubrics/pond_hw4.rubric.json (PLANNED,
-         Grading_Hub next_steps item 13; Option B only; Option A is
-         hand-graded into a sheet and posted through tab 6).
+       Rubric: Grading_Hub/rubrics/pond_hw4.rubric.json (BUILT, 791
+         tests; Option B only; Option A is hand-graded into a sheet and
+         posted through tab 6).
        Content: —Homework/hw4_chord_progressions.txt (this repo).
-       Status: PLANNED — Option A drafted in full with ten open
-         questions in section 5; Option B is a placeholder until the
-         game ships and Sam has played it.
+       Status: DRAFTED — Option A drafted in full with open questions
+         (0-7, 10) still in section 5; Option B is now written in full
+         from the shipped, played, live game (Pass C, 2026-09-16). Due
+         date and Option A's scale are the only [FILL IN]s left before
+         section 4's Canvas click-path.
 
 HW #5  Absorbed into HW #1 this fall — does not exist as a separate
        assignment. (Sam, 2026-09-15.)

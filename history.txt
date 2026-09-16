@@ -1,6 +1,43 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
 
+PASS 3 (2026-09-16, Sonnet 5, PASS C, launched from —OER; also touched
+Progression_Pond docs and Grading_Hub/rubrics/pond_hw4.rubric.json)
+-----------------------------------------------------------------------
+Progression_Pond's homework mode shipped and Sam played it through,
+including the Murk boss (v0.6.9, LIVE); Sam played the current live
+build again this pass and confirmed the balance was right as shipped —
+no fish/pad tuning numbers to apply, so no Progression_Pond branch,
+merge or redeploy happened this pass (v0.6.9 stayed the deployed build).
+hw4_chord_progressions.txt's Option B block REPLACED wholesale, written
+from the shipped screens and project_state.txt's CANVAS CODE section:
+the exact on-screen names (HOMEWORK, THE THREE SPRINGS, BEGIN/CONTINUE/
+START OVER/GET CODE/PRACTICE A KEY), the two wrong-chord penalties
+(keeper = a heart, water = the pad underfoot with no heart), GET CODE ->
+name/ID -> COPY CODE -> Text Entry, the MIDI requirement (Chrome/Edge,
+laptop/desktop, 49+ keys recommended, the 25-key F-major bass-E note),
+same-browser-same-computer CONTINUE, and "fingering and hands are
+graded only in the video option." THE CREDIT RULE, the one substantive
+change from the original design: full credit needs the nine springs AND
+the Murk boss beaten (Sam's call after playing the boss, v0.6.9) — the
+assignment text, the in-class script and the student message all say so
+now, not just nine springs. Section 5 questions 8 (threshold) and 9
+(course id) marked RESOLVED. Section 4's click-path: could not literally
+take a live MIDI run myself (no hardware, no browser access this pass),
+so instead of faking one, checked off the two "take a code and confirm
+100" boxes against Sam's own playtest #5 verification (steps 7-10, "ALL
+PASS, no notes", which already covers exactly this: a real code, GET
+CODE, COPY CODE, tab-close/reopen CONTINUE, and 100 in Grading_Hub tab 3
+with pond_hw4.rubric.json loaded alone) rather than re-doing it or
+claiming a run this pass never performed. Grading_Hub/rubrics/
+pond_hw4.rubric.json's header comment reworded (project_state.txt's
+note): it described the credit floor as "nine springs" only; now says
+nine springs AND the boss, game-side, rubric unchanged (still one
+threshold column on "goal"). Checked —Apps/Brains for a stale "nine
+springs" REGISTRY note per the same instruction — found none; nothing
+there needed changing. docs/roster.txt HW #4 row moved PLANNED ->
+DRAFTED. Due date and Option A's ten open questions remain Sam's.
+
 PASS 2 (2026-09-15, Opus 5, PLANNING, launched from —OER; also touched
 Progression_Pond docs and Grading_Hub docs — —OER/docs/project_state.txt
 "PASS 25")

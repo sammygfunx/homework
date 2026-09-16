@@ -1,7 +1,16 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-15 (Pass 25, planning: hw4_chord_progressions.txt
+Last updated: 2026-09-16 (Pass 3 = PASS C, Sonnet 5, launched from
+—OER: Progression Pond's homework mode is fully shipped, played, and
+LIVE at v0.6.9 — Sam played it again this pass and confirmed the
+balance as shipped, so no fish/pad numbers changed. hw4_chord_
+progressions.txt's Option B block replaced with real text written from
+the shipped screens, including the credit rule requiring the Murk boss;
+roster row PLANNED -> DRAFTED; Grading_Hub/rubrics/pond_hw4.rubric.json
+header comment reworded to say the credit floor is nine springs AND the
+boss, not nine springs alone).
+Before that: 2026-09-15 (Pass 25, planning: hw4_chord_progressions.txt
 drafted, status PLANNED; roster row; no other repo's code touched).
 
 WHAT THIS IS
@@ -39,34 +48,43 @@ CONTENTS (2026-09-15)
                          placeholders left.
   hw4_chord_progressions.txt
                          HW #4 — Chord Progressions (video OR
-                         Progression Pond). PLANNED (2026-09-15, Pass
-                         25). One assignment, two options for the same
-                         100:
+                         Progression Pond). DRAFTED (planned 2026-09-15
+                         Pass 25; Option B written 2026-09-16 Pass 3 =
+                         PASS C). One assignment, two options for the
+                         same 100:
                            A  a video (file upload): I-V6-I, I-IV6/4-I,
                               I-V6/5-I in C, F and G major (nine
                               progressions), hands together, carefully,
                               correct fingering — Sam's wording, written
                               in full; tempo / metronome / takes / time
                               cap / key order / voicings / fingering
-                              source / grading scale are TEN OPEN
-                              QUESTIONS in section 5 (question 0: launch
-                              video-only now or wait for the game),
+                              source / grading scale remain OPEN
+                              QUESTIONS in section 5 (1-7, 10),
                               deliberately unresolved; [FILL IN] markers
                               in the HTML so it cannot be pasted early.
                               The ONLY option where fingering is graded.
                            B  Progression Pond HOMEWORK adventure "THE
                               THREE SPRINGS", course id "three_springs"
-                              (recommended, unconfirmed), KTS1 code,
-                              rubric pond_hw4.rubric.json — NONE OF IT
-                              BUILT. Section 1 carries a PLACEHOLDER
-                              block naming what the game will provide,
-                              rewritten from the shipped screens by
-                              Progression_Pond next_steps item 4.
+                              (CONFIRMED, a public identifier), KTS1
+                              code, rubric pond_hw4.rubric.json — SHIPPED
+                              and LIVE (v0.6.9). Section 1's block is
+                              written from the shipped screens: the
+                              on-screen names, the two wrong-chord
+                              penalties (keeper = a heart, water = the
+                              pad), GET CODE's flow, the MIDI
+                              requirement (49+ keys recommended, the
+                              25-key F-major note), same-browser-same-
+                              computer CONTINUE, and the credit rule —
+                              all nine springs AND the Murk boss beaten,
+                              Sam's call after playing the boss through.
                          Design authority for Option B: —Games/
-                         Progression_Pond/docs/hw4_design.txt. Section
-                         5 states what the game certifies (chord,
-                         inversion, together, all three keys) and what
-                         it cannot (fingering, hands).
+                         Progression_Pond/docs/hw4_design.txt (the
+                         original design; the shipped game superseded
+                         its "once built" details, notably adding the
+                         Murk boss requirement). Section 5 states what
+                         the game certifies (chord, inversion, together,
+                         all three keys) and what it cannot (fingering,
+                         hands).
   docs/roster.txt        HW #1..#9 as far as —OER's docs record them;
                          #2/#7/#8 marked "not recorded", #5 marked
                          absorbed into #1 (Sam), #3 and #4 = the new
@@ -74,8 +92,24 @@ CONTENTS (2026-09-15)
   LICENSE                CC BY-NC 4.0, same as every other OER project.
   .gitignore             macOS junk + *.csv/*.xlsx (no student data).
 
-WHAT THIS PASS CHANGED ELSEWHERE (so this repo's first entry is honest
-about what it depends on)
+WHAT PASS 3 (2026-09-16, PASS C) CHANGED ELSEWHERE
+----------------------------------------------------------------------
+  Grading_Hub (sammygfunx/grading-hub): rubrics/pond_hw4.rubric.json's
+    header comment reworded only — it described the game's credit floor
+    as "nine springs" alone; now says nine springs AND the Murk boss
+    beaten (ResultCode.GOAL_BOSS_BY_COURSE, v0.6.9), matching
+    Progression_Pond's own project_state.txt note that this pass should
+    reword it. The rubric's functional JSON (one threshold column on
+    "goal", 100 points) did not change — the game owns the floor, the
+    rubric only checks "goal" is 1. Checked —Apps/Brains for a stale
+    "nine springs" note per the same instruction; found none to fix.
+  Progression_Pond (sammygfunx/progression-pond): no code change this
+    pass. Sam played the live v0.6.9 build again and confirmed the
+    balance stands as shipped, so no fish/pad tuning numbers were
+    applied and no branch/merge/redeploy happened.
+
+WHAT PASS 25 (2026-09-15) CHANGED ELSEWHERE (so this repo's first entry
+is honest about what it depends on)
 ----------------------------------------------------------------------
   Grading_Hub (sammygfunx/grading-hub): a Canvas assignment created from
     tab 5 may now accept a SET of submission types. AssignmentSpec

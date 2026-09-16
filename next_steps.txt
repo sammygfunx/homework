@@ -8,6 +8,14 @@ sammygfunx/homework created + pushed. Everything below waits on Sam.)
 Updated: 2026-09-15 (Pass 25 — HW #4 planning pass DONE: item 2's prompt
 ran; hw4_chord_progressions.txt drafted, status PLANNED; item 2 now
 lists what follows. The game build is queued in Progression_Pond.)
+Updated: 2026-09-16 (Pass 3 = PASS C DONE, launched from —OER:
+Progression_Pond's homework mode is fully shipped and played through
+including the Murk boss, v0.6.9, LIVE; Sam confirmed the balance as
+shipped this pass, so no tuning numbers changed. hw4's Option B is now
+written in full from the shipped screens, including the credit rule
+requiring the boss; roster row DRAFTED. Item 2c is DONE; item 2d — the
+Canvas click-path — is what's left, and it needs Sam's due date and
+Option A answers first (item 2a).)
 Ranked high -> low.
 
 1. HW #3 — SAM'S DECISIONS, then the click-path. (Sam, in-app + in
@@ -42,30 +50,25 @@ Ranked high -> low.
    lines in Curriculum.spec_for (that is a Da_Capo pass, not this repo).
 
 2. HW #4 — CHORD PROGRESSIONS (video OR Progression Pond). PLANNING
-   PASS DONE 2026-09-15 (Pass 25, Opus, launched from —OER): hw4_chord_
-   progressions.txt drafted (Option A full, Option B placeholder, ten
-   open questions in its section 5), roster row status PLANNED, the
-   game-side design in —Games/Progression_Pond/docs/hw4_design.txt, the
-   build queued as Progression_Pond next_steps items 1-4 and the hub
-   half as Grading_Hub next_steps item 13. The original planning prompt
-   is archived in history.txt.
+   PASS DONE 2026-09-15 (Pass 25); Option B WRITTEN 2026-09-16 (Pass 3 =
+   PASS C, launched from —OER): hw4_chord_progressions.txt's Option B
+   block is now real text from the shipped, played, live game (v0.6.9),
+   including the credit rule (nine springs AND the Murk boss beaten).
+   Section 5 questions 8 and 9 resolved. Roster row DRAFTED. The
+   original planning prompt is archived in history.txt.
    WHAT IS NEXT, in order:
-   a) SAM: answer hw4 section 5's ten questions — question 0 first
-      (create HW #4 video-only now and add Option B later by re-running
-      tab 5 with the same title, or wait for the game). If video-only
-      now: also the due date, and the description must carry NO
-      [FILL IN] before it is pasted (delete the Option B block for the
-      first create; the re-run adds it back).
+   a) SAM: answer hw4 section 5's remaining Option A questions (1-7,
+      10) and question 0 (create HW #4 now that Option B is written, or
+      hold for the due date), plus the due date itself. Nothing below
+      is runnable until this.
    b) IF an answer changes Option A's text materially and Sam wants it
       re-drafted: sonnet | low, single repo, launch from inside
       —Homework/. Otherwise Sam edits the [FILL IN]s in place.
-   c) THE GAME: Progression_Pond next_steps item 1 (Fable, high — the
-      level), item 2 (Opus, medium-high — code path + hub rubric, THIS
-      TOUCHES THREE REPOS, launch from —OER), item 3 (Sam's playtest,
-      the gate), item 4 (Sonnet, medium — balance + THIS REPO's Option
-      B text from the shipped screens, launch from —OER).
-   d) Then hw4 section 4's click-path (Sam), and the roster row moves
-      drafted -> created in Canvas -> live.
+   c) DONE: the game (Progression_Pond next_steps items 1-4, including
+      Sam's playtest and the boss) and this repo's Option B text.
+   d) Then hw4 section 4's click-path (Sam: a fresh MIDI take of Option
+      B if he wants one beyond playtest #5's, then Canvas creation), and
+      the roster row moves drafted -> created in Canvas -> live.
    Model: see each step. Nothing agent-side is runnable here until (a).
 
 3. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2,

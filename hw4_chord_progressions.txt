@@ -1,12 +1,13 @@
 ===========================================================
 HW #4 — CHORD PROGRESSIONS (video OR Progression Pond) — CANVAS ASSIGNMENT
 One assignment, two ways to earn it. DRAFT written 2026-09-15 (Pass 25,
-launched from —OER). STATUS: PLANNED — Option A is written in full with
-its open questions listed in section 5; Option B is a PLACEHOLDER until
-the game's homework mode is built and played (Progression_Pond
-next_steps items 1-4). Due date and grading scale are [FILL IN] — Sam's.
-Progression Pond course id for Option B (recommended, unconfirmed):
-"three_springs".
+launched from —OER); Option B's text written 2026-09-16 (Pass C, launched
+from —OER) from the shipped game, v0.6.9, LIVE. STATUS: DRAFTED — Option
+A is written in full with its open questions listed in section 5; Option
+B is now written from the game's own on-screen screens and verdict text.
+Due date and Option A's grading scale are still [FILL IN] — Sam's.
+Progression Pond course id for Option B: "three_springs" — CONFIRMED, a
+PUBLIC IDENTIFIER now that Grading_Hub's rubric names it; never rename it.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -46,13 +47,16 @@ THE TWO FACTS EVERYTHING HANGS ON
             as a video FILE. This is the ONLY option where FINGERING
             and HANDS are graded — MIDI carries neither (section 5).
   OPTION B  A Progression Pond KTS1 code from its HOMEWORK adventure
-            "THE THREE SPRINGS" (course id "three_springs" — once the
-            Grading_Hub rubric names it, it is frozen; a renamed course
+            "THE THREE SPRINGS" (course id "three_springs" — frozen now
+            that the Grading_Hub rubric names it; a renamed course
             silently stops matching and every code grades as unmatched,
-            the Da Capo rule). NOT BUILT YET (2026-09-15). What it will
-            certify: the correct chord, in the correct inversion (bass
-            note), played together, in order, in all three keys. What
-            it cannot: fingering, which hand.
+            the Da Capo rule). SHIPPED and LIVE (v0.6.9, 2026-09-16).
+            What it certifies: the correct chord, in the correct
+            inversion (bass note), played together, in order, in all
+            three keys. What it cannot: fingering, which hand. Full
+            credit needs the nine springs AND the Murk Bullfrog beaten
+            at the meadow beyond them (Sam's call after playing the boss
+            through, v0.6.9) — see the Option B block below.
 
 CANVAS SETTINGS
   Submission Type: Online -> BOTH "Text Entry" AND "File Uploads"
@@ -123,18 +127,18 @@ from the shipped screens.)
 <p><strong>To submit Option A:</strong> use the <strong>File Upload</strong> tab below and upload the video file itself (.mp4 or .mov from a phone is fine). Do not paste a link to a cloud drive; upload the file.</p>
 
 <h4>Option B &mdash; Play Progression Pond: THE THREE SPRINGS</h4>
-<p>[PLACEHOLDER &mdash; NOT AVAILABLE YET. This block is rewritten from the finished game by Progression_Pond next_steps item 4. What it will say, so the shape is known now:]</p>
 <p>Play Progression Pond's homework adventure, <strong>THE THREE SPRINGS</strong>: <a href="https://progression-pond.netlify.app">https://progression-pond.netlify.app</a></p>
 <p>You are a frog leading the pond's silenced springs back to song. Each spring is a short crossing whose lily pads only grow when you play the right chord: the first spring is <strong>I &ndash; V<sup>6</sup> &ndash; I</strong>, the second <strong>I &ndash; IV<sup>6</sup><sub>4</sub> &ndash; I</strong>, the third <strong>I &ndash; V<sup>6</sup><sub>5</sub> &ndash; I</strong>. You cross all three springs in <strong>C major</strong> with the keys lit up to show you, cross back in <strong>F major</strong> with only the bass note named, and cross once more in <strong>G major</strong> from the Roman numerals alone &mdash; the same nine progressions as the video, taught first and then drilled.</p>
 <ol>
   <li>On the title screen choose <strong>HOMEWORK</strong>.</li>
-  <li>Select <strong>THE THREE SPRINGS</strong>.</li>
+  <li>Select <strong>THE THREE SPRINGS</strong> &mdash; <strong>BEGIN</strong> starts a fresh run.</li>
 </ol>
-<p><strong>You have full credit when</strong> [the game's own verdict line &mdash; recommended: all nine spring crossings are cleared; Sam confirms after playing]. The game keeps count: GET CODE tells you whether you have earned credit yet and, if not, exactly how many springs you still need.</p>
-<p><strong>What the game checks, and what it cannot.</strong> The game hears your MIDI keyboard: it checks that you played the right chord, in the right inversion (the right note on the bottom), with the notes together, in every key. It cannot see your fingers or which hand you used, so play hands together the way we do in class &mdash; the game will show you the bass note an octave below the chord &mdash; but know that fingering is only graded in the video option.</p>
-<p><strong>You need a MIDI keyboard for this option</strong> (Chrome or Edge on a laptop or desktop; Safari and iPads have no Web MIDI). The Room 269 keyboards plug in as MIDI controllers during lab hours (cables provided). The computer keyboard and the on-screen piano work for exploring, but a chord progression wants real keys under your hands. [25-key boards: turn the control zone off in the Tab panel and steer with the arrow keys, or play with both hands above the lowest octave &mdash; wording from the shipped README.]</p>
-<p><strong>Coming back to a run:</strong> your progress is saved in that browser, on that computer. Use the SAME browser on the SAME computer every time; when you come back, choose HOMEWORK, then <strong>CONTINUE</strong>.</p>
-<p><strong>To submit Option B:</strong> press GET CODE (from the HOMEWORK screen, or at the end), type your first name, last name and school ID once, then COPY CODE and paste it into the <strong>Text Entry</strong> tab below.</p>
+<p><strong>Two ways a wrong chord costs you.</strong> At a Spring Keeper (on land, before you cross), a wrong chord costs one heart &mdash; three hearts lost and you respawn at the last bank. Out on the water, a wrong chord costs no heart, but it sinks the lily pad you're standing on at once, so the current carries you back to the bank and you start that crossing over.</p>
+<p><strong>You have full credit when all nine spring crossings are cleared AND you have beaten what is waiting for you at the meadow beyond them.</strong> The game keeps count and will not let you miss this: GET CODE tells you exactly where you stand &mdash; "CLEAR N MORE SPRINGS" while springs remain, "BEAT THE MURK FOR FULL CREDIT" once all nine are cleared but the trial beyond them is not, and "FULL CREDIT EARNED" once both are done.</p>
+<p><strong>What the game checks, and what it cannot.</strong> The game hears your MIDI keyboard: it checks that you played the right chord, in the right inversion (the right note on the bottom), with the notes together, in every key. It cannot see your fingers or which hand you used, so play hands together the way we do in class &mdash; the game will show you the bass note an octave below the chord &mdash; but know that <strong>fingering and hands are graded only in the video option (Option A)</strong>.</p>
+<p><strong>You need a MIDI keyboard for this option</strong> &mdash; the game plays by real chords, not typing. Use a laptop or desktop in Chrome or Edge (Safari and iPads have no Web MIDI), and allow MIDI access when the browser asks. A keyboard with <strong>49 keys or more works best</strong>; the Room 269 keyboards are full-size and plug in as MIDI controllers during lab hours (cables provided). If you only have a small 25-key board at home: in F major, both dominant chords want a bass E, which sits at the east edge of the control zone on a 25-key board and can't be reached low with the left hand &mdash; play the bass an octave up with the chord above it, or turn the control zone off in the Tab panel and steer with the arrow keys as a last resort.</p>
+<p><strong>Coming back to a run:</strong> your progress is saved in that browser, on that computer. Use the SAME browser on the SAME computer every time; when you come back, choose HOMEWORK, then <strong>CONTINUE</strong>. <strong>START OVER</strong> wipes a run and begins fresh, if you ever want to. Once you've cleared a key area, <strong>PRACTICE A KEY</strong> lets you replay it (C major / F major / G major) without disturbing your saved progress.</p>
+<p><strong>To submit Option B:</strong> press <strong>GET CODE</strong> (from the HOMEWORK screen, or at the end), type your first name, last name and school ID once, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab below.</p>
 <ul>
   <li>Use the school ID your gradebook knows you by.</li>
   <li>Paste ONLY the code &mdash; nothing typed after it in the same submission.</li>
@@ -152,7 +156,7 @@ from the shipped screens.)
 
 
 ===========================================================
-2. WHAT TO SAY IN CLASS (about ninety seconds) — DRAFT, Option B TBD
+2. WHAT TO SAY IN CLASS (about ninety seconds) — DRAFT
 ===========================================================
 
 "HW #4 is the three progressions we started this week, and you get to
@@ -164,14 +168,16 @@ fingering. This is the one place I grade your fingering, so I need to
 see your hands. [FILL IN: tempo / takes / cap.] Upload the video file
 to Canvas.
 
-Option B: Progression Pond, the frog game. [PLACEHOLDER until built:]
-HOMEWORK, then THE THREE SPRINGS. Three springs, one progression each;
-you cross them in C with the keys lit, back in F with just the bass
-named, and again in G from the numerals. The game hears your chords and
-inversions but it cannot see your fingers -- if you want fingering
-checked, do the video. You need a MIDI keyboard for this one, Chrome or
-Edge, laptop or desktop; the 269 keyboards plug right in. GET CODE,
-name and ID, copy, paste the whole thing into the text box.
+Option B: Progression Pond, the frog game. HOMEWORK, then THE THREE
+SPRINGS. Three springs, one progression each; you cross them in C with
+the keys lit, back in F with just the bass named, and again in G from
+the numerals. Full credit needs all nine springs AND beating what's
+waiting for you at the meadow beyond them -- GET CODE will always tell
+you exactly where you stand. The game hears your chords and inversions
+but it cannot see your fingers -- if you want fingering checked, do the
+video. You need a MIDI keyboard for this one, Chrome or Edge, laptop or
+desktop; the 269 keyboards plug right in. GET CODE, name and ID, copy,
+paste the whole thing into the text box.
 
 Video goes in the file-upload tab, code goes in the text-entry tab. Due
 [FILL IN]. Same assignment, same grade. Do one."
@@ -193,15 +199,17 @@ visible. [FILL IN: tempo / takes / cap.] Upload the video file itself
 in the File Upload tab. This is the only option where fingering is
 graded.
 
-OPTION B -- Progression Pond's homework adventure, THE THREE SPRINGS
-[PLACEHOLDER until built]:
+OPTION B -- Progression Pond's homework adventure, THE THREE SPRINGS:
   https://progression-pond.netlify.app
 HOMEWORK, then THE THREE SPRINGS. The same nine progressions: crossed in
 C with the keys shown, in F with the bass named, in G from the numerals.
-You need a MIDI keyboard (Chrome/Edge, laptop or desktop -- not a phone
-or iPad); the Room 269 keyboards plug in. The game checks your chords
-and inversions, not your fingers. Paste the whole code into the Text
-Entry tab.
+Full credit needs all nine springs cleared AND the trial waiting for you
+at the meadow beyond them beaten -- GET CODE always tells you exactly
+where you stand. You need a MIDI keyboard (Chrome/Edge, laptop or
+desktop -- not a phone or iPad, 49 keys or more works best). The Room
+269 keyboards plug in. The game checks your chords and inversions, not
+your fingers -- fingering is graded only in the video. Paste the whole
+code into the Text Entry tab.
 
 Same grade either way. Due [FILL IN].
 
@@ -210,23 +218,32 @@ Same grade either way. Due [FILL IN].
 4. BEFORE THE FIRST STUDENT SITS IT (Sam's click-path)
 ===========================================================
 
-  BLOCKED UNTIL: every [FILL IN] in section 1 is resolved, AND (for
-  Option B) Progression_Pond next_steps items 1-4 have shipped and Sam
-  has played THE THREE SPRINGS on the live site (its item 3). If HW #4
-  must go out before that, see section 5 question 0 (video-only first).
+  BLOCKED UNTIL: every [FILL IN] in section 1 is resolved (the due date,
+  Option A's scale). Progression_Pond items 1-4 have shipped, Sam played
+  THE THREE SPRINGS through on the live site including the Murk boss
+  (its item 3, playtest #5, v0.6.8/v0.6.9), and Option B's text above is
+  now written from those shipped screens (Pass C, 2026-09-16).
 
-  [ ] TAKE OPTION B YOURSELF, ON THE LIVE SITE, and decode your own
-      code. https://progression-pond.netlify.app in Chrome with a MIDI
-      keyboard. HOMEWORK -> THE THREE SPRINGS. Cross at least one
-      spring, GET CODE, COPY CODE. Close the tab, reopen, HOMEWORK ->
-      CONTINUE picks the run back up -- browser clipboard and IndexedDB
-      persistence are part of what this assignment depends on and a
-      local run proves neither. (Same gate HW #3 sat Da Capo through.)
-  [ ] Grading_Hub -> tab 3 -> load rubrics/pond_hw4.rubric.json (written
-      by Progression_Pond item 2 / Grading_Hub item 13) and confirm your
-      own code grades as the verdict said (100 if the goal line said
-      FULL CREDIT). LOAD IT ALONE -- Grading_Hub/README.txt's ONE RUBRIC
-      PER GRADE rule.
+  [x] TAKE OPTION B YOURSELF, ON THE LIVE SITE, and decode your own
+      code. DONE BY SAM, not by this pass: this pass (launched from
+      —OER, no MIDI hardware, no browser) cannot play a real chord
+      progression on a MIDI keyboard, so it did not attempt to fake this
+      step. Sam's playtest #5 (2026-09-15/16, —Games/Progression_Pond/
+      docs/playtest_2026-09-15.txt) already did exactly this on the live
+      site with two real keyboards (microKEY Air 25 and a full-size
+      board): crossed springs, GET CODE, COPY CODE, closed and reopened
+      the tab, HOMEWORK -> CONTINUE picked the run back up (steps 7-10,
+      "ALL PASS, no notes", explicitly naming clipboard, IndexedDB
+      persistence and KTS1 code generation/decode). If Sam wants a FRESH
+      take specifically for this sign-off (rather than reusing the
+      playtest's), that is a two-minute repeat of the same steps.
+  [x] Grading_Hub -> tab 3 -> load rubrics/pond_hw4.rubric.json ALONE and
+      confirm a code grades as the verdict said. DONE BY SAM in playtest
+      #5's own step: "Take a code; paste it into Grading_Hub tab 2 [sic,
+      the rubric-grading tab] with rubrics/pond_hw4.rubric.json loaded
+      ALONE and confirm 100." This pass did not re-run it (same
+      no-hardware reason above); it is not aware of any code this pass
+      could grade instead, since it has no way to generate one honestly.
   [ ] Grading_Hub -> tab 5 "Create Assignments" -> create it in all four
       sections. Follow canvas_assignment_creation.txt's walkthrough; the
       values that differ from the Steps and Skips example are:
@@ -332,14 +349,15 @@ name them, as HW #3's six were.
      wrong finger? A video that omits a key? Whatever the scale, the
      sheet's TOTAL column takes any number; the description should say
      what counts.
-  8. OPTION B's THRESHOLD. The design recommends "all nine spring
-     crossings" (the assignment's content, certified). The constant is
-     one line in the game (GOAL_CROSSINGS_BY_COURSE); a lower floor
-     (six = two keys) is available if the playtest says nine is too
-     much for a first contact. Decide after playing, not before.
-  9. OPTION B's COURSE ID. Recommended "three_springs". It becomes a
-     public identifier the moment Grading_Hub's rubric names it
-     (Progression_Pond item 2). Confirm or rename BEFORE that pass.
+  8. OPTION B's THRESHOLD — RESOLVED (Sam, after playing the boss
+     through, v0.6.9, 2026-09-16): all nine spring crossings PLUS the
+     Murk Bullfrog boss at the meadow beyond them (ResultCode.
+     GOAL_BOSS_BY_COURSE). Nine springs alone is not enough; the game's
+     own verdict line says so ("BEAT THE MURK FOR FULL CREDIT"). Written
+     into the description above.
+  9. OPTION B's COURSE ID — RESOLVED: "three_springs", CONFIRMED. It is
+     now a public identifier (Grading_Hub's rubric names it) and must
+     never be renamed.
  10. MIDI-ONLY FOR OPTION B? The draft says "you need a MIDI keyboard".
      The game is fully playable with the computer keyboard and the on-
      screen piano (letter rows, click-latching), so a student without
@@ -362,19 +380,26 @@ Option A is the ONLY place fingering is graded, and the description's
 "Which option should I pick?" paragraph says so in the student's
 terms. Full argument: Progression_Pond/docs/hw4_design.txt.
 
-WHAT OPTION B WILL PROVIDE ONCE BUILT (so this placeholder is not a
-guess): a HOMEWORK item on the title screen; an adventure "THE THREE
-SPRINGS" with three 3-lane crossings (I-V6-I, I-IV64-I, I-V65-I),
+WHAT OPTION B ACTUALLY SHIPPED (v0.6.9, LIVE 2026-09-16; superseded the
+"once built" guess below it once the game was played through, including
+the Murk boss): a HOMEWORK item on the title screen; an adventure "THE
+THREE SPRINGS" with three 3-lane crossings (I-V6-I, I-IV64-I, I-V65-I),
 crossed northward in C with the keys lit (hint 3), southward in F with
 the bass named (hint 1), northward in G from the numeral alone (hint
 0); a keeper creature on each bank that asks the progression in order
-on land before the timed water crossing; a key-change scene at each
-far bank; checkpoints (game over respawns at the last bank, counters
-kept); a saved run (CONTINUE, same browser same computer); GET CODE
-with first/last/ID and an honest verdict; a KTS1 code with app_id
-"pond", mode = the course id, and a "goal" row the hub grades with ONE
-threshold column (rubrics/pond_hw4.rubric.json). Da Capo's exact shape
-(ResultCode.gd, Menu.gd's CODE screen), cited in the design.
+on land before the answer-driven water crossing (a wrong chord costs a
+heart at the keeper, sinks the pad underfoot on the water); a key-change
+scene at each far bank; a PRACTICE A KEY replay for any cleared key;
+after the ninth spring, the heron is taken by the Murk and a boss
+meadow opens — beating the Murk Bullfrog (all nine progressions again,
+in order, no hints) is REQUIRED for full credit, not just the nine
+springs; checkpoints (game over respawns at the last bank or the boss
+gate, counters kept); a saved run (CONTINUE, same browser same
+computer); GET CODE with first/last/ID and an honest three-state
+verdict; a KTS1 code with app_id "pond", mode = the course id, and a
+"goal" row the hub grades with ONE threshold column
+(rubrics/pond_hw4.rubric.json). Da Capo's exact shape (ResultCode.gd,
+Menu.gd's CODE screen), cited in the design.
 
 THE 25-KEY CAVEAT, for the Option B text later: on a 25-key board the
 control zone is C3-E3 and in F MAJOR both dominant chords have bass E
@@ -394,8 +419,8 @@ rubric that names its mode, and no beat-the-game twin without a mode.
 (If a second Pond assignment ever omits `mode`, HW #3's section 5
 analysis applies.)
 
-WHAT THIS PASS DELIBERATELY DID NOT DECIDE: everything in the ten
-questions above, the due date, Option A's scale, and Option B's final
-wording — which must be written from the SHIPPED screens, not from the
-design, so the on-screen names in the assignment are the ones a student
-actually sees.
+WHAT THIS PASS DELIBERATELY DID NOT DECIDE (Pass C, 2026-09-16): Option
+A's ten questions 0-7 and 10 remain [FILL IN] or open, and the due date.
+Questions 8 and 9 are resolved above. Option B's final wording IS now
+written from the shipped screens (this pass), not the design, so the
+on-screen names in the assignment are the ones a student actually sees.
