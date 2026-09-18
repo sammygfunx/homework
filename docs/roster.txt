@@ -66,15 +66,17 @@ HW #3  Perfect 4ths (video OR Da Capo). NEW 2026-09-15, backfills the
          or clear 100 cards; TEXT ENTRY (KTS1 code).
        One Canvas assignment accepting BOTH types (Grading_Hub tab 5's
          new "Also accept" row, built this pass).
-       Due: Fri 2026-09-18 18:00 Eastern (Week 5).
+       Due: Fri 2026-09-25 18:00 Eastern — EXTENDED by Sam 2026-09-18
+         (was Fri 2026-09-18 18:00, Week 5). Canvas + hw3_perfect_4ths.txt
+         must both carry the new date (the HW-DEADLINES pass, from —OER).
        Rubric: Grading_Hub/rubrics/dacapo_p4ths.rubric.json (Option B
          only; Option A is hand-graded into a sheet and posted through
          Grading_Hub tab 6 "Post External Grades").
        Content: —Homework/hw3_perfect_4ths.txt (this repo).
          Supersedes —Games/Da_Capo/canvas_assignment_p4ths.txt.
-       Status: DRAFTED, complete — choreography, due date and video
-         links all settled by Sam 2026-09-15. Ready for the section 4
-         click-path (create in Canvas).
+       Status: LIVE (created + published by Sam, week of 2026-09-15;
+         recorded here 2026-09-18 — the roster had not been moved).
+         Due date extension still to land in Canvas and in the file.
 
 HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
        (same day as HW #3), backfills the second gap left by HW #1.
@@ -94,37 +96,46 @@ HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
        One Canvas assignment accepting ALL THREE types (text entry +
          file upload + website URL — Grading_Hub item 12, extended this
          pass for the third type).
-       Due: Fri 2026-09-18, 6:00 PM Eastern (Sam, 2026-09-16 — published
-         same day, a deliberately short window to pull students into the
-         lab or onto their own keyboards this week).
+       Due: Fri 2026-09-25, 6:00 PM Eastern — EXTENDED by Sam 2026-09-18
+         (was Fri 2026-09-18, published 2026-09-16 with a deliberately
+         short window; extended to give students more time). Canvas +
+         hw4_chord_progressions.txt must both carry the new date (the
+         HW-DEADLINES pass, from —OER).
        Rubric: Grading_Hub/rubrics/pond_hw4.rubric.json (BUILT, 795
          tests; Option B only; Option A is hand-graded into a sheet and
          posted through tab 6).
        Content: —Homework/hw4_chord_progressions.txt (this repo).
-       Status: DRAFTED, COMPLETE — no [FILL IN] remains anywhere in
-         section 1; every open question in section 5 answered by Sam
-         2026-09-16. Ready for section 4's Canvas click-path (create,
-         publish today).
+       Status: LIVE (published 2026-09-16 in all four sections, per —OER
+         Pass 26; recorded here 2026-09-18). Due date extension still to
+         land in Canvas and in the file.
 
 HW #5  The First Three Stars (Orbit). NEW 2026-09-16 — REPLACES the
        unpublished Fall 2025 "HW #7: Melody in Scale Degrees" (see HW #7
        below); the earlier "absorbed into HW #1" note (2026-09-15) is
        superseded.
-       Orbit only (no video option — Orbit needs no MIDI): drill scale
+       Option A (NEW 2026-09-18, Sam's call — students like a choice and
+         the apps still have rough edges): a VIDEO, no app, leaning on the
+         retired HW #7 melody idea (see HW #7 below); shape to be written
+         by pass HW5-4. FILE UPLOAD (+ unlisted YouTube link, as HW #4).
+       Option B, Orbit (Orbit needs no MIDI): drill scale
          degrees in C, G and F to Orbit's proficiency floor (15 attempts
          at 75%, the existing key-unlock rule) AND master one Week 5
          coursepack melody per key (Mary, Itsy Bitsy Spider, Jingle
          Bells, Vivaldi Spring, Twinkle, Happy Birthday) at the slow
          tempo tier; TEXT ENTRY (KTS1 code, app "orbit", mode
          "three_stars").
-       Due: [Sam — suggested Thu 2026-09-24 23:59 Eastern, Week 6, the
-         night before Quiz 3, whose melodies item this prepares].
+       Due: Fri 2026-09-25, 6:00 PM Eastern (Sam, 2026-09-18 — the same
+         extended Friday as HW #3/#4; Quiz 3's melodies item is C/F/G, so
+         this is its RH half).
        Rubric: Grading_Hub/rubrics/orbit_hw5.rubric.json (to be built in
          Orbit next_steps #0b; one threshold column on "goal").
-       Content: —Apps/Orbit/canvas_assignment_hw5.txt (single-
-         app convention; to be written in Orbit next_steps #0c).
-       Status: PLANNED — design settled (—Apps/Orbit/docs/hw5_design.txt,
-         —OER Pass 26); build passes #0a/#0b queued; nothing in Canvas.
+       Content: —Homework/hw5_first_three_stars.txt (this repo — it is
+         two-option now, so it moves here from Orbit's planned
+         canvas_assignment_hw5.txt; pass HW5-4 writes it).
+       Status: PLANNED, GAME SHIPPED — Orbit's HOMEWORK mode, KTS1 code
+         path and hub rubric are all live and Sam's replay passed
+         2026-09-18 ("all works now"); the assignment text (pass HW5-4)
+         and the Canvas create are what remain.
 
 HW #6  The composition (steps and skips), with an opt-in alternative:
        "HW #6 (alternative) — Da Capo: Steps and Skips".

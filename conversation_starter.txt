@@ -78,15 +78,14 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
-next_steps.txt item 1c — HW #3 is fully drafted (due Fri 2026-09-18
-18:00, links in, choreography settled); what remains is Sam's section 4
-click-path in Grading_Hub tab 5 (with "Also accept: file upload"
-ticked), then the in-Canvas check that both submission types are on.
-THEN item 2 — HW #4 is fully written and ready to paste (Pass 3 = PASS
-C, 2026-09-16, Sam answered every open question the same day); what
-remains is Sam's section 4 click-path: create in all four sections with
-THREE submission types ticked (text entry + file upload + website URL),
-publish today, due Fri 2026-09-18 6:00 PM Eastern.
+(2026-09-18) HW #3 and HW #4 are LIVE in Canvas and Sam has EXTENDED
+both, plus HW #5, to Fri 2026-09-25 18:00 Eastern; HW #5 gains a VIDEO
+option beside the Orbit code, so its file will live HERE as
+hw5_first_three_stars.txt. Two panes queued from —OER, in this order:
+next_steps item 1 (HW-DEADLINES: hw3/hw4 due-date text + —Coursepack
+Week 5) then item 2 (HW5-4: write hw5_first_three_stars.txt, roster ->
+DRAFTED, Sam's click-path). Sam moves the Canvas due dates himself
+(Grading_Hub next_steps item S.c) — that does not wait on either pane.
 
 Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status

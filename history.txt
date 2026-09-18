@@ -218,3 +218,101 @@ Due Fri 2026-09-18 18:00 Eastern (2026-09-18T22:00:00Z, Week 5) filled
 in everywhere; the P4 chromatic play-along (https://youtu.be/xg1L2ccDO9M)
 and the full interval playlist embedded as link text in the description
 and given in the student message. No placeholders remain in hw3.
+
+ARCHIVED next_steps.txt AS IT STOOD 2026-09-16 (moved here 2026-09-18 by the
+—OER housekeeping pass; items 1a/1b and 2a-2c were DONE, and HW #3/#4 went
+LIVE without the roster being moved — corrected 2026-09-18).
+==========================================================================
+HOMEWORK — NEXT STEPS
+======================
+Updated: 2026-09-15 (Pass 24 — repo created; hw3_perfect_4ths.txt +
+docs/roster.txt drafted. Same day, second pass: Sam's six choreography
+answers, due date (Fri 2026-09-18 18:00) and video links baked into hw3
+— items 1a/1b DONE; 1c (the click-path) is next. Remote
+sammygfunx/homework created + pushed. Everything below waits on Sam.)
+Updated: 2026-09-15 (Pass 25 — HW #4 planning pass DONE: item 2's prompt
+ran; hw4_chord_progressions.txt drafted, status PLANNED; item 2 now
+lists what follows. The game build is queued in Progression_Pond.)
+Updated: 2026-09-16 (Pass 3 = PASS C DONE, launched from —OER, followed
+same day by Sam answering every remaining hw4 question at once:
+Progression_Pond's homework mode is fully shipped and played through
+including the Murk boss, v0.6.9, LIVE; Sam confirmed the balance as
+shipped, so no tuning numbers changed. hw4's Option B is written in
+full from the shipped screens, including the boss credit rule; Option
+A's choreography (key order, tempo, takes, time cap, hands together/
+separate, voicings, fingering, grading scale) and the due date (Fri
+2026-09-18 6:00 PM Eastern) are ALL answered — section 1's HTML has no
+[FILL IN] left. Item 2a/2c are DONE; item 2d — Sam's Canvas click-path
+— is the only thing left, and Sam wants it live TODAY.)
+Updated: 2026-09-16, evening (—OER Pass 26 — HW #5 "The First Three
+Stars" (Orbit) PLANNED: roster row replaced, retired HW #7 text
+preserved under its row. The build is Orbit next_steps #0a/#0b; the
+assignment file goes in Orbit (single app), and #0c updates this roster
+to DRAFTED. Nothing for this repo to do until then.)
+Ranked high -> low.
+
+1. HW #3 — SAM'S DECISIONS, then the click-path. (Sam, in-app + in
+   Canvas; no agent code needed unless an answer changes the text.)
+   a) DONE 2026-09-15 — due Fri 2026-09-18 18:00 Eastern, filled in
+      everywhere; video links embedded as link text.
+   b) DONE 2026-09-15 — Sam answered all six choreography questions
+      (C4-F4 start, 25 intervals turning on C5-F5, chromatic descent
+      with either naming order, sharps-up/flats-down recommended,
+      graded on accuracy with a REQUIRED audible metronome, Room 269
+      lab hours) and the description carries them.
+   c) Section 4's click-path, in order: take Option B yourself on the
+      live site -> load dacapo_p4ths.rubric.json alone and grade your
+      own code -> tab 5 create with "Also accept: file upload" ticked ->
+      OPEN IT IN CANVAS AS A TEACHER and confirm both Text Entry and
+      File Uploads are on (the first two-type assignment the hub has
+      ever created; the request is test-pinned, not live-proven) ->
+      Student View -> publish.
+   d) Update docs/roster.txt HW #3's status + due date when done.
+   Model: n/a (Sam). If (b) changes the choreography materially and
+   Sam wants the file re-drafted: sonnet, low effort, single repo,
+   launch from inside —Homework/.
+
+1.5. HW #3 — FIRST GRADING RUN, AND WHAT TO WATCH. (Sam, after the due
+   date; agent only if something breaks.)
+   Both paths into one column: tab 1 batch pull (codes) — its report now
+   lists "N file upload(s), no code" by Canvas user id — then tab 6 for
+   the video grades from the sheet. Watch for: a student in both lists
+   (last post wins — take the better grade), a video over 2:00, whether
+   100 cards feels equal to the video in effort. Record findings in
+   history.txt and, if the balance is off, Da Capo's tiers are four
+   lines in Curriculum.spec_for (that is a Da_Capo pass, not this repo).
+
+2. HW #4 — CHORD PROGRESSIONS (video OR Progression Pond). PLANNING
+   PASS DONE 2026-09-15 (Pass 25); Option B WRITTEN and EVERY OPEN
+   QUESTION ANSWERED 2026-09-16 (Pass 3 = PASS C, launched from —OER,
+   two passes the same day): hw4_chord_progressions.txt's section 1 HTML
+   has NO [FILL IN] anywhere and is ready to paste. The original
+   planning prompt is archived in history.txt.
+   WHAT IS NEXT, in order:
+   a) DONE: Sam answered every question (0-7, 10, plus hands together/
+      separate) and set the due date, Fri 2026-09-18 6:00 PM Eastern.
+   b) NOT NEEDED: no further re-draft is queued; Sam's answers were
+      applied directly.
+   c) DONE: the game (Progression_Pond next_steps items 1-4, including
+      Sam's playtest and the boss) and this repo's full Option B + A
+      text.
+   d) NEXT, Sam only: hw4 section 4's click-path — create in all four
+      sections with THREE submission types ticked (text entry + file
+      upload + website URL, NEW), publish TODAY, due Fri 2026-09-18 6 PM.
+      Then the roster row moves drafted -> created in Canvas -> live.
+   Model: n/a — nothing agent-side is queued; (d) is Sam's own click-path.
+
+3. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2,
+   #7 and #8 as "not recorded in —OER docs" and HW #1's exact due date
+   and HW #6's graded-status as unknown. One line each from the Canvas
+   assignments list closes them. No agent work.
+
+4. FUTURE MULTI-APP ASSIGNMENTS land here as hw<N>_<slug>.txt with a
+   roster row, following hw3_perfect_4ths.txt's shape exactly. If one
+   needs a NEW hub capability (the way HW #3 needed two submission
+   types), the hub change is a Grading_Hub pass launched from —OER
+   (both repos reachable), the way Pass 24 ran — write "THIS TOUCHES
+   TWO REPOS, start from —OER" into the queued item, per —OER/docs/
+   project_state.txt Pass 23's recommendation.
+   Model: sonnet | Effort: medium for a text-only assignment; opus if
+   the hub needs code.
