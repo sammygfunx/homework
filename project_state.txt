@@ -1,23 +1,24 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-18 (pass HW5-4, Opus 5, launched from —OER).
-hw5_first_three_stars.txt WRITTEN — HW #5 "The First Three Stars (video
-OR Orbit)", the third resident, DRAFTED with no [FILL IN]. Sam's two
-2026-09-18 decisions baked in: two options for the same 100 (reversing
-Orbit's hw5_design.txt "Orbit only"; students like a choice and the
-apps still have rough edges) and due Fri 2026-09-25 6:00 PM Eastern.
-Option A (a video of ONE melody, RH alone, C then G then F) is the —OER
-prompt's RECOMMENDED shape; its twelve choices are listed in section 5
-as "assumed 2026-09-18, change if wrong". Option B is written from
-Orbit's SHIPPED code (HW5-W, live, Sam's replay passed) with every
-on-screen string quoted; two prompt assumptions were corrected from the
-code (a code is ALWAYS issued — the honest line above it says whether
-it earns credit; the web build persists to browser localStorage, not
-user://). Roster HW #5 row -> DRAFTED, both options named. No other
-repo's code touched; Orbit / Grading_Hub / —OER docs updated in the
-same pass. Earlier the same day (housekeeping from —OER): roster HW
-#3/#4 -> LIVE, all three extended to 2026-09-25.
+Last updated: 2026-09-18, evening (pass HW5-4 REVISION, Opus 5, same
+thread as the draft, launched from —OER). Sam read the first draft of
+hw5_first_three_stars.txt back and made three changes, all baked in:
+Option A is now THREE handout melodies, one each in C, G and F, RH
+alone, WITH an audible metronome at any tempo, one file or one unlisted
+YouTube link (edits fine), graded on accuracy and rhythm, a third per
+melody; Option B earns PARTIAL CREDIT, a third per key (0/33/67/100 on
+the code's keys_done row) — a real change in TWO other repos: Grading_
+Hub/rubrics/orbit_hw5.rubric.json (threshold on goal -> percent on
+keys_done, tests re-pinned) and Orbit's CODE panel (ResultCode
+.credit_percent / credit_line, HomeworkScreen, smoke pins) — and the
+paste-ready HTML is entity-safe (no non-ASCII in the block). NOT DONE,
+because Godot would not launch in the agent's session (even --version
+hung at dyld): neither repo's tests ran and Orbit is not redeployed;
+the exact commands are the file's section 4 (i)/(ii), Sam's first two
+steps. Earlier the same day (the draft): file written from Orbit's
+shipped screens, roster -> DRAFTED, Orbit #0c -> history, Grading_Hub
+S.a pointed here, —OER item 18 DONE.
 Before that: 2026-09-16 (Pass 3 = PASS C, Sonnet 5): Progression Pond's
 homework mode LIVE at v0.6.9; hw4_chord_progressions.txt's Option B
 written from the shipped screens; Sam answered every open question the
@@ -101,24 +102,20 @@ CONTENTS (2026-09-15)
                          hands).
   hw5_first_three_stars.txt
                          HW #5 — The First Three Stars (video OR
-                         Orbit). DRAFTED 2026-09-18 (pass HW5-4), no
-                         [FILL IN]. One assignment, two options for the
-                         same 100:
-                           A  a video (file upload or unlisted YouTube
-                              link): ONE melody — one of the six Week 5
-                              handout tunes or any melody the student
-                              has written out in scale degrees themself
-                              (the retired HW #7's idea: title + artist
-                              on camera, sheet shown) — RH alone in C,
-                              then G, then F (Orbit's order), the key
-                              said before each, one continuous take
-                              (in-key restarts OK), steady tempo, no
-                              metronome, under 3 minutes; graded on
-                              accuracy (right notes in every key, a
-                              steady beat), NOT fingering. The
-                              RECOMMENDED shape from the —OER prompt;
-                              section 5 lists all twelve choices as
-                              "assumed 2026-09-18, change if wrong".
+                         Orbit). DRAFTED 2026-09-18 (pass HW5-4),
+                         REVISED the same evening, no [FILL IN]. One
+                         assignment, two options for the same 100:
+                           A  a video (one file upload or one unlisted
+                              YouTube link; a single take or edited):
+                              THREE different melodies from the six
+                              Week 5 handout tunes, RH alone, one in
+                              each of C, G and F (any order), the title
+                              and key said before each, an AUDIBLE
+                              METRONOME at any tempo; graded on
+                              accuracy and rhythm, a third per melody,
+                              NOT fingering. Sam's three evening
+                              decisions (S1-S3) + the remaining assumed
+                              choices (A1-A11) are in section 5.
                            B  Orbit's HOMEWORK screen "THE FIRST THREE
                               STARS" (course id "three_stars", public
                               identifier; NO MIDI required — mouse,
@@ -127,23 +124,23 @@ CONTENTS (2026-09-15)
                               75%+ running accuracy AND one of the six
                               handout melodies passed at the Slow tempo
                               (85% on the fixed clock; credit = the
-                              slowest bpm used); KTS1 code, rubric
-                              orbit_hw5.rubric.json (all-or-nothing on
-                              "goal"). Written from the shipped code
-                              with every string quoted (section 5's
-                              "WHAT ACTUALLY SHIPPED"). A code is
-                              always issued; the honest line above it
-                              says whether it earns credit.
+                              slowest bpm used); KTS1 code; PARTIAL
+                              CREDIT a third per key — rubric
+                              orbit_hw5.rubric.json is a percent column
+                              on keys_done (0/33/67/100). Written from
+                              the shipped code with every string quoted
+                              (section 5's "WHAT ACTUALLY SHIPPED"). A
+                              code is always issued; the line above it
+                              says what it is worth (new wording in
+                              Orbit source, deploy pending).
                          Design authority for Option B: —Apps/Orbit/
-                         docs/hw5_design.txt (section 8 records the
-                         2026-09-18 reversal of "Orbit only" and the
-                         due date). Section 5 states what the code
-                         certifies (pitch + rhythm at Slow, the drills)
-                         and what it cannot (fingering, hand — and
-                         Option A does not grade fingering either), the
-                         open partial-credit question Q3, and a flag
-                         that the rubric's header comment + Grading_Hub
-                         README still say "Orbit-only" (docs fix).
+                         docs/hw5_design.txt (section 8: D4 reversed,
+                         Q1 and Q3 decided 2026-09-18). Section 5
+                         states what the code certifies (pitch + rhythm
+                         at Slow, the drills) and what it cannot
+                         (fingering, hand — and Option A does not grade
+                         fingering either), and what the partial-credit
+                         change touched in the other two repos.
   docs/roster.txt        HW #1..#9 as far as —OER's docs record them;
                          #2/#8 marked "not recorded", #7 RETIRED with
                          its Fall 2025 text kept, #3 and #4 LIVE (due
@@ -152,21 +149,31 @@ CONTENTS (2026-09-15)
   LICENSE                CC BY-NC 4.0, same as every other OER project.
   .gitignore             macOS junk + *.csv/*.xlsx (no student data).
 
-WHAT PASS HW5-4 (2026-09-18) CHANGED ELSEWHERE (docs only, no code)
+WHAT PASS HW5-4 (2026-09-18, draft + evening revision) CHANGED ELSEWHERE
 ----------------------------------------------------------------------
-  Orbit (sammygfunx/orbit): next_steps #0c -> history.txt with a
-    pointer here; #0's "ONE PASS LEFT" paragraph -> "assignment written
-    2026-09-18, in —Homework"; docs/hw5_design.txt section 8 records
-    the reversal of "Orbit only" (date, reason) and the due date;
-    conversation_starter LATEST pointer. Game code, floors, course id,
-    the live build: untouched.
-  Grading_Hub (sammygfunx/grading-hub): next_steps item S.a reworded to
-    point at hw5_first_three_stars.txt section 4. rubrics/orbit_hw5
-    .rubric.json UNTOUCHED (its header comment and README.txt's HW #5
-    paragraph still say "Orbit-only" — flagged in the hw5 file's
-    section 5 as a Grading_Hub docs fix).
-  —OER/docs: project_state.txt Pass 27 writeup appended with this
-    outcome; next_steps item 18 -> DONE with a pointer here.
+  Orbit (sammygfunx/orbit): DRAFT — next_steps #0c -> history.txt with
+    a pointer here; #0's "ONE PASS LEFT" paragraph -> "assignment
+    written 2026-09-18, in —Homework"; docs/hw5_design.txt section 8
+    records the reversal of "Orbit only" and the due date; starter
+    LATEST pointer. REVISION — a CODE change: scripts/report/ResultCode
+    .gd gains credit_percent(report) (round(keys_done / 3 x 100)) and
+    credit_line(report) (the mint / gold PARTIAL / coral NO-credit
+    lines); scripts/screens/HomeworkScreen.gd uses them for the line
+    above the code and re-words the form hint; tests/smoke_test.gd
+    pins 100 / 33 / 67 / 0 and the three lines. Floors, course id, the
+    goal row: untouched. NOT SMOKE-TESTED, NOT DEPLOYED — Godot would
+    not launch in the session; Sam runs both (hw5 file section 4 (ii)).
+  Grading_Hub (sammygfunx/grading-hub): DRAFT — next_steps item S.a
+    reworded to point at hw5_first_three_stars.txt section 4. REVISION
+    — rubrics/orbit_hw5.rubric.json: the column is now {"score_id":
+    "keys_done", "rule": "percent", "points": 100} (was threshold on
+    "goal", min_correct 1); header comment rewritten (two options,
+    partial credit, points here); tests/run_tests.gd _test_orbit_hw5_
+    rubric re-pinned (percent on keys_done, 100 / 67 / 33 / 0, a two-
+    key post = 67); README.txt's HW #5 paragraph updated. NOT RUN (same
+    reason); expected 858 passed, was 854. Sam runs it (section 4 (i)).
+  —OER/docs: project_state.txt Pass 27 writeup appended with the draft
+    and the revision; next_steps item 18 -> DONE with a pointer here.
 
 WHAT PASS 3 (2026-09-16, PASS C) CHANGED ELSEWHERE
 ----------------------------------------------------------------------

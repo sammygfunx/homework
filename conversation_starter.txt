@@ -42,17 +42,19 @@ metronome, one continuous video OR an unlisted YouTube link) and Option
 B (Progression Pond's HOMEWORK mode, v0.6.9, MIDI required, all nine
 springs AND the Murk boss — course id "three_springs"). Canvas accepts
 THREE submission types (text entry + file upload + website URL).
-Third resident, 2026-09-18 (pass HW5-4, launched from —OER):
-hw5_first_three_stars.txt — HW #5, "The First Three Stars (video OR
-Orbit)". DRAFTED, no [FILL IN]: Option A a video of ONE melody (a
-handout tune or a self-transcribed favourite), RH alone, C then G then
-F, one take, no metronome, under 3 minutes, graded on accuracy not
-fingering — the —OER prompt's RECOMMENDED shape, every choice listed in
-section 5 as "assumed 2026-09-18, change if wrong"; Option B Orbit's
-shipped HOMEWORK mode (NO MIDI required; per key 15 drill tries at 75%
-+ one of the six handout melodies at the Slow tempo; course id
-"three_stars"), every string quoted from the code. Due Fri 2026-09-25
-6:00 PM Eastern, the same Friday as HW #3/#4 (both extended).
+Third resident, 2026-09-18 (pass HW5-4, launched from —OER; REVISED the
+same evening on Sam's read-back): hw5_first_three_stars.txt — HW #5,
+"The First Three Stars (video OR Orbit)". DRAFTED, no [FILL IN]: Option
+A a video of THREE handout melodies, one each in C, G and F, RH alone,
+WITH an audible metronome (any tempo), one file or one unlisted link
+(edits fine), graded on accuracy and rhythm, not fingering; Option B
+Orbit's shipped HOMEWORK mode (NO MIDI required; per key 15 drill tries
+at 75% + one of the six handout melodies at the Slow tempo; course id
+"three_stars") with PARTIAL CREDIT — a third per key, 0/33/67/100,
+which changed Grading_Hub's rubric (percent on keys_done) and Orbit's
+CODE-panel wording (committed, NOT yet tested or deployed: Godot would
+not launch in that session — the commands are in the file's section
+4). Due Fri 2026-09-25 6:00 PM Eastern, the same Friday as HW #3/#4.
 
 HOW IT RELATES TO THE REST OF THE OER
 -------------------------------------
@@ -83,16 +85,17 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
-(2026-09-18, later) HW #5's file is WRITTEN (hw5_first_three_stars.txt,
-DRAFTED). SAM: walk its section 4 — take Option B on the live site,
-paste your own code into Grading_Hub tab 2 with orbit_hw5.rubric.json
-ALONE, then tab 5 create in all four sections with all three submission
-types and Due 2026-09-25 18:00, Student View, publish; and read section
-5's twelve "assumed" Option A choices — each is a one-line edit if you
-want it otherwise. AGENT: next_steps item 1 (HW-DEADLINES, the Herdr
-pane queued from —OER as its item 19) is now unblocked — hw3/hw4
-due-date text + —Coursepack Week 5. Sam moves the HW #3/#4 Canvas due
-dates himself (Grading_Hub next_steps item S.c).
+(2026-09-18, evening) HW #5's file is WRITTEN and REVISED to Sam's three
+changes (hw5_first_three_stars.txt, DRAFTED). SAM, IN THIS ORDER, all
+in that file's section 4: (i) run Grading_Hub's two test suites (the
+rubric is now percent-on-keys_done; expected 858 passed); (ii) run
+Orbit's smoke test and tools/deploy_web.sh --prod (the CODE panel's
+partial-credit line is in source only); then take Option B live, paste
+three codes into Grading_Hub tab 2 with orbit_hw5.rubric.json ALONE
+(100 / 33 / 0), tab 5 create in all four sections with all three
+submission types and Due 2026-09-25 18:00, Student View, publish. Read
+section 5's remaining "assumed" Option A choices — one-line edits.
+AGENT: next_steps item 1 (HW-DEADLINES, —OER item 19) is unblocked.
 
 Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status

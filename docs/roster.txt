@@ -115,17 +115,16 @@ HW #5  The First Three Stars (video OR Orbit). NEW 2026-09-16 — REPLACES
        superseded. Two options since 2026-09-18 (Sam's call — students
        like a choice and the apps still have rough edges; reverses the
        design doc's "Orbit only").
-       Option A: no app — a VIDEO of the student playing ONE melody
-         (one of the six Week 5 handout tunes, or any melody they have
-         written out in scale degrees themself — the retired HW #7 idea,
-         title and artist named on camera, sheet shown), right hand
-         alone, in C then G then F, the key said before each, one
-         continuous take, steady tempo, no metronome, under 3 minutes;
-         graded on accuracy (right notes in every key, a steady beat),
-         NOT fingering; FILE UPLOAD or an unlisted YouTube link (WEBSITE
-         URL), as HW #4. Shape = the —OER prompt's recommended one,
-         every choice listed in the file's section 5 as "assumed
-         2026-09-18, change if wrong".
+       Option A (REVISED 2026-09-18 evening, Sam): no app — a VIDEO of
+         the student playing THREE different melodies from the six Week
+         5 handout tunes, right hand alone, one in C, one in G, one in F
+         (any order), the title and key said before each, WITH AN
+         AUDIBLE METRONOME at any tempo; ONE video (a single take or
+         edited clips) as a FILE UPLOAD or an unlisted YouTube link
+         (WEBSITE URL); graded on accuracy AND rhythm, a third per
+         melody, NOT fingering. The remaining choices (six-only, RH
+         alone, no time cap …) are listed in the file's section 5 as
+         "assumed 2026-09-18, change if wrong".
        Option B: Orbit HOMEWORK screen "THE FIRST THREE STARS" (course id
          "three_stars", a public identifier; NO MIDI required — mouse,
          computer keyboard and MIDI all work): for each of C, G and F
@@ -133,26 +132,33 @@ HW #5  The First Three Stars (video OR Orbit). NEW 2026-09-16 — REPLACES
          tries at 75% or better AND pass one of the six handout melodies
          in that key at the Slow tempo (85% in Perform on the fixed
          clock; credit goes to the slowest bpm used); TEXT ENTRY (KTS1
-         code, app "orbit", mode "three_stars"). A code is always
-         issued; only one taken at "FULL CREDIT EARNED" grades 100.
+         code, app "orbit", mode "three_stars"). PARTIAL CREDIT (Sam,
+         2026-09-18 evening): a third per key — 0 / 33 / 67 / 100 on
+         the code's keys_done row. A code is always issued; the line
+         above it says what it is worth; the newest code counts.
        One Canvas assignment accepting ALL THREE types (text entry +
          file upload + website URL), exactly HW #4's settings.
        Due: Fri 2026-09-25, 6:00 PM Eastern (2026-09-25T22:00:00Z; Sam,
          2026-09-18 — the same extended Friday as HW #3/#4; Quiz 3's
          melodies item is C/F/G, so this is its RH half).
-       Rubric: Grading_Hub/rubrics/orbit_hw5.rubric.json (BUILT 2026-09-16,
-         854 tests; one threshold column on "goal", 100, ALL-OR-NOTHING —
-         partial credit on keys_done is the design doc's open Q3, a
-         hub-only change if Sam wants it; Option B only. Option A is
-         hand-graded into a sheet and posted through tab 6.)
+       Rubric: Grading_Hub/rubrics/orbit_hw5.rubric.json (BUILT 2026-09-16
+         as a threshold on "goal"; CHANGED 2026-09-18 evening to one
+         "percent" column on keys_done, 100 points -> 0 / 33 / 67 / 100;
+         tests updated, 854 -> 858 expected but NOT YET RUN — Godot
+         would not launch in that session; Sam runs them, file section
+         4 (i). Option B only. Option A is hand-graded into a sheet and
+         posted through tab 6.)
        Content: —Homework/hw5_first_three_stars.txt (this repo). Written
          2026-09-18 (pass HW5-4) from Orbit's shipped screens; no [FILL
          IN] in the HTML.
-       Status: DRAFTED (2026-09-18). Game SHIPPED and LIVE (Orbit HW5-W,
-         Sam's replay passed 2026-09-18). Next: Sam's click-path in the
-         file's section 4 — take Option B on the live site, paste his
-         own code into Grading_Hub tab 2 with orbit_hw5 ALONE, tab 5
-         create in all four sections, Student View, publish.
+       Status: DRAFTED (2026-09-18, revised the same evening). Game
+         SHIPPED and LIVE (Orbit HW5-W, Sam's replay passed 2026-09-18)
+         BUT the CODE panel's partial-credit wording is committed, not
+         deployed — Sam runs Orbit's smoke test + tools/deploy_web.sh
+         --prod (file section 4 (ii)). Then Sam's click-path: take
+         Option B on the live site, paste codes into Grading_Hub tab 2
+         with orbit_hw5 ALONE (100 / 33 / 0), tab 5 create in all four
+         sections, Student View, publish.
 
 HW #6  The composition (steps and skips), with an opt-in alternative:
        "HW #6 (alternative) — Da Capo: Steps and Skips".

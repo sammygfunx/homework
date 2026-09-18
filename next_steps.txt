@@ -1,10 +1,12 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-09-18, later (pass HW5-4 from —OER: hw5_first_three_stars
-.txt WRITTEN — two options, Option A to the recommended shape with its
-assumptions listed in section 5, Option B quoted from Orbit's shipped
-screens; roster HW #5 row -> DRAFTED. Old item 2 is archived verbatim in
-history.txt. Earlier the same day: housekeeping — HW #3 and HW #4 are
+Updated: 2026-09-18, evening (pass HW5-4 from —OER, draft + Sam's
+revision: hw5_first_three_stars.txt WRITTEN — Option A three handout
+melodies in C/G/F with a metronome, Option B Orbit with PARTIAL CREDIT
+a third per key (a rubric change in Grading_Hub + a wording change in
+Orbit, both committed, NEITHER tested nor deployed — Godot would not
+launch; Sam runs them, file section 4). Roster HW #5 row -> DRAFTED.
+Old item 2 is archived verbatim in history.txt. Earlier the same day: housekeeping — HW #3 and HW #4 are
 LIVE in Canvas and Sam has EXTENDED both, plus HW #5, to Fri 2026-09-25
 18:00 Eastern.)
 Ranked high -> low. Item 1 is queued as a Herdr pane from —OER (prompt
@@ -32,9 +34,10 @@ which has now landed.
    Canvas user id — then tab 6 for the video grades from the sheet. Watch for: a student in both lists (last post wins — take the
    better grade), a video over the cap, whether 100 cards / nine
    springs + the Murk / three Orbit stars feel equal to the video in
-   effort, and (HW #5) whether a goal-0 Orbit code deserves partial
-   credit on keys_done (hw5_design.txt Q3 — a Grading_Hub-only rubric
-   change). Record findings in history.txt; a floor change is a Da Capo
+   effort, and (HW #5) whether a third per key (the partial-credit
+   ladder decided 2026-09-18) lands where Sam wants it — a half-key
+   (drill done, melody not) is not graded today. Record findings in
+   history.txt; a floor change is a Da Capo
    / Progression Pond / Orbit pass, not this repo.
 
 3. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2

@@ -48,6 +48,28 @@ reversal + due date, starter LATEST pointer; Grading_Hub next_steps S.a
 reworded to point at this file; —OER project_state Pass 27 writeup
 appended, next_steps item 18 DONE.
 
+SAME EVENING — SAM'S READ-BACK, THREE CHANGES (same thread):
+(1) Option A reshaped: THREE different handout melodies, one in each of
+C, G and F, RH alone, WITH an audible metronome at any tempo, the title
+and key said before each, ONE video file or ONE unlisted YouTube link
+(a single take or edited clips), graded on accuracy AND rhythm, a third
+per melody; the self-transcribed favourite, the "no metronome" and the
+3-minute cap from the draft are gone (section 5 lists what remains
+assumed, A1-A11). (2) Option B PARTIAL CREDIT, a third per key — the
+sensible unit is the code's keys_done row, so Grading_Hub/rubrics/
+orbit_hw5.rubric.json became a "percent" column on keys_done (0 / 33 /
+67 / 100; the hub rounds, so two keys is 67) with its test re-pinned
+and README updated, and Orbit's CODE panel got ResultCode
+.credit_percent / credit_line (gold PARTIAL line, coral NO-credit line,
+mint unchanged) with smoke pins. NEITHER SUITE RAN and Orbit is NOT
+redeployed: Godot would not launch in this session at all (even
+--version hung at _dyld_start, sandbox on or off) — the commands are
+the file's section 4 (i)/(ii). (3) The paste block is entity-safe
+(&#10022; &rarr; &middot;; zero non-ASCII characters between the
+===HTML=== lines) so tab 5 -> Canvas keeps the formatting. Roster,
+starter, project_state, next_steps updated; Orbit hw5_design.txt Q3
+DECIDED; Grading_Hub S.a re-pointed.
+
 ARCHIVED VERBATIM — next_steps.txt item 2 as it stood before this pass
 -----------------------------------------------------------------------
 2. HW5-4 — HW #5 "THE FIRST THREE STARS" ASSIGNMENT TEXT (two options)
