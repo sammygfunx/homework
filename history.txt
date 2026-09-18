@@ -1,5 +1,71 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS HW5-4 (2026-09-18, Opus 5, launched from —OER; also touched
+—Apps/Orbit docs, —Apps/Grading_Hub docs and —OER/docs)
+-----------------------------------------------------------------------
+hw5_first_three_stars.txt WRITTEN in hw4_chord_progressions.txt's five-
+section shape and voice (few em dashes, bold only on on-screen names and
+the two sentences that must stand out). Sam's two 2026-09-18 decisions
+baked in: HW #5 is TWO options for the same 100 (reverses Orbit's
+hw5_design.txt "Orbit only" — recorded there in section 8) and due Fri
+2026-09-25 6:00 PM Eastern (2026-09-25T22:00:00Z). OPTION A (video, no
+app) written to the —OER prompt's RECOMMENDED shape — one melody (one
+of the six handout tunes or a self-transcribed favourite in the retired
+HW #7's spirit), RH alone, C then G then F, key said before each, one
+continuous take with in-key restarts allowed, steady tempo / no
+metronome, under 3 minutes, accuracy not fingering, file upload or
+unlisted YouTube link, Room 269 line kept — with all twelve choices
+listed in section 5 as "assumed 2026-09-18, change if wrong". OPTION B
+(Orbit) written from the SHIPPED code, every string quoted from
+HomeworkScreen.gd / ResultCode.gd / MelodyTrainerScreen.gd / Main.gd /
+MidiManager.gd (HW5-W live, index.pck f2f86df3…e2d6; Sam's replay passed
+the same day): the ✦ Homework header button, the checklist intro with
+"15 or more tries at 75% or better" and "C first, then G, then F", the
+verdict strings, the CANVAS CODE panel's honest lines, the computer-
+keyboard map (Z row white, S D G H J L ; black, [ ] octave), the Slow
+tier / 85% / two-bar count-off / "counts as Slow" credit rule, browser
+localStorage persistence. TWO CORRECTIONS to the prompt, from the code:
+(1) a code is ALWAYS issued (GET CODE is not gated on goal — the honest
+line above the code says whether it earns credit; a goal-0 code grades
+0 in the hub), so the text says "only a code taken at FULL CREDIT
+EARNED earns credit" rather than pretending the button is gated; (2)
+the web build saves to localStorage ("orbit_profiles_v1"), not
+user://orbit_profiles.json (that is the desktop path). Section 4 = Sam's
+click-path (take Option B live, hub tab 3 rubric ALONE -> tab 2 paste
+own code -> 100 and a goal-0 code -> 0, tab 5 with all three types and
+the 09-25 Due pair, the "(description verified …)" tag, teacher view,
+Student View, publish) + the two-path grading procedure. Section 5 =
+the assumptions, what the code certifies (pitch + rhythm at Slow;
+NEITHER option grades fingering), the design doc's open Q3 (all-or-
+nothing today; partial credit on keys_done is a hub-only change), and
+a flag that orbit_hw5.rubric.json's header comment + Grading_Hub's
+README HW #5 paragraph still say "Orbit-only" (JSON untouched per the
+prompt; a Grading_Hub docs fix). docs/roster.txt HW #5 row rewritten:
+both options named, DRAFTED. Elsewhere: Orbit next_steps #0c -> its
+history with a pointer here, #0's "ONE PASS LEFT" -> "assignment
+written 2026-09-18, in —Homework", hw5_design.txt section 8 records the
+reversal + due date, starter LATEST pointer; Grading_Hub next_steps S.a
+reworded to point at this file; —OER project_state Pass 27 writeup
+appended, next_steps item 18 DONE.
+
+ARCHIVED VERBATIM — next_steps.txt item 2 as it stood before this pass
+-----------------------------------------------------------------------
+2. HW5-4 — HW #5 "THE FIRST THREE STARS" ASSIGNMENT TEXT (two options)
+   + ROSTER + CLICK-PATH (cross-repo: —Homework + —Apps/Orbit +
+   —Apps/Grading_Hub docs + —OER/docs; LAUNCH FROM —OER). Writes
+   hw5_first_three_stars.txt in hw4's five-section shape: Option A a
+   video (recommended shape in the —OER prompt; Sam confirms or edits
+   before "go"), Option B Orbit's shipped HOMEWORK mode quoted from the
+   real screens; due Fri 2026-09-25 6:00 PM Eastern; section 4 = Sam's
+   click-path (take Option B yourself, grade your own code with
+   orbit_hw5.rubric.json ALONE, tab 5 create with "Also accept: file
+   upload" (+ website URL if the text offers a YouTube link), Student
+   View, publish). Roster row -> DRAFTED. Orbit's #0c -> history with
+   a pointer here; hw5_design.txt section 8 records the reversal of
+   "Orbit only".
+   MODEL: opus | EFFORT: medium-high.
+
+
 
 PASS 3 (2026-09-16, Sonnet 5, PASS C, launched from —OER; also touched
 Progression_Pond docs and Grading_Hub/rubrics/pond_hw4.rubric.json)

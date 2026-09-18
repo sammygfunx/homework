@@ -1,16 +1,15 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-09-18 (housekeeping from —OER: HW #3 and HW #4 are LIVE
-in Canvas — the roster now says so — and Sam has EXTENDED both, plus
-HW #5, to Fri 2026-09-25 18:00 Eastern. HW #5 gains a VIDEO option
-beside the Orbit code (Sam's call: students like a choice, and the
-apps still have rough edges), so its assignment file moves HERE as
-hw5_first_three_stars.txt instead of Orbit's planned single-app
-canvas_assignment_hw5.txt. The DONE sub-items of the old items 1 and 2
-(HW #3's choreography + links, HW #4's planning + Option B text + Sam's
-answers) are archived in history.txt.)
-Ranked high -> low. Items 1 and 2 are queued as Herdr panes from —OER
-(prompts in —OER/docs/next_steps.txt); run them in that order.
+Updated: 2026-09-18, later (pass HW5-4 from —OER: hw5_first_three_stars
+.txt WRITTEN — two options, Option A to the recommended shape with its
+assumptions listed in section 5, Option B quoted from Orbit's shipped
+screens; roster HW #5 row -> DRAFTED. Old item 2 is archived verbatim in
+history.txt. Earlier the same day: housekeeping — HW #3 and HW #4 are
+LIVE in Canvas and Sam has EXTENDED both, plus HW #5, to Fri 2026-09-25
+18:00 Eastern.)
+Ranked high -> low. Item 1 is queued as a Herdr pane from —OER (prompt
+in —OER/docs/next_steps.txt item 19); it was told to wait for HW5-4,
+which has now landed.
 
 1. HW-DEADLINES — HW #3, #4 (and #5) TO FRI 2026-09-25 IN EVERY DOC
    (cross-repo: —Homework + —Coursepack + —OER/docs; LAUNCH FROM —OER).
@@ -25,38 +24,25 @@ Ranked high -> low. Items 1 and 2 are queued as Herdr panes from —OER
    MODEL: opus | EFFORT: medium (the coursepack half needs its rebuild
    + raster discipline; the —Homework half is text).
 
-2. HW5-4 — HW #5 "THE FIRST THREE STARS" ASSIGNMENT TEXT (two options)
-   + ROSTER + CLICK-PATH (cross-repo: —Homework + —Apps/Orbit +
-   —Apps/Grading_Hub docs + —OER/docs; LAUNCH FROM —OER). Writes
-   hw5_first_three_stars.txt in hw4's five-section shape: Option A a
-   video (recommended shape in the —OER prompt; Sam confirms or edits
-   before "go"), Option B Orbit's shipped HOMEWORK mode quoted from the
-   real screens; due Fri 2026-09-25 6:00 PM Eastern; section 4 = Sam's
-   click-path (take Option B yourself, grade your own code with
-   orbit_hw5.rubric.json ALONE, tab 5 create with "Also accept: file
-   upload" (+ website URL if the text offers a YouTube link), Student
-   View, publish). Roster row -> DRAFTED. Orbit's #0c -> history with
-   a pointer here; hw5_design.txt section 8 records the reversal of
-   "Orbit only".
-   MODEL: opus | EFFORT: medium-high.
-
-3. HW #3 / HW #4 — FIRST GRADING RUN, AND WHAT TO WATCH (Sam, after
-   Fri 2026-09-25; agent only if something breaks). Both paths into one
-   column: tab 1 batch pull (codes: dacapo_p4ths ALONE for HW #3,
-   pond_hw4 ALONE for HW #4) — the report lists "N file upload(s), no
-   code" by Canvas user id — then tab 6 for the video grades from the
-   sheet. Watch for: a student in both lists (last post wins — take the
+2. HW #3 / HW #4 / HW #5 — FIRST GRADING RUN, AND WHAT TO WATCH (Sam, after
+   Fri 2026-09-25; agent only if something breaks). All three are
+   two-path now. Both paths into one column: tab 1 batch pull (codes:
+   dacapo_p4ths ALONE for HW #3, pond_hw4 ALONE for HW #4, orbit_hw5
+   ALONE for HW #5) — the report lists "N file upload(s), no code" by
+   Canvas user id — then tab 6 for the video grades from the sheet. Watch for: a student in both lists (last post wins — take the
    better grade), a video over the cap, whether 100 cards / nine
-   springs + the Murk feel equal to the video in effort. Record
-   findings in history.txt; a tier change is a Da Capo / Progression
-   Pond pass, not this repo.
+   springs + the Murk / three Orbit stars feel equal to the video in
+   effort, and (HW #5) whether a goal-0 Orbit code deserves partial
+   credit on keys_done (hw5_design.txt Q3 — a Grading_Hub-only rubric
+   change). Record findings in history.txt; a floor change is a Da Capo
+   / Progression Pond / Orbit pass, not this repo.
 
-4. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2
+3. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2
    and #8 as "not recorded in —OER docs" and HW #1's exact due date and
    HW #6's graded-status as unknown. One line each from the Canvas
    assignments list closes them. No agent work.
 
-5. FUTURE MULTI-APP ASSIGNMENTS land here as hw<N>_<slug>.txt with a
+4. FUTURE MULTI-APP ASSIGNMENTS land here as hw<N>_<slug>.txt with a
    roster row, following hw4_chord_progressions.txt's shape exactly
    (it is the most complete: three submission types, two options, a
    click-path that was actually walked). If one needs a NEW hub

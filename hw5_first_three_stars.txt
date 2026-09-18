@@ -1,0 +1,549 @@
+===========================================================
+HW #5 — THE FIRST THREE STARS (video OR Orbit) — CANVAS ASSIGNMENT
+One assignment, two ways to earn it. Written 2026-09-18 (pass HW5-4,
+launched from —OER) from Orbit's SHIPPED screens (HW5-W, deployed
+2026-09-18, index.pck f2f86df3…e2d6 hash-verified; Sam's replay passed
+the same day, "all works now"). Option A's shape is the RECOMMENDED one
+from the —OER prompt, every choice listed in section 5 as "assumed
+2026-09-18, change if wrong". STATUS: DRAFTED, READY TO PASTE — no
+[FILL IN] in the section 1 HTML. Due Fri 2026-09-25, 6:00 PM Eastern
+(the same extended Friday as HW #3 and HW #4). Orbit course id for
+Option B: "three_stars" — a PUBLIC IDENTIFIER now that Grading_Hub's
+rubric names it; never rename it.
+===========================================================
+
+WHAT THIS FILE IS
+  Everything for HW #5, in the same five-section shape as
+  hw4_chord_progressions.txt (the template this copies):
+    section 1  the Canvas assignment (title + description, real HTML)
+    section 2  the ninety-second version to say in class
+    section 3  the message to students
+    section 4  Sam's click-path in Grading_Hub before the first student
+               sits it, and the two-path grading procedure after
+    section 5  thread notes — the assumed Option A choices, what Orbit's
+               code certifies and cannot, the design doc's still-open
+               partial-credit question, and what is true about this
+               assignment that does NOT belong in front of students
+
+  WHY THE NUMBER IS #5. This fall's HW #1 absorbed the old #3, #4 and
+  #5; HW #3 (Perfect 4ths) and HW #4 (Chord Progressions) backfilled the
+  first two gaps on 2026-09-15. HW #5 backfills the third and REPLACES
+  the unpublished Fall 2025 "HW #7: Melody in Scale Degrees" (its text is
+  preserved under HW #7 in docs/roster.txt). See docs/roster.txt.
+
+  WHY THIS FILE LIVES HERE. Until 2026-09-18 HW #5 was planned as Orbit
+  only (—Apps/Orbit/docs/hw5_design.txt section 1: "no video option",
+  because Orbit needs no MIDI). Sam reversed that on 2026-09-18: students
+  like a choice, and the apps still have rough edges, so HW #5 gets a
+  video option beside the code the way HW #3/#4 do. A two-option
+  assignment belongs in —Homework, not in the app's repo; Orbit's planned
+  canvas_assignment_hw5.txt was never written, and hw5_design.txt
+  section 8 records the reversal.
+
+  WHERE THIS SITS IN THE SEMESTER. Week 5 (Sep 14-20, 2026) is the
+  "Simple Melodies for Harmonization" handout: the six melodies in scale
+  degrees, Digital Coursepack pages 61-63. Quiz 3 (in class, Fri
+  2026-09-25) asks for three harmonized melodies, one each in C, F and
+  G — this assignment is its right-hand half.
+
+THE TWO FACTS EVERYTHING HANGS ON
+  OPTION A  ONE MELODY, RIGHT HAND ALONE, IN C, THEN G, THEN F, ON VIDEO.
+            The melody is one of the six handout tunes OR any melody the
+            student has written out in scale degrees themself (the
+            retired HW #7's idea, with its title-and-artist rule). One
+            continuous take, the key said aloud before each, a steady
+            tempo, no metronome required, under 3 minutes. Uploaded as a
+            video FILE or an unlisted YouTube link. Graded on ACCURACY
+            (the right notes in every key, a steady rhythm) — NOT on
+            fingering (section 5).
+  OPTION B  An Orbit KTS1 code from its HOMEWORK screen "THE FIRST THREE
+            STARS" (course id "three_stars" — frozen now that Grading_Hub/
+            rubrics/orbit_hw5.rubric.json names it; a renamed course
+            silently stops matching and every code grades as unmatched,
+            the Da Capo rule). SHIPPED and LIVE. What it certifies: for
+            each of C, G and F, a drill of 15 or more tries at 75% or
+            better AND one of the six handout melodies passed in Perform
+            at the Slow tempo (85%: the right pitches in the beat
+            windows after a two-bar count-in). What it cannot: fingering,
+            or which hand. NO MIDI REQUIRED — mouse, computer keyboard
+            and MIDI all play it. A code is ALWAYS issued; only one taken
+            when the checklist reads FULL CREDIT EARNED grades as 100.
+
+CANVAS SETTINGS
+  Submission Type: Online -> ALL THREE of "Text Entry", "File Uploads"
+    AND "Website URL" (Grading_Hub tab 5: dropdown "Online — text
+    entry", then tick BOTH "Also accept: Online — file upload" AND
+    "Also accept: Online — website URL" — exactly HW #4's settings). A
+    student who pastes a code is Option B; a student who uploads a file
+    or pastes an unlisted YouTube link is Option A. Canvas does not
+    force one-or-the-other; the description says ONE is counted.
+  Points: 100   (Option B's rubric is one threshold column worth 100,
+    all-or-nothing on the code's "goal" row; Option A is hand-graded out
+    of 100 on accuracy — no fixed point breakdown, HW #4's rule)
+  Attempts: unlimited — a later, better run or a re-recorded video
+  Due: Fri 2026-09-25, 6:00 PM Eastern (2026-09-25T22:00:00Z — the hub
+    sends the Eastern wall-clock time as UTC; confirm the pair in
+    Preview). Sam's call, 2026-09-18: the same extended Friday as HW #3
+    and HW #4, so students have one deadline for all three. Module =
+    Week 6 holds the due date (Week 6 is Sep 21-27); Week 5 is where the
+    content was taught — Sam picks which module it sits in (Q2 in
+    Grading_Hub/canvas_assignment_creation.txt).
+  NO AVAILABILITY WINDOW, same reasoning as HW #3/#4: not sat in class,
+    one due date across all four sections, stays open from creation to
+    Friday 6 PM.
+  ALLOWED FILE TYPES: the hub does not set Canvas's "restrict upload
+    file types" field. Leave it unrestricted (.mp4, .mov, .m4v, .webm,
+    plus .jpg/.png/.pdf for a scale-degree sheet photo) or restrict by
+    hand in Canvas after creation.
+  ASSIGNMENT GROUP / MODULE PLACEMENT: NOT SETTLED HERE — Sam types the
+    group name and module prefix into tab 5 (canvas_assignment_creation
+    .txt Q1/Q2).
+  LAB HOURS: Room 269, open at select hours (Sam, 2026-09-16, unchanged
+    for HW #4 and now this) — the description points students to the
+    posted schedule rather than naming times. A video needs a piano;
+    Orbit needs only a laptop, but the lab keyboards plug in as MIDI.
+
+
+===========================================================
+1. THE CANVAS ASSIGNMENT
+===========================================================
+
+------------------------------ TITLE ------------------------------
+HW #5 — The First Three Stars (video OR Orbit)
+
+--------------------------- DESCRIPTION ---------------------------
+(Paste everything between the two ===HTML=== lines into Grading_Hub tab
+5's Description box — the hub passes HTML through untouched. READY TO
+PASTE as of 2026-09-18: no [FILL IN]. Written in the voice of HW #4's
+final revision: few em dashes, bold only on on-screen names and the
+sentences that most need to stand out. Every quoted Orbit string below
+is the shipped one — scripts/screens/HomeworkScreen.gd, scripts/report/
+ResultCode.gd, scripts/screens/MelodyTrainerScreen.gd, scripts/Main.gd;
+if a string on the live site ever reads differently, the site wins and
+this file gets re-derived.)
+
+===HTML===
+<h3>Choose ONE option and submit ONLY ONE. Either option earns full credit for HW #5.</h3>
+<p>Pick the video if you'd rather play one tune you know well on a real piano and be done in one take. Pick Orbit if you'd rather drill the scale degrees with the game checking you, or you don't have a piano handy: Orbit runs on any laptop and needs no MIDI keyboard. They're worth the same. Submit one. You may do both for extra practice if you like, but only one submission is counted.</p>
+
+<h4>Option A - Record a video: one melody in C, G and F</h4>
+<p>Pick ONE melody. Either one of the six from this week's handout (Mary Had a Little Lamb, The Itsy Bitsy Spider, Jingle Bells, Vivaldi's Spring, Twinkle Twinkle, Happy Birthday), or any melody you love that you have written out in scale degrees yourself: a TV theme, a movie theme, a pop song, something from your own repertoire. If you bring your own, say the title and the artist on camera before you play, and hold your scale-degree sheet up to the camera (or attach a photo of it alongside the video).</p>
+<p>Record yourself playing it, right hand alone, in C major, then G major, then F major. That is Orbit's order too. Say the key out loud before each one. One continuous video, not three clips. If you stumble, start that key over and keep the camera rolling. A steady tempo, and slow is fine. No metronome required.</p>
+<p>Keep it under 3 minutes. Your hand and the keyboard need to be visible. A phone propped on the music stand is fine.</p>
+<p>Fingering is not graded on this one. What is: the right notes in all three keys, and a steady beat from the first note to the last in each key. <strong>Grading is based on accuracy: the right scale degrees in every key, at a steady tempo.</strong></p>
+<p>To submit: upload the video file in the <strong>File Upload</strong> tab below, or paste a link to an unlisted YouTube video in the <strong>Website URL</strong> tab. No cloud drive links.</p>
+
+<h4>Option B - Play Orbit: THE FIRST THREE STARS</h4>
+<p>Orbit is the transposition trainer: <a href="https://orbit-transpose.netlify.app">https://orbit-transpose.netlify.app</a></p>
+<p><strong>You do not need a MIDI keyboard.</strong> Click the on-screen keys with the mouse, or play your computer keyboard: the Z row (Z X C V B N M , . /) is the white keys starting on C, the S D G H J L ; keys are the black keys, and [ and ] move the octave down and up. A MIDI keyboard works too if you have one, and the Room 269 keyboards plug right in. Use a laptop or desktop in a current browser.</p>
+<ol>
+<li>On the first screen pick your name, or type a new one and press <strong>Begin</strong>. That profile is where your progress lives.</li>
+<li>Press <strong>✦ Homework</strong> in the header (it is on every screen), or <strong>✦ Homework: The First Three Stars</strong> on the Star Map.</li>
+</ol>
+<p>The homework screen is a checklist: C major, G major and F major, each with a DRILL box and a MELODY box. In the game's own words: "For each key: drill its scale degrees (15 or more tries at 75% or better), then learn one of the six coursepack melodies in that key (pass the Slow tempo). Orbit lights the stars in this order: C first, then G, then F." The <strong>Drill →</strong> and <strong>Melodies →</strong> buttons on each row take you straight there. G stays LOCKED until C is done, and F until G is done.</p>
+<p>The drill is Find the Note or Name the Note, your choice; both count. The 75% is your running accuracy in that key over everything you've played there, so slow and right beats fast and wrong. The melody box needs one of the six handout tunes passed in that key at the Slow tempo (the melody list marks the six with ✦ HW #5; any other tune still unlocks stars but does not earn the homework). Passing is 85% in Perform: after a two-bar count-in the clock runs, every note has a window, and a note is either the wrong pitch or late, never both. The tempo slider is yours, but credit goes to the slowest speed you used during the take: stay at or above the Slow tempo the whole way and it "counts as Slow"; dip below it and the results say "Practice tempo - no mastery credit", nothing recorded.</p>
+<p>Your progress saves in that browser, on that computer. Use the same browser and the same computer every time, and pick the same name. Clearing your browser's site data wipes it.</p>
+<p>The verdict line at the bottom of the checklist always tells you where you stand: "FULL CREDIT EARNED", or "2 KEYS TO GO · DRILL G: 3 MORE", "1 KEY TO GO · MELODY F: LEARN ONE", and so on. <strong>Only a code taken when the checklist reads FULL CREDIT EARNED earns credit.</strong> The game will hand you a code before that, but it says so right above the code: "This code does NOT earn credit yet ... it grades as 0 until you finish." Don't submit that one. Come back for a new code when the checklist is green.</p>
+<p>To submit: press <strong>GET CODE</strong>, type your first name, last name and Canvas ID (the number on your Canvas profile; your Orbit pilot name is not used), press GET CODE again, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Paste only the code, nothing else in the box, and paste all of it, from KTS1 to the last letter.</p>
+<p>The code certifies the right notes in a steady rhythm at the Slow tempo in all three keys, plus the drills. It says nothing about fingering; nothing in this assignment does.</p>
+
+<h4>Due Friday, September 25, 2026, 6:00 PM Eastern.</h4>
+<h4>Lab hours (Room 269)</h4>
+<p>Room 269 is open for practice at select hours this week. Check the posted schedule for exact times. Every keyboard there is full-size, MIDI-capable, and plugs into a computer. Cables provided, for either option.</p>
+===HTML===
+-------------------------------------------------------------------
+
+
+===========================================================
+2. WHAT TO SAY IN CLASS (about ninety seconds) — DRAFT
+===========================================================
+
+"HW #5 is the handout melodies in three keys, and like the last two you
+get to pick how you do it. Submit ONE.
+
+Option A: make a video. Pick one melody -- one of the six on the handout,
+or any tune you love that you've written out in scale degrees yourself;
+if it's your own, say the title and artist on camera and show me your
+sheet. Play it right hand alone in C, then G, then F. Say the key before
+each one. One continuous take, under three minutes, steady tempo, slow is
+fine, no metronome needed. I'm grading the right notes in every key and a
+steady beat; fingering isn't graded on this one. Upload the file to
+Canvas, or paste an unlisted YouTube link.
+
+Option B: Orbit. You do NOT need a MIDI keyboard -- the mouse or the
+computer keyboard plays it. Pick your name, press the gold Homework
+button, and you get a checklist: C, G and F, a drill box and a melody box
+each. Drill a key's scale degrees till it says 15 tries at 75%, then pass
+one of the six handout tunes in that key at the Slow tempo. C first, then
+G, then F -- the game unlocks them in that order. When the checklist says
+FULL CREDIT EARNED, GET CODE, name and Canvas ID, copy, paste the whole
+thing into the text box. If it says the code doesn't earn credit yet,
+believe it -- come back when it's green.
+
+Video or link in the file-upload or website-URL tab, code in the
+text-entry tab. Due Friday the 25th at 6 PM, same as HW #3 and #4. Same
+grade. Do one."
+
+
+===========================================================
+3. THE MESSAGE TO STUDENTS (Sam sends this) — DRAFT
+===========================================================
+
+Subject: HW #5 -- The First Three Stars, two ways to do it (submit ONE)
+
+HW #5 is on Canvas: "HW #5 -- The First Three Stars (video OR Orbit)".
+Pick ONE and submit only that one.
+
+OPTION A -- a video of you playing ONE melody, right hand alone, in C
+major, then G major, then F major. The melody is one of the six on this
+week's handout (Mary Had a Little Lamb, The Itsy Bitsy Spider, Jingle
+Bells, Vivaldi's Spring, Twinkle Twinkle, Happy Birthday), or any melody
+you love that you've written out in scale degrees yourself (say the title
+and artist on camera and show your sheet). Say the key before each one.
+One continuous take, under 3 minutes, steady tempo, slow is fine, no
+metronome required. Graded on accuracy: the right notes in every key and
+a steady beat. Fingering is not graded here. Upload the video file in the
+File Upload tab, or paste an unlisted YouTube link in the Website URL tab.
+
+OPTION B -- Orbit's homework, THE FIRST THREE STARS:
+  https://orbit-transpose.netlify.app
+No MIDI keyboard needed: the mouse or the computer keyboard plays it (a
+MIDI keyboard works too). Pick your name, press the gold Homework button.
+For each of C, G and F: drill that key's scale degrees to 15 tries at 75%
+or better, then pass one of the six handout tunes in that key at the Slow
+tempo (the melody list marks them HW #5). The game opens the keys in
+order, C then G then F. Use the same browser on the same computer every
+time; your progress lives there. When the checklist reads FULL CREDIT
+EARNED: GET CODE, your name and Canvas ID, COPY CODE, paste the whole
+code into the Text Entry tab. A code taken before that grades as 0 and
+the game tells you so above the code -- don't submit it.
+
+Same grade either way. Due Friday, September 25, 2026, 6:00 PM Eastern,
+the same night as HW #3 and HW #4.
+
+
+===========================================================
+4. BEFORE THE FIRST STUDENT SITS IT (Sam's click-path)
+===========================================================
+
+  BLOCKED UNTIL: nothing in the text — section 1 has no [FILL IN].
+  Option A's shape is the recommended one (section 5 lists every
+  assumption; each is a one-line edit if Sam wants it otherwise). Orbit's
+  HOMEWORK mode, KTS1 code path and hub rubric have all shipped; Sam's
+  replay passed 2026-09-18. The one live check that has never been done
+  is the first box below.
+
+  [ ] TAKE OPTION B YOURSELF, ON THE LIVE SITE. https://orbit-transpose
+      .netlify.app, hard-refresh first (Cmd+Shift+R — three of Sam's
+      2026-09-18 reports were a cached index.pck). A fresh profile:
+      Begin -> ✦ Homework -> the checklist reads "3 KEYS TO GO · DRILL C:
+      15 MORE" and G/F rows say LOCKED. Drill C to "✓ done", pass one of
+      the six in C at Slow (the results line must say "✓ Passed at Slow
+      tempo!"), watch G unlock, repeat for G, then F. Checklist ->
+      "FULL CREDIT EARNED" in mint. GET CODE with an empty field -> the
+      coral "All three fields are needed" line; fill them -> the mint
+      "This code earns full credit. Paste it into the HW #5 text box on
+      Canvas." -> COPY CODE -> "COPIED." Close the tab, reopen the site:
+      the profile and its checklist are still there (browser
+      localStorage, key orbit_profiles_v1).
+  [ ] Grading_Hub -> tab 3 "Rubrics & Export" -> load rubrics/
+      orbit_hw5.rubric.json ALONE (never beside pond_hw4 or dacapo_*;
+      README, ONE RUBRIC PER GRADE) -> tab 2 "Paste codes" -> paste your
+      own code -> it must read 100 with mode three_stars. Then, from a
+      SECOND fresh profile with nothing done, take a goal-0 code (the
+      coral "does NOT earn credit yet" one) and paste it too: it must
+      grade 0, not unmatched. (Grading_Hub next_steps item S.a.)
+  [ ] Grading_Hub -> tab 5 "Create Assignments" -> create it in all four
+      sections. Follow canvas_assignment_creation.txt's walkthrough; the
+      values that differ from the Steps and Skips example are:
+        Sections     the four "label,course_id" lines, as always
+        Title        HW #5 — The First Three Stars (video OR Orbit)
+                     (copy from section 1 so the em dash is real; this
+                     string is the re-run match key)
+        Points       100
+        Submission   Online — text entry            <- the dropdown
+        Also accept  TICK "Online — file upload" AND "Online — website
+                     URL"    <- both, as HW #4 (a video file OR an
+                     unlisted YouTube link)
+        Group        <the exact group heading -- copy-paste, see Q1>
+        Module       Week 6   (the week holding the due date; or Week 5
+                     if Sam prefers it beside the content — his call)
+        Available from   blank
+        Due          2026-09-25 18:00  (Preview must show Fri 2026-09-25
+                     18:00 Eastern beside 2026-09-25T22:00:00Z)
+        Until        blank
+        Description  the HTML block from section 1, between the
+                     ===HTML=== lines, ONE paste of the whole block
+        Publish immediately   unticked for the rehearsal run
+      Tick "Enable assignment creation", press Preview, and CHECK the
+      Submission line reads exactly
+          Submission   Online — text entry + Online — file upload + Online — website url
+      and the Due pair above. Then Create. Read each section's results
+      row: it must end "(description verified: Canvas stored the full
+      text)". A red "✗ DESCRIPTION MISMATCH" line is a real finding —
+      bring it back verbatim (Grading_Hub next_steps item 14).
+  [ ] OPEN THE ASSIGNMENT IN CANVAS AS A TEACHER and confirm the
+      Submission Type box says "Online" with "Text Entry", "File
+      Uploads" AND "Website URL" all checked (HW #4 went to real
+      Canvas with the same three-type request on 2026-09-16). Skim the
+      description once for layout — the ✦ and → glyphs and the "·" in
+      the verdict quotes should render; if Canvas's sanitizer ate one,
+      the plain-text fallbacks are "Homework" / "Drill" / "-".
+      Optionally "Restrict Upload File Types": mp4,mov,m4v,webm,jpg,
+      png,pdf (the last three for a scale-degree sheet photo).
+  [ ] Student View: confirm the submission box offers a Text Entry tab,
+      a File Upload tab AND a Website URL tab.
+  [ ] Publish (Canvas's toggle, four clicks, or tab 5's bottom card).
+  [ ] Send section 3's message; say section 2's version in class.
+  [ ] docs/roster.txt HW #5 row: DRAFTED -> CREATED IN CANVAS -> LIVE as
+      each happens.
+
+  GRADING IT, after Fri 2026-09-25 6 PM -- two paths into ONE gradebook
+  column, HW #3/#4's procedure verbatim (Grading_Hub next_steps S.a):
+  [ ] CODES (Option B): Grading_Hub tab 1, Batch pull with
+      orbit_hw5.rubric.json loaded ALONE -> one CSV per section, or tab 4
+      Batch Post. A goal-0 code grades 0 (not unmatched) — that student
+      submitted early; a Pond "three_springs" or Da Capo code pasted here
+      by mistake lands in no_rubric and is listed loudly, not scored.
+      The report's per-section line prints
+          N file upload(s), no code — hand-grade these, post via tab 6
+      -- that is the Option A list, by Canvas user id, covering BOTH a
+      video file upload AND an unlisted YouTube link (uploads_without_
+      code catches "online_url" since HW #4's pass).
+  [ ] VIDEOS (Option A): watch each one in SpeedGrader (some as file
+      uploads, some as unlisted YouTube links pasted into Website URL).
+      Grade out of 100 on accuracy — the right scale degrees in each of
+      C, G and F, a steady beat within each key; the key named before
+      each; a self-transcribed melody names its title and artist and
+      shows the sheet. No fixed point breakdown (HW #4's rule). Enter
+      each grade in the grading sheet (the tab 6 shape: "MUSC 1105
+      (001)" marker rows, a "Canvas ID" column, a "TOTAL" column), video
+      students ONLY, then Grading_Hub tab 6 "Post External Grades". Last
+      post wins for a student in both lists -- take the better one
+      (HW #3 section 5's reasoning applies unchanged).
+
+  NOTHING IN THIS FILE CHANGES THE GAME. The credit rule lives in Orbit's
+  scripts/report/ResultCode.gd (DRILL_MIN_ATTEMPTS 15, DRILL_MIN_ACCURACY
+  0.75, HOMEWORK_MELODY_IDS, the 0.85 Perform pass in ProgressManager.
+  record_melody_attempt), the course id in the same file, and all of it
+  is decided there, not here. If a floor moves, Orbit's smoke-test pins
+  move in the same commit and the site is redeployed; the rubric and
+  this file's quoted "15 or more tries at 75% or better" then follow.
+
+
+===========================================================
+5. THREAD NOTES — true, but NOT for the assignment text
+===========================================================
+
+OPTION A — THE ASSUMED CHOICES (all "assumed 2026-09-18, change if
+wrong"; each is a one-line edit to section 1 once Sam says otherwise,
+the way HW #3's six and HW #4's ten were):
+
+  A1 ONE MELODY, from the six handout tunes OR self-transcribed (the
+     retired HW #7's idea: name the title and artist on camera, show or
+     photograph the scale-degree sheet; no original melodies, as HW #7
+     ruled). Assumed. Alternative: six-only, which would make the video
+     exactly Orbit's melody half with no drill half.
+  A2 RIGHT HAND ALONE. Assumed (Orbit's trainer is a single line, and
+     the quiz's RH half is what this rehearses). Alternative: hands
+     together with a simple LH, which is Week 6+ material.
+  A3 KEY ORDER C, THEN G, THEN F — Orbit's unlock order, so both options
+     describe the same journey. Assumed. HW #4 accepted any order; this
+     text asks for the one order but a grader should not dock a student
+     who plays C, F, G (section 4 says "the right notes in every key").
+  A4 SAY THE KEY BEFORE EACH — so the grader can follow a self-chosen
+     tune. Assumed.
+  A5 ONE CONTINUOUS TAKE, a restart inside a key allowed if the camera
+     keeps rolling. Assumed (HW #4's rule, softened by the restart).
+  A6 STEADY TEMPO, SLOW IS FINE, NO METRONOME REQUIRED — HW #4's choice,
+     not HW #3's audible-metronome rule. Assumed. Orbit's Slow tiers for
+     the six are 60-80 bpm (Itsy Bitsy 44 dotted-quarter); a video need
+     not match them.
+  A7 UNDER 3 MINUTES. Assumed. Three keys of a 6-16 bar tune at a slow
+     tempo is 60-120 s; 3 minutes leaves room for a restart and the
+     spoken keys. HW #3 was 2 minutes for 100 s of content; HW #4 had no
+     cap.
+  A8 GRADED ON ACCURACY ONLY (right notes in every key, a steady
+     rhythm), NO FIXED POINT BREAKDOWN — HW #4's rule. Fingering NOT
+     graded: it is a single-line melody, not a chord shape, and Orbit
+     cannot see fingers either, so neither option grades it. Assumed.
+  A9 FILE UPLOAD OR UNLISTED YOUTUBE LINK, no cloud-drive links —
+     exactly HW #4. Assumed.
+  A10 HAND AND KEYBOARD VISIBLE, phone on the music stand fine — HW #4's
+     line, kept though fingering is not graded (the grader still has to
+     see the right keys go down). Assumed.
+  A11 THE LAB-HOURS LINE (Room 269, posted schedule) kept from HW #4 —
+     a video needs a piano. Assumed.
+  A12 "CANVAS ID" in the text, not HW #4's "school ID" — because Orbit's
+     CODE panel literally says "Canvas ID / the number on your Canvas
+     profile" and the two texts should agree. For the batch-pull path it
+     does not matter (tab 4 posts by Canvas user_id from the pull; the
+     typed id only matters for a CSV import, Grading_Hub quirk 1).
+
+OPTION B — WHAT ACTUALLY SHIPPED (every string quoted from the code on
+2026-09-18; the live build is HW5-W, index.pck f2f86df3…e2d6):
+  ENTRY   ProfileSelectScreen: "Who's practicing today?" / "Pick your
+          name, or create a new pilot profile." / "New student name" /
+          "Begin". Header (Main.gd, every screen): "Star Map", "Stats",
+          "✦ Homework" (gold), the MIDI status ("No MIDI yet: plug one
+          in (mouse/keys OK)" on the web build), "Switch Student". Star
+          Map: "◎  Scale-Degree Drill", "♪  Melody Trainer", "✦
+          Homework: The First Three Stars" (gold), and the hint "Gold
+          ring = mastery in this key. Master a key's drills and at least
+          one melody to warp to the next star system."
+  INPUT   MidiManager: real MIDI (hot-plug on the web, no click needed),
+          mouse/touch on the on-screen Keyboard, and the computer
+          keyboard "mapped like a typical DAW": _WHITE_ROW = Z X C V B N
+          M , . / from C, _BLACK_ROW = S D G H J L ;, [ / ] shift the
+          octave. Typing in the CODE panel's fields never plays notes
+          (MidiManager listens to unhandled input only).
+  HOMEWORK SCREEN (HomeworkScreen.gd): "← Star Map"; title "THE FIRST
+          THREE STARS"; "Homework #5 · C, G and F major"; the intro
+          quoted in section 1 (its numbers are ResultCode's constants,
+          so a moved floor re-words the screen by itself); columns "" /
+          "DRILL" / "MELODY" / ""; rows "C Major" "G Major" "F Major";
+          DRILL cell "0/15 tries" + "not started", "12/15 tries · 81%" +
+          "3 more" (gold) / "✓ done" (mint) / "✕ need 75% · keep
+          drilling" (coral); MELODY cell "none yet" + "pick one of the
+          six", "✓ Twinkle Twinkle" + "done" / "done · +1 more"; LOCKED
+          rows "LOCKED" + "finish C's drill and a melody first" /
+          "opens with the G star", buttons disabled; "Drill →" /
+          "Melodies →"; "Melodies that count: Mary Had a Little Lamb ·
+          The Itsy Bitsy Spider · Jingle Bells · Spring (Vivaldi) ·
+          Twinkle Twinkle · Happy Birthday. Any other melody still
+          unlocks stars but does not earn the homework."; the verdict
+          line; "GET CODE".
+  VERDICTS (ResultCode.verdict / next_step): "FULL CREDIT EARNED", else
+          "N KEY(S) TO GO · <step>" with step one of "DRILL G: 3 MORE",
+          "DRILL G: 75% NEEDED (NOW 66%)", "MELODY G: LEARN ONE" — the
+          first undone key in C -> G -> F order, drill before melody.
+  CODE PANEL: "CANVAS CODE"; the verdict repeated; "Type your name and
+          Canvas ID, then GET CODE. A code is always issued; the line
+          above says whether it earns credit yet."; fields "First name"
+          (placeholder "as it appears in Canvas"), "Last name", "Canvas
+          ID" ("the number on your Canvas profile"); "Your Canvas ID
+          must match the gradebook exactly, or the grade lands on the
+          wrong row. Your Orbit pilot name is not used."; "GET CODE" /
+          "BACK"; refusal "All three fields are needed: first name, last
+          name and Canvas ID."; the who line "<first> <last> · Canvas ID
+          <sid> · The First Three Stars"; the honest line "This code
+          earns full credit. Paste it into the HW #5 text box on
+          Canvas." (mint) or "This code does NOT earn credit yet (DRILL
+          C: 15 MORE). It is real and Canvas will accept it, but it
+          grades as 0 until you finish. Come back for a new code when the
+          checklist reads FULL CREDIT EARNED." (coral); "COPY CODE puts
+          it on your clipboard; or click in the box, select all and
+          copy."; "COPY CODE" -> "COPIED. Paste it into the HW #5 text
+          box on Canvas."; "DONE". The last typed first/last/ID are kept
+          on the profile so a re-take is one click.
+  THE CODE: KTS1, app_id "orbit", mode "three_stars", week 0; 17 rows —
+          goal, keys_done, drill_c/g/f (attempts, correct), melody_c/g/f,
+          unlocked, one row per coursepack melody (HW keys learned in),
+          level, cheats (always 0 today; the hook). Grading_Hub reads
+          "goal" only.
+  THE MELODY HALF (MelodyListScreen / MelodyTrainerScreen /
+          ProgressManager): the list's first section "✦ Homework #5 ·
+          The First Three Stars" with the hint "These six count toward
+          the homework. Pass the Slow tempo (or faster) in C Major to
+          check this key's melody box."; each card "✦ HW #5", "N notes ·
+          not yet learned in this key" / "N notes · best: Slow tempo ✓",
+          "Practice →". The trainer: "① Listen" ("▶  Listen"), "② Build
+          (phrase 1 / 4)" ("Listen, then play it back on the keyboard."),
+          "③ Perform". The tempo slider (40..200 bpm, per profile, starts
+          at the tune's Slow tier) with its hint "counts as Slow" /
+          "practice only — Slow is 60 bpm"; the menu's "▶  Perform at N
+          bpm". The count-off: PERFORM_COUNT_OFF_BARS 2, "Count-in 1..8"
+          (12 in 6/8; "Count-in 8 · pickup! start on C4 (the gold key)"
+          for a tune with an anacrusis), then "Play!". The window
+          PERFORM_EARLY_RATIO 0.15 / PERFORM_LATE_RATIO 0.22 of a beat;
+          presses before a window are discarded; "Missed — keep going!",
+          "Right note, late — keep going!", "Not quite — keep going!";
+          "End Early". Results: "✓ Passed at Slow tempo!  (60 bpm)" /
+          "Keep practicing this tempo.  (60 bpm counts as Slow)" /
+          "Practice tempo — no mastery credit; Slow is 60 bpm"; "Pitch
+          accuracy: N%   ·   On-tempo: M%"; "Rhythm: N of M in the
+          window"; "Try Again"; a "✦ Homework" button on the results
+          row. THE SCORE: pitch accuracy × (0.5 + 0.5 × on-tempo
+          fraction), 0.85 to pass (ProgressManager.record_melody_attempt
+          marks passed[tier]); THE TIER: the highest tier whose bpm <=
+          the slowest bpm the slider sat at during the attempt; below
+          Slow nothing is recorded. Slow tiers of the six: Mary 60,
+          Twinkle 60, Spring 66, Jingle Bells 72, Happy Birthday 80,
+          Itsy Bitsy 132 eighth-bpm (dotted quarter 44) in 6/8.
+  THE DRILL HALF (DegreeDrillScreen): "Find the Note" ("Play this scale
+          degree in C Major") / "Name the Note" ("What scale degree is
+          this?"), both call ProgressManager.record_drill(key, correct,
+          ms); the running accuracy is correct/attempts over the key's
+          WHOLE history (a student who starts badly must play it up —
+          Orbit next_steps #0's note about a windowed accuracy).
+  UNLOCKS: Orbit's own rule (ProgressManager._maybe_unlock_next_key:
+          drill_ready = 15 at 75% AND any melody learned) opens G after
+          C and F after G — the same floor as the homework's drill half,
+          so the homework order is forced C -> G -> F and a non-handout
+          melody can unlock a star without earning the homework (the
+          screen says so). The code's rule reads the drill stats and the
+          melody matrix directly, never unlocked_key_count.
+  PERSISTENCE: ProgressManager saves to browser localStorage under the
+          key "orbit_profiles_v1" on the web build (user://
+          orbit_profiles.json is the DESKTOP path — the —OER prompt and
+          Pass 26's note said user:// for the browser; the code says
+          localStorage). Same browser + same computer + same profile
+          name; clearing site data wipes it. Multiple profiles per
+          browser are fine (a shared lab machine).
+  A CODE IS ALWAYS ISSUED. The —OER prompt's "the code comes only when
+          all three keys are done" is not what shipped: GET CODE works
+          at any point, the honest line above the code says whether it
+          earns credit, and a goal-0 code grades 0 in the hub (not
+          unmatched). Section 1 says this in the student's terms rather
+          than pretending the button is gated.
+
+WHAT THE CODE CERTIFIES AND WHAT IT CANNOT — say it plainly, everywhere
+this assignment is described. Orbit hears pitch and timing from any of
+its three inputs; it never sees fingers, and a mouse click is as good as
+a key press. So Option B certifies: for each of C, G and F, 15+ drill
+answers at 75%+ running accuracy, and one of the six handout melodies
+played with the right scale degrees inside the beat windows at the Slow
+tempo (85% of pitch × rhythm). It cannot certify fingering, hand, or
+that the student played a real keyboard at all. Option A does not grade
+fingering either (A8) — so, unlike HW #4, NEITHER option grades
+fingering, and section 1 says so in one sentence per option.
+
+THE DESIGN DOC'S STILL-OPEN Q3 — PARTIAL CREDIT. hw5_design.txt section
+8 Q3 asks whether a goal-0 code gets keys_done / 3 × 100 or nothing.
+TODAY: all-or-nothing, like HW #3/#4 Option B — rubrics/orbit_hw5
+.rubric.json is one threshold column on "goal". The code already carries
+keys_done (0-3), so a partial-credit rubric is a GRADING_HUB-ONLY change
+(a linear column on keys_done, points 100, no Orbit deploy, no change to
+this text except the "grades as 0 until you finish" quote, which is the
+game's own line and would then be wrong on screen). Sam decides after
+the first grading run; the roster row says all-or-nothing until then.
+
+WHAT HAPPENS IF A STUDENT DOES BOTH, and HOW THE TWO GRADING PATHS
+COEXIST: unchanged from hw3_perfect_4ths.txt section 5 — file uploads
+and URLs never reach the rubric, the pull report lists them by Canvas
+user id, tab 6 posts only the sheet's rows, last post wins per student,
+take the better one.
+
+THE DOUBLE-CREDIT LEAK does not apply: Orbit has ONE rubric that names
+its mode "three_stars", and no beat-the-game twin without a mode. A
+Pond "three_springs" or Da Capo code pasted here is rejected into
+no_rubric (Grading_Hub _test_orbit_hw5_rubric pins all three).
+
+THE RUBRIC'S HEADER COMMENT IS STALE (2026-09-18): rubrics/orbit_hw5
+.rubric.json's comment still says "Orbit-only, TEXT ENTRY, one code;
+there is no video option" and names —Apps/Orbit/canvas_assignment_hw5
+.txt as the assignment text; Grading_Hub's README.txt HW #5 paragraph
+says the same. The JSON that grades is right and untouched (this pass
+was told not to change the rubric); the comment and the README line are
+a Grading_Hub docs-only fix for whoever next touches that repo.
+
+STILL DATA-ONLY IN ORBIT, NOT BLOCKING: Vivaldi's Spring's notes come
+from HW5-N's transcription of Sam's string until his Spring MusicXML
+lands in —Apps/Orbit/musicxml/ (one command, Orbit next_steps #0). A
+student who picks Spring in Orbit before then plays the transcription;
+Sam judged it playable on 2026-09-18.
+
+EVERYTHING IS WRITTEN (pass HW5-4, 2026-09-18). Section 1's HTML has no
+[FILL IN]. The things this file cannot do for Sam: play Option B on the
+live site, paste his own code into the hub, and press the buttons in
+tab 5 and Canvas — section 4's checklist.

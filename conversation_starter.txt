@@ -35,19 +35,24 @@ Created 2026-09-15 (Pass 24, launched from —OER since it touched
 Grading_Hub + Da_Capo + this new folder). First resident:
 hw3_perfect_4ths.txt — HW #3, "Perfect 4ths (video OR Da Capo)".
 Second resident, same day (Pass 25, planning): hw4_chord_progressions
-.txt — HW #4, "Chord Progressions (video OR Progression Pond)". Status
-DRAFTED, COMPLETE (2026-09-16, Pass 3 = PASS C + Sam's same-day answers,
-launched from —OER): Option A (nine progressions, correct fingering,
+.txt — HW #4, "Chord Progressions (video OR Progression Pond)". COMPLETE
+2026-09-16 and LIVE: Option A (nine progressions, correct fingering,
 hands together preferred/separate OK, three-note voicings, no
-metronome, one continuous video OR an unlisted YouTube link, vague
-accuracy+fingering grading) and Option B (Progression Pond's shipped,
-live homework mode, v0.6.9, MIDI required, credit needs all nine
-springs AND the Murk boss beaten — course id "three_springs", CONFIRMED
-public identifier) are BOTH written in full. No [FILL IN] remains in
-section 1's HTML. Due Fri 2026-09-18, 6:00 PM Eastern, published same
-day it was finished. Canvas now accepts THREE submission types (text
-entry + file upload + website URL); Grading_Hub's uploads_without_code
-was extended the same pass to catch the new website-URL path.
+metronome, one continuous video OR an unlisted YouTube link) and Option
+B (Progression Pond's HOMEWORK mode, v0.6.9, MIDI required, all nine
+springs AND the Murk boss — course id "three_springs"). Canvas accepts
+THREE submission types (text entry + file upload + website URL).
+Third resident, 2026-09-18 (pass HW5-4, launched from —OER):
+hw5_first_three_stars.txt — HW #5, "The First Three Stars (video OR
+Orbit)". DRAFTED, no [FILL IN]: Option A a video of ONE melody (a
+handout tune or a self-transcribed favourite), RH alone, C then G then
+F, one take, no metronome, under 3 minutes, graded on accuracy not
+fingering — the —OER prompt's RECOMMENDED shape, every choice listed in
+section 5 as "assumed 2026-09-18, change if wrong"; Option B Orbit's
+shipped HOMEWORK mode (NO MIDI required; per key 15 drill tries at 75%
++ one of the six handout melodies at the Slow tempo; course id
+"three_stars"), every string quoted from the code. Due Fri 2026-09-25
+6:00 PM Eastern, the same Friday as HW #3/#4 (both extended).
 
 HOW IT RELATES TO THE REST OF THE OER
 -------------------------------------
@@ -78,14 +83,16 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
-(2026-09-18) HW #3 and HW #4 are LIVE in Canvas and Sam has EXTENDED
-both, plus HW #5, to Fri 2026-09-25 18:00 Eastern; HW #5 gains a VIDEO
-option beside the Orbit code, so its file will live HERE as
-hw5_first_three_stars.txt. Two panes queued from —OER, in this order:
-next_steps item 1 (HW-DEADLINES: hw3/hw4 due-date text + —Coursepack
-Week 5) then item 2 (HW5-4: write hw5_first_three_stars.txt, roster ->
-DRAFTED, Sam's click-path). Sam moves the Canvas due dates himself
-(Grading_Hub next_steps item S.c) — that does not wait on either pane.
+(2026-09-18, later) HW #5's file is WRITTEN (hw5_first_three_stars.txt,
+DRAFTED). SAM: walk its section 4 — take Option B on the live site,
+paste your own code into Grading_Hub tab 2 with orbit_hw5.rubric.json
+ALONE, then tab 5 create in all four sections with all three submission
+types and Due 2026-09-25 18:00, Student View, publish; and read section
+5's twelve "assumed" Option A choices — each is a one-line edit if you
+want it otherwise. AGENT: next_steps item 1 (HW-DEADLINES, the Herdr
+pane queued from —OER as its item 19) is now unblocked — hw3/hw4
+due-date text + —Coursepack Week 5. Sam moves the HW #3/#4 Canvas due
+dates himself (Grading_Hub next_steps item S.c).
 
 Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status

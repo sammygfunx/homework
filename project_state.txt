@@ -1,26 +1,28 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-16 (Pass 3 = PASS C, Sonnet 5, launched from
-—OER, two passes the same day). FIRST: Progression Pond's homework mode
-is fully shipped, played, and LIVE at v0.6.9 — Sam played it again and
-confirmed the balance as shipped, so no fish/pad numbers changed.
-hw4_chord_progressions.txt's Option B block replaced with real text
-written from the shipped screens, including the credit rule requiring
-the Murk boss; Grading_Hub/rubrics/pond_hw4.rubric.json header comment
-reworded to say the credit floor is nine springs AND the boss. SECOND,
-same day: Sam answered every remaining open question at once (key
-order, tempo/metronome, takes, time cap, hands together/separate,
-voicings, fingering source, grading scale, MIDI-only for Option B) and
-set the due date (Fri 2026-09-18, 6:00 PM Eastern, published same day).
-Section 1's HTML now has NO [FILL IN] anywhere and is ready to paste.
-Option A also gained a second submission path (an unlisted YouTube link
-via Canvas's Website URL type, alongside File Upload), which required a
-real code fix in Grading_Hub: CanvasPull.uploads_without_code did not
-recognize "online_url" submissions and would have made a URL-only
-student invisible to both the code-decode path and the hand-grade list
-— fixed, 791 -> 795 tests + smoke. Roster row PLANNED -> DRAFTED
-(COMPLETE).
+Last updated: 2026-09-18 (pass HW5-4, Opus 5, launched from —OER).
+hw5_first_three_stars.txt WRITTEN — HW #5 "The First Three Stars (video
+OR Orbit)", the third resident, DRAFTED with no [FILL IN]. Sam's two
+2026-09-18 decisions baked in: two options for the same 100 (reversing
+Orbit's hw5_design.txt "Orbit only"; students like a choice and the
+apps still have rough edges) and due Fri 2026-09-25 6:00 PM Eastern.
+Option A (a video of ONE melody, RH alone, C then G then F) is the —OER
+prompt's RECOMMENDED shape; its twelve choices are listed in section 5
+as "assumed 2026-09-18, change if wrong". Option B is written from
+Orbit's SHIPPED code (HW5-W, live, Sam's replay passed) with every
+on-screen string quoted; two prompt assumptions were corrected from the
+code (a code is ALWAYS issued — the honest line above it says whether
+it earns credit; the web build persists to browser localStorage, not
+user://). Roster HW #5 row -> DRAFTED, both options named. No other
+repo's code touched; Orbit / Grading_Hub / —OER docs updated in the
+same pass. Earlier the same day (housekeeping from —OER): roster HW
+#3/#4 -> LIVE, all three extended to 2026-09-25.
+Before that: 2026-09-16 (Pass 3 = PASS C, Sonnet 5): Progression Pond's
+homework mode LIVE at v0.6.9; hw4_chord_progressions.txt's Option B
+written from the shipped screens; Sam answered every open question the
+same day; Grading_Hub's uploads_without_code fixed for "online_url"
+(791 -> 795 tests). Roster row PLANNED -> DRAFTED (COMPLETE).
 Before that: 2026-09-15 (Pass 25, planning: hw4_chord_progressions.txt
 drafted, status PLANNED; roster row; no other repo's code touched).
 
@@ -97,12 +99,74 @@ CONTENTS (2026-09-15)
                          the game certifies (chord, inversion, together,
                          all three keys) and what it cannot (fingering,
                          hands).
+  hw5_first_three_stars.txt
+                         HW #5 — The First Three Stars (video OR
+                         Orbit). DRAFTED 2026-09-18 (pass HW5-4), no
+                         [FILL IN]. One assignment, two options for the
+                         same 100:
+                           A  a video (file upload or unlisted YouTube
+                              link): ONE melody — one of the six Week 5
+                              handout tunes or any melody the student
+                              has written out in scale degrees themself
+                              (the retired HW #7's idea: title + artist
+                              on camera, sheet shown) — RH alone in C,
+                              then G, then F (Orbit's order), the key
+                              said before each, one continuous take
+                              (in-key restarts OK), steady tempo, no
+                              metronome, under 3 minutes; graded on
+                              accuracy (right notes in every key, a
+                              steady beat), NOT fingering. The
+                              RECOMMENDED shape from the —OER prompt;
+                              section 5 lists all twelve choices as
+                              "assumed 2026-09-18, change if wrong".
+                           B  Orbit's HOMEWORK screen "THE FIRST THREE
+                              STARS" (course id "three_stars", public
+                              identifier; NO MIDI required — mouse,
+                              computer keyboard, MIDI): per key (C, G,
+                              F, the unlock order) 15+ drill tries at
+                              75%+ running accuracy AND one of the six
+                              handout melodies passed at the Slow tempo
+                              (85% on the fixed clock; credit = the
+                              slowest bpm used); KTS1 code, rubric
+                              orbit_hw5.rubric.json (all-or-nothing on
+                              "goal"). Written from the shipped code
+                              with every string quoted (section 5's
+                              "WHAT ACTUALLY SHIPPED"). A code is
+                              always issued; the honest line above it
+                              says whether it earns credit.
+                         Design authority for Option B: —Apps/Orbit/
+                         docs/hw5_design.txt (section 8 records the
+                         2026-09-18 reversal of "Orbit only" and the
+                         due date). Section 5 states what the code
+                         certifies (pitch + rhythm at Slow, the drills)
+                         and what it cannot (fingering, hand — and
+                         Option A does not grade fingering either), the
+                         open partial-credit question Q3, and a flag
+                         that the rubric's header comment + Grading_Hub
+                         README still say "Orbit-only" (docs fix).
   docs/roster.txt        HW #1..#9 as far as —OER's docs record them;
-                         #2/#7/#8 marked "not recorded", #5 marked
-                         absorbed into #1 (Sam), #3 and #4 = the new
-                         ones (#3 drafted, #4 planned).
+                         #2/#8 marked "not recorded", #7 RETIRED with
+                         its Fall 2025 text kept, #3 and #4 LIVE (due
+                         extended to 2026-09-25), #5 DRAFTED (two
+                         options, 2026-09-18).
   LICENSE                CC BY-NC 4.0, same as every other OER project.
   .gitignore             macOS junk + *.csv/*.xlsx (no student data).
+
+WHAT PASS HW5-4 (2026-09-18) CHANGED ELSEWHERE (docs only, no code)
+----------------------------------------------------------------------
+  Orbit (sammygfunx/orbit): next_steps #0c -> history.txt with a
+    pointer here; #0's "ONE PASS LEFT" paragraph -> "assignment written
+    2026-09-18, in —Homework"; docs/hw5_design.txt section 8 records
+    the reversal of "Orbit only" (date, reason) and the due date;
+    conversation_starter LATEST pointer. Game code, floors, course id,
+    the live build: untouched.
+  Grading_Hub (sammygfunx/grading-hub): next_steps item S.a reworded to
+    point at hw5_first_three_stars.txt section 4. rubrics/orbit_hw5
+    .rubric.json UNTOUCHED (its header comment and README.txt's HW #5
+    paragraph still say "Orbit-only" — flagged in the hw5 file's
+    section 5 as a Grading_Hub docs fix).
+  —OER/docs: project_state.txt Pass 27 writeup appended with this
+    outcome; next_steps item 18 -> DONE with a pointer here.
 
 WHAT PASS 3 (2026-09-16, PASS C) CHANGED ELSEWHERE
 ----------------------------------------------------------------------
