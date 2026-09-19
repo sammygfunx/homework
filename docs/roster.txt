@@ -17,8 +17,13 @@ WHAT IS NOT HERE. The twelve weekly Portato "Reading Sprint — Week N"
 assignments (Grading_Hub/AssignmentCreate.gd's tables, rubrics/
 portato_sprint.rubric.json) and the in-class quizzes (Quiz #1, #2 —
 Grading_Hub next_steps 11.5/11.7) are their own series with their own
-numbering and are tracked in Grading_Hub and Portato_Web. Only the
-"HW #N" series is listed below.
+numbering and are tracked in Grading_Hub and Portato_Web. So are the two
+Clef Runner QUIZ 3 items (2026-09-19): "Quiz 3 — Schäfer Sight-Reading,
+any five (Clef Runner)" (rubrics/clefrunner_quiz3_sightreading.rubric.json)
+and "Quiz 3 — Repertoire, one piece (Clef Runner)" (rubrics/clefrunner_
+quiz3_repertoire.rubric.json), text in Clef_Runner/canvas_assignment_
+quiz3_*.txt, due Fri 2026-09-25 6:00 PM. Only the "HW #N" series is
+listed below.
 
 GAPS, STATED PLAINLY. The ecosystem's docs record HW #1, HW #6 and HW #9
 clearly (rubrics and/or assignment files exist). HW #7 and #8 are the
