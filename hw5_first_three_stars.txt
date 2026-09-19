@@ -127,8 +127,15 @@ HW #5 — The First Three Stars (video OR Orbit)
 whole block through untouched, and after Create it prints "(description
 verified: Canvas stored the full text)" per section. READY TO PASTE as
 of 2026-09-18 evening: no [FILL IN]. FORMATTING NOTES: every non-ASCII
-glyph is written as an HTML entity (&#10022; for Orbit's ✦, &rarr; for
-→, &middot; for ·, &ndash;) so nothing depends on the paste's encoding;
+glyph is written as a NUMERIC HTML entity (&#10022; for Orbit's ✦,
+&#8594; for →, &#183; for ·) so nothing depends on the paste's encoding
+— numeric, not named, because the hub's read-back verifier decodes
+&#N; but not &rarr; / &middot;: the 2026-09-18 create used the named
+ones and every section printed a red "DESCRIPTION MISMATCH … sent
+'&rarr;' / Canvas '→'" that was a FALSE ALARM (Canvas stored the arrow
+correctly; the hub compared its own undecoded text). Re-derived the
+same night; a later Create/Update on the same title will read
+"(description verified …)";
 headings are <h3>/<h4>, lists are real <ol>/<ul>, paragraphs are <p> —
 Canvas's rich-content editor keeps all of these. Written in the voice
 of HW #4's final revision: few em dashes, bold only on on-screen names
@@ -158,10 +165,10 @@ differently, the site wins and this file gets re-derived.)
 <li>On the first screen pick your name, or type a new one and press <strong>Begin</strong>. That profile is where your progress lives.</li>
 <li>Press <strong>&#10022; Homework</strong> in the header (it is on every screen), or <strong>&#10022; Homework: The First Three Stars</strong> on the Star Map.</li>
 </ol>
-<p>The homework screen is a checklist: C major, G major and F major, each with a DRILL box and a MELODY box. In the game's own words: "For each key: drill its scale degrees (15 or more tries at 75% or better), then learn one of the six coursepack melodies in that key (pass the Slow tempo). Orbit lights the stars in this order: C first, then G, then F." The <strong>Drill &rarr;</strong> and <strong>Melodies &rarr;</strong> buttons on each row take you straight there. G stays LOCKED until C is done, and F until G is done.</p>
+<p>The homework screen is a checklist: C major, G major and F major, each with a DRILL box and a MELODY box. In the game's own words: "For each key: drill its scale degrees (15 or more tries at 75% or better), then learn one of the six coursepack melodies in that key (pass the Slow tempo). Orbit lights the stars in this order: C first, then G, then F." The <strong>Drill &#8594;</strong> and <strong>Melodies &#8594;</strong> buttons on each row take you straight there. G stays LOCKED until C is done, and F until G is done.</p>
 <p>The drill is Find the Note or Name the Note, your choice; both count. The 75% is your running accuracy in that key over everything you've played there, so slow and right beats fast and wrong. The melody box needs one of the six handout tunes passed in that key at the Slow tempo (the melody list marks the six with &#10022; HW #5; any other tune still unlocks stars but does not earn the homework). Passing is 85% in Perform: after a two-bar count-in the clock runs, every note has a window, and a note is either the wrong pitch or late, never both. The tempo slider is yours, but credit goes to the slowest speed you used during the take: stay at or above the Slow tempo the whole way and it "counts as Slow"; dip below it and the results say "Practice tempo - no mastery credit", nothing recorded.</p>
 <p>Your progress saves in that browser, on that computer. Use the same browser and the same computer every time, and pick the same name. Clearing your browser's site data wipes it.</p>
-<p><strong>Each key you finish is worth a third: one key is 33, two keys 67, all three 100.</strong> The verdict line at the bottom of the checklist always tells you where you stand: "FULL CREDIT EARNED", or "2 KEYS TO GO &middot; DRILL G: 3 MORE", "1 KEY TO GO &middot; MELODY F: LEARN ONE", and so on. The game hands you a code at any point, and the line right above the code says what it is worth. You can paste a code now and a better one later; the newest code is the one that counts, so finish the other keys and paste again for the full 100.</p>
+<p><strong>Each key you finish is worth a third: one key is 33, two keys 67, all three 100.</strong> The verdict line at the bottom of the checklist always tells you where you stand: "FULL CREDIT EARNED", or "2 KEYS TO GO &#183; DRILL G: 3 MORE", "1 KEY TO GO &#183; MELODY F: LEARN ONE", and so on. The game hands you a code at any point, and the line right above the code says what it is worth. You can paste a code now and a better one later; the newest code is the one that counts, so finish the other keys and paste again for the full 100.</p>
 <p>To submit: press <strong>GET CODE</strong>, type your first name, last name and Canvas ID (the number on your Canvas profile; your Orbit pilot name is not used), press GET CODE again, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Paste only the code, nothing else in the box, and paste all of it, from KTS1 to the last letter.</p>
 <p>The code certifies the right notes in a steady rhythm at the Slow tempo, plus the drills, for however many keys you finished. It says nothing about fingering; nothing in this assignment does.</p>
 
@@ -320,8 +327,15 @@ the same night as HW #3 and HW #4.
           Submission   Online — text entry + Online — file upload + Online — website url
       and the Due pair above. Then Create. Read each section's results
       row: it must end "(description verified: Canvas stored the full
-      text)". A red "✗ DESCRIPTION MISMATCH" line is a real finding —
-      bring it back verbatim (Grading_Hub next_steps item 14).
+      text)". A red "✗ DESCRIPTION MISMATCH" line whose two sides differ
+      only by an entity vs its character (e.g. "&rarr;" vs "→") is a
+      FALSE ALARM from the verifier, not Canvas — that is what the four
+      2026-09-18 rows said; the assignments were created and stored
+      correctly. Any other mismatch is a real finding — bring it back
+      verbatim (Grading_Hub next_steps item 14).
+  [x] CREATED 2026-09-18 by Sam in all four sections (unpublished).
+      The four "DESCRIPTION MISMATCH" lines were the entity false alarm
+      above; the text in Canvas is right.
   [ ] OPEN THE ASSIGNMENT IN CANVAS AS A TEACHER and confirm the
       Submission Type box says "Online" with "Text Entry", "File
       Uploads" AND "Website URL" all checked (HW #4 went to real
