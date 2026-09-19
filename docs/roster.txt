@@ -65,8 +65,10 @@ HW #3  Perfect 4ths (video OR Da Capo). NEW 2026-09-15, backfills the
        One Canvas assignment accepting BOTH types (Grading_Hub tab 5's
          new "Also accept" row, built this pass).
        Due: Fri 2026-09-25 18:00 Eastern — EXTENDED by Sam 2026-09-18
-         (was Fri 2026-09-18 18:00, Week 5). Canvas + hw3_perfect_4ths.txt
-         must both carry the new date (the HW-DEADLINES pass, from —OER).
+         (was Fri 2026-09-18 18:00, Week 5). hw3_perfect_4ths.txt carries
+         the new date in every section (HW-DEADLINES pass, 2026-09-19).
+         Date moved in Canvas: [Sam confirms] (file section 4 has the
+         tab 5 / by-hand line; check "Until" is not left at 09-18).
        Rubric: Grading_Hub/rubrics/dacapo_p4ths.rubric.json (Option B
          only; Option A is hand-graded into a sheet and posted through
          Grading_Hub tab 6 "Post External Grades").
@@ -74,7 +76,8 @@ HW #3  Perfect 4ths (video OR Da Capo). NEW 2026-09-15, backfills the
          Supersedes —Games/Da_Capo/canvas_assignment_p4ths.txt.
        Status: LIVE (created + published by Sam, week of 2026-09-15;
          recorded here 2026-09-18 — the roster had not been moved).
-         Due date extension still to land in Canvas and in the file.
+         Due date extension in the file 2026-09-19; in Canvas: [Sam
+         confirms].
 
 HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
        (same day as HW #3), backfills the second gap left by HW #1.
@@ -96,16 +99,18 @@ HW #4  Chord Progressions (video OR Progression Pond). NEW 2026-09-15
          pass for the third type).
        Due: Fri 2026-09-25, 6:00 PM Eastern — EXTENDED by Sam 2026-09-18
          (was Fri 2026-09-18, published 2026-09-16 with a deliberately
-         short window; extended to give students more time). Canvas +
-         hw4_chord_progressions.txt must both carry the new date (the
-         HW-DEADLINES pass, from —OER).
+         short window; extended to give students more time).
+         hw4_chord_progressions.txt carries the new date in every section
+         (HW-DEADLINES pass, 2026-09-19). Date moved in Canvas: [Sam
+         confirms] (file section 4 has the tab 5 / by-hand line; check
+         "Until" is not left at 09-18).
        Rubric: Grading_Hub/rubrics/pond_hw4.rubric.json (BUILT, 795
          tests; Option B only; Option A is hand-graded into a sheet and
          posted through tab 6).
        Content: —Homework/hw4_chord_progressions.txt (this repo).
        Status: LIVE (published 2026-09-16 in all four sections, per —OER
-         Pass 26; recorded here 2026-09-18). Due date extension still to
-         land in Canvas and in the file.
+         Pass 26; recorded here 2026-09-18). Due date extension in the
+         file 2026-09-19; in Canvas: [Sam confirms].
 
 HW #5  The First Three Stars (video OR Orbit). NEW 2026-09-16 — REPLACES
        the unpublished Fall 2025 "HW #7: Melody in Scale Degrees" (see HW

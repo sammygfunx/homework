@@ -1,6 +1,10 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-09-18, evening (pass HW5-4 from —OER, draft + Sam's
+Updated: 2026-09-19 (pass HW-DEADLINES from —OER: hw3_perfect_4ths.txt
+and hw4_chord_progressions.txt carry Fri 2026-09-25 6:00 PM Eastern in
+every section, old item 1 -> history; Sam still moves the dates in
+Canvas — each file's section 4 has the line). Before that:
+2026-09-18, evening (pass HW5-4 from —OER, draft + Sam's
 revision: hw5_first_three_stars.txt WRITTEN — Option A three handout
 melodies in C/G/F with a metronome, Option B Orbit with PARTIAL CREDIT
 a third per key (a rubric change in Grading_Hub + a wording change in
@@ -9,24 +13,12 @@ launch; Sam runs them, file section 4). Roster HW #5 row -> DRAFTED.
 Old item 2 is archived verbatim in history.txt. Earlier the same day: housekeeping — HW #3 and HW #4 are
 LIVE in Canvas and Sam has EXTENDED both, plus HW #5, to Fri 2026-09-25
 18:00 Eastern.)
-Ranked high -> low. Item 1 is queued as a Herdr pane from —OER (prompt
-in —OER/docs/next_steps.txt item 19); it was told to wait for HW5-4,
-which has now landed.
+Ranked high -> low. (HW-DEADLINES, the former item 1, was DONE
+2026-09-19 by the pane queued from —OER item 19 — archived verbatim in
+history.txt; hw3/hw4 files now say Fri 2026-09-25 everywhere, Canvas
+edit left to Sam.)
 
-1. HW-DEADLINES — HW #3, #4 (and #5) TO FRI 2026-09-25 IN EVERY DOC
-   (cross-repo: —Homework + —Coursepack + —OER/docs; LAUNCH FROM —OER).
-   In hw3_perfect_4ths.txt and hw4_chord_progressions.txt replace every
-   due-date mention — section 1 HTML <h4>, the student message, the
-   in-class script, section 4's Due row (2026-09-25T22:00:00Z beside
-   it), and the section 5 note that explained the short window — with
-   Fri 2026-09-25 6:00 PM Eastern, and add one section 4 line for the
-   Canvas update (tab 5 same title, new Due, Create/Update; or Edit ->
-   Due by hand in each section). Roster rows already carry the new
-   dates. Then —Coursepack item 24 (W5-HW-01 + the goals bullet).
-   MODEL: opus | EFFORT: medium (the coursepack half needs its rebuild
-   + raster discipline; the —Homework half is text).
-
-2. HW #3 / HW #4 / HW #5 — FIRST GRADING RUN, AND WHAT TO WATCH (Sam, after
+1. HW #3 / HW #4 / HW #5 — FIRST GRADING RUN, AND WHAT TO WATCH (Sam, after
    Fri 2026-09-25; agent only if something breaks). All three are
    two-path now. Both paths into one column: tab 1 batch pull (codes:
    dacapo_p4ths ALONE for HW #3, pond_hw4 ALONE for HW #4, orbit_hw5
@@ -40,12 +32,12 @@ which has now landed.
    history.txt; a floor change is a Da Capo
    / Progression Pond / Orbit pass, not this repo.
 
-3. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2
+2. FILL THE ROSTER GAPS. (Sam, 5 minutes.) docs/roster.txt has HW #2
    and #8 as "not recorded in —OER docs" and HW #1's exact due date and
    HW #6's graded-status as unknown. One line each from the Canvas
    assignments list closes them. No agent work.
 
-4. FUTURE MULTI-APP ASSIGNMENTS land here as hw<N>_<slug>.txt with a
+3. FUTURE MULTI-APP ASSIGNMENTS land here as hw<N>_<slug>.txt with a
    roster row, following hw4_chord_progressions.txt's shape exactly
    (it is the most complete: three submission types, two options, a
    click-path that was actually walked). If one needs a NEW hub

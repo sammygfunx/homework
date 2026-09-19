@@ -95,7 +95,12 @@ three codes into Grading_Hub tab 2 with orbit_hw5.rubric.json ALONE
 (100 / 33 / 0), tab 5 create in all four sections with all three
 submission types and Due 2026-09-25 18:00, Student View, publish. Read
 section 5's remaining "assumed" Option A choices — one-line edits.
-AGENT: next_steps item 1 (HW-DEADLINES, —OER item 19) is unblocked.
+ALSO SAM (2026-09-19): move HW #3 and HW #4 to Due Fri 2026-09-25 6:00
+PM in Canvas (hw3/hw4 section 4's CANVAS DUE-DATE UPDATE line: tab 5
+same title + Create/Update, or Edit -> Due by hand, all four sections;
+confirm "Until" is not left at 09-18). The files already say 09-25
+everywhere (HW-DEADLINES pass). Decide whether hw3's Room 269 lab-hours
+paragraph (week of 09-14) gets refreshed in Canvas.
 
 Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status

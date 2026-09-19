@@ -1,5 +1,44 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS HW-DEADLINES (2026-09-19, Opus 5, launched from —OER; also touched
+—Coursepack item 24 and —OER/docs item 19)
+-----------------------------------------------------------------------
+Sam's decision (2026-09-18): HW #3 and HW #4, published with due Fri
+2026-09-18 6:00 PM Eastern, are EXTENDED to Fri 2026-09-25 6:00 PM
+Eastern (2026-09-25T22:00:00Z) to give students more time; HW #5 was
+already due that Friday. In hw3_perfect_4ths.txt and hw4_chord_
+progressions.txt every due-date mention now carries the new date: the
+header block, the Due block, the section 1 <h4>, the in-class script
+("Due Friday the 25th at six / at 6 PM"), the message to students, and
+section 4's Due row with its ISO pair; the old date survives only in
+dated history notes (hw4 section 5 item 0's two-day-window reasoning is
+kept with a dated UPDATE line; hw3 gains section 5 item 7). Each file's
+section 4 has a new checklist line for the Canvas side: Grading_Hub tab
+5 with the SAME title, Due 2026-09-25 18:00, Create/Update (re-sends
+description + due_at + lock_at, prints "(description verified ...)"),
+or Edit -> Due by hand in each of the four sections; either way confirm
+"Until" is not left at 09-18. Titles untouched (the hub's match key).
+Module placement stays Week 5. Flagged, not edited: hw3's description
+still lists the Room 269 lab hours of the week of 2026-09-14 under
+"this week" — a week stale after the extension, but not a due-date
+line and next week's hours are unknown; Sam's call. Roster HW #3/#4
+rows gain "date moved in Canvas: [Sam confirms]".
+
+Archived item 1 verbatim:
+1. HW-DEADLINES — HW #3, #4 (and #5) TO FRI 2026-09-25 IN EVERY DOC
+   (cross-repo: —Homework + —Coursepack + —OER/docs; LAUNCH FROM —OER).
+   In hw3_perfect_4ths.txt and hw4_chord_progressions.txt replace every
+   due-date mention — section 1 HTML <h4>, the student message, the
+   in-class script, section 4's Due row (2026-09-25T22:00:00Z beside
+   it), and the section 5 note that explained the short window — with
+   Fri 2026-09-25 6:00 PM Eastern, and add one section 4 line for the
+   Canvas update (tab 5 same title, new Due, Create/Update; or Edit ->
+   Due by hand in each section). Roster rows already carry the new
+   dates. Then —Coursepack item 24 (W5-HW-01 + the goals bullet).
+   MODEL: opus | EFFORT: medium (the coursepack half needs its rebuild
+   + raster discipline; the —Homework half is text).
+
+
 PASS HW5-4 (2026-09-18, Opus 5, launched from —OER; also touched
 —Apps/Orbit docs, —Apps/Grading_Hub docs and —OER/docs)
 -----------------------------------------------------------------------

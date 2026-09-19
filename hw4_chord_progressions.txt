@@ -8,10 +8,12 @@ created the assignment in Grading_Hub and pushed it to Canvas (not yet
 published) — REVISED a third time the same day after reading it back:
 fewer em dashes, bold trimmed to on-screen names and true essentials
 only, generally tighter. STATUS: READY TO PASTE — no [FILL IN] remains
-in the section 1 HTML; this is the version to paste. Due Fri 2026-09-18,
-6:00 PM Eastern (Sam's choice: announce today, close Friday, so the
-two-day window pulls students into the lab or onto their own keyboards
-fast). Progression Pond course id for Option B: "three_springs" —
+in the section 1 HTML; this is the version to paste. Due Fri 2026-09-25,
+6:00 PM Eastern — EXTENDED by Sam 2026-09-18 (was Fri 2026-09-18, Sam's
+original choice: announce today, close Friday, so the two-day window
+pulls students into the lab or onto their own keyboards fast; extended
+to give students more time). Progression Pond course id for Option B:
+"three_springs" —
 CONFIRMED, a PUBLIC IDENTIFIER now that Grading_Hub's rubric names it;
 never rename it.
 ===========================================================
@@ -82,17 +84,19 @@ CANVAS SETTINGS
     fixed point breakdown, Sam's/the TAs' judgment call per video,
     2026-09-16)
   Attempts: unlimited — a later, better run or a re-recorded video
-  Due: Fri 2026-09-18, 6:00 PM Eastern (2026-09-18T22:00:00Z — the hub
+  Due: Fri 2026-09-25, 6:00 PM Eastern (2026-09-25T22:00:00Z — the hub
     sends the Eastern wall-clock time as UTC; confirm the pair in
-    Preview). Module = Week 5 (AssignmentCreate.WEEK_UNLOCK_UTC /
-    WEEK_DUE_UTC for that week). Sam's call, 2026-09-16: publish today
-    (he already played the whole live build and confirmed codes check
-    out), close Friday — a short window on purpose, to pull students
-    into the lab or onto their own keyboards this week rather than
-    later in the semester.
+    Preview). EXTENDED by Sam 2026-09-18 from Fri 2026-09-18 6:00 PM
+    (2026-09-18T22:00:00Z) to give students more time. Module = Week 5
+    (AssignmentCreate.WEEK_UNLOCK_UTC / WEEK_DUE_UTC for that week; the
+    module placement is not moved by the extension). History: Sam's
+    call, 2026-09-16, was publish today (he already played the whole
+    live build and confirmed codes check out), close Friday — a short
+    window on purpose, to pull students into the lab or onto their own
+    keyboards this week rather than later in the semester.
   NO AVAILABILITY WINDOW, same reasoning as HW #3: not sat in class,
     one due date across all four sections, stays open (from creation
-    to Friday 6 PM).
+    to Friday 2026-09-25 6 PM).
   ALLOWED FILE TYPES: the hub does not set Canvas's "restrict upload
     file types" field. Leave it unrestricted (.mp4, .mov, .m4v, .webm)
     or restrict by hand in Canvas after creation — section 4.
@@ -169,7 +173,7 @@ every emphasized phrase.)
 <p>Your progress saves in that browser, on that computer. Use the same browser and computer every time: choose HOMEWORK, then <strong>CONTINUE</strong>. <strong>START OVER</strong> wipes a run and starts fresh. Once you've cleared a key area, <strong>PRACTICE A KEY</strong> lets you replay it without touching your saved progress.</p>
 <p>To submit: press <strong>GET CODE</strong> (from the HOMEWORK screen or the end screen), type your first name, last name and school ID, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Use the school ID your gradebook knows you by. Paste only the code, nothing else in the box, and paste all of it, from KTS1 to the last letter.</p>
 
-<h4>Due Friday, September 18, 2026, 6:00 PM Eastern.</h4>
+<h4>Due Friday, September 25, 2026, 6:00 PM Eastern.</h4>
 <h4>Lab hours (Room 269)</h4>
 <p>Room 269 is open for practice at select hours this week. Check the posted schedule for exact times. Every keyboard there is full-size, MIDI-capable, and plugs into a computer. Cables provided, for either option.</p>
 
@@ -207,7 +211,7 @@ or desktop, no typing or clicking; the 269 keyboards plug right in. GET
 CODE, name and ID, copy, paste the whole thing into the text box.
 
 Video or YouTube link goes in the file-upload/website-URL tabs, code
-goes in the text-entry tab. Due Friday at 6 PM. Same assignment, same
+goes in the text-entry tab. Due Friday the 25th at 6 PM. Same assignment, same
 grade. Do one."
 
 
@@ -242,7 +246,7 @@ keyboards plug right in. The game checks your chords and inversions, not
 your fingers -- fingering is graded only in the video. Paste the whole
 code into the Text Entry tab.
 
-Same grade either way. Due Friday, September 18, 2026, 6:00 PM Eastern.
+Same grade either way. Due Friday, September 25, 2026, 6:00 PM Eastern.
 
 
 ===========================================================
@@ -256,8 +260,23 @@ Same grade either way. Due Friday, September 18, 2026, 6:00 PM Eastern.
   played THE THREE SPRINGS through on the live site including the Murk
   boss (its item 3, playtest #5, v0.6.8/v0.6.9) and again today
   confirming codes check out, and Option B's text above is written from
-  those shipped screens (Pass C, 2026-09-16). Sam wants this LIVE TODAY,
-  due Friday 6 PM — move through this checklist promptly.
+  those shipped screens (Pass C, 2026-09-16). Sam wanted this LIVE THAT
+  DAY, due Friday 2026-09-18 6 PM — it went live 2026-09-16. 2026-09-18:
+  due date EXTENDED to Fri 2026-09-25 6:00 PM Eastern in every section
+  of this file; the Canvas side is the new checklist line below.
+  [ ] CANVAS DUE-DATE UPDATE (2026-09-18, Sam's extension to Fri
+      2026-09-25 6:00 PM Eastern), one of two ways, in ALL FOUR sections:
+        (a) Grading_Hub tab 5, the SAME title (the idempotent match key
+            -- do not retype it), Due 2026-09-25 18:00, Create/Update.
+            It re-sends description + due_at + lock_at under that title
+            and prints "(description verified ...)" per section; or
+        (b) in Canvas by hand: Edit -> Due 2026-09-25 6:00 PM in each of
+            the four sections.
+      Either way, open each section's assignment afterwards and confirm
+      "Until" is NOT still 09-18 (an old lock_at would close the box a
+      week before the new due date). Sam does this himself; status:
+      [Sam confirms] -> then update docs/roster.txt's "date moved in
+      Canvas" line.
 
   [x] TAKE OPTION B YOURSELF, ON THE LIVE SITE, and decode your own
       code. DONE BY SAM, TWICE: playtest #5 (2026-09-15/16, —Games/
@@ -285,10 +304,13 @@ Same grade either way. Due Friday, September 18, 2026, 6:00 PM Eastern.
                      URL"    <- item 12's row, BOTH ticked (Option A now
                      accepts a video file OR an unlisted YouTube link)
         Group        <the exact group heading -- copy-paste, see Q1>
-        Module       Week 5   (the week holding the due date)
+        Module       Week 5   (the week that held the original due
+                     date; unchanged by the 2026-09-18 extension)
         Available from   blank
-        Due          Fri 2026-09-18, 6:00 PM Eastern (Preview must show
-                     2026-09-18T22:00:00Z beside it)
+        Due          Fri 2026-09-25, 6:00 PM Eastern (Preview must show
+                     2026-09-25T22:00:00Z beside it. EXTENDED
+                     2026-09-18 by Sam; was Fri 2026-09-18 6:00 PM /
+                     2026-09-18T22:00:00Z when created 2026-09-16)
         Until        blank
         Description  the HTML block from section 1, between the
                      ===HTML=== lines (no [FILL IN] left in it)
@@ -349,6 +371,11 @@ a one-line edit to section 1 once answered, as HW #3's six were.
      (about two days): Sam's reasoning is that it pulls students into
      the lab or onto their own keyboards this week rather than later in
      the semester.
+     2026-09-18 UPDATE: the window was EXTENDED by Sam to Fri
+     2026-09-25 6:00 PM Eastern (a week and a half in all), to give
+     students more time; HW #3 and HW #5 close the same Friday. The
+     two-day reasoning above stands as the history of why it was
+     first set short; it was a deliberate choice, then adjusted.
   1. KEY ORDER — RESOLVED: "key order is fine" — the draft's structure
      (all three progressions within a key before moving to the next)
      stands, C then F then G is offered as the natural order, but any

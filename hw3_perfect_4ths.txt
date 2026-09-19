@@ -2,6 +2,9 @@
 HW #3 — PERFECT 4THS (video OR Da Capo) — CANVAS ASSIGNMENT
 One assignment, two ways to earn it. Written 2026-09-15 (Pass 24);
 choreography, due date and links settled by Sam the same day.
+DUE DATE EXTENDED 2026-09-18 (Sam): Fri 2026-09-25 6:00 PM Eastern
+(was Fri 2026-09-18) — every date below carries the new one; the old
+one is kept only in dated history notes.
 Da Capo course id for Option B: "fourths".
 ===========================================================
 
@@ -55,10 +58,13 @@ CANVAS SETTINGS
     Option A is hand-graded on accuracy out of 100)
   Attempts: unlimited — a student may submit a later, better run or a
     re-recorded video
-  Due: Friday 2026-09-18 18:00 Eastern (Sam, 2026-09-15). The hub sends
-    2026-09-18T22:00:00Z (EDT). Confirm that pair in Preview. Week 5 on
-    the course calendar (Mon Sep 14 - Sun Sep 20; AssignmentCreate.
-    WEEK_UNLOCK_UTC[5] / WEEK_DUE_UTC[5]).
+  Due: Friday 2026-09-25 18:00 Eastern (EXTENDED by Sam 2026-09-18; was
+    Friday 2026-09-18 18:00, set 2026-09-15). The hub sends
+    2026-09-25T22:00:00Z (EDT). Confirm that pair in Preview. The
+    assignment was created in module Week 5 (Mon Sep 14 - Sun Sep 20;
+    AssignmentCreate.WEEK_UNLOCK_UTC[5] / WEEK_DUE_UTC[5]); the new
+    date falls in Week 6 (Sep 21-27) but the module placement is not
+    moved — only the due date changes.
   NO AVAILABILITY WINDOW, same reasoning as Steps and Skips: not sat in
     class, one due date across all four sections, stays open so a student
     can keep playing and submit a better run.
@@ -75,8 +81,12 @@ CANVAS SETTINGS
     the full interval play-along playlist
       https://www.youtube.com/playlist?list=PLnO4XsbPuZRTRSBYWxtqjlrUKX5JrdTJl
   LAB HOURS IN THE DESCRIPTION are the remaining hours of the week of
-    2026-09-14 (W 5-6pm, Th 9:30-11:00am, F 5-6pm) — the due date is in
-    that same week, so they stand.
+    2026-09-14 (W 5-6pm, Th 9:30-11:00am, F 5-6pm) — the ORIGINAL due
+    date was in that same week, so they stood. 2026-09-18: with the
+    extension to Sep 25 the description's "this week" paragraph is a
+    week out of date; NOT edited here (the next week's Room 269 hours
+    are not known to this file — Sam decides whether to update that
+    paragraph in Canvas or leave it, it is not a due-date line).
 
 
 ===========================================================
@@ -136,7 +146,7 @@ bold survive; the visual editor would paste the tags as literal text.)
   <li>Paste ALL of it, from KTS1 to the very last letter.</li>
 </ul>
 
-<h4>Due Friday, September 18 at 6:00 pm.</h4>
+<h4>Due Friday, September 25 at 6:00 pm.</h4>
 <h4>Lab hours this week (Room 269)</h4>
 <p>Every keyboard in Room 269 has a built-in metronome, and each one can be plugged into a computer as a MIDI keyboard for Da Capo (cables provided). Come use them for either option during the remaining lab hours this week:</p>
 <ul>
@@ -180,7 +190,7 @@ paste the whole thing into the text box on Canvas.
 
 The keyboards in 269 have metronomes and plug in as MIDI for Da Capo --
 lab hours are on the assignment. Video goes in the file-upload tab, code
-goes in the text-entry tab. Due Friday at six. Same assignment, same
+goes in the text-entry tab. Due Friday the 25th at six. Same assignment, same
 grade. Do one. If you do both for practice, fine, but I only count one."
 
 
@@ -216,7 +226,7 @@ computer as MIDI keyboards for Da Capo (cables provided). Lab hours for
 the rest of this week: Wednesday 5-6 pm, Thursday 9:30-11:00 am, Friday
 5-6 pm. Or use your own gear anywhere.
 
-Same grade either way. Due Friday 9/18 by 6:00 pm.
+Same grade either way. Due Friday 9/25 by 6:00 pm.
 
 The perfect 4ths play-along video, if you want it for reference:
   https://youtu.be/xg1L2ccDO9M
@@ -228,7 +238,22 @@ The perfect 4ths play-along video, if you want it for reference:
 ===========================================================
 
   (Due date and video links are filled in as of 2026-09-15 — nothing
-  left to fill in section 1.)
+  left to fill in section 1. 2026-09-18: due date EXTENDED to Fri
+  2026-09-25 6:00 PM Eastern in every section of this file; the Canvas
+  side is the new checklist line below.)
+  [ ] CANVAS DUE-DATE UPDATE (2026-09-18, Sam's extension to Fri
+      2026-09-25 6:00 PM Eastern), one of two ways, in ALL FOUR sections:
+        (a) Grading_Hub tab 5, the SAME title (the idempotent match key
+            -- do not retype it), Due 2026-09-25 18:00, Create/Update.
+            It re-sends description + due_at + lock_at under that title
+            and prints "(description verified ...)" per section; or
+        (b) in Canvas by hand: Edit -> Due 2026-09-25 6:00 PM in each of
+            the four sections.
+      Either way, open each section's assignment afterwards and confirm
+      "Until" is NOT still 09-18 (an old lock_at would close the box a
+      week before the new due date). Sam does this himself; status:
+      [Sam confirms] -> then update docs/roster.txt's "date moved in
+      Canvas" line.
   [ ] TAKE OPTION B YOURSELF, ON THE LIVE SITE, and decode your own code.
       https://da-capo-game.netlify.app in Chrome. HOMEWORK -> PERFECT
       4THS. Play a few minutes, GET CODE, COPY CODE. Then close the tab,
@@ -254,10 +279,13 @@ The perfect 4ths play-along video, if you want it for reference:
         Also accept  TICK "Online — file upload"    <- NEW THIS PASS
                      (leave "website URL" and "text entry" unticked)
         Group        <the exact group heading -- copy-paste, see Q1>
-        Module       Week 5   (Sep 14-20 holds the Sep 18 due date)
+        Module       Week 5   (Sep 14-20 held the original Sep 18 due
+                     date; unchanged by the 2026-09-18 extension)
         Available from   blank
-        Due          2026-09-18 18:00   (Eastern; Preview must show
-                     2026-09-18T22:00:00Z beside it)
+        Due          2026-09-25 18:00   (Eastern; Preview must show
+                     2026-09-25T22:00:00Z beside it. EXTENDED
+                     2026-09-18 by Sam; was 2026-09-18 18:00 /
+                     2026-09-18T22:00:00Z when first created)
         Until        blank
         Description  the HTML block from section 1, between the
                      ===HTML=== lines (the hub passes HTML through
@@ -354,6 +382,14 @@ description is settled, not a guess:
      9:30-11:00am, F 5-6pm -- while making clear students may use their
      own devices, the music computer lab, or anywhere with internet and
      a laptop/desktop instead.
+  7. DUE DATE (2026-09-18, Sam): EXTENDED from Fri 2026-09-18 to Fri
+     2026-09-25 6:00 PM Eastern, the same Friday as HW #4 and HW #5,
+     to give students more time (the assignment went live the week it
+     was due, and both other Week 5 homeworks landed on the same
+     Friday). The one-week window was the original plan, not a
+     mistake; the extension is the adjustment. Item 6's lab hours
+     were for the week of 2026-09-14 and are now a week stale in the
+     description (see the header's LAB HOURS note).
   ALSO FROM SAM: submit ONLY ONE option; doing both for practice is
   fine, but only one is counted. Said at the top of the description, at
   the bottom, and in sections 2 and 3.

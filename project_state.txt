@@ -1,7 +1,17 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-18, evening (pass HW5-4 REVISION, Opus 5, same
+Last updated: 2026-09-19 (pass HW-DEADLINES, Opus 5, launched from
+—OER). hw3_perfect_4ths.txt and hw4_chord_progressions.txt now say Fri
+2026-09-25 6:00 PM Eastern (2026-09-25T22:00:00Z) in every due-date
+line — header, Due block, <h4>, in-class script, student message,
+section 4 Due row — with the original 09-18 kept only as dated history
+(hw4's two-day-window reasoning stands, plus a dated UPDATE). Each
+section 4 has a Canvas update line (tab 5 same title + Create/Update,
+or Edit -> Due by hand, four sections; confirm "Until" is not 09-18).
+Sam moves the Canvas dates himself; roster rows say "[Sam confirms]".
+hw3's lab-hours paragraph (week of 09-14) is flagged as stale, not
+edited. Before that: 2026-09-18, evening (pass HW5-4 REVISION, Opus 5, same
 thread as the draft, launched from —OER). Sam read the first draft of
 hw5_first_three_stars.txt back and made three changes, all baked in:
 Option A is now THREE handout melodies, one each in C, G and F, RH
