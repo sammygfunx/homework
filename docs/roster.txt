@@ -21,11 +21,9 @@ numbering and are tracked in Grading_Hub and Portato_Web. Only the
 "HW #N" series is listed below.
 
 GAPS, STATED PLAINLY. The ecosystem's docs record HW #1, HW #6 and HW #9
-clearly (rubrics and/or assignment files exist). HW #2, #7 and #8 are
-not described anywhere in —OER's docs as of 2026-09-15 — they may be
-traditional (paper/recording) assignments that never needed an app, or
-they may not exist yet. Their rows below say "not recorded in —OER docs"
-rather than guessing. Sam fills those in.
+clearly (rubrics and/or assignment files exist). HW #7 and #8 are the
+Fall 2025 melody assignments, both RETIRED (text preserved in their
+rows). HW #2 is still "not recorded in —OER docs" — Sam fills it in.
 
 -----------------------------------------------------------------------
 HW #   TITLE / WHAT IT IS
@@ -151,7 +149,11 @@ HW #5  The First Three Stars (video OR Orbit). NEW 2026-09-16 — REPLACES
        Content: —Homework/hw5_first_three_stars.txt (this repo). Written
          2026-09-18 (pass HW5-4) from Orbit's shipped screens; no [FILL
          IN] in the HTML.
-       Status: DRAFTED (2026-09-18, revised the same evening). Game
+       Status: CREATED IN CANVAS (2026-09-18, Sam, all four sections,
+         unpublished; the four "DESCRIPTION MISMATCH" lines were the
+         hub verifier's entity false alarm — text stored correctly).
+         Next: publish via tab 5's publish card; put it under the
+         "Homework" module header by hand. Game
          SHIPPED and LIVE (Orbit HW5-W, Sam's replay passed 2026-09-18)
          BUT the CODE panel's partial-credit wording is committed, not
          deployed — Sam runs Orbit's smoke test + tools/deploy_web.sh
@@ -209,8 +211,45 @@ HW #7  Melody in Scale Degrees — RETIRED for Fall 2026 (Sam, 2026-09-16;
        6A/6B-style split) are in —Coursepack/docs/project_state.txt
        Pass 13, "HOMEWORK 7 ALTERNATIVES".
 
-HW #8  Not recorded in —OER docs. [Sam to fill in.] (Week 8 is the
-       midterm per docs/semester_hw_plan.txt — may be no HW.)
+HW #8  Record 3 Melodies (each one in a different key!) — RETIRED for
+       Fall 2026 (Sam, 2026-09-18). It turned out to be the real
+       ancestor of HW #5's video option (three handout melodies, one
+       per key, one video, fingering not assessed) — not HW #7, which
+       was the hand-transcription. Differences from HW #5 Option A: it
+       forbade C and used only SHARP keys (G, D, A, E, matching the
+       scales taught so far); HW #5 uses C, G and F, because Sam's Fall
+       2026 approach for harmonized melodies is STAGGERED — C, F, G
+       first, then Bb and D (one accidental each side), then on as the
+       keys accumulate — while the scale sequence keeps to the sharp
+       side where the fingering matches. A Bb/D melody assignment would
+       be a later HW, not this row. Its Fall 2025 Canvas assignment
+       was still present in all four sections on 2026-09-18 and must
+       be UNPUBLISHED (001 and 002 done by hand that day; 003 and 004
+       to do — Sam's queue in —OER next_steps item 20). The Fall 2025
+       text, for the record:
+         "Homework #8: Record 3 Melodies (each one in a different
+         key!) Record 3 of the tunes from the "simple melodies for
+         harmonization" handout in 3 different key areas. 1) You are
+         not allowed to use C major 2) You can use G major, D major, A
+         major or E major 3) Each tune should be in a different key
+         area (you are not allowed to repeat a key area for more than
+         one tune). For example, you could record Jingle Bells in G
+         major, Vivaldi's Spring in D major, and Happy Birthday in A
+         major. Or, you could record Twinkle, Twinkle, Little Star in E
+         major, The Itsy Bitsy Spider in A major, and Mary Had A Little
+         Lamb in D major. Please note: this is just melody... you are
+         not required to add harmony in LH (but will be required to do
+         so on Friday's quiz!) It's up to you which three tunes you
+         select -- but each must be in a different key area! *Fingering
+         will not be assessed, but please use five-finger patterns for
+         melodies which stay within a five-finger pattern *Please
+         upload an either an Unlisted YouTube video (preferred), a
+         Media recording (in Canvas), or an uploaded file. *Please have
+         all three melodies in one video recording (do not submit
+         three separate files!) Due by 11:59pm on Thursday, September
+         24th"
+       (Week 8 is the midterm per docs/semester_hw_plan.txt — whether a
+       new HW #8 exists this fall is still open.)
 
 HW #9  Diatonic Triad Dodge: the 49 white-key triads.
        Diatonic_Triad_Dodge; TEXT ENTRY (KTS1 code).

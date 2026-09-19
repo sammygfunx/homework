@@ -623,6 +623,15 @@ were rewritten with the partial-credit change (they had said "Orbit-
 only, no video option" and named a never-written —Apps/Orbit/
 canvas_assignment_hw5.txt). Both now point here.
 
+THE REAL ANCESTOR IS HW #8, NOT HW #7 (Sam, 2026-09-18, after the
+revision): the Fall 2025 "Homework #8: Record 3 Melodies (each one in a
+different key!)" — three handout tunes, one per key, one video,
+fingering not assessed — is almost exactly Option A; HW #7 was the
+hand-transcription. HW #8 used sharp keys only (G, D, A, E, no C); HW
+#5 uses C, G, F because the harmonized-melody sequence this fall is
+staggered (C, F, G, then Bb and D) while scales stay on the sharp side.
+Both Fall 2025 rows are retired with their text in docs/roster.txt.
+
 STILL DATA-ONLY IN ORBIT, NOT BLOCKING: Vivaldi's Spring's notes come
 from HW5-N's transcription of Sam's string until his Spring MusicXML
 lands in —Apps/Orbit/musicxml/ (one command, Orbit next_steps #0). A
