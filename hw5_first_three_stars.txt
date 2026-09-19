@@ -284,10 +284,15 @@ the same night as HW #3 and HW #4.
       key orbit_profiles_v1).
   [ ] Grading_Hub -> tab 3 "Rubrics & Export" -> load rubrics/
       orbit_hw5.rubric.json ALONE (never beside pond_hw4 or dacapo_*;
-      README, ONE RUBRIC PER GRADE) -> tab 2 "Paste codes" -> paste
-      your full-credit code -> 100, mode three_stars; paste the one-key
-      code from above -> 33; paste a fresh profile's zero code -> 0,
-      not unmatched. (Grading_Hub next_steps item S.a.)
+      README, ONE RUBRIC PER GRADE). Then tab 2 "Paste codes": the ONLY
+      thing that goes in the box is the code itself — the long
+      "KTS1-…" string COPY CODE put on your clipboard — one code per
+      line if you have several, nothing else typed. Press "Decode
+      pasted codes" and READ the Results panel below; expected, per
+      code: the full-credit code grades 100, the one-key code 33, a
+      fresh profile's code 0 (listed and graded, never "no rubric
+      matched"), every one app "orbit" / mode "three_stars". (Grading_
+      Hub next_steps item S.a.)
   [ ] Grading_Hub -> tab 5 "Create Assignments" -> create it in all four
       sections. Follow canvas_assignment_creation.txt's walkthrough; the
       values that differ from the Steps and Skips example are:
