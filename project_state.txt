@@ -240,6 +240,10 @@ CONVENTIONS
   - [FILL IN] marks a decision only Sam can make (a due date). Never
     resolve one silently; list it in section 5.
   - Absolute dates everywhere. Plain .txt, never .md.
+  - AMERICAN SPELLING, always (Sam, 2026-09-20): favor, color, gray,
+    center, practice (the verb too), recognize. Never favour / practise /
+    colour. Grep a file for -our / -ise / -re words before calling it
+    ready to paste; the coursepack's build enforces the same list.
   - Never put student names, ids or grades in this repo (FERPA) — sheets
     and CSVs live in ~/Documents/MUSC1105_Grades/.
 
