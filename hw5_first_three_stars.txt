@@ -345,7 +345,7 @@ the same night as HW #3 and HW #4.
       Optionally "Restrict Upload File Types": mp4,mov,m4v,webm.
   [ ] Student View: confirm the submission box offers a Text Entry tab,
       a File Upload tab AND a Website URL tab.
-  [ ] Publish (Canvas's toggle, four clicks, or tab 5's bottom card).
+  [ ] Publish (Canvas's toggle, four clicks, or tab 5's "Publish" sub-tab).
   [ ] Send section 3's message; say section 2's version in class.
   [ ] docs/roster.txt HW #5 row: DRAFTED -> CREATED IN CANVAS -> LIVE as
       each happens.
