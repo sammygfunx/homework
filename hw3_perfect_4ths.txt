@@ -6,6 +6,14 @@ DUE DATE EXTENDED 2026-09-18 (Sam): Fri 2026-09-25 6:00 PM Eastern
 (was Fri 2026-09-18) — every date below carries the new one; the old
 one is kept only in dated history notes.
 Da Capo course id for Option B: "fourths".
+CARD FLOOR LOWERED 2026-09-21 (Sam told the class "at least 50 cards"
+in person): 50 cards, not 100, for Option B. Da Capo's
+GOAL_CARDS_BY_COURSE["fourths"] is 50 (deployed 2026-09-21) and
+Grading_Hub's dacapo_p4ths rubric now thresholds the code's "cards"
+row at 50 instead of reading "goal", so codes issued under the 100
+floor regrade to 100 on a plain re-pull. Every student-facing line
+below says 50; the Canvas description still says 100 until Sam
+edits it (one line in the Option B list).
 ===========================================================
 
 WHAT THIS FILE IS
@@ -30,7 +38,7 @@ WHAT THIS FILE IS
   belong to either project's repo, so it is the first resident of
   —OER/—Homework/. Da_Capo/canvas_assignment_p4ths.txt (the earlier
   standalone draft) is SUPERSEDED by this file and says so in its own
-  header; the game, the course, the rubric and the 100-card floor are
+  header; the game, the course, the rubric and the card floor (50 since 2026-09-21) are
   all unchanged.
 
 THE TWO FACTS EVERYTHING HANGS ON
@@ -133,7 +141,7 @@ bold survive; the visual editor would paste the tags as literal text.)
 <p><strong>You have full credit when EITHER of these is true:</strong></p>
 <ul>
   <li>you beat all 24 stages, <em>or</em></li>
-  <li>you have cleared 100 cards.</li>
+  <li>you have cleared 50 cards.</li>
 </ul>
 <p>Whichever comes first. The game keeps count for you: GET CODE (from the pause menu, or from the screen at the end) tells you whether you have earned credit yet and, if not, exactly how many more cards you need.</p>
 <p><strong>You do not need a MIDI keyboard.</strong> The letters A to G on your computer keyboard play those notes. For a black key, tap T (sharp) or R (flat) first and the next letter plays it. When a card shows two notes stacked on top of each other, play them <em>together</em> &mdash; press both letters at the same time, the way you would on a piano. If you would rather play it on a real keyboard, the Room 269 keyboards work as MIDI controllers during lab hours (cables provided) &mdash; see below.</p>
@@ -182,7 +190,7 @@ if you flub one, stop and start over.
 
 Option B: Da Capo. Same game as before, one new course. On the title
 screen press HOMEWORK, then PERFECT 4THS -- that starts it. Every card is
-a perfect 4th. Full credit for beating all 24 stages OR clearing 100
+a perfect 4th. Full credit for beating all 24 stages OR clearing 50
 cards, whichever comes first; the game counts for you. Laptop or desktop
 only, same browser every time, CONTINUE not START GAME when you come
 back. At the end, GET CODE, type your name and school ID, copy the code,
@@ -216,7 +224,7 @@ MINUTES to receive credit.
 OPTION B -- Da Capo's PERFECT 4THS course.
   https://da-capo-game.netlify.app
 On the title screen press HOMEWORK, then PERFECT 4THS. Full credit for
-beating all 24 stages or clearing 100 cards, whichever comes first. You
+beating all 24 stages or clearing 50 cards, whichever comes first. You
 do not need a MIDI keyboard (A-G on your laptop play the notes), but you
 do need a laptop or desktop -- it will not run on a phone or iPad. Paste
 the whole code into the Text Entry tab.
@@ -463,8 +471,8 @@ matters, a duration check would need the file downloaded and probed --
 not worth building for a rule a grader sees in the first second.
 
 STILL UNJUDGED BY A HUMAN: no student has played the fourths course or
-recorded the video yet. Whether 100 cards is the right floor for Option
-B (vs. Steps and Skips' 60), and whether the two options really feel
+recorded the video yet. Sam settled the floor at 50 in class (2026-09-21,
+was 100; vs. Steps and Skips' 60), and whether the two options really feel
 equal in effort, are worth watching in the first batch. The tiers are
 four lines in Da_Capo/Script/Curriculum.spec_for if the difficulty curve
 needs adjusting.

@@ -1,7 +1,9 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-21 (pass HW5-PROSE, Opus 5, launched from —OER,
+Last updated: 2026-09-21, later (HW #3 Option B card floor 100 -> 50 in
+hw3_perfect_4ths.txt and the roster, matching Da Capo and the
+Grading_Hub rubric, both changed the same day). Earlier: (pass HW5-PROSE, Opus 5, launched from —OER,
 after Sam read the live Canvas text: the section 1 HTML of
 hw5_first_three_stars.txt is rewritten shorter and in the
 Lead_Sheet_Lab handouts.txt voice; Option B drops the computer-keyboard
@@ -69,7 +71,7 @@ CONTENTS (2026-09-15)
                               minutes or no credit; graded on accuracy
                               by hand, posted via Grading_Hub tab 6
                            B  Da Capo course "fourths" (PERFECT 4THS),
-                              beat the game or 100 cards; KTS1 code
+                              beat the game or 50 cards (100 until 2026-09-21); KTS1 code
                               (text entry), graded by Grading_Hub/
                               rubrics/dacapo_p4ths.rubric.json
                          The six choreography questions the first
