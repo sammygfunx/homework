@@ -1,6 +1,12 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-09-19 (pass HW-DEADLINES from —OER: hw3_perfect_4ths.txt
+Updated: 2026-09-21 (pass HW5-PROSE from —OER: hw5_first_three_stars.txt
+section 1 rewritten shorter in the handouts.txt voice; Option B no
+longer offers the computer keyboard or mouse, students are pointed to
+the Room 269 MIDI keyboards, with class time this week and open lab
+hours; sections 2 and 3 and the roster row match. Sam pastes the new
+HTML into the live Canvas assignment; the app itself is unchanged).
+Before that: 2026-09-19 (pass HW-DEADLINES from —OER: hw3_perfect_4ths.txt
 and hw4_chord_progressions.txt carry Fri 2026-09-25 6:00 PM Eastern in
 every section, old item 1 -> history; Sam still moves the dates in
 Canvas — each file's section 4 has the line). Before that:

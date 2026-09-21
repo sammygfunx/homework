@@ -134,8 +134,9 @@ HW #5  The First Three Stars (video OR Orbit). NEW 2026-09-16 — REPLACES
          alone, no time cap …) are listed in the file's section 5 as
          "assumed 2026-09-18, change if wrong".
        Option B: Orbit HOMEWORK screen "THE FIRST THREE STARS" (course id
-         "three_stars", a public identifier; NO MIDI required — mouse,
-         computer keyboard and MIDI all work): for each of C, G and F
+         "three_stars", a public identifier; the app plays from mouse,
+         computer keyboard or MIDI, but since 2026-09-21 the description
+         offers only MIDI, on the Room 269 keyboards): for each of C, G and F
          (Orbit's unlock order) drill the scale degrees to 15 or more
          tries at 75% or better AND pass one of the six handout melodies
          in that key at the Slow tempo (85% in Perform on the fixed

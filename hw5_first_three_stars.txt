@@ -9,7 +9,15 @@ ONE file or ONE unlisted YouTube link is submitted; Option B earns
 PARTIAL CREDIT — a third per key (33 / 67 / 100) — which is a real
 Grading_Hub rubric change (orbit_hw5.rubric.json -> a percent column on
 keys_done) and an Orbit CODE-panel wording change (deploy pending, see
-section 4); and the HTML is entity-safe for the tab 5 paste. STATUS:
+section 4); and the HTML is entity-safe for the tab 5 paste. REWRITTEN
+2026-09-21 (HW5-PROSE, from —OER) on Sam's read of the live Canvas text:
+shorter, in the handouts.txt voice, and Option B no longer offers the
+computer keyboard (Z row) or the mouse as a way to play. Students are
+pointed to the Room 269 MIDI keyboards, with class time this week and
+the open lab hours; Orbit itself still accepts typed keys and mouse
+clicks, the description just does not advertise them. Sections 2 and 3
+match. Sam pastes section 1 into the existing Canvas assignment by
+hand (Edit -> description) or via Grading_Hub tab 5 Update. STATUS:
 READY TO PASTE — no [FILL IN] in the section 1 HTML. Due Fri
 2026-09-25, 6:00 PM Eastern (the same extended Friday as HW #3 and HW
 #4). Orbit course id for Option B: "three_stars" — a PUBLIC IDENTIFIER
@@ -71,8 +79,10 @@ THE TWO FACTS EVERYTHING HANGS ON
             better AND one of the six handout melodies passed in Perform
             at the Slow tempo (85%: the right pitches in the beat
             windows after a two-bar count-in). What it cannot: fingering,
-            or which hand. NO MIDI REQUIRED — mouse, computer keyboard
-            and MIDI all play it. PARTIAL CREDIT (Sam, 2026-09-18
+            or which hand. The app itself plays from mouse, computer
+            keyboard or MIDI, but since 2026-09-21 the description only
+            offers MIDI (Sam: typing the Z row teaches nothing; the lab
+            keyboards are the point). PARTIAL CREDIT (Sam, 2026-09-18
             evening): the rubric is a percent column on the code's
             keys_done row — 0 / 33 / 67 / 100 for 0 / 1 / 2 / 3 keys
             done. A code is ALWAYS issued; the line above it says what
@@ -137,9 +147,11 @@ correctly; the hub compared its own undecoded text). Re-derived the
 same night; a later Create/Update on the same title will read
 "(description verified …)";
 headings are <h3>/<h4>, lists are real <ol>/<ul>, paragraphs are <p> —
-Canvas's rich-content editor keeps all of these. Written in the voice
-of HW #4's final revision: few em dashes, bold only on on-screen names
-and the sentences that most need to stand out. Every quoted Orbit
+Canvas's rich-content editor keeps all of these. Written in the
+—Apps/Lead_Sheet_Lab/docs/handouts.txt voice (2026-09-21 rewrite): no
+em dashes, no fragments for punch, nothing a first-year would look up;
+bold only on the on-screen names and the three sentences that must not
+be missed (metronome audible, MIDI keyboard, a third per key). Every quoted Orbit
 string is the shipped one (scripts/screens/HomeworkScreen.gd, scripts/
 report/ResultCode.gd, scripts/screens/MelodyTrainerScreen.gd, scripts/
 Main.gd) EXCEPT the partial-credit line above the code, which is in
@@ -148,33 +160,31 @@ Orbit's source as of this evening and goes live with the next deploy
 differently, the site wins and this file gets re-derived.)
 
 ===HTML===
-<h3>Choose ONE option and submit ONLY ONE. Either option earns full credit for HW #5.</h3>
-<p>Pick the video if you'd rather play three tunes you know on a real piano with a metronome and be done in an afternoon. Pick Orbit if you'd rather drill the scale degrees with the game checking you, or you don't have a piano handy: Orbit runs on any laptop and needs no MIDI keyboard. They're worth the same. Submit one. You may do both for extra practice if you like, but only one submission is counted.</p>
+<h3>Choose one option and submit only one. Both are worth full credit.</h3>
+<p>Option A is a video of you playing three melodies from this week's handout on a piano. Option B is Orbit's homework checklist, played on a MIDI keyboard. Pick whichever suits you. You may try both for practice, but only one submission is graded.</p>
 
-<h4>Option A - Record a video: three melodies, one each in C, G and F</h4>
-<p>Pick THREE different melodies from this week's handout (Mary Had a Little Lamb, The Itsy Bitsy Spider, Jingle Bells, Vivaldi's Spring, Twinkle Twinkle, Happy Birthday). Play one in C major, one in G major and one in F major, right hand alone. C, G, F is the order Orbit uses; any order is fine. Say the title and the key out loud before each one.</p>
-<p><strong>A metronome is required for this option, and it must be audible in your recording.</strong> Any tempo is fine, slow included; what counts is that you stay with the click from the first note to the last. A phone app works, and every keyboard in Room 269 has one built in.</p>
-<p>Submit ONE video: a single take, or three clips edited together, either is fine, as long as what you turn in is one file or one link. Your hand and the keyboard need to be visible. A phone propped on the music stand is fine.</p>
-<p>Fingering is not graded on this one. What is: the right notes in each key, and staying with the metronome. <strong>Grading is based on accuracy and rhythm: the right scale degrees in every key, on the click.</strong> Each melody is a third of the grade.</p>
-<p>To submit: upload the video file in the <strong>File Upload</strong> tab below, or paste a link to an unlisted YouTube video in the <strong>Website URL</strong> tab. One file or one link. No cloud drive links.</p>
+<h4>Option A: Record a video (three melodies, one each in C, G and F)</h4>
+<p>Choose three different melodies from the handout (Mary Had a Little Lamb, The Itsy Bitsy Spider, Jingle Bells, Vivaldi's Spring, Twinkle Twinkle, Happy Birthday). Play one in C major, one in G major and one in F major, right hand alone, in any order. Say the title and the key before each one.</p>
+<p><strong>Use a metronome, and make sure it can be heard in the recording.</strong> Any tempo is fine, including a slow one. What matters is that you stay with the click from the first note to the last. A phone app works, and every keyboard in Room 269 has a metronome built in.</p>
+<p>Keep your hand and the keyboard in the frame. Record one take or edit three clips together, either way, as long as you turn in one file or one link.</p>
+<p>Grading: the right notes in each key, played in time with the metronome. Each melody is a third of the grade. Fingering is not graded on this assignment.</p>
+<p>To submit: upload the video in the <strong>File Upload</strong> tab, or paste a link to an unlisted YouTube video in the <strong>Website URL</strong> tab. No cloud drive links.</p>
 
-<h4>Option B - Play Orbit: THE FIRST THREE STARS</h4>
-<p>Orbit is the transposition trainer: <a href="https://orbit-transpose.netlify.app">https://orbit-transpose.netlify.app</a></p>
-<p><strong>You do not need a MIDI keyboard.</strong> Click the on-screen keys with the mouse, or play your computer keyboard: the Z row (Z X C V B N M , . /) is the white keys starting on C, the S D G H J L ; keys are the black keys, and [ and ] move the octave down and up. A MIDI keyboard works too if you have one, and the Room 269 keyboards plug right in. Use a laptop or desktop in a current browser.</p>
+<h4>Option B: Play Orbit (The First Three Stars)</h4>
+<p>Orbit is the transposition trainer: <a href="https://orbit-transpose.netlify.app">https://orbit-transpose.netlify.app</a>. Open it in a current browser on a laptop or desktop.</p>
+<p><strong>Play it on a MIDI keyboard.</strong> Every keyboard in Room 269 plugs into the lab computers, cables provided. You will have some class time this week to work on it, and the lab is open for practice at the hours posted below. A MIDI keyboard at home works too.</p>
 <ol>
-<li>On the first screen pick your name, or type a new one and press <strong>Begin</strong>. That profile is where your progress lives.</li>
-<li>Press <strong>&#10022; Homework</strong> in the header (it is on every screen), or <strong>&#10022; Homework: The First Three Stars</strong> on the Star Map.</li>
+<li>On the first screen, pick your name or type a new one and press <strong>Begin</strong>. Your progress lives in that profile, in that browser on that computer, so use the same one every time.</li>
+<li>Press <strong>&#10022; Homework</strong> in the header, or <strong>&#10022; Homework: The First Three Stars</strong> on the Star Map.</li>
 </ol>
-<p>The homework screen is a checklist: C major, G major and F major, each with a DRILL box and a MELODY box. In the game's own words: "For each key: drill its scale degrees (15 or more tries at 75% or better), then learn one of the six coursepack melodies in that key (pass the Slow tempo). Orbit lights the stars in this order: C first, then G, then F." The <strong>Drill &#8594;</strong> and <strong>Melodies &#8594;</strong> buttons on each row take you straight there. G stays LOCKED until C is done, and F until G is done.</p>
-<p>The drill is Find the Note or Name the Note, your choice; both count. The 75% is your running accuracy in that key over everything you've played there, so slow and right beats fast and wrong. The melody box needs one of the six handout tunes passed in that key at the Slow tempo (the melody list marks the six with &#10022; HW #5; any other tune still unlocks stars but does not earn the homework). Passing is 85% in Perform: after a two-bar count-in the clock runs, every note has a window, and a note is either the wrong pitch or late, never both. The tempo slider is yours, but credit goes to the slowest speed you used during the take: stay at or above the Slow tempo the whole way and it "counts as Slow"; dip below it and the results say "Practice tempo - no mastery credit", nothing recorded.</p>
-<p>Your progress saves in that browser, on that computer. Use the same browser and the same computer every time, and pick the same name. Clearing your browser's site data wipes it.</p>
-<p><strong>Each key you finish is worth a third: one key is 33, two keys 67, all three 100.</strong> The verdict line at the bottom of the checklist always tells you where you stand: "FULL CREDIT EARNED", or "2 KEYS TO GO &#183; DRILL G: 3 MORE", "1 KEY TO GO &#183; MELODY F: LEARN ONE", and so on. The game hands you a code at any point, and the line right above the code says what it is worth. You can paste a code now and a better one later; the newest code is the one that counts, so finish the other keys and paste again for the full 100.</p>
-<p>To submit: press <strong>GET CODE</strong>, type your first name, last name and Canvas ID (the number on your Canvas profile; your Orbit pilot name is not used), press GET CODE again, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Paste only the code, nothing else in the box, and paste all of it, from KTS1 to the last letter.</p>
-<p>The code certifies the right notes in a steady rhythm at the Slow tempo, plus the drills, for however many keys you finished. It says nothing about fingering; nothing in this assignment does.</p>
+<p>The homework screen is a checklist: C major, G major and F major, each with a Drill box and a Melody box. For each key, drill its scale degrees (15 or more tries at 75% or better), then pass one of the six handout melodies in that key at the Slow tempo. Orbit opens the keys in order, C first, then G, then F. The <strong>Drill &#8594;</strong> and <strong>Melodies &#8594;</strong> buttons on each row take you straight there.</p>
+<p>Either drill counts, Find the Note or Name the Note. The 75% is your running accuracy in that key, so slow and right beats fast and wrong. The melody list marks the six handout tunes with &#10022; HW #5. Passing a melody is 85% in Perform, at the Slow tempo or faster. If you drop below the Slow tempo during the take, the results say "Practice tempo - no mastery credit" and nothing is recorded.</p>
+<p><strong>Each key you finish is worth a third: one key is 33, two keys 67, all three 100.</strong> The line at the bottom of the checklist tells you where you stand, and the line above your code says what it is worth. You can paste a code now and a better one later; the newest code is the one that counts.</p>
+<p>To submit: press <strong>GET CODE</strong>, enter your first name, last name and Canvas ID (the number on your Canvas profile), press GET CODE again, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Paste only the code, and all of it, from KTS1 to the last letter.</p>
 
-<h4>Due Friday, September 25, 2026, 6:00 PM Eastern.</h4>
+<h4>Due Friday, September 25, 2026, 6:00 PM Eastern</h4>
 <h4>Lab hours (Room 269)</h4>
-<p>Room 269 is open for practice at select hours this week. Check the posted schedule for exact times. Every keyboard there is full-size, has a built-in metronome, and plugs into a computer as a MIDI keyboard. Cables provided, for either option.</p>
+<p>Room 269 is open for practice at select hours this week. Check the posted schedule for exact times. Every keyboard there is full-size, has a built-in metronome, and plugs into a computer as a MIDI keyboard, so the lab works for either option.</p>
 ===HTML===
 -------------------------------------------------------------------
 
@@ -194,9 +204,10 @@ or three clips cut together, as long as you turn in one file or one
 unlisted YouTube link. I'm grading the right notes and the rhythm;
 fingering isn't graded on this one. Each melody is a third.
 
-Option B: Orbit. You do NOT need a MIDI keyboard -- the mouse or the
-computer keyboard plays it. Pick your name, press the gold Homework
-button, and you get a checklist: C, G and F, a drill box and a melody box
+Option B: Orbit, on a MIDI keyboard. Every keyboard in 269 plugs into
+the lab computers, and you'll get some class time this week for it, plus
+the open lab hours. Pick your name, press the gold Homework button, and
+you get a checklist: C, G and F, a drill box and a melody box
 each. Drill a key's scale degrees till it says 15 tries at 75%, then pass
 one of the six handout tunes in that key at the Slow tempo. C first, then
 G, then F -- the game unlocks them in that order. Each key you finish is
@@ -231,8 +242,9 @@ graded here. Each melody is a third of the grade.
 
 OPTION B -- Orbit's homework, THE FIRST THREE STARS:
   https://orbit-transpose.netlify.app
-No MIDI keyboard needed: the mouse or the computer keyboard plays it (a
-MIDI keyboard works too). Pick your name, press the gold Homework button.
+Play it on a MIDI keyboard: every keyboard in Room 269 plugs into the
+lab computers, and you will have some class time this week for it, plus
+the open lab hours. Pick your name, press the gold Homework button.
 For each of C, G and F: drill that key's scale degrees to 15 tries at 75%
 or better, then pass one of the six handout tunes in that key at the Slow
 tempo (the melody list marks them HW #5). The game opens the keys in
