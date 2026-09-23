@@ -6,23 +6,9 @@ longer offers the computer keyboard or mouse, students are pointed to
 the Room 269 MIDI keyboards, with class time this week and open lab
 hours; sections 2 and 3 and the roster row match. Sam pastes the new
 HTML into the live Canvas assignment; the app itself is unchanged).
-Before that: 2026-09-19 (pass HW-DEADLINES from —OER: hw3_perfect_4ths.txt
-and hw4_chord_progressions.txt carry Fri 2026-09-25 6:00 PM Eastern in
-every section, old item 1 -> history; Sam still moves the dates in
-Canvas — each file's section 4 has the line). Before that:
-2026-09-18, evening (pass HW5-4 from —OER, draft + Sam's
-revision: hw5_first_three_stars.txt WRITTEN — Option A three handout
-melodies in C/G/F with a metronome, Option B Orbit with PARTIAL CREDIT
-a third per key (a rubric change in Grading_Hub + a wording change in
-Orbit, both committed, NEITHER tested nor deployed — Godot would not
-launch; Sam runs them, file section 4). Roster HW #5 row -> DRAFTED.
-Old item 2 is archived verbatim in history.txt. Earlier the same day: housekeeping — HW #3 and HW #4 are
-LIVE in Canvas and Sam has EXTENDED both, plus HW #5, to Fri 2026-09-25
-18:00 Eastern.)
-Ranked high -> low. (HW-DEADLINES, the former item 1, was DONE
-2026-09-19 by the pane queued from —OER item 19 — archived verbatim in
-history.txt; hw3/hw4 files now say Fri 2026-09-25 everywhere, Canvas
-edit left to Sam.)
+Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
+earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
+Ranked high -> low.
 
 1. HW #3 / HW #4 / HW #5 — FIRST GRADING RUN, AND WHAT TO WATCH (Sam, after
    Fri 2026-09-25; agent only if something breaks). All three are
