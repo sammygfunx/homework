@@ -1,7 +1,12 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-21, later (HW #3 Option B card floor 100 -> 50 in
+Last updated: 2026-09-28 (pass CR-MIDTERM, Opus 5.5, launched from —OER,
+next_steps item 28): docs/roster.txt's WHAT IS NOT HERE names the Clef
+Runner MIDTERM option for item 3, "Midterm: Sight-Reading, one exercise
+from No. 11 (Clef Runner)", its rubric path and its Canvas text file,
+the way QUIZ3 named the two Quiz 3 items. No HW #N row (midterm items are
+their own series); nothing else here changed. Before that: 2026-09-21, later (HW #3 Option B card floor 100 -> 50 in
 hw3_perfect_4ths.txt and the roster, matching Da Capo and the
 Grading_Hub rubric, both changed the same day). Earlier: (pass HW5-PROSE, Opus 5, launched from —OER,
 after Sam read the live Canvas text: the section 1 HTML of
