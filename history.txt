@@ -1,5 +1,21 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS MIDREP-HW (2026-10-07, Opus 5.5, launched from —OER; pane 3 of THE
+2026-10-07 MIDTERM REPERTOIRE QUEUE, gated on MIDREP-GH; brief
+—OER/docs/midterm_rep_brief_2026-10-07.txt)
+-----------------------------------------------------------------------
+  Wrote midterm_item5_repertoire.txt (five sections + a section 6 video
+  rubric) from the shipped Clef Runner screens (Clef_Runner dc5fc0e:
+  scripts/Main.gd, SightReadingAssignment.gd, the .codex/midrep_homework
+  screenshot) and the shipped hub rubric + hand-grade list wording
+  (Grading_Hub 8c42ef1). Choices made unattended, listed in its section
+  5 (D1-D7): the title, Module Week 7 under the midterm heading (the
+  due date is in Week 9), no tempo floor for videos, metronome
+  encouraged not required (the coursepack), Website URL not offered (a
+  link goes in the text box), Option 1 on video = one or two files.
+  Roster: WHAT IS NOT HERE points at a new MIDTERM ITEMS block, row MID
+  5 DRAFTED. Section 1 HTML is plain ASCII (verified by grep).
+
 PASS HW-DEADLINES (2026-09-19, Opus 5, launched from —OER; also touched
 —Coursepack item 24 and —OER/docs item 19)
 -----------------------------------------------------------------------

@@ -1,6 +1,7 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-09-21 (pass HW5-PROSE from —OER: hw5_first_three_stars.txt
+Updated: 2026-10-07 (pass MIDREP-HW: item 0 added, midterm item 5 file
+written). Before that: 2026-09-21 (pass HW5-PROSE from —OER: hw5_first_three_stars.txt
 section 1 rewritten shorter in the handouts.txt voice; Option B no
 longer offers the computer keyboard or mouse, students are pointed to
 the Room 269 MIDI keyboards, with class time this week and open lab
@@ -9,6 +10,18 @@ HTML into the live Canvas assignment; the app itself is unchanged).
 Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
+
+0. MIDTERM ITEM 5 — CREATE IT IN CANVAS (Sam, before Wed 2026-10-14;
+   added 2026-10-07 by MIDREP-HW). midterm_item5_repertoire.txt section
+   4: A ten minutes on the live Clef Runner card + one code through the
+   hub's tab 2; B tab 5 create in 001-004 (title "Midterm Exam:
+   Repertoire (video OR Clef Runner)", 20 points, Text Entry + tick File
+   Upload, Module Week 7 under the midterm heading, Due 2026-10-14
+   23:59, unpublished first), Student View, publish, announce (section
+   3); C grading after the due date (codes: clefrunner_midterm_
+   repertoire ALONE; videos: the "submission(s) with no code" list ->
+   SpeedGrader / tab 6). Confirm section 5's defaults D1-D7 first (each a
+   one-line change). Roster MID 5: DRAFTED -> CREATED -> LIVE.
 
 1. HW #3 / HW #4 / HW #5 — FIRST GRADING RUN, AND WHAT TO WATCH (Sam, after
    Fri 2026-09-25; agent only if something breaks). All three are

@@ -55,6 +55,19 @@ which changed Grading_Hub's rubric (percent on keys_done) and Orbit's
 CODE-panel wording (committed, NOT yet tested or deployed: Godot would
 not launch in that session — the commands are in the file's section
 4). Due Fri 2026-09-25 6:00 PM Eastern, the same Friday as HW #3/#4.
+Fourth resident, 2026-10-07 (pass MIDREP-HW, launched from —OER, the
+last pane of THE 2026-10-07 MIDTERM REPERTOIRE QUEUE): midterm_item5_
+repertoire.txt — MIDTERM ITEM 5, "Midterm Exam: Repertoire (video OR
+Clef Runner)". Not a HW #N: midterm items are their own series, so it
+is named midterm_* and the roster carries it in a MIDTERM ITEMS block.
+ONE Canvas assignment, Text Entry + File Upload, 20 points, due Wed
+2026-10-14 11:59 PM Eastern: a VIDEO of any option (1 both Bagpipe +
+Echo Dance, 2 one of Old German Dance / Canario, 3 a harder Baroque
+piece by approval), hand-graded on accuracy + steady pulse; OR a CLEF
+RUNNER code (Options 1-2; Homework card "Midterm Exam Repertoire", mode
+midterm_repertoire_f26, tempo 60+, repeats written out, grade = the
+higher option) graded by Grading_Hub/rubrics/clefrunner_midterm_
+repertoire.rubric.json. DRAFTED; section 4 is Sam's click-path.
 
 HOW IT RELATES TO THE REST OF THE OER
 -------------------------------------
@@ -85,6 +98,10 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-07) MIDTERM ITEM 5: Sam follows midterm_item5_repertoire.txt
+section 4 (live check, tab 5 create in all four sections, publish,
+announce) before Wed 2026-10-14, after reading section 5's defaults.
+The older notes below are history for HW #3-#5.
 (2026-09-18, evening) HW #5's file is WRITTEN and REVISED to Sam's three
 changes (hw5_first_three_stars.txt, DRAFTED). SAM, IN THIS ORDER, all
 in that file's section 4: (i) run Grading_Hub's two test suites (the

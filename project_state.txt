@@ -1,7 +1,20 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-09-28 (pass CR-MIDTERM, Opus 5.5, launched from —OER,
+Last updated: 2026-10-07 (pass MIDREP-HW, Opus 5.5, pane 3 of THE
+2026-10-07 MIDTERM REPERTOIRE QUEUE, launched from —OER, brief
+—OER/docs/midterm_rep_brief_2026-10-07.txt): NEW midterm_item5_
+repertoire.txt, midterm item 5 "Midterm Exam: Repertoire (video OR Clef
+Runner)", one Canvas assignment (Text Entry + File Upload, 20 points,
+due Wed 2026-10-14 23:59 Eastern): a video of any option (1 both easier
+pieces, 2 one harder piece, 3 by approval) OR a Clef Runner code from the
+shipped Homework card "Midterm Exam Repertoire" (mode midterm_repertoire_
+f26, MIDREP-CR dc5fc0e, live) graded by Grading_Hub/rubrics/clefrunner_
+midterm_repertoire.rubric.json (MIDREP-GH 8c42ef1). Five sections + a
+section 6 video rubric (accuracy 12 + steady pulse 8). Roster gains a
+MIDTERM ITEMS block (MID 5, DRAFTED). No other repo's files changed in
+this pass besides —OER/docs.
+Before that: 2026-09-28 (pass CR-MIDTERM, Opus 5.5, launched from —OER,
 next_steps item 28): docs/roster.txt's WHAT IS NOT HERE names the Clef
 Runner MIDTERM option for item 3, "Midterm: Sight-Reading, one exercise
 from No. 11 (Clef Runner)", its rubric path and its Canvas text file,
@@ -166,6 +179,15 @@ CONTENTS (2026-09-15)
                          (fingering, hand — and Option A does not grade
                          fingering either), and what the partial-credit
                          change touched in the other two repos.
+  midterm_item5_repertoire.txt
+                         MIDTERM ITEM 5 (2026-10-07, MIDREP-HW) —
+                         "Midterm Exam: Repertoire (video OR Clef
+                         Runner)". DRAFTED, not in Canvas. Video (any of
+                         Options 1-3, hand-graded, tab 6) OR a Clef
+                         Runner code (Options 1-2, mode midterm_
+                         repertoire_f26, rubric clefrunner_midterm_
+                         repertoire, 20 points). Named midterm_* not
+                         hw<N>_* because it is a midterm item.
   docs/roster.txt        HW #1..#9 as far as —OER's docs record them;
                          #2/#8 marked "not recorded", #7 RETIRED with
                          its Fall 2025 text kept, #3 and #4 LIVE (due

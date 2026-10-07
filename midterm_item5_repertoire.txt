@@ -1,0 +1,488 @@
+===========================================================
+MIDTERM, ITEM 5 — REPERTOIRE (video OR Clef Runner) — CANVAS ASSIGNMENT
+One Canvas assignment, two ways to submit. Written 2026-10-07 (pass
+MIDREP-HW, pane 3 of THE 2026-10-07 MIDTERM REPERTOIRE QUEUE, launched
+from —OER; brief —OER/docs/midterm_rep_brief_2026-10-07.txt) from Clef
+Runner's SHIPPED screens (MIDREP-CR, Clef_Runner dc5fc0e, deployed,
+index.pck 5f161df9... hash-verified, UNPLAYED by a human) and Grading
+Hub's shipped rubric (MIDREP-GH, Grading_Hub 8c42ef1). Due Wed
+2026-10-14, 11:59 PM Eastern. 20 points. Assignment id ("mode") of the
+Clef Runner half: "midterm_repertoire_f26" — FROZEN, a public
+identifier now that the rubric names it; never rename it.
+STATUS: READY TO PASTE (no [FILL IN] in the section 1 HTML). Nothing is
+in Canvas yet; section 4 is Sam's click-path.
+===========================================================
+
+WHAT THIS FILE IS
+  Everything for midterm item 5, in the five-section shape of
+  hw5_first_three_stars.txt and Clef_Runner/canvas_assignment_midterm_
+  sightreading.txt:
+    section 1  the Canvas assignment (title + description, real HTML)
+    section 2  the ninety-second version to say in class
+    section 3  the message to students (Canvas announcement)
+    section 4  Sam's easy click-path in Grading Hub tab 5, then grading
+    section 5  thread notes: defaults for Sam to confirm, lateness,
+               Option 3 approvals, what is not for students
+    section 6  the VIDEO RUBRIC (20 points, a simple Canvas rubric Sam
+               can paste if he wants one)
+
+  WHY IT LIVES HERE AND IS NOT "HW #N". It is a two-path assignment (a
+  video OR an app code), which is this folder's job; but it is a midterm
+  item, not a numbered homework, so the file is named midterm_item5_
+  repertoire.txt rather than hw<N>_<slug>.txt, and docs/roster.txt
+  carries it in its own MIDTERM ITEMS block, not as a HW #N row. In
+  Clef Runner it sits on the "Homework" screen because that is where
+  every graded app assignment lives (the sight-reading midterm option is
+  there too).
+
+THE FACTS EVERYTHING HANGS ON
+      THE ITEM       Midterm item 5, the repertoire, uploaded to Canvas
+                     (coursepack W7-REP-01 / W7-MIDTERM-01: "graded on
+                     accuracy and on keeping a steady pulse", due "11:59
+                     PM on Wednesday of Week 9")
+      OPTION 1       BOTH Bagpipe (Anonymous, 17th century) AND Echo
+                     Dance (Philipp Hainhofer, 17th century)   "easier"
+      OPTION 2       ONE of Old German Dance (Michael Praetorius,
+                     1571-1621) OR Canario (Joachim von der Hofe, 17th
+                     century)               "slightly more challenging"
+      OPTION 3       a harder Baroque keyboard piece, with Sam's
+                     approval: VIDEO ONLY, never in the app
+      TWO WAYS IN    a VIDEO (file upload, or an unlisted YouTube link
+                     pasted in the text box), any option; OR a CLEF
+                     RUNNER CODE pasted in the text box, Options 1/2 only
+      APP            Clef Runner        https://clef-runner.netlify.app
+      APP ID         "clefrunner"       <- the rubric's app_id
+      MODE           "midterm_repertoire_f26"   <- the rubric's `mode`
+      RUBRIC         Grading_Hub/rubrics/clefrunner_midterm_repertoire
+                     .rubric.json  (ONE "percent" column on the code's
+                     "grade" row, 20 points: posts round(grade / 5),
+                     85 -> 17, 45 -> 9, 93 -> 19)
+      DIAGNOSTIC     Grading_Hub/examples/clefrunner_midterm_repertoire_
+                     diagnostic.rubric.json  (CSV only: both options and
+                     each piece's percentage; never load beside the
+                     graded one)
+      THE APP RULE   a run COUNTS on the grand staff, in the printed key,
+                     at tempo 60 or faster (quarter = 60; all four are in
+                     4/4), the whole piece with the repeats written out,
+                     best run per piece, NO accuracy bar.
+                     Option 1 score = round(mean(best Bagpipe %, best
+                       Echo Dance %)); a piece never played counts 0.
+                     Option 2 score = the better of Old German Dance and
+                       Canario.
+                     GRADE = the higher option (trying both never hurts).
+      ON SCREEN      main menu "Homework" -> "Midterm Exam Repertoire"
+                     (listed FIRST) -> Tempo 60 / 80 / 100 -> Play beside
+                     a piece -> scroll down -> First name / Last name /
+                     School ID -> "Get Code" -> "Copy Code"
+  Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. The
+  sight-reading midterm code (sartorio_midterm_any1), Quiz 3 codes and
+  every other app's code pasted here land in the hub's no_rubric list,
+  listed loudly, never graded.
+
+CANVAS SETTINGS
+  Submission Type: Online -> "Text Entry" AND "File Uploads" (Grading
+    Hub tab 5: dropdown "Online — text entry", tick "Also accept:
+    Online — file upload"; leave website URL UNticked, the brief's
+    choice: a YouTube link goes in the text box, and since MIDREP-GH the
+    hub lists a text-box link with no code as a video to hand-grade).
+  Points: 20   (Canvas AND the rubric's "points", together; already 20
+    in the rubric)
+  Attempts: unlimited. The LAST submission is the one graded (a newer
+    code replaces an older one; a later upload replaces an earlier code
+    and vice versa, Canvas keeps one current submission).
+  Due: Wed 2026-10-14, 11:59 PM Eastern (2026-10-15T03:59:00Z, EDT is
+    UTC-4; the hub sends the Eastern wall-clock time as UTC, confirm the
+    pair in Preview). Same night as midterm item 3's Clef Runner option.
+  NO AVAILABILITY WINDOW: open from creation to Wednesday 11:59 PM.
+  ALLOWED FILE TYPES: the hub does not set them. Leave unrestricted, or
+    restrict by hand in Canvas to mp4,mov,m4v,webm.
+  ASSIGNMENT GROUP: Sam types the exact group heading (the midterm's
+    group, copied from the Assignments page; canvas_assignment_creation
+    .txt Q1). A typo silently CREATES a new group.
+  MODULE: "Week 7", under the midterm heading, beside the four scores,
+    the play-along videos and item 3's Clef Runner option (coursepack:
+    "The scores for Options 1 and 2 are posted in the Week 7 module").
+    The due date falls in Week 9 (Oct 12-18); see section 5, D3.
+
+  BROWSER REQUIREMENT GOES IN THE TEXT. Clef Runner needs the Web MIDI
+    API: Chrome, Edge or Firefox on a computer with a MIDI keyboard.
+    Safari and iPads cannot run it. The lab (Room 269) can.
+
+
+===========================================================
+1. THE CANVAS ASSIGNMENT
+===========================================================
+
+------------------------------ TITLE ------------------------------
+Midterm Exam: Repertoire (video OR Clef Runner)
+
+(Copy the title from here. It is the hub's idempotent match key: the
+same title on a later run UPDATES the assignment instead of creating a
+second one. Chosen once, 2026-10-07; never change it after the first
+Create. Plain ASCII on purpose: no em dash to mistype.)
+
+--------------------------- DESCRIPTION ---------------------------
+(Paste everything between the two ===HTML=== lines into Grading Hub tab
+5's Description box in ONE paste. The block is plain ASCII, no entities
+and no curly quotes, so the hub's read-back verifier has nothing to
+mis-decode and should print "(description verified: Canvas stored the
+full text)" for every section. Every quoted Clef Runner string is the
+shipped one (scripts/Main.gd, scripts/SightReadingAssignment.gd,
+MIDREP-CR); if the live site ever reads
+differently, the site wins and this file gets re-derived.)
+
+===HTML===
+<h3>Midterm item 5: your repertoire. Choose one option, then submit a video or a Clef Runner code.</h3>
+<p>The midterm repertoire comes from the Baroque period. Choose one of three options:</p>
+<ul>
+<li><strong>Option 1 (easier):</strong> BOTH Bagpipe (Anonymous, 17th century) AND Echo Dance (Philipp Hainhofer, 17th century).</li>
+<li><strong>Option 2 (slightly more challenging):</strong> ONE of Old German Dance (Michael Praetorius, 1571-1621) OR Canario (Joachim von der Hofe, 17th century). Just one.</li>
+<li><strong>Option 3 (harder):</strong> a harder Baroque keyboard piece, with my approval before you record it. Option 3 is a video only.</li>
+</ul>
+<p>The scores for Options 1 and 2 are in the Week 7 module. Play the whole piece, both hands, in the printed key, and <strong>play the repeats</strong>: Bagpipe and Canario repeat their sections, and a performance plays them. You are graded on accuracy and on keeping a steady pulse.</p>
+<p>My play-along videos show the score, a keyboard and a visualizer for each piece: <a href="https://youtu.be/PQktUQB-pIY">Bagpipe</a>, <a href="https://youtu.be/iaOWqhNyoQM">Echo Dance</a>, <a href="https://youtu.be/506ak3dTjB8">Old German Dance</a>, <a href="https://youtu.be/ewrWBdxsOY8">Canario</a>.</p>
+
+<h4>Way 1: Record a video (any option)</h4>
+<p>Record yourself playing your piece or pieces on a piano or keyboard. Keep your hands and the keyboard in the frame. One take per piece is fine. For Option 1, record both pieces: one video with both, or two videos.</p>
+<p>Choose a tempo you can keep steady from the first note to the last. A metronome is strongly encouraged, though not required.</p>
+<p>To submit: upload the video file (or both files) under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links. For Option 3, say the title and composer at the start.</p>
+
+<h4>Way 2: Play it in Clef Runner (Options 1 and 2 only)</h4>
+<p>Clef Runner is the sight-reading trainer: <a href="https://clef-runner.netlify.app">https://clef-runner.netlify.app</a></p>
+<p><strong>You need a MIDI keyboard and a computer.</strong> Open the link in Chrome, Edge or Firefox with your keyboard plugged in. Safari and iPads will not work: neither can talk to a MIDI keyboard. Every station in the group piano lab (Room 269) has one.</p>
+<ol>
+<li>Choose your player profile, or make one. Your progress lives in that profile, in that browser, on that computer, so use the same one each time.</li>
+<li>From the main menu press <strong>Homework</strong>.</li>
+<li>Open <strong>Midterm Exam Repertoire</strong>, the first card on the list.</li>
+<li>Pick a tempo (<strong>60, 80 or 100</strong>) and press <strong>Play</strong> beside a piece. Playing from that screen always uses both hands on the grand staff in the printed key, and the app plays the repeats for you, so a run is the whole piece.</li>
+<li>Practice as much as you like. Only your best run on each piece counts. To practice slower than 60, play the piece in Repertoire at 40; those runs are practice and do not count.</li>
+</ol>
+<p><strong>How the app grades it.</strong> A run counts at tempo 60 or faster. Option 1 is the average of your best Bagpipe and your best Echo Dance, so a piece you have not played counts 0 (one 90% piece alone is 45). Option 2 is your better run on Old German Dance or Canario. Your grade is the higher of the two options, so trying both never hurts. There is no minimum: a grade of 85 is 17 out of 20. The screen shows each option's score and your grade as you go.</p>
+<p>To submit: on the same screen, scroll down, type your first name, last name and school ID, press <strong>Get Code</strong>, then <strong>Copy Code</strong>, and paste the code under <strong>Text Entry</strong>.</p>
+<ul>
+<li>Use the school ID your gradebook knows you by.</li>
+<li>Paste ONLY the code, and ALL of it, from KTS1 to the very last letter.</li>
+<li>The line under the code tells you what it is worth. You may submit again later with a better code.</li>
+</ul>
+
+<h4>Submit one way. Your last submission is the one graded.</h4>
+<p>A video and a code are worth the same 20 points. If you submit more than once, only the last submission counts, so do not paste a code after uploading a video you want graded.</p>
+
+<h4>Due Wednesday, October 14, 2026, 11:59 PM Eastern. You may turn it in early.</h4>
+===HTML===
+-------------------------------------------------------------------
+
+
+===========================================================
+2. WHAT TO SAY IN CLASS (about ninety seconds)
+===========================================================
+
+"Midterm item five is your repertoire, and it's due Wednesday the
+fourteenth at 11:59 at night. Three options, same as the coursepack.
+Option 1: both Bagpipe and Echo Dance. Option 2: just one of Old German
+Dance or Canario. Option 3: a harder Baroque piece, but only if I've
+approved it first.
+
+Two ways to turn it in. Way one, any option: a video. Hands and keys in
+the frame, the whole piece, and play the repeats. One take per piece is
+fine. Upload the file, or paste an unlisted YouTube link in the text
+box. I'm grading accuracy and a steady pulse.
+
+Way two, Options 1 and 2 only: Clef Runner. Homework, then the first
+card, Midterm Exam Repertoire. Pick 60, 80 or 100 and press Play. It's
+always both hands, and the app plays the repeats for you. Runs count at
+60 or faster, only your best run counts, so practice all you want. For
+Option 1 it averages your two pieces, so play both; for Option 2 it
+takes your better one. Name, school ID, Get Code, Copy, paste the whole
+code in the text box. Chrome or Firefox and a MIDI keyboard; the lab has
+them.
+
+Same 20 points either way. Submit one way; the last thing you submit is
+what I grade."
+
+
+===========================================================
+3. THE MESSAGE TO STUDENTS (Canvas announcement; Sam sends this)
+===========================================================
+
+Subject: Midterm item 5: your repertoire, due Wednesday 10/14 at 11:59 PM
+
+Midterm item 5 is on Canvas: "Midterm Exam: Repertoire (video OR Clef
+Runner)", in the Week 7 module beside the scores.
+
+Choose one option:
+  Option 1 (easier): BOTH Bagpipe and Echo Dance.
+  Option 2 (slightly more challenging): ONE of Old German Dance or
+    Canario.
+  Option 3 (harder): a harder Baroque keyboard piece, with my approval
+    first. Video only.
+
+Then submit it one of two ways:
+
+  A VIDEO (any option). Play the whole piece, both hands, with the
+  repeats. Upload the file, or paste an unlisted YouTube link in the
+  text box. Graded on accuracy and a steady pulse.
+
+  CLEF RUNNER (Options 1 and 2): https://clef-runner.netlify.app
+  Press Homework, open "Midterm Exam Repertoire" (the first card), pick
+  tempo 60, 80 or 100 and press Play. Runs count at 60 or faster; only
+  your best run on each piece counts. Option 1 averages your two pieces
+  (play both!); Option 2 takes your better one; your grade is the
+  higher option. Type your name and school ID, Get Code, Copy Code, and
+  paste the whole code in the text box. Chrome, Edge or Firefox on a
+  computer with a MIDI keyboard; Safari and iPads cannot run it. Room
+  269 has keyboards at every station.
+
+Play-along videos (score, keyboard and visualizer):
+  Bagpipe           https://youtu.be/PQktUQB-pIY
+  Echo Dance        https://youtu.be/iaOWqhNyoQM
+  Old German Dance  https://youtu.be/506ak3dTjB8
+  Canario           https://youtu.be/ewrWBdxsOY8
+
+Both ways are worth the same 20 points. Due WEDNESDAY, OCTOBER 14, AT
+11:59 PM, the same night as the Clef Runner sight-reading option. Your
+last submission is the one graded.
+
+
+===========================================================
+4. SAM'S EASY CLICK-PATH (Grading Hub tab 5, then grading)
+===========================================================
+
+  NOT BLOCKED. Both upstream passes landed and the app is live:
+  Clef_Runner dc5fc0e (index.pck 5f161df9... hash-verified), Grading_
+  Hub 8c42ef1 (run_tests 1479 passed, smoke OK, per that pass). Nobody
+  has played the build in a browser yet.
+
+  A. TEN MINUTES ON THE LIVE APP FIRST (Clef_Runner docs/testing.txt
+     0-MIDREP is the long version)
+  [ ] https://clef-runner.netlify.app in Chrome, hard-refresh
+      (Cmd+Shift+R), MIDI keyboard plugged in, a throwaway profile.
+  [ ] Homework -> "Midterm Exam Repertoire" is the FIRST card. Open it:
+      the Option 1 table (Bagpipe, Echo Dance), the Option 2 table (Old
+      German Dance, Canario), the Option 3 sentence, Tempo 60 / 80 / 100.
+  [ ] Play Bagpipe at 60. Back on the screen EXPECT "Option 1 (easier):
+      Play BOTH pieces.  Score: N" with N about half your run, the
+      orange "Option 1 needs both pieces: play Echo Dance at tempo 60 or
+      faster..." line, and "Grade: N, your better option (Option 1: N,
+      Option 2: 0)."
+  [ ] Scroll down, a name and a fake school ID -> Get Code -> Copy Code.
+  [ ] Grading Hub -> tab 3 "Rubrics & Export" -> load rubrics/clefrunner_
+      midterm_repertoire.rubric.json ALONE -> tab 2 "Paste codes" ->
+      paste the code (only the code) -> "Decode pasted codes". EXPECT
+      app clefrunner, mode midterm_repertoire_f26, and the grade / 5
+      out of 20 (a 45 shows 9). No keyboard handy? The real sample
+      codes are in Grading_Hub/tests/fixtures/midrep_sample_codes.json
+      ("code" fields; option1_complete grades 85 -> 17).
+
+  B. CREATE IT (tab 5 "Create Assignments", all four sections)
+     SUB-TAB 1 "Sections" (as always):
+        001,173801
+        002,173802
+        003,173803
+        004,173804
+     SUB-TAB 2 "Assignment", field by field:
+        Title            Midterm Exam: Repertoire (video OR Clef Runner)
+                         (copy from section 1; the re-run match key)
+        Points           20
+        Submission       Online — text entry          <- the dropdown
+        Also accept      TICK "Online — file upload" ONLY
+                         (leave website URL and text entry unticked)
+        Assignment group <the midterm's group heading: open one course's
+                         Assignments page and COPY it exactly; a typo
+                         creates a new group>
+        Module           Week 7
+        Under header     <the midterm heading inside Week 7, its exact
+                         text, the same one item 3's Clef Runner option
+                         sits under; blank = end of the module>
+        Available from   blank
+        Due              2026-10-14 23:59
+        Until            blank
+        Description      the HTML block from section 1, everything
+                         between the two ===HTML=== lines, ONE paste
+        Publish immediately   UNTICKED (first check)
+     SUB-TAB 3 "Preset": ignore it.
+     SUB-TAB 4 "Preview & create":
+  [ ] Tick "Enable assignment creation", press "Preview Create
+      Assignments", and READ:
+        Title       Midterm Exam: Repertoire (video OR Clef Runner)
+        Points      20
+        Submission  Online — text entry + Online — file upload
+        Group       the name you pasted (not "(course default)")
+        Module      first module named "Week 7…" (+ the Under header line)
+        Due         Wed 2026-10-14 23:59 Eastern  (2026-10-15T03:59:00Z)
+        Available / Until   always open / never closes
+        Published   no (created unpublished, review in Canvas)
+        four section lines, each "— form dates"
+        the HTML description at the bottom
+  [ ] Press "Create/Update 4 Assignments in Canvas" -> confirm. Each
+      section's row must end "(description verified: Canvas stored the
+      full text)". An orange note = created but not placed in its
+      module; place it by hand.
+  [ ] In ONE course: open the assignment as a teacher. Submission Type
+      = Online, "Text Entry" and "File Uploads" checked; Points 20; Due
+      Oct 14 11:59 PM. Optionally "Restrict Upload File Types":
+      mp4,mov,m4v,webm. Optionally attach section 6's rubric (do it in
+      all four, or none).
+  [ ] Student View: the submit box offers a Text Entry tab AND a File
+      Upload tab, nothing else.
+  [ ] Publish: Canvas's toggle in each section (four clicks), or tab 5's
+      "Publish" sub-tab after a Preview.
+  [ ] Post section 3 as an announcement; say section 2 in class.
+  [ ] docs/roster.txt MIDTERM ITEM 5 row: DRAFTED -> CREATED IN CANVAS
+      -> LIVE.
+
+  C. GRADING IT, after Wed 2026-10-14 11:59 PM: two paths into ONE
+     gradebook column.
+  [ ] CODES: Grading Hub tab 3 -> load clefrunner_midterm_repertoire
+      .rubric.json ALONE. Tab 1 "Batch pull" with four lines
+      "label,course_id,assignment_id" (the assignment id is the number
+      in each course's assignment URL) -> one CSV per section in
+      ~/Documents/MUSC1105_Grades/. Or tab 4 "Batch Post", whose preview
+      shows the same report before anything posts. The hub grades only
+      rows whose text box holds a Clef Runner code with mode
+      midterm_repertoire_f26: score = round(grade / 5) out of 20, then
+      the late multiplier (section 5, L1). Two codes from one student:
+      the newest wins. A sight-reading or Quiz 3 code pasted here lands
+      in "no rubric matched", listed, never scored: read those rows and
+      write to the student.
+  [ ] THE HAND-GRADE LIST. Each section's report prints
+          N submission(s) with no code (video file, link or text) —
+          hand-grade these, post via tab 6:
+          ▲ Canvas user 12345 — 1 attachment(s), submitted ...
+          ▲ Canvas user 23456 — link in the text box, submitted ...
+          ▲ Canvas user 34567 — text with no code or link, submitted ...
+      That is the video roster: file uploads AND YouTube links pasted in
+      the text box (the hub has listed text-box links since MIDREP-GH;
+      before, they were silent). "text with no code or link" is usually
+      a mangled code: open it and ask the student to re-paste.
+  [ ] VIDEOS: watch each in SpeedGrader. Grade out of 20 on accuracy and
+      a steady pulse (section 6's rubric, attached or not). Option 1 =
+      both pieces, each half; Option 3 only if you approved it (section
+      5, O3). Apply the late policy by hand (L1). Enter the grades in
+      the grading sheet (tab 6 shape: "MUSC 1105 (001)" marker rows, a
+      "Canvas ID" column, a "TOTAL" column out of 20), video students
+      ONLY, then tab 6 "Post External Grades". Or type them straight
+      into SpeedGrader; both land in the same column.
+  [ ] Per-piece numbers for your own records: load examples/clefrunner_
+      midterm_repertoire_diagnostic.rubric.json ALONE and Export CSV.
+      Never post with it.
+
+
+===========================================================
+5. THREAD NOTES — true, but NOT for the assignment text
+===========================================================
+
+D. DEFAULTS FROM THE BRIEF, FOR SAM TO CONFIRM (each a one-line change)
+  D1 SCORE RULE, no accuracy bar (the sight-reading midterm's rule):
+     Option 1 = mean of the two best counting runs (an unplayed piece
+     counts 0); Option 2 = the better of its two; grade = the higher
+     option. Lives in Clef_Runner/scripts/SightReadingAssignment.gd
+     (kind "options"); the hub posts the game's "grade" row. Changing
+     it = a Clef Runner edit + deploy, and this file's "How the app
+     grades it" paragraph follows.
+  D2 VIDEO: graded by hand on the coursepack's "accuracy and keeping a
+     steady pulse", 20 points, any option; one take per piece fine; a
+     file or an unlisted YouTube link in the text box. The VIDEO has no
+     tempo floor (the text says "a tempo you can keep steady", the
+     coursepack's words; the 60 floor is the app's rule only). If Sam
+     wants quarter = 60 for videos too, add one sentence to Way 1.
+  D3 MODULE: Week 7, under the midterm heading, beside the scores and
+     item 3's Clef Runner option (CR-MIDTERM used Week 7). The brief
+     offered "Week 8 or as the calendar says"; the due date is in Week 9
+     (Oct 12-18; Week 8 is the fall-break week). Week 7 keeps every
+     midterm item in one place. Change the Module field before Create
+     if Sam prefers Week 9.
+  D4 TITLE: "Midterm Exam: Repertoire (video OR Clef Runner)", the
+     rubric's own "assignment" name plus HW #5's "(video OR app)" shape;
+     colon, no em dash. The in-app card stays "Midterm Exam Repertoire".
+  D5 SUBMISSION TYPES: Text Entry + File Upload only (the brief).
+     Website URL is not offered; a YouTube link goes in the text box.
+  D6 METRONOME for videos: "strongly encouraged, though not required"
+     (the coursepack). HW #3/#5 required one audible; this item does not.
+  D7 FOR OPTION 1 ON VIDEO: one video with both pieces or two files in
+     the same submission. Canvas's File Upload takes several files in one
+     submission; a student with two YouTube links pastes both.
+
+L. LATENESS
+  L1 CODES: Grading Hub's Lateness.gd applies on its own: on time 100%,
+     any lateness 80%, then -10% per further full day, from the Canvas
+     submitted_at of the CURRENT submission. A student who pasted an
+     on-time code and then a better code late is graded on the late one
+     with the penalty (the newest wins). Per-student due-date overrides
+     (accommodations) are NOT seen by the hub: check before posting.
+     VIDEOS: tab 6 posts what the sheet says, so apply the same policy
+     by hand (or use Canvas's own late policy if the course has one on;
+     do not double-penalize).
+  L2 NO "Until": a late submission is possible and lands in the pull.
+
+O. OPTION 3 APPROVALS
+  O1 The coursepack's suggestions: Allemande (Schein), Minuet
+     (Telemann), Gavotte (Telemann), The Village Prophet (Rousseau),
+     Minuet (J. S. Bach); others by request. The text tells students to
+     get approval BEFORE recording; it does not say how (email, office
+     hours, a Canvas message). Sam's call.
+  O2 Nothing records approvals. Suggested: a one-line list in the
+     grading sheet's notes column ("approved: Gavotte, 10/9").
+  O3 An Option 3 video with no approval on file: Sam's call (grade it,
+     or ask for Option 1/2). Not stated to students beyond "with my
+     approval before you record it".
+
+W. WHAT CLEF RUNNER CERTIFIES AND CANNOT
+  It hears pitch and timing on the grand staff at the chosen tempo
+  (60+), the whole piece with the repeats played (MIDREP-CR wrote them
+  out: Bagpipe 16 bars, Canario 24 in the app; the page shows 8 / 16).
+  It cannot see fingering, posture or dynamics, and "accuracy" is the
+  app's notes-right percentage, not a steady-pulse judgment: the app's
+  tempo is set for the student. So the two paths are not identical: the
+  video grades pulse by ear, the app grades accuracy at a fixed tempo.
+  The brief accepted that ("graded on OVERALL ACCURACY").
+
+S. WHAT A STUDENT COULD DO THAT WE ACCEPT
+  - Play Bagpipe only and submit: Option 1 at half, e.g. 90 -> 45 -> 9
+    of 20. The screen and the code's message say so loudly.
+  - Do both options in the app: the higher counts.
+  - Submit a code and a video: Canvas keeps the LAST one; the pull sees
+    only that one. The text says so.
+  - Practice in Repertoire at 40: does not count (results line says so).
+
+N. NOT VERIFIED BY A HUMAN
+  The app and the hub are headless-verified by their passes (Clef
+  Runner suite 31/31, Grading Hub 1479 passed). Nobody has played the
+  live build, created this assignment, or pulled a real submission.
+  Section 4 A and B are those checks. The section 1 HTML has not been
+  through the hub's read-back verifier yet (it is plain ASCII, so a
+  mismatch would be a real finding: bring it back verbatim).
+
+
+===========================================================
+6. THE VIDEO RUBRIC (20 points; optional Canvas rubric)
+===========================================================
+  For the hand-graded videos only (codes are graded by the hub and do
+  not need it). To use it: in ONE course, open the assignment ->
+  "+ Rubric" -> title "Midterm Repertoire (video)", the two criteria
+  below -> LEAVE "Use this rubric for assignment grading" UNTICKED, so
+  the rubric is a guide in SpeedGrader and never touches the scores the
+  hub posts for codes; type each video's total in the grade box (or in
+  the tab 6 sheet). Then "Find a Rubric" in the other three courses.
+  For Option 1, judge both pieces together (each about half).
+
+  CRITERION 1  ACCURACY (notes, rhythms, both hands, repeats played)   12
+     12  Excellent   right notes and rhythms throughout; at most a slip
+                     or two, recovered without stopping
+      9  Good        a few wrong notes or rhythms; the piece is clearly
+                     intact
+      6  Fair        frequent errors, or a section missing (a repeat
+                     skipped, one hand dropped for a passage)
+      3  Weak        many errors; much of the piece not secure
+      0  Missing     not played (for Option 1, a piece missing scores
+                     about half of this criterion)
+
+  CRITERION 2  STEADY PULSE (one tempo, start to finish)                 8
+      8  Excellent   a steady pulse throughout, no stops or restarts
+      6  Good        small hesitations, the pulse returns at once
+      4  Fair        noticeable slowdowns at hard spots, or a restart
+      2  Weak        the pulse comes and goes; frequent stops
+      0  Missing     no performance to judge
+
+  PLAIN-TEXT VERSION for the grading sheet's notes, if no Canvas rubric:
+    Accuracy __/12 + Steady pulse __/8 = __/20

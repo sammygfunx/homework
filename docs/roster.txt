@@ -29,7 +29,10 @@ sightreading.rubric.json; mode sartorio_midterm_any1; best run at tempo 60+
 on any Schäfer No. 11-28, no 90% bar; the furthest exercise reported, not
 scored), text in Clef_Runner/canvas_assignment_midterm_sightreading.txt,
 due Wed 2026-10-14 11:59 PM Eastern; the alternative is the in-class
-excerpt on Mon 2026-10-12. Only the "HW #N" series is listed below.
+excerpt on Mon 2026-10-12. MIDTERM ITEM 5, the repertoire (2026-10-07),
+is a two-path assignment that DOES live in this folder, so it has its own
+row in the MIDTERM ITEMS block at the end of this file. Only the "HW #N"
+series is listed in the main table.
 
 GAPS, STATED PLAINLY. The ecosystem's docs record HW #1, HW #6 and HW #9
 clearly (rubrics and/or assignment files exist). HW #7 and #8 are the
@@ -279,3 +282,31 @@ HW #9  Diatonic Triad Dodge: the 49 white-key triads.
          still prints the 2025 "60 correct OR 30 min" rule in three
          places — DTD next_steps item 1e, a deploy owed before
          2026-10-16.
+
+-----------------------------------------------------------------------
+MIDTERM ITEMS (their own series; only the ones whose content lives in
+this folder)
+-----------------------------------------------------------------------
+
+MID 5  Midterm Exam: Repertoire (video OR Clef Runner). NEW 2026-10-07
+       (pass MIDREP-HW, THE 2026-10-07 MIDTERM REPERTOIRE QUEUE).
+       Option 1 BOTH Bagpipe + Echo Dance; Option 2 ONE of Old German
+         Dance or Canario; Option 3 a harder Baroque piece by approval,
+         video only.
+       Way 1: a VIDEO, any option (FILE UPLOAD, or an unlisted YouTube
+         link in the TEXT box), hand-graded on accuracy + steady pulse,
+         posted via Grading_Hub tab 6.
+       Way 2: Clef Runner Homework "Midterm Exam Repertoire" (mode
+         midterm_repertoire_f26), runs at tempo 60+, grand staff, printed
+         key, repeats written out; grade = max(Option 1 mean, Option 2
+         best), no bar; TEXT ENTRY (KTS1 code).
+       One Canvas assignment: Text Entry + File Upload, 20 points.
+       Due: Wed 2026-10-14 23:59 Eastern (2026-10-15T03:59:00Z).
+       Rubric: Grading_Hub/rubrics/clefrunner_midterm_repertoire
+         .rubric.json (percent on "grade", 20 points); videos land in the
+         pull report's "submission(s) with no code" list.
+       Content: —Homework/midterm_item5_repertoire.txt (section 4 is the
+         tab 5 click-path; section 6 an optional Canvas video rubric).
+       Status: DRAFTED (2026-10-07). Clef Runner side LIVE (dc5fc0e,
+         index.pck 5f161df9..., unplayed); hub rubric committed
+         (8c42ef1). Not yet in Canvas.
