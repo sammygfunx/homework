@@ -307,6 +307,9 @@ MID 5  Midterm Exam: Repertoire (video OR Clef Runner). NEW 2026-10-07
          pull report's "submission(s) with no code" list.
        Content: —Homework/midterm_item5_repertoire.txt (section 4 is the
          tab 5 click-path; section 6 an optional Canvas video rubric).
-       Status: DRAFTED (2026-10-07). Clef Runner side LIVE (dc5fc0e,
-         index.pck 5f161df9..., unplayed); hub rubric committed
-         (8c42ef1). Not yet in Canvas.
+       Status: CREATED IN CANVAS (Sam, 2026-10-07, via Grading Hub tab
+         5, all four sections; everything as section 4 says EXCEPT the
+         module: it sits in WEEK 8, not Week 7; the scores stay in Week 7,
+         which the description's "in the Week 7 module" still points to
+         correctly). Clef Runner side LIVE (dc5fc0e, index.pck
+         5f161df9..., unplayed); hub rubric 8c42ef1.

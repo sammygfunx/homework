@@ -290,7 +290,7 @@ last submission is the one graded.
         Assignment group <the midterm's group heading: open one course's
                          Assignments page and COPY it exactly; a typo
                          creates a new group>
-        Module           Week 7
+        Module           Week 8   (as Sam created it, 2026-10-07; see D3)
         Under header     <the midterm heading inside Week 7, its exact
                          text, the same one item 3's Clef Runner option
                          sits under; blank = end of the module>
@@ -392,6 +392,12 @@ D. DEFAULTS FROM THE BRIEF, FOR SAM TO CONFIRM (each a one-line change)
      (Oct 12-18; Week 8 is the fall-break week). Week 7 keeps every
      midterm item in one place. Change the Module field before Create
      if Sam prefers Week 9.
+     AS CREATED (Sam, 2026-10-07): the assignment is in the WEEK 8
+     module; everything else as section 4. The description's "The scores
+     for Options 1 and 2 are in the Week 7 module" stays true (the scores
+     did not move). A re-run of tab 5 with Module "Week 7" would ADD a
+     Week 7 item, not move it: leave the Module field at "Week 8" or blank
+     for any later update.
   D4 TITLE: "Midterm Exam: Repertoire (video OR Clef Runner)", the
      rubric's own "assignment" name plus HW #5's "(video OR app)" shape;
      colon, no em dash. The in-app card stays "Midterm Exam Repertoire".
