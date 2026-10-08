@@ -1,0 +1,270 @@
+===========================================================
+CHOICE BOARD 1 -- SIXTHS AND SEVENTHS -- CANVAS ASSIGNMENT
+A 3-way choice board: Da Capo / Piano Tennis / video. Written 2026-10-08
+(DACAPO-20, cross-repo from —OER with Da_Capo + Grading_Hub). Da Capo
+course ids: "sixths" / "sevenths" -- FROZEN public identifiers once
+Grading_Hub's rubrics name them. STATUS: DRAFTED. WEEK AND DUE DATE
+BLANK FOR SAM (undecided); every [FILL IN] is listed in section 5, D0.
+The Da Capo ids are in the game's source but NOT LIVE until Da Capo's
+next deploy.
+===========================================================
+
+WHAT THIS FILE IS
+  The four choice boards (Sam, 2026-10-08): 1 = sixths + sevenths,
+  2 = triads, 3 = seventh chords, 4 = all intervals as extra credit or a
+  make-up. This is board 1. Same shape as midterm_item5_repertoire.txt
+  (the multi-path precedent) and hw3_perfect_4ths.txt (the Da Capo half):
+    section 1  the Canvas assignment (title + description, real HTML)
+    section 2  the ninety-second version to say in class
+    section 3  the message to students
+    section 4  Sam's click-path: the live check, Grading Hub tab 5, grading
+    section 5  thread notes: blanks, defaults to confirm, gaps per app
+  Every path the board's content allows is offered; an app whose content
+  does not fit is named as NOT ON THIS BOARD below rather than dropped
+  silently, so every board reads as the same four-way template.
+
+THE FACTS EVERYTHING HANGS ON
+      THE BOARD      Choice Board 1: major and minor 6ths and 7ths (Sam,
+                     2026-10-08, design_expansion.txt section 8 answer 4)
+      WEEK / DUE     [FILL IN: undecided, Sam's call] -- weeks and due dates
+                     are deliberately left blank
+      POINTS         [FILL IN; the Da Capo rubric posts 100, so Canvas 100
+                     unless Sam changes the rubric's "points"]
+      DA CAPO        course "sixths" (SIXTHS) on the HOMEWORK screen; FROZEN
+                     public id. Floor 50 cards or beat 24 stages
+                     (ResultCode.GOAL_CARDS_BY_COURSE)
+      DA CAPO        course "sevenths" (SEVENTHS) on the HOMEWORK screen;
+                     FROZEN public id. Floor 50 cards or beat 24 stages
+                     (ResultCode.GOAL_CARDS_BY_COURSE)
+      DA CAPO RUBRIC Grading_Hub/rubrics/dacapo_sixths.rubric.json AND
+                     dacapo_sevenths.rubric.json, loaded TOGETHER (the one
+                     sanctioned pair; see their headers)
+      PIANO TENNIS   https://piano-tennis.netlify.app, VS COMPUTER, tier "Week
+                     7 . All Intervals (Midterm Prep)" (the dropdown shows a
+                     middle dot after the week). Report = "Code:
+                     PT1-XXXXXXXXXX" + tier/result/accuracy text. NOT a KTS1
+                     code: no hub rubric, no decoder (Piano_Tennis next_steps
+                     PASS 5 unbuilt) -> HAND-GRADED
+      CHORD CRUSH    NOT ON THIS BOARD. Chord Crush has no interval content
+                     (chords only), so it is not a path on this board.
+      VIDEO          the standing rule: every app HW has a same-grade video
+                     option. Hand-graded on accuracy (D2)
+  Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. A Da Capo
+  run in any other course ("steps", "chords", "intervals", another
+  board's id...) lands in the hub's no_rubric list, listed, never graded.
+
+CANVAS SETTINGS
+  Submission Type: Online -> "Text Entry" AND "File Uploads" (Grading
+    Hub tab 5: dropdown "Online — text entry", tick "Also accept:
+    Online — file upload" only). Codes, the Piano Tennis report and
+    YouTube links go in the text box; video files are uploads.
+  Points: [FILL IN] (Canvas AND each rubric's "points", together).
+  Attempts: unlimited; the LAST submission is the one graded.
+  Due: [FILL IN]. Module: [FILL IN: the week's module]. Group: the
+    exact heading, copied (a typo silently CREATES a new group).
+
+
+===========================================================
+1. THE CANVAS ASSIGNMENT
+===========================================================
+
+------------------------------ TITLE ------------------------------
+Choice Board 1: Sixths and Sevenths (Da Capo OR Piano Tennis OR video)
+
+(The hub's idempotent match key: never change it after the first
+Create. If Sam numbers the boards as HW #N, prefix it BEFORE the first
+Create, e.g. "HW #10 -- Choice Board 1: Sixths and Sevenths (Da Capo OR Piano
+Tennis OR video)". Plain ASCII on purpose.)
+
+--------------------------- DESCRIPTION ---------------------------
+(Paste everything between the two ===HTML=== lines into Grading Hub tab
+5's Description box in ONE paste, AFTER filling every [FILL IN]. Plain
+ASCII, no entities, so the read-back verifier has nothing to mis-decode.)
+
+===HTML===
+<h3>Choice Board 1: Sixths and Sevenths. Pick ONE way below and submit only that one.</h3>
+<p>This homework practices major and minor 6ths and 7ths. Every way below is worth the same grade. You may try more than one for practice, but submit ONE.</p>
+
+<h4>Way 1: Da Capo (the reading game)</h4>
+<p>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>. On the title screen choose <strong>HOMEWORK</strong>, then select <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>. That starts the run. A run in any other course does not count for this board.</p>
+<p>Either course counts; play one of them. Each run is one course.</p>
+<p><strong>Full credit when EITHER is true:</strong> you beat all 24 stages, <em>or</em> you have cleared 50 cards. The game counts for you: GET CODE (pause menu, or the screen at the end) says whether you have earned credit yet and, if not, how many more cards you need.</p>
+<p>Play on a laptop or desktop (the letters A to G play notes; tap T for sharp or R for flat before a letter for a black key; press letters together for notes stacked on top of each other), on an iPad with the on-screen keys, or with a MIDI keyboard. Use the SAME browser on the SAME device each time and press <strong>CONTINUE</strong> to pick a run back up.</p>
+<p><strong>To submit:</strong> GET CODE, type your first name, last name and school ID, COPY CODE, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. Paste only the code.</p>
+
+<h4>Way 2: Piano Tennis</h4>
+<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'All Intervals (Midterm Prep)' (it is the only Piano Tennis tier with 7ths; it also deals every other interval). Type your name, then <strong>START MATCH</strong>.</p>
+<p><strong>Full credit:</strong> [FILL IN: what counts, e.g. win one match on that tier].</p>
+<p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave. Piano Tennis does not run on a phone or an iPad.</p>
+<p><strong>To submit:</strong> on the screen at the end of the match press <strong>COPY SCORE REPORT (FOR CANVAS)</strong> and paste the whole report under <strong>Text Entry</strong>.</p>
+
+<h4>Way 3: Record a video</h4>
+<p>Record yourself at the piano playing these <strong>twelve intervals</strong> as blocked intervals (both notes together), and <strong>say the name of each one out loud</strong> as you play it, for example <em>"C up to A, major 6th."</em> Above C, then above F, then above G, play a major 6th, a minor 6th, a major 7th and a minor 7th.</p>
+<p>Keep your hands and the keyboard in the frame and your voice clear. One take is fine. <strong>To submit:</strong> upload the video file under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links.</p>
+
+<h4>Submit one way. Your last submission is the one graded.</h4>
+<h4>Due [FILL IN: day, date, time] Eastern.</h4>
+===HTML===
+-------------------------------------------------------------------
+
+
+===========================================================
+2. WHAT TO SAY IN CLASS (about ninety seconds)
+===========================================================
+
+"This homework is major and minor 6ths and 7ths, and you pick how you do it:
+Da Capo, Piano Tennis or a video. Submit ONE.
+
+Da Capo: on the title screen press HOMEWORK, then SIXTHS or SEVENTHS. Beat all
+24
+stages or clear 50 cards, whichever comes first; the game counts for you.
+GET CODE, name and school ID, copy, paste the whole code in the text box.
+
+Piano Tennis: VS COMPUTER, pick the All Intervals (Midterm Prep) tier, play
+the
+match, then COPY SCORE REPORT and paste it in the text box. [FILL IN:
+what counts.] Computer only, not an iPad.
+
+Or a video: play and name the list on the assignment, blocked, hands and
+keys in the frame. Upload it or paste an unlisted YouTube link.
+
+Same grade every way. Due [FILL IN]. The last thing you submit is what
+I grade."
+
+
+===========================================================
+3. THE MESSAGE TO STUDENTS (Canvas announcement; Sam sends this)
+===========================================================
+
+Subject: Choice Board 1: Sixths and Sevenths (Da Capo OR Piano Tennis OR
+video), due [FILL IN]
+
+"Choice Board 1: Sixths and Sevenths (Da Capo OR Piano Tennis OR video)" is on
+Canvas. Pick ONE way:
+
+  DA CAPO  https://da-capo-game.netlify.app
+    HOMEWORK -> SIXTHS or SEVENTHS. Beat all 24 stages or clear 50 cards. GET
+    CODE,
+    paste the whole code in the text box. Computer (A-G keys), iPad
+    (on-screen keys) or a MIDI keyboard.
+  PIANO TENNIS  https://piano-tennis.netlify.app
+    VS COMPUTER, the All Intervals (Midterm Prep) tier. [FILL IN: what
+    counts.]
+    COPY SCORE REPORT, paste it in the text box. Computer only.
+  A VIDEO  play and name the list on the assignment; upload it, or
+    paste an unlisted YouTube link in the text box.
+
+Same grade every way. Your last submission is the one graded.
+
+
+===========================================================
+4. SAM'S CLICK-PATH (the pass-15 shape: play it live, create, grade)
+===========================================================
+
+  GATE: Da Capo's DACAPO-20 build must be LIVE (the "sixths" / "sevenths" ids
+  ship
+  with the next deploy) and every [FILL IN] decided (D0).
+
+  A. PLAY EACH PATH ON THE LIVE SITE YOURSELF
+  [ ] https://da-capo-game.netlify.app in Chrome, hard-refresh. HOMEWORK ->
+      SIXTHS or SEVENTHS.
+      Play a few minutes, GET CODE, COPY CODE. Close the tab, reopen,
+      confirm CONTINUE picks the run back up.
+  [ ] Grading Hub -> tab 3 -> load dacapo_sixths.rubric.json AND
+      dacapo_sevenths.rubric.json, loaded TOGETHER (the one sanctioned pair;
+      see their headers).
+      Tab 2 -> paste your code -> Decode. EXPECT app dacapo, mode "sixths",
+      and 0 (under 50 cards) or 100 (50+ cards or a completed run).
+  [ ] BOARD 1 ONLY: also take a short SEVENTHS run, decode both codes
+      with both rubrics loaded; each must show 100 or 0, never 200.
+  [ ] https://piano-tennis.netlify.app: VS COMPUTER on the "Week 7 . All
+      Intervals (Midterm Prep)"
+      tier, finish a match, COPY SCORE REPORT, paste it into a text
+      file. That is what a student's text box will hold. Decide D3.
+
+  B. CREATE IT (tab 5 "Create Assignments")
+     Sections     the four "label,course_id" lines, as always
+     Title        Choice Board 1: Sixths and Sevenths (Da Capo OR Piano Tennis
+                  OR video)
+                  (copy from section 1; the re-run match key)
+     Points       [FILL IN]
+     Submission   Online — text entry, and TICK "Also accept: Online —
+                  file upload" ONLY
+     Group        <exact heading, copied>
+     Module       [FILL IN: the week's module]
+     Due          [FILL IN]   Available / Until  blank
+     Description  section 1's HTML, ONE paste
+     Publish      UNTICKED for the first check
+  [ ] Preview: Submission reads "Online — text entry + Online — file
+      upload". Create. Each section ends "(description verified ...)".
+  [ ] Student View: a Text Entry tab AND a File Upload tab. Publish.
+  [ ] Post section 3; say section 2. docs/roster.txt row BOARD 1:
+      DRAFTED -> CREATED IN CANVAS -> LIVE.
+
+  C. GRADING IT, after the due date: every path into ONE column.
+  [ ] DA CAPO CODES: tab 3 -> load dacapo_sixths.rubric.json AND
+      dacapo_sevenths.rubric.json, loaded TOGETHER (the one sanctioned pair;
+      see their headers).
+      Tab 1 Batch pull or tab 4 Batch Post. The hub grades only codes
+      whose mode is "sixths" / "sevenths"; anything else is listed in
+      no_rubric.
+      BOARD 1 TRAP: Rubric.dedupe keys on student + app + MODE, so a
+      student whose submission holds a sixths AND a sevenths code gets
+      TWO postable rows and the later post wins. Look for a name listed
+      twice in the preview; post the higher by hand (tab 6) if so.
+  [ ] THE HAND-GRADE LIST: each section's report prints "N submission(s)
+      with no code (video file, link or text)". That list is the video
+      students AND the Piano Tennis reports ("text with no code or
+      link": a PT1 report is text with no KTS1 code).
+  [ ] VIDEOS: SpeedGrader, graded on accuracy against section 5's
+      answer key. PIANO TENNIS REPORTS: against the D0 rule.
+      Enter the grades in the tab 6 sheet ("MUSC 1105
+      (001)" marker rows, "Canvas ID", "TOTAL"), hand-graded students
+      ONLY, then tab 6 "Post External Grades". Apply lateness by hand.
+
+
+===========================================================
+5. THREAD NOTES — true, but NOT for the assignment text
+===========================================================
+
+D0. THE BLANKS, ALL SAM'S (search the file for "[FILL IN"):
+  - which week the board is posted and its due date (undecided,
+    design_expansion.txt 5.2: "NOT decided and is not decided here";
+    the earliest plausible board is week 11, Mon 2026-10-26)
+  - points; the module
+  - the Piano Tennis rule (what counts as done)
+
+D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game, the
+  game ships the verdict as "goal" and the rubric thresholds it. The
+  course's four tiers are Da_Capo/design_expansion.txt 5.2; Curriculum.gd
+  spec_for has them. test_theory 5e asserts every card at every stage is
+  in the set. Live check of the id: Da_Capo project_state 0w.
+  BOARD 1 OFFERS EITHER id (DEFAULT, for Sam to confirm): one run on
+  SIXTHS or one run on SEVENTHS is the whole Da Capo path. "Both"
+  would need two codes and a combining rule the hub does not have.
+
+D2. THE VIDEO (DEFAULT, for Sam to confirm; the standing rule is that
+  every app HW has a same-grade video). Blocked, named out loud, one
+  take, no metronome and no length limit. Graded on accuracy: every item
+  present, correctly played and correctly named.
+  ANSWER KEY (the twelve, spelled):
+    above C   M6 C-A    m6 C-Ab   M7 C-B    m7 C-Bb
+    above F   M6 F-D    m6 F-Db   M7 F-E    m7 F-Eb
+    above G   M6 G-E    m6 G-Eb   M7 G-F#   m7 G-F
+
+D3. THE OTHER APPS, STATED PLAINLY
+  PIANO TENNIS has no KTS1 code. Its report is "Code: PT1-" + 10 hex
+  characters (a salted SHA-256, scripts/main.gd) plus plain text; there
+  is no decoder (Piano_Tennis docs/next_steps.txt PASS 5) and no hub
+  rubric, so a report is graded by reading it, on trust.
+  Its All Intervals tier is BROADER than this board (every interval,
+  not just 6ths and 7ths); there is no sixths-and-sevenths-only tier.
+  Piano_Tennis docs/next_steps.txt PASS 3 (browser QA) is still open.
+  CHORD CRUSH: Chord Crush has no interval content (chords only), so it is not
+  a path on this board.
+
+L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
+  the same policy by hand to hand-graded rows (tab 6).
+
+N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites only),
+  the HTML through the hub's read-back verifier, any real submission.

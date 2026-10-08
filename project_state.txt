@@ -1,7 +1,16 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-07 (pass MIDREP-HW, Opus 5.5, pane 3 of THE
+Last updated: 2026-10-08 (DACAPO-20, Opus 5.5, launched from —OER with
+Da_Capo + Grading_Hub): FOUR CHOICE-BOARD FILES, hw_board1..4_*.txt, in
+the midterm-item-5 multi-path shape (Da Capo / Piano Tennis / Chord Crush
+/ video, an app only where its content fits: no Chord Crush on the
+interval boards 1 and 4, no Piano Tennis on board 3). Da Capo half fully
+built (course ids + rubrics + pin tests); Piano Tennis has no KTS1 code
+(hand-graded, on trust); Chord Crush has a KTS1 code but no rubric (D3 in
+each file). Weeks, due dates, points, the extra-credit/make-up rule and
+the two other apps' rules are blank for Sam. Roster: CHOICE BOARDS block.
+Before that: 2026-10-07 (pass MIDREP-HW, Opus 5.5, pane 3 of THE
 2026-10-07 MIDTERM REPERTOIRE QUEUE, launched from —OER, brief
 —OER/docs/midterm_rep_brief_2026-10-07.txt): NEW midterm_item5_
 repertoire.txt, midterm item 5 "Midterm Exam: Repertoire (video OR Clef

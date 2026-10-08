@@ -1,5 +1,14 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS DACAPO-20 (2026-10-08, Opus 5.5, launched from —OER; cross-repo with
+Da_Capo branch pass-21-hw-ids and Grading_Hub)
+  Wrote hw_board1_sixths_sevenths.txt, hw_board2_triads.txt,
+  hw_board3_seventh_chords.txt, hw_board4_all_intervals.txt (DRAFTED,
+  weeks/dates blank) and the roster's CHOICE BOARDS block. Facts on Piano
+  Tennis (PT1 hash code, no decoder, tiers) and Chord Crush (KTS1
+  chordcrush/session_report, no graded rubric, no intervals) were read
+  from those repos' docs and source, not played.
+
 PASS MIDREP-HW (2026-10-07, Opus 5.5, launched from —OER; pane 3 of THE
 2026-10-07 MIDTERM REPERTOIRE QUEUE, gated on MIDREP-GH; brief
 —OER/docs/midterm_rep_brief_2026-10-07.txt)

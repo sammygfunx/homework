@@ -68,6 +68,14 @@ RUNNER code (Options 1-2; Homework card "Midterm Exam Repertoire", mode
 midterm_repertoire_f26, tempo 60+, repeats written out, grade = the
 higher option) graded by Grading_Hub/rubrics/clefrunner_midterm_
 repertoire.rubric.json. DRAFTED; section 4 is Sam's click-path.
+Fifth through eighth residents, 2026-10-08 (DACAPO-20, launched from
+—OER with Da_Capo + Grading_Hub): hw_board1_sixths_sevenths.txt,
+hw_board2_triads.txt, hw_board3_seventh_chords.txt, hw_board4_all_
+intervals.txt, the four F26 CHOICE BOARDS (Da Capo / Piano Tennis / Chord
+Crush / video, each app only where its content fits). DRAFTED: weeks,
+due dates, points and the Piano Tennis / Chord Crush rules are blank for
+Sam. Da Capo ids sixths / sevenths / triads / seventh_chords /
+all_intervals, rubrics dacapo_<id>.rubric.json; roster CHOICE BOARDS.
 
 HOW IT RELATES TO THE REST OF THE OER
 -------------------------------------
@@ -98,6 +106,9 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-08) CHOICE BOARDS: nothing until Sam picks weeks; then fill
+the [FILL IN]s in hw_board*.txt (section 5 D0 lists them) and follow
+section 4, after Da Capo deploys the DACAPO-20 ids.
 (2026-10-07) MIDTERM ITEM 5: Sam follows midterm_item5_repertoire.txt
 section 4 (live check, tab 5 create in all four sections, publish,
 announce) before Wed 2026-10-14, after reading section 5's defaults.
