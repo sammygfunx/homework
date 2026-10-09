@@ -13,6 +13,14 @@ STATUS: READY TO PASTE (no [FILL IN] in the section 1 HTML). Nothing is
 in Canvas yet; section 4 is Sam's click-path.
 ===========================================================
 
+CR-PAGE-2 (Clef Runner, 2026-10-09): the section 1 HTML (Way 2's list) and
+the section 3 message gained one sentence, "Prefer a page that stays
+still? Choose View: Page before you play; it grades the same." (Clef
+Runner's View row is on the Homework screen; a page run grades exactly
+like a scrolling run, so the rubric does not change). Sam re-pastes the
+HTML block in Grading Hub tab 5 (same title, Create/Update updates in
+place; leave the Module field at "Week 8" or blank — see D3).
+
 WHAT THIS FILE IS
   Everything for midterm item 5, in the five-section shape of
   hw5_first_three_stars.txt and Clef_Runner/canvas_assignment_midterm_
@@ -155,6 +163,7 @@ differently, the site wins and this file gets re-derived.)
 <li>From the main menu press <strong>Homework</strong>.</li>
 <li>Open <strong>Midterm Exam Repertoire</strong>, the first card on the list.</li>
 <li>Pick a tempo (<strong>60, 80 or 100</strong>) and press <strong>Play</strong> beside a piece. Playing from that screen always uses both hands on the grand staff in the printed key, and the app plays the repeats for you, so a run is the whole piece.</li>
+<li>Prefer a page that stays still? Choose <strong>View: Page</strong> before you play; it grades the same.</li>
 <li>Practice as much as you like. Only your best run on each piece counts. To practice slower than 60, play the piece in Repertoire at 40; those runs are practice and do not count.</li>
 </ol>
 <p><strong>How the app grades it.</strong> A run counts at tempo 60 or faster. Option 1 is the average of your best Bagpipe and your best Echo Dance, so a piece you have not played counts 0 (one 90% piece alone is 45). Option 2 is your better run on Old German Dance or Canario. Your grade is the higher of the two options, so trying both never hurts. There is no minimum: a grade of 85 is 17 out of 20. The screen shows each option's score and your grade as you go.</p>
@@ -228,7 +237,9 @@ Then submit it one of two ways:
   tempo 60, 80 or 100 and press Play. Runs count at 60 or faster; only
   your best run on each piece counts. Option 1 averages your two pieces
   (play both!); Option 2 takes your better one; your grade is the
-  higher option. Type your name and school ID, Get Code, Copy Code, and
+  higher option. Prefer a page that stays still? Choose View: Page
+  before you play; it grades the same. Type your name and school ID,
+  Get Code, Copy Code, and
   paste the whole code in the text box. Chrome, Edge or Firefox on a
   computer with a MIDI keyboard; Safari and iPads cannot run it. Room
   269 has keyboards at every station.
