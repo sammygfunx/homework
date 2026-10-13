@@ -1,5 +1,22 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS BOARDS-10-11 (2026-10-13, Opus 5.5, launched from —OER; cross-repo
+with Grading_Hub; brief —OER/docs/quiz4_brief_2026-10-13.txt Parts 1, 5)
+  hw_board1_sixths_sevenths.txt and hw_board2_triads.txt: every week /
+  due / points / module blank filled (board 1 Week 10, 2026-10-26T03:59Z;
+  board 2 Week 11, 2026-11-02T04:59Z, EST after the DST change; 100
+  points; modules Week 10 / 11), in the facts block, Canvas settings, the
+  HTML due line, sections 2-3 and the tab 5 click-path. Section 4's gate
+  now records the live check: the deployed Da Capo index.pck
+  (6c12ef4aebb9b4ef = Da_Capo main 6602953) loaded headless lists sixths,
+  sevenths, triads, seventh_chords and all_intervals in HOMEWORK_COURSES
+  with 50-card goals. Section 5 D0 rewritten (decided vs still open);
+  board 2 D1 gains the TRIAD QUALITIES tier map (stages 1-6 maj/min, 7+
+  all four). Roster CHOICE BOARDS rows updated. Grading_Hub: the board 1
+  rubric headers no longer call board 1 four-way; 1670/1670 + smoke.
+  FOR SAM: Piano Tennis rule (both), Chord Crush rule (board 2), points
+  default 100, board 1 either-id default, video lists.
+
 PASS DTD-QUIZ4 (2026-10-13, Opus 5.5, launched from —OER; cross-repo with
 Diatonic_Triad_Dodge and Grading_Hub; brief —OER/docs/quiz4_brief_
 2026-10-13.txt Part 4)

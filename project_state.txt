@@ -1,7 +1,17 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-13 (DTD-QUIZ4, Opus 5.5, launched from —OER): the
+Last updated: 2026-10-13 (BOARDS-10-11, Opus 5.5, launched from —OER with
+Grading_Hub): CHOICE BOARDS 1 AND 2 SCHEDULED from the Quiz 4 brief Part 5.
+Board 1 = Week 10, due Sun 2026-10-25 23:59 EDT (2026-10-26T03:59:00Z);
+board 2 = Week 11, due Sun 2026-11-01 23:59 EST (2026-11-02T04:59:00Z,
+DST ends that morning). 100 points (default), modules Week 10 / Week 11.
+All five Da Capo board ids verified LIVE by loading the deployed pck
+(6c12ef4aebb9b4ef) headless; no deploy needed. Board 2 already covered
+all four triad qualities; its D1 now records the Da Capo course's tiers.
+Still blank: the Piano Tennis rule (both boards) and the Chord Crush rule
+(board 2), FOR SAM. Boards 3 and 4 untouched. Before that: 2026-10-13
+(DTD-QUIZ4, Opus 5.5, launched from —OER): the
 roster's new QUIZ ITEMS block, row QUIZ 4.5 (Triad Dodge quiz mode, due
 Fri 2026-10-23; content file in Diatonic_Triad_Dodge, not here: a quiz
 has no video path). Before that: 2026-10-08 (DACAPO-20, Opus 5.5, launched from —OER with

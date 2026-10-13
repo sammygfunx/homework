@@ -352,31 +352,43 @@ CHOICE BOARDS (F26; NEW 2026-10-08, DACAPO-20 from —OER). Four boards
 chords, 4 = all intervals (extra credit or a make-up). Not numbered yet:
 if they become HW #N rows, move them up and prefix the titles BEFORE the
 first tab 5 Create. Every board: Text Entry + File Upload; a VIDEO way
-(hand-graded); Da Capo floor 50 cards or beat the game. Weeks, due dates,
-points and the Piano Tennis / Chord Crush rules are BLANK for Sam.
+(hand-graded); Da Capo floor 50 cards or beat the game. Boards 1 and 2
+have weeks, due dates and points (BOARDS-10-11, 2026-10-13, from the
+Quiz 4 brief); boards 3 and 4 are still blank. The Piano Tennis / Chord
+Crush rules are BLANK for Sam on every board. All five Da Capo ids are
+LIVE (deployed index.pck 6c12ef4aebb9b4ef, checked 2026-10-13).
 -----------------------------------------------------------------------
 
 BOARD 1  Sixths and Sevenths (Da Capo OR Piano Tennis OR video).
          Da Capo "sixths" OR "sevenths"; rubrics dacapo_sixths +
          dacapo_sevenths loaded together. Piano Tennis All Intervals tier
          (no KTS1 code: hand-graded). No Chord Crush (no intervals).
+         Week 10, module Week 10. 100 points (default, Sam confirms).
+         Due: Sun 2026-10-25 23:59 Eastern (2026-10-26T03:59:00Z, EDT).
          Content: —Homework/hw_board1_sixths_sevenths.txt
-         Status: DRAFTED (Da Capo ids built, not deployed).
+         Status: DRAFTED. Da Capo ids LIVE. Blocking the Create: the
+           Piano Tennis rule (file section 5, D0).
 BOARD 2  Triad Qualities (Da Capo OR Piano Tennis OR Chord Crush OR video).
          Da Capo "triads"; rubric dacapo_triads. Piano Tennis Triads: All
          Qualities tier (hand-graded). Chord Crush four triad stages (KTS1
          code, NO rubric yet).
+         Covers major, minor, diminished and augmented (Week 11 adds
+         augmented).
+         Week 11, module Week 11. 100 points (default, Sam confirms).
+         Due: Sun 2026-11-01 23:59 Eastern (2026-11-02T04:59:00Z, EST:
+           DST ends that morning).
          Content: —Homework/hw_board2_triads.txt
-         Status: DRAFTED (Da Capo id built, not deployed).
+         Status: DRAFTED. Da Capo id LIVE. Blocking the Create: the
+           Piano Tennis and Chord Crush rules (file section 5, D0).
 BOARD 3  Seventh Chords (Da Capo OR Chord Crush OR video).
          Da Capo "seventh_chords"; rubric dacapo_seventh_chords. Chord
          Crush five seventh stages (KTS1 code, NO rubric yet). No Piano
          Tennis (no seventh chords).
          Content: —Homework/hw_board3_seventh_chords.txt
-         Status: DRAFTED (Da Capo id built, not deployed).
+         Status: DRAFTED (Da Capo id LIVE since before 2026-10-13).
 BOARD 4  All Intervals (Da Capo OR Piano Tennis OR video); extra credit
          or a make-up.
          Da Capo "all_intervals"; rubric dacapo_all_intervals. Piano
          Tennis All Intervals tier (hand-graded). No Chord Crush.
          Content: —Homework/hw_board4_all_intervals.txt
-         Status: DRAFTED (Da Capo id built, not deployed).
+         Status: DRAFTED (Da Capo id LIVE since before 2026-10-13).

@@ -106,6 +106,10 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-13, BOARDS-10-11) BOARDS 1 AND 2 are scheduled: board 1 Week 10,
+due Sun 2026-10-25 23:59; board 2 Week 11, due Sun 2026-11-01 23:59 (EST).
+100 points, Da Capo ids live. Sam sets the Piano Tennis / Chord Crush
+rules (section 5 D0), then section 4. Boards 3-4 still unscheduled.
 (2026-10-08) CHOICE BOARDS: nothing until Sam picks weeks; then fill
 the [FILL IN]s in hw_board*.txt (section 5 D0 lists them) and follow
 section 4, after Da Capo deploys the DACAPO-20 ids.

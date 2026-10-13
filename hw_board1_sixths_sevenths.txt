@@ -3,10 +3,11 @@ CHOICE BOARD 1 -- SIXTHS AND SEVENTHS -- CANVAS ASSIGNMENT
 A 3-way choice board: Da Capo / Piano Tennis / video. Written 2026-10-08
 (DACAPO-20, cross-repo from —OER with Da_Capo + Grading_Hub). Da Capo
 course ids: "sixths" / "sevenths" -- FROZEN public identifiers once
-Grading_Hub's rubrics name them. STATUS: DRAFTED. WEEK AND DUE DATE
-BLANK FOR SAM (undecided); every [FILL IN] is listed in section 5, D0.
-The Da Capo ids are in the game's source but NOT LIVE until Da Capo's
-next deploy.
+Grading_Hub's rubrics name them. STATUS: DRAFTED. WEEK 10, due
+Sun 10/25 at 11:59 PM Eastern, 100 points (BOARDS-10-11, 2026-10-13,
+from the Quiz 4 brief Part 5). Da Capo ids LIVE (deployed index.pck
+6c12ef4aebb9b4ef). The Piano Tennis rule is still [FILL IN] for Sam:
+section 5, D0.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -26,10 +27,11 @@ WHAT THIS FILE IS
 THE FACTS EVERYTHING HANGS ON
       THE BOARD      Choice Board 1: major and minor 6ths and 7ths (Sam,
                      2026-10-08, design_expansion.txt section 8 answer 4)
-      WEEK / DUE     [FILL IN: undecided, Sam's call] -- weeks and due dates
-                     are deliberately left blank
-      POINTS         [FILL IN; the Da Capo rubric posts 100, so Canvas 100
-                     unless Sam changes the rubric's "points"]
+      WEEK / DUE     Week 10 (Mon 10/19 - Sun 10/25). Due Sunday, October
+                     25, 2026, 11:59 PM Eastern = 2026-10-26T03:59:00Z
+                     (EDT, UTC-4). Quiz 4 is Fri 10/23, same week.
+                     Grading Hub tab 5 Due field: 2026-10-25 23:59.
+      POINTS         100 (the Da Capo rubric posts 100; Canvas matches it)
       DA CAPO        course "sixths" (SIXTHS) on the HOMEWORK screen; FROZEN
                      public id. Floor 50 cards or beat 24 stages
                      (ResultCode.GOAL_CARDS_BY_COURSE)
@@ -58,9 +60,10 @@ CANVAS SETTINGS
     Hub tab 5: dropdown "Online — text entry", tick "Also accept:
     Online — file upload" only). Codes, the Piano Tennis report and
     YouTube links go in the text box; video files are uploads.
-  Points: [FILL IN] (Canvas AND each rubric's "points", together).
+  Points: 100 (Canvas AND each rubric's "points", together).
   Attempts: unlimited; the LAST submission is the one graded.
-  Due: [FILL IN]. Module: [FILL IN: the week's module]. Group: the
+  Due: 2026-10-25 23:59 Eastern (2026-10-26T03:59:00Z). Module: Week 10.
+  Group: the
     exact heading, copied (a typo silently CREATES a new group).
 
 
@@ -103,7 +106,7 @@ ASCII, no entities, so the read-back verifier has nothing to mis-decode.)
 <p>Keep your hands and the keyboard in the frame and your voice clear. One take is fine. <strong>To submit:</strong> upload the video file under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links.</p>
 
 <h4>Submit one way. Your last submission is the one graded.</h4>
-<h4>Due [FILL IN: day, date, time] Eastern.</h4>
+<h4>Due Sunday, October 25, 2026, 11:59 PM Eastern.</h4>
 ===HTML===
 -------------------------------------------------------------------
 
@@ -128,8 +131,8 @@ what counts.] Computer only, not an iPad.
 Or a video: play and name the list on the assignment, blocked, hands and
 keys in the frame. Upload it or paste an unlisted YouTube link.
 
-Same grade every way. Due [FILL IN]. The last thing you submit is what
-I grade."
+Same grade every way. Due Sunday 10/25 at 11:59 PM. The last thing you
+submit is what I grade."
 
 
 ===========================================================
@@ -137,7 +140,7 @@ I grade."
 ===========================================================
 
 Subject: Choice Board 1: Sixths and Sevenths (Da Capo OR Piano Tennis OR
-video), due [FILL IN]
+video), due Sun 10/25 at 11:59 PM
 
 "Choice Board 1: Sixths and Sevenths (Da Capo OR Piano Tennis OR video)" is on
 Canvas. Pick ONE way:
@@ -154,16 +157,18 @@ Canvas. Pick ONE way:
   A VIDEO  play and name the list on the assignment; upload it, or
     paste an unlisted YouTube link in the text box.
 
-Same grade every way. Your last submission is the one graded.
+Due Sunday, October 25, 2026, 11:59 PM Eastern. Same grade every way.
+Your last submission is the one graded.
 
 
 ===========================================================
 4. SAM'S CLICK-PATH (the pass-15 shape: play it live, create, grade)
 ===========================================================
 
-  GATE: Da Capo's DACAPO-20 build must be LIVE (the "sixths" / "sevenths" ids
-  ship
-  with the next deploy) and every [FILL IN] decided (D0).
+  GATE: Da Capo's "sixths" / "sevenths" ids are LIVE (deployed index.pck
+  6c12ef4aebb9b4ef = Da_Capo main 6602953; the live pck was loaded
+  headless on 2026-10-13 and its HOMEWORK_COURSES list holds the ids).
+  STILL OPEN: the Piano Tennis rule (D0) -- fill it before the Create.
 
   A. PLAY EACH PATH ON THE LIVE SITE YOURSELF
   [ ] https://da-capo-game.netlify.app in Chrome, hard-refresh. HOMEWORK ->
@@ -187,12 +192,14 @@ Same grade every way. Your last submission is the one graded.
      Title        Choice Board 1: Sixths and Sevenths (Da Capo OR Piano Tennis
                   OR video)
                   (copy from section 1; the re-run match key)
-     Points       [FILL IN]
+     Points       100
      Submission   Online — text entry, and TICK "Also accept: Online —
                   file upload" ONLY
      Group        <exact heading, copied>
-     Module       [FILL IN: the week's module]
-     Due          [FILL IN]   Available / Until  blank
+     Module       Week 10
+     Due          2026-10-25 23:59   Available / Until  blank
+                  (Preview must show 2026-10-26T03:59:00Z; the hub's
+                  eastern_to_utc_iso was checked on this date)
      Description  section 1's HTML, ONE paste
      Publish      UNTICKED for the first check
   [ ] Preview: Submission reads "Online — text entry + Online — file
@@ -227,19 +234,31 @@ Same grade every way. Your last submission is the one graded.
 5. THREAD NOTES — true, but NOT for the assignment text
 ===========================================================
 
-D0. THE BLANKS, ALL SAM'S (search the file for "[FILL IN"):
-  - which week the board is posted and its due date (undecided,
-    design_expansion.txt 5.2: "NOT decided and is not decided here";
-    the earliest plausible board is week 11, Mon 2026-10-26)
-  - points; the module
-  - the Piano Tennis rule (what counts as done)
+D0. THE BLANKS (search the file for "[FILL IN"):
+  - week + due: DECIDED (Quiz 4 brief Part 5, Sam 2026-10-13): Week 10,
+    due Sun 2026-10-25 11:59 PM EDT = 2026-10-26T03:59:00Z. Filled in
+    BOARDS-10-11. The hub's eastern_to_utc_iso("2026-10-25 23:59") was
+    run on 2026-10-13 and returns that ISO.
+    The same wall-clock time is already pinned by the hub's
+    tests/run_tests.gd _test_spec_eastern_time (the sprint due dates).
+  - points: 100 (DEFAULT, for Sam to confirm). The brief is silent; the
+    Da Capo rubrics post 100 and every F26 HW #N is 100. If Sam wants
+    20 like the midterm items, change Canvas AND both rubrics' "points".
+  - module: Week 10 (the brief puts Quiz 4 in module Week 10; the due
+    Sunday is in Week 10).
+  - the Piano Tennis rule (what counts as done) -- STILL OPEN, FOR SAM.
+    The brief is silent. Suggested, matching the Da Capo floor's spirit
+    (finish, not win): "finish one full match on that tier"; a WIN
+    would make the computer's difficulty the grade. It fills three
+    places: section 1 Way 2, section 2, section 3.
 
 D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game, the
   game ships the verdict as "goal" and the rubric thresholds it. The
   course's four tiers are Da_Capo/design_expansion.txt 5.2; Curriculum.gd
   spec_for has them. test_theory 5e asserts every card at every stage is
   in the set. Live check of the id: Da_Capo project_state 0w.
-  BOARD 1 OFFERS EITHER id (DEFAULT, for Sam to confirm): one run on
+  BOARD 1 OFFERS EITHER id (DEFAULT, still for Sam to confirm; the
+  brief is silent): one run on
   SIXTHS or one run on SEVENTHS is the whole Da Capo path. "Both"
   would need two codes and a combining rule the hub does not have.
 
@@ -266,5 +285,6 @@ D3. THE OTHER APPS, STATED PLAINLY
 L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
   the same policy by hand to hand-graded rows (tab 6).
 
-N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites only),
+N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites, and the
+  LIVE pck loaded headless 2026-10-13; nobody has played them live),
   the HTML through the hub's read-back verifier, any real submission.

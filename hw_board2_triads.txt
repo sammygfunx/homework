@@ -3,10 +3,11 @@ CHOICE BOARD 2 -- TRIAD QUALITIES -- CANVAS ASSIGNMENT
 A 4-way choice board: Da Capo / Piano Tennis / Chord Crush / video.
 Written 2026-10-08 (DACAPO-20, cross-repo from —OER with Da_Capo +
 Grading_Hub). Da Capo course id: "triads" -- FROZEN public identifier
-once Grading_Hub's rubric names it. STATUS: DRAFTED. WEEK AND DUE DATE
-BLANK FOR SAM (undecided); every [FILL IN] is listed in section 5, D0.
-The Da Capo id is in the game's source but NOT LIVE until Da Capo's next
-deploy.
+once Grading_Hub's rubric names it. STATUS: DRAFTED. WEEK 11, due
+Sun 11/1 at 11:59 PM Eastern (EST), 100 points (BOARDS-10-11,
+2026-10-13, from the Quiz 4 brief Part 5). Da Capo id LIVE (deployed
+index.pck 6c12ef4aebb9b4ef). The Piano Tennis and Chord Crush rules are
+still [FILL IN] for Sam: section 5, D0.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -27,10 +28,15 @@ THE FACTS EVERYTHING HANGS ON
       THE BOARD      Choice Board 2: major, minor, diminished and augmented
                      triads (Sam, 2026-10-08, design_expansion.txt section 8
                      answer 4)
-      WEEK / DUE     [FILL IN: undecided, Sam's call] -- weeks and due dates
-                     are deliberately left blank
-      POINTS         [FILL IN; the Da Capo rubric posts 100, so Canvas 100
-                     unless Sam changes the rubric's "points"]
+      WEEK / DUE     Week 11 (Mon 10/26 - Sun 11/1). Due Sunday, November
+                     1, 2026, 11:59 PM Eastern = 2026-11-02T04:59:00Z
+                     (EST, UTC-5: daylight saving ends at 2 AM that
+                     morning; NOT Week 10's -4 offset). Week 11 is the
+                     week augmented triads are taught (brief Part 1:
+                     wk 9 major/minor, wk 10 diminished, wk 11
+                     augmented), so the board covers all four.
+                     Grading Hub tab 5 Due field: 2026-11-01 23:59.
+      POINTS         100 (the Da Capo rubric posts 100; Canvas matches it)
       DA CAPO        course "triads" (TRIAD QUALITIES) on the HOMEWORK screen;
                      FROZEN public id. Floor 50 cards or beat 24 stages
                      (ResultCode.GOAL_CARDS_BY_COURSE)
@@ -58,9 +64,10 @@ CANVAS SETTINGS
     Hub tab 5: dropdown "Online — text entry", tick "Also accept:
     Online — file upload" only). Codes, the Piano Tennis report and
     YouTube links go in the text box; video files are uploads.
-  Points: [FILL IN] (Canvas AND each rubric's "points", together).
+  Points: 100 (Canvas AND each rubric's "points", together).
   Attempts: unlimited; the LAST submission is the one graded.
-  Due: [FILL IN]. Module: [FILL IN: the week's module]. Group: the
+  Due: 2026-11-01 23:59 Eastern (2026-11-02T04:59:00Z). Module: Week 11.
+  Group: the
     exact heading, copied (a typo silently CREATES a new group).
 
 
@@ -109,7 +116,7 @@ ASCII, no entities, so the read-back verifier has nothing to mis-decode.)
 <p>Keep your hands and the keyboard in the frame and your voice clear. One take is fine. <strong>To submit:</strong> upload the video file under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links.</p>
 
 <h4>Submit one way. Your last submission is the one graded.</h4>
-<h4>Due [FILL IN: day, date, time] Eastern.</h4>
+<h4>Due Sunday, November 1, 2026, 11:59 PM Eastern.</h4>
 ===HTML===
 -------------------------------------------------------------------
 
@@ -136,8 +143,8 @@ MIDI keyboard or touch; a mouse can't play a chord.
 Or a video: play and name the list on the assignment, blocked, hands and
 keys in the frame. Upload it or paste an unlisted YouTube link.
 
-Same grade every way. Due [FILL IN]. The last thing you submit is what
-I grade."
+Same grade every way. Due Sunday 11/1 at 11:59 PM. The last thing you
+submit is what I grade."
 
 
 ===========================================================
@@ -145,7 +152,7 @@ I grade."
 ===========================================================
 
 Subject: Choice Board 2: Triad Qualities (Da Capo OR Piano Tennis OR Chord
-Crush OR video), due [FILL IN]
+Crush OR video), due Sun 11/1 at 11:59 PM
 
 "Choice Board 2: Triad Qualities (Da Capo OR Piano Tennis OR Chord Crush OR
 video)" is on Canvas. Pick ONE way:
@@ -165,15 +172,19 @@ video)" is on Canvas. Pick ONE way:
   A VIDEO  play and name the list on the assignment; upload it, or
     paste an unlisted YouTube link in the text box.
 
-Same grade every way. Your last submission is the one graded.
+Due Sunday, November 1, 2026, 11:59 PM Eastern. Same grade every way.
+Your last submission is the one graded.
 
 
 ===========================================================
 4. SAM'S CLICK-PATH (the pass-15 shape: play it live, create, grade)
 ===========================================================
 
-  GATE: Da Capo's DACAPO-20 build must be LIVE (the "triads" id ships
-  with the next deploy) and every [FILL IN] decided (D0).
+  GATE: Da Capo's "triads" id is LIVE (deployed index.pck
+  6c12ef4aebb9b4ef = Da_Capo main 6602953; the live pck was loaded
+  headless on 2026-10-13 and its HOMEWORK_COURSES list holds the id).
+  STILL OPEN: the Piano Tennis rule and the Chord Crush rule (D0) --
+  fill them before the Create.
 
   A. PLAY EACH PATH ON THE LIVE SITE YOURSELF
   [ ] https://da-capo-game.netlify.app in Chrome, hard-refresh. HOMEWORK ->
@@ -198,12 +209,14 @@ Same grade every way. Your last submission is the one graded.
      Title        Choice Board 2: Triad Qualities (Da Capo OR Piano Tennis OR
                   Chord Crush OR video)
                   (copy from section 1; the re-run match key)
-     Points       [FILL IN]
+     Points       100
      Submission   Online — text entry, and TICK "Also accept: Online —
                   file upload" ONLY
      Group        <exact heading, copied>
-     Module       [FILL IN: the week's module]
-     Due          [FILL IN]   Available / Until  blank
+     Module       Week 11
+     Due          2026-11-01 23:59   Available / Until  blank
+                  (Preview must show 2026-11-02T04:59:00Z; the hub's
+                  eastern_to_utc_iso was checked on this date)
      Description  section 1's HTML, ONE paste
      Publish      UNTICKED for the first check
   [ ] Preview: Submission reads "Online — text entry + Online — file
@@ -235,19 +248,39 @@ Same grade every way. Your last submission is the one graded.
 5. THREAD NOTES — true, but NOT for the assignment text
 ===========================================================
 
-D0. THE BLANKS, ALL SAM'S (search the file for "[FILL IN"):
-  - which week the board is posted and its due date (undecided,
-    design_expansion.txt 5.2: "NOT decided and is not decided here";
-    the earliest plausible board is week 11, Mon 2026-10-26)
-  - points; the module
-  - the Piano Tennis rule (what counts as done)
-  - the Chord Crush rule (what counts as done)
+D0. THE BLANKS (search the file for "[FILL IN"):
+  - week + due: DECIDED (Quiz 4 brief Part 5, Sam 2026-10-13): Week 11,
+    due Sun 2026-11-01 11:59 PM EST = 2026-11-02T04:59:00Z. Daylight
+    saving ends at 2 AM that same morning, so the offset is -5, not
+    Week 10's -4. The hub's eastern_to_utc_iso("2026-11-01 23:59") was
+    run on 2026-10-13 and returns 2026-11-02T04:59:00Z.
+    The same wall-clock time is already pinned by the hub's
+    tests/run_tests.gd _test_spec_eastern_time (the sprint due dates).
+  - points: 100 (DEFAULT, for Sam to confirm). The brief is silent; the
+    Da Capo rubric posts 100 and every F26 HW #N is 100. If Sam wants
+    20 like the midterm items, change Canvas AND the rubric's "points".
+  - module: Week 11 (the due Sunday is in Week 11).
+  - the Piano Tennis rule (what counts as done) -- STILL OPEN, FOR SAM.
+    The brief is silent. Suggested, matching the Da Capo floor's spirit
+    (finish, not win): "finish one full match on that tier"; a WIN
+    would make the computer's difficulty the grade. It fills three
+    places: section 1 Way 2, section 2, section 3.
+  - the Chord Crush rule (what counts as done) -- STILL OPEN, FOR SAM.
+    The brief is silent. It also decides D3's (a)/(b): a rubric needs
+    the rule in numbers (e.g. N levels in each of maj/min/dim/aug).
 
 D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game, the
   game ships the verdict as "goal" and the rubric thresholds it. The
   course's four tiers are Da_Capo/design_expansion.txt 5.2; Curriculum.gd
   spec_for has them. test_theory 5e asserts every card at every stage is
   in the set. Live check of the id: Da_Capo project_state 0w.
+  COVERAGE (BOARDS-10-11, from Curriculum.gd spec_for "triads"): stages
+  1-6 deal MAJOR AND MINOR only; stages 7-12 all four qualities, root
+  position; 13-18 adds 1st inversion; 19-24 every inversion. Pack C
+  maps hold at most five creatures each, so 50 cleared cards should
+  carry a run well past stage 6 into diminished and augmented. That is
+  an estimate from the map rule, not a measured run: Sam's live check
+  confirms it by noting the stage a 50-card run reaches.
 
 D2. THE VIDEO (DEFAULT, for Sam to confirm; the standing rule is that
   every app HW has a same-grade video). Blocked, named out loud, one
@@ -279,5 +312,6 @@ D3. THE OTHER APPS, STATED PLAINLY
 L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
   the same policy by hand to hand-graded rows (tab 6).
 
-N. NOT VERIFIED BY A HUMAN: the Da Capo id (headless suites only),
+N. NOT VERIFIED BY A HUMAN: the Da Capo id (headless suites, and the
+  LIVE pck loaded headless 2026-10-13; nobody has played it live),
   the HTML through the hub's read-back verifier, any real submission.

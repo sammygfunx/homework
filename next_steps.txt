@@ -1,7 +1,8 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-07 (pass MIDREP-HW: item 0 added, midterm item 5 file
-written). Before that: 2026-09-21 (pass HW5-PROSE from —OER: hw5_first_three_stars.txt
+Updated: 2026-10-13 (BOARDS-10-11: item 0a split; boards 1-2 have weeks,
+dates, points). Before that: 2026-10-07 (pass MIDREP-HW: item 0 added,
+midterm item 5 file written). Before that: 2026-09-21 (pass HW5-PROSE from —OER: hw5_first_three_stars.txt
 section 1 rewritten shorter in the handouts.txt voice; Option B no
 longer offers the computer keyboard or mouse, students are pointed to
 the Room 269 MIDI keyboards, with class time this week and open lab
@@ -11,7 +12,17 @@ Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
 
-0a. CHOICE BOARDS 1-4 (added 2026-10-08 by DACAPO-20; waits on Sam). When
+0a-1. BOARD 1 (Week 10, due Sun 10/25) AND BOARD 2 (Week 11, due Sun 11/1)
+   -- SAM (BOARDS-10-11, 2026-10-13). Weeks, due dates, points (100,
+   default) and modules are filled; the Da Capo ids are LIVE. Before
+   each Create: (i) set the Piano Tennis rule (both boards) and the
+   Chord Crush rule (board 2) -- section 5 D0 has a suggested wording;
+   (ii) confirm D1 (board 1: either id) and D2 (the video lists);
+   (iii) section 4 A-B. Board 1 should be live by Mon 10/19; board 2
+   by Mon 10/26. Board 2's Chord Crush codes need hand-grading or a
+   small Grading_Hub rubric pass once the rule is a number.
+
+0a. CHOICE BOARDS 3-4 (added 2026-10-08 by DACAPO-20; waits on Sam). When
    a board's week is picked: fill its [FILL IN]s (section 5 D0: due date,
    points, module, the Piano Tennis / Chord Crush rules, board 4's
    extra-credit or make-up rule), confirm D1/D2 defaults, then section 4
