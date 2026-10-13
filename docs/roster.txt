@@ -278,10 +278,9 @@ HW #9  Diatonic Triad Dodge: the 49 white-key triads.
        Rubric: Grading_Hub/rubrics/triad_dodge_hw9.rubric.json
          (mastered/49 x 100, linear).
        Content: —Games/Diatonic_Triad_Dodge/canvas_assignment_hw9.txt.
-       Status: DRAFTED (2026-09-12, Pass 21c). NOTE the live DTD build
-         still prints the 2025 "60 correct OR 30 min" rule in three
-         places — DTD next_steps item 1e, a deploy owed before
-         2026-10-16.
+       Status: DRAFTED (2026-09-12, Pass 21c). NOTE DTD next_steps item 1e is DONE
+         (2026-10-13, v2.3.1, live): the game's blurb, HUD and "Goal
+         met" now say session mastery of the 49, matching this text.
 
 -----------------------------------------------------------------------
 MIDTERM ITEMS (their own series; only the ones whose content lives in
