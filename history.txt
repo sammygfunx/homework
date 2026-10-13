@@ -1,5 +1,16 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS DTD-QUIZ4 (2026-10-13, Opus 5.5, launched from —OER; cross-repo with
+Diatonic_Triad_Dodge and Grading_Hub; brief —OER/docs/quiz4_brief_
+2026-10-13.txt Part 4)
+  docs/roster.txt gains a QUIZ ITEMS block with row QUIZ 4.5, "Quiz #4:
+  Diatonic Triads (Triad Dodge)": the game's quiz mode (mode quiz4_f26,
+  21 triads, best complete run), Text Entry, 20 points, due Fri
+  2026-10-23 23:59 Eastern, rubric triad_dodge_quiz4, content file
+  Diatonic_Triad_Dodge/canvas_assignment_quiz4.txt (it lives with the
+  game, like canvas_assignment_hw9.txt: a quiz has no video path, so it
+  is not this folder's two-path kind). Status DRAFTED; game v2.4.0 live.
+
 PASS DACAPO-20 (2026-10-08, Opus 5.5, launched from —OER; cross-repo with
 Da_Capo branch pass-21-hw-ids and Grading_Hub)
   Wrote hw_board1_sixths_sevenths.txt, hw_board2_triads.txt,

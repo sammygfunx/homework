@@ -1,7 +1,10 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-08 (DACAPO-20, Opus 5.5, launched from —OER with
+Last updated: 2026-10-13 (DTD-QUIZ4, Opus 5.5, launched from —OER): the
+roster's new QUIZ ITEMS block, row QUIZ 4.5 (Triad Dodge quiz mode, due
+Fri 2026-10-23; content file in Diatonic_Triad_Dodge, not here: a quiz
+has no video path). Before that: 2026-10-08 (DACAPO-20, Opus 5.5, launched from —OER with
 Da_Capo + Grading_Hub): FOUR CHOICE-BOARD FILES, hw_board1..4_*.txt, in
 the midterm-item-5 multi-path shape (Da Capo / Piano Tennis / Chord Crush
 / video, an app only where its content fits: no Chord Crush on the

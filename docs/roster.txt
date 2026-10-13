@@ -315,6 +315,38 @@ MID 5  Midterm Exam: Repertoire (video OR Clef Runner). NEW 2026-10-07
 
 
 -----------------------------------------------------------------------
+QUIZ ITEMS (their own series; only the app-graded ones whose Canvas
+assignment is posted through Grading Hub tab 5 like a homework. The
+in-class quizzes themselves, and Quiz #2 / Quiz #3's app items, are
+tracked where WHAT IS NOT HERE says.)
+-----------------------------------------------------------------------
+
+QUIZ 4.5  Quiz #4: Diatonic Triads (Triad Dodge). NEW 2026-10-13 (pass
+       DTD-QUIZ4, brief —OER/docs/quiz4_brief_2026-10-13.txt Part 4).
+       Quiz #4 item 5, replacing F25's written diatonic-triads quiz.
+       Diatonic_Triad_Dodge QUIZ MODE (the "Quiz #4: Diatonic Triads" tab
+         on the Homework screen; mode "quiz4_f26", FROZEN): a run is 21
+         root-position triads from HW #9's 49 white-key triads, 3 of
+         each degree and 3 in each key, each asked once; a run counts
+         when all 21 are answered (getting eaten does not end it);
+         unlimited runs; the code carries the BEST complete run's
+         percent and the attempts count. TEXT ENTRY (KTS1 code).
+       NO VIDEO OPTION: it is a quiz, not a homework. No laptop = a
+         Room 269 computer (a phone cannot take it).
+       Link: https://diatonic-triad-dodge.netlify.app/?hw=1&quiz=quiz4_f26&week=10
+       Due: Fri 2026-10-23 23:59 Eastern (2026-10-24T03:59:00Z), in
+         class that day, Until = due (the box closes at 11:59 PM).
+         Module Week 10. 20 points.
+       Rubric: Grading_Hub/rubrics/triad_dodge_quiz4.rubric.json (one
+         percent column on "grade", 20 points: round(grade / 5);
+         17 of 21 = 81% = 16). Load it ALONE.
+       Content: —Games/Diatonic_Triad_Dodge/canvas_assignment_quiz4.txt
+         (section 4 is Sam's tab 5 click-path).
+       Status: DRAFTED (game v2.4.0 LIVE, deployed and hash-verified
+         2026-10-13, UNPLAYED by a human; nothing in Canvas yet).
+
+
+-----------------------------------------------------------------------
 CHOICE BOARDS (F26; NEW 2026-10-08, DACAPO-20 from —OER). Four boards
 (Sam, 2026-10-08): 1 = sixths + sevenths, 2 = triads, 3 = seventh
 chords, 4 = all intervals (extra credit or a make-up). Not numbered yet:
