@@ -274,7 +274,9 @@ HW #8  Record 3 Melodies (each one in a different key!) — RETIRED for
 
 HW #9  Diatonic Triad Dodge: the 49 white-key triads.
        Diatonic_Triad_Dodge; TEXT ENTRY (KTS1 code).
-       Due: Fri 2026-10-16 (per the content file's student message).
+       Due: Sun 2026-10-18 23:59 (EXTENDED 2026-10-15 from Fri 10/16: the
+         live Canvas page had the 2025 text + file upload; fixed via GH tab 5
+         update, text entry only; DTD canvas_assignment_hw9.txt section 6).
        Rubric: Grading_Hub/rubrics/triad_dodge_hw9.rubric.json
          (mastered/49 x 100, linear).
        Content: —Games/Diatonic_Triad_Dodge/canvas_assignment_hw9.txt.
