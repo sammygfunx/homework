@@ -138,3 +138,4 @@ Standing rule: end every pass updating conversation_starter.txt +
 project_state.txt + next_steps.txt (+ docs/roster.txt when a status
 moved), completed work -> history.txt, then git add -A && git commit
 && git push.
+Standing rule, claims check: before publishing homework/outline/quiz text or a rubric, run Brains dev_tools/jev/check_claims.sh --since <base> ("/Volumes/SSG (2025)/—OER/—Apps/Brains/dev_tools/jev/check_claims.sh") and read the FOR SAM list; it reports and edits nothing (JEV-CLAIMS-2, 2026-10-21).
