@@ -366,7 +366,10 @@ CC-LEVELS (next_steps 0b-0c). PT-KTS1 SHIPPED 2026-10-26: Piano Tennis
 v2.1 makes a KTS1 code (app "pianotennis", mode = tier id); rubrics
 pianotennis_board1 ("w7") and pianotennis_board2 ("w9_plus").
 CC-LEVELS SHIPPED 2026-10-26: Chord Crush v51.9.0 sends per-stage
-"<stage>_levels" rows; rubric chordcrush_board2. All five Da Capo ids are
+"<stage>_levels" rows; rubric chordcrush_board2. DUET-CODE SHIPPED
+2026-10-26: Da Capo's duet end screen has GET CODES, one code per seat
+(mode "duet_<course>", no name or ID, as a QR code); rubrics
+dacapo_duet_sixths / _sevenths / _triads. All five Da Capo ids are
 LIVE (deployed index.pck 6c12ef4aebb9b4ef, checked 2026-10-13).
 -----------------------------------------------------------------------
 
@@ -376,8 +379,11 @@ BOARD 1  "Choice Board 1: Sixths and Sevenths" (title names no ways since
          + dacapo_sevenths loaded together) OR video (hand-graded).
          GATED add-ons: Piano Tennis All Intervals tier, finish one
          match (code + rubric pianotennis_board1 SHIPPED 2026-10-26,
-         PT-KTS1; gate left: Sam decodes one live code); Da Capo duet
-         (needs DUET-CODE). No Chord Crush (no intervals).
+         PT-KTS1; gate left: Sam decodes one live code); Da Capo duet,
+         50 cards per seat over a sitting (codes + rubrics
+         dacapo_duet_sixths + _sevenths SHIPPED 2026-10-26, DUET-CODE;
+         gate left: Sam decodes one live code). No Chord Crush (no
+         intervals).
          Week 11, module Week 11. 100 points.
          Due: Sun 2026-11-01 23:59 Eastern (2026-11-02T04:59:00Z, EST).
          Was Week 10 / due 10/25; never posted (Sam's amendment D3/D4).
@@ -392,7 +398,9 @@ BOARD 2  "Choice Board 2: Triad Qualities".
          Triads: All Qualities tier, finish one match (code + rubric
          pianotennis_board2 SHIPPED 2026-10-26, PT-KTS1; gate left: Sam
          decodes one live code);
-         Da Capo duet (needs DUET-CODE).
+         Da Capo duet, 50 cards per seat over a sitting (codes + rubric
+         dacapo_duet_triads SHIPPED 2026-10-26, DUET-CODE; gate left: Sam
+         decodes one live code).
          Week 12, module Week 12. 100 points.
          Due: Sun 2026-11-08 23:59 Eastern (2026-11-09T04:59:00Z, EST).
          Content: —Homework/hw_board2_triads.txt

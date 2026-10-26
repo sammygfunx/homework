@@ -1,5 +1,45 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS DUET-CODE (2026-10-26, Opus 5.5, pane B3 of —OER queue item 0q, the
+board-ways chain; next_steps 0d, archived here)
+  THE PROMPT (from 0d): a GET CODES row on the duet end screen giving each
+  seat its own KTS1 code, name and ID blank, mode naming the seat's course
+  ("duet_sixths"), a cards total over the whole sitting that survives
+  PLAY AGAIN, a per-seat nonce the hub flags on repeat, a QR code per
+  seat; keep Global.run_* untouched, change the "NOTHING HERE IS GRADED"
+  line; floor 50 cards per seat; tests, deploy, hash-verify; Grading_Hub
+  duet rubrics for boards 1 (sixths, sevenths) and 2 (triads) with pin
+  tests; ADD-ON D's gate and labels in both board files and the roster.
+  Design APPROVED by Sam in —OER item 0q (built without asking).
+  DONE, four repos: Da_Capo 3b22c8e + d71c68e (Script/DuetCode.gd row
+  contract: goal, cards, wrong, matches, seat, nonce; Script/QrCode.gd,
+  our own encoder, pinned module for module against segno; the SITTING on
+  Main across PLAY AGAIN, LOBBY / TITLE start over; the panel's SITTING
+  line, GET CODES and new bottom line; the codes screen; a /C/<code> COPY
+  CODE page via a Netlify rewrite; test_gameplay case 28; seven suites
+  green; deployed, index.pck 6ea8a51143857edd / html / wasm / code.html
+  MATCH, the live /C/ page checked, both QR codes on a screenshot decode
+  with zxing-cpp). Grading_Hub 01a8657 (three rubrics; Rubric.dedupe keys
+  a blank-ID code on the Canvas submitter, which keyed on "" would have
+  merged a whole section's duet codes into one student;
+  Rubric.shared_nonces = the SHARED CODE flag; "Canvas user N" names;
+  _test_dacapo_duet_rubrics on five real codes; 1798 -> 1887 + smoke).
+  Brains d1b283c (claims report: 91 claims, nothing flagged). Here: both
+  board files' header, FACTS, ADD-ON D gate + HTML (PLAY AGAIN keeps the
+  count, COPY CODE on the phone page, P1 MINT / P2 EMBER), section 2
+  note, section 4 C (duet rubrics, pull-only, SHARED CODE, and the batch
+  tools grading with ONE selected rubric), board 1 D4 BUILT, N; roster
+  rows; four docs.
+  FOR SAM: (1) one live duet decode before inserting ADD-ON D; (2) duet
+  codes grade only by pull + post (no name / ID: a paste is no_user_id,
+  the CSV path cannot place them); (3) tab 1 Batch pull and tab 4 Batch
+  Post use only the SELECTED rubric: run them once per rubric (the board
+  files said "load together", which holds only for single-course Preview
+  Post); (4) a sitting ends at LOBBY or TITLE, so changing a lobby
+  setting restarts the count (a new pair never inherits the last pair's
+  cards); (5) seat identity is the honor system; the nonce flag catches
+  one code handed in twice, not one student playing both seats.
+
 PASS CC-LEVELS (2026-10-26, Opus 5.5, pane B2 of —OER queue item 0q, the
 board-ways chain; next_steps 0c, archived here)
   THE PROMPT (from 0c): Chord Crush's KTS1 code cannot show one stage

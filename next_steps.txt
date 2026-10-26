@@ -1,6 +1,9 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-26 (CC-LEVELS DONE: 0c shipped, ADD-ON C on board 2
+Updated: 2026-10-26 (DUET-CODE DONE: 0d shipped, ADD-ON D on boards 1-2
+waits only on Sam's live decode; the board files' grading notes now say
+the batch tools use ONE selected rubric). Before that: 2026-10-26
+(CC-LEVELS DONE: 0c shipped, ADD-ON C on board 2
 waits only on Sam's live decode). Before that: 2026-10-26 (PT-KTS1 DONE:
 0b shipped, ADD-ON P on boards 1-2 waits only on Sam's live decode).
 Before that: 2026-10-26 (BOARDS-SHIFT:
@@ -25,7 +28,8 @@ Ranked high -> low.
    hw_board1_sixths_sevenths.txt section 4 A-B. If 0b or 0d lands before
    Sun 11/1, add its way by section 4 D (same title = an UPDATE). 0b
    LANDED 2026-10-26: ADD-ON P goes in after Sam's one live decode
-   (0b's LEFT FOR SAM line).
+   (0b's LEFT FOR SAM line). 0d LANDED 2026-10-26: ADD-ON D likewise
+   (0d's LEFT FOR SAM line).
 
 0a-2. BOARD 2 -- CREATE IT BY MON 11/2 (Sam). Week 12, due Sun 11/8 23:59
    EST (2026-11-09T04:59Z), 100 points (Chord Crush up to 106), module
@@ -33,7 +37,8 @@ Ranked high -> low.
    TRIAD QUALITIES or a video; insert each ADD-ON (C / P / D) whose gate
    is open that morning. hw_board2_triads.txt section 4. 0c LANDED
    2026-10-26: ADD-ON C goes in after Sam's one live decode (0c's LEFT
-   FOR SAM line).
+   FOR SAM line). 0d LANDED 2026-10-26: ADD-ON D likewise (0d's LEFT FOR
+   SAM line).
 
 0b. DONE 2026-10-26: PASS PT-KTS1 (prompt + outcome in history.txt). Piano
    Tennis v2.1 LIVE (pck b9336b440ae6c8d9) makes a KTS1 code (GET CANVAS
@@ -56,26 +61,20 @@ Ranked high -> low.
    chordcrush_board2 (EXPECT a "maj_levels" row, 0 points until Major
    and Minor are both 12/12); then section 4 D.
 
-0d. PASS DUET-CODE (queued 2026-10-26, Sam: "queue it for Board 2 ... leave
-   things set up such that it would be easy to update board 1"). THREE
-   REPOS (Da_Capo, Grading_Hub, —Homework): start from —OER.
-   PROMPT: "Pass DUET-CODE (TAG "DUET-CODE:"). Read hw_board1_sixths_
-   sevenths.txt section 5 D4 first. Ask Sam to approve the design before
-   building: a GET CODES row on the duet end screen (Script/Duet.gd
-   _build_panel) giving each seat its own KTS1 code, name and ID left
-   blank (the hub posts to the Canvas submitter), its mode naming the
-   seat's course (e.g. "duet_sixths"), a cards-cleared total over the
-   whole sitting (PLAY AGAIN rebuilds Game today, Script/Main.gd:52: the
-   total must survive it), and a per-seat nonce the hub can flag when
-   two submissions carry the same code; each code shown as a QR code
-   (no QR encoder ships with Godot: check the Brains modules first). This
-   breaks design_expansion D14 / TRAP 3 on purpose ('a duet is not a
-   run'): keep Global.run_* untouched and change the panel's 'NOTHING HERE
-   IS GRADED' line. Floor 50 cards per seat. Tests, deploy, hash-verify.
-   Then Grading_Hub duet rubrics for boards 1 (sixths, sevenths) and 2
-   (triads) with pin tests, then ADD-ON D's gate and labels in both
-   board files and the roster. WHATS-NEW line."
-   MODEL: opus | EFFORT: high.
+0d. DONE 2026-10-26: PASS DUET-CODE (prompt + outcome in history.txt).
+   Da Capo's duet end panel has GET CODES (LIVE, index.pck
+   6ea8a51143857edd, hash-verified): one KTS1 code per SEAT over the
+   SITTING (PLAY AGAIN keeps counting, LOBBY / TITLE start over), mode
+   "duet_<course>", no name or ID, a per-seat nonce, shown as a QR code
+   that opens a COPY CODE page. Grading_Hub rubrics dacapo_duet_sixths /
+   _sevenths / _triads (goal -> 100: 50 cards per seat), tested on real
+   codes; a blank-ID code dedupes on the Canvas submitter; one seat's
+   code from two submitters is flagged SHARED CODE. LEFT FOR SAM (the
+   last gate item of each ADD-ON D): play a duet live, GET CODES, scan a
+   seat with your phone, COPY CODE, decode in hub tab 2 with the board's
+   duet rubric (EXPECT mode "duet_sixths" / "duet_triads", no name, 100 at
+   50+ cards); then section 4 D. Grade duet codes by pull + post (a paste
+   has no Canvas user).
 
 0a. CHOICE BOARDS 3-4 (added 2026-10-08 by DACAPO-20; waits on Sam). When
    a board's week is picked: fill its [FILL IN]s (section 5 D0: due date,

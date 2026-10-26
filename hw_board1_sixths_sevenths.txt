@@ -8,8 +8,9 @@ Da Capo course ids "sixths" / "sevenths" -- FROZEN public identifiers,
 LIVE. Two more ways are written but GATED (section 1, ADD-ON WAYS):
 Piano Tennis's KTS1 code and rubric SHIPPED 2026-10-26 (pass PT-KTS1);
 its gate waits only on Sam decoding one live code (ADD-ON P). The Da
-Capo duet waits for a duet code (pass DUET-CODE). Neither is in
-today's paste.
+Capo duet's per-seat codes and rubrics SHIPPED 2026-10-26 (pass
+DUET-CODE); its gate waits only on Sam decoding one live code (ADD-ON
+D). Neither is in today's paste.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -53,8 +54,12 @@ THE FACTS EVERYTHING HANGS ON
                      Gate left: Sam decodes one live code (ADD-ON P).
                      Rule (Sam, 2026-10-26): finish one full match on the
                      All Intervals (Midterm Prep) tier, win or lose.
-      DA CAPO DUET   GATED (D4): the live duet (deployed fb9f883) makes no
-                     code. On the board once pass DUET-CODE ships one.
+      DA CAPO DUET   GATED (D4): codes SHIPPED 2026-10-26 (pass DUET-CODE,
+                     live index.pck 6ea8a51143857edd): GET CODES on the
+                     duet end screen, one code per SEAT, mode
+                     "duet_sixths" / "duet_sevenths", no name or ID;
+                     rubrics dacapo_duet_sixths + dacapo_duet_sevenths.
+                     Gate left: Sam decodes one live code.
       CHORD CRUSH    NOT ON THIS BOARD: it has no interval content.
   Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. A Da Capo
   run in any other course lands in the hub's no_rubric list, listed,
@@ -136,16 +141,19 @@ ADD-ON P: PIANO TENNIS.
 ===ADDON-P===
 
 ADD-ON D: DA CAPO DUET.
-  GATE: pass DUET-CODE is deployed and hash-verified, the hub rubric
-  rubrics/dacapo_duet_board1.rubric.json (or the name the pass picks)
-  exists with its tests, and Sam has played a duet live, scanned both
-  seats' codes and decoded them. Floor (proposed, Sam to confirm in that
-  pass): 50 cards cleared by YOUR seat, over the whole sitting.
+  GATE: pass DUET-CODE is deployed and hash-verified (DONE 2026-10-26,
+  index.pck 6ea8a51143857edd); the hub rubrics rubrics/
+  dacapo_duet_sixths.rubric.json and dacapo_duet_sevenths.rubric.json
+  exist with tests on real codes (DONE, _test_dacapo_duet_rubrics); and
+  Sam has played a duet live, scanned a seat's QR code and decoded it
+  (OPEN: Grading_Hub next_steps S.v). Floor: 50 cards cleared by YOUR
+  seat over the whole sitting (Sam, —OER item 0q). Every label below is
+  the shipped one.
 ===ADDON-D===
 <h4>Da Capo DUET (two players, one MIDI keyboard)</h4>
-<p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. Play as many matches as you like.</p>
-<p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. The end screen keeps the count for each seat.</p>
-<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat gets its own code as a QR code. Scan YOUR seat's QR code with your own phone, copy the code it opens, and paste ALL of it under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits their own code.</p>
+<p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. After each match press <strong>PLAY AGAIN</strong> to keep going.</p>
+<p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. PLAY AGAIN keeps the count; going back to the LOBBY or the TITLE starts it over. The end screen shows each seat's SITTING count.</p>
+<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat (P1 MINT and P2 EMBER) gets its own code as a QR code. Scan YOUR seat's QR code with your own phone. It opens a page with your code: press <strong>COPY CODE</strong> and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits only their own seat's code.</p>
 ===ADDON-D===
 -------------------------------------------------------------------------
 
@@ -172,8 +180,9 @@ submit is what I grade."
 (Midterm Prep) tier, finish one match, win or lose. GET CANVAS CODE, paste
 it. Computer, Chrome or Edge." When ADD-ON D opens, add: "Or play Da Capo
 DUET with a partner on one MIDI keyboard, SIXTHS or SEVENTHS, same
-material on. Each of you clears 50 cards, then each scans your own QR code
-with your own phone and submits your own code.")
+material on, PLAY AGAIN between matches. Each of you clears 50 cards in
+that sitting, then GET CODES: each scans your own seat's QR code with
+your own phone, copies the code and submits your own.")
 
 
 ===========================================================
@@ -248,6 +257,20 @@ Your last submission is the one graded.
       beside the two Da Capo rubrics: its app_id differs, so each code
       posts 100, never 200 (the hub's _test_pianotennis_board_rubrics
       pins exactly that load).
+      Once ADD-ON D is on the board, load dacapo_duet_sixths.rubric.json
+      and dacapo_duet_sevenths.rubric.json too: every mode differs, so
+      each code posts 100, never summed (_test_dacapo_duet_rubrics). A
+      duet code has NO name or ID: it grades only when PULLED from Canvas
+      (the submitter is the student; the preview names it "Canvas user
+      N"), never from a paste or the CSV path. A red SHARED CODE block
+      lists one seat's code handed in by more than one submitter: both
+      still grade; decide by hand.
+      ONE RUBRIC AT A TIME IN THE BATCH TOOLS: "load together" holds for
+      tab 4's single-course Preview Post, which uses EVERY loaded rubric.
+      Tab 1 Batch pull and tab 4 Batch Post grade with the ONE rubric
+      selected in the dropdown, so run them once per rubric. A code the
+      selected rubric does not match is excluded, never posted as 0; the
+      last post for a student wins.
       BOARD 1 TRAP: Rubric.dedupe keys on student + app + MODE, so a
       student whose submission holds a sixths AND a sevenths code gets
       TWO postable rows and the later post wins. Look for a name listed
@@ -382,6 +405,23 @@ D4. THE DA CAPO DUET (researched 2026-10-26 at the deployed fb9f883).
     partner submitting both seats' codes, or the same code twice) wants
     a per-seat nonce in the code that the hub flags when it repeats.
     That pass decides; Sam approves before it is built.
+  - BUILT 2026-10-26 (pass DUET-CODE; Sam approved the design in —OER
+    item 0q; Da_Capo project_state 0af). The bullets above describe the
+    build before it. Now: the end panel shows a SITTING n CARDS line per
+    seat and PLAY AGAIN / GET CODES / LOBBY / TITLE; its bottom line
+    reads PLAY AGAIN KEEPS THE SITTING - LOBBY STARTS OVER. A SITTING is
+    every match since the lobby's START (Main keeps it across PLAY
+    AGAIN; LOBBY or TITLE ends it). GET CODES shows two QR codes, one
+    per seat; each opens da-capo-game.netlify.app/C/<code>, a page with
+    COPY CODE. The code: app "dacapo", mode "duet_" + the seat's course
+    (SAME MATERIAL: P1's course for both seats), name and ID blank, rows
+    goal (50 cards per seat over the sitting), cards, wrong, matches,
+    seat, nonce. Global.run_* is still untouched. Grading_Hub: rubrics
+    dacapo_duet_sixths / _sevenths / _triads; Rubric.dedupe keys a
+    blank-ID code on the Canvas submitter; Rubric.shared_nonces flags a
+    nonce from two submitters (SHARED CODE). With SAME MATERIAL OFF, P2's
+    code is for P2's own course (P2 COURSE), which this board's rubrics
+    do not take unless it is SIXTHS or SEVENTHS.
 
 L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
   the same policy by hand to hand-graded rows (tab 6).
@@ -389,5 +429,8 @@ L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
 N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites, and the
   LIVE pck loaded headless 2026-10-13; nobody has played them live),
   the HTML through the hub's read-back verifier, any real submission.
-  ADD-ON D describes buttons that do not exist yet. ADD-ON P's buttons
-  are live (PT-KTS1) but no human has pressed them on the live site.
+  ADD-ON P's buttons are live (PT-KTS1) and ADD-ON D's are live
+  (DUET-CODE), but no human has pressed either on the live site. For D:
+  both QR codes on a GET CODES screenshot decode with zxing-cpp, the
+  live /C/ page returns 200, and its script rebuilt every sample code
+  exactly under node; no phone has scanned one.

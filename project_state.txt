@@ -1,7 +1,16 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-26 (CC-LEVELS, Opus 5.5, —OER queue item 0q pane B2):
+Last updated: 2026-10-26 (DUET-CODE, Opus 5.5, —OER queue item 0q pane B3):
+THE DA CAPO DUET NOW MAKES A CODE PER SEAT (GET CODES on the end panel,
+LIVE, index.pck 6ea8a51143857edd: one KTS1 code per seat over the sitting,
+mode "duet_<course>", no name or ID, a QR code to a COPY CODE page) and
+Grading_Hub grades it (dacapo_duet_sixths / _sevenths / _triads: 50 cards
+per seat; blank-ID codes dedupe on the Canvas submitter; SHARED CODE
+flag). ADD-ON D on boards 1-2 waits only on Sam decoding one live code.
+Both boards' grading notes now say tab 1 Batch pull and tab 4 Batch Post
+grade with ONE selected rubric. Roster rows updated. Before that:
+2026-10-26 (CC-LEVELS, Opus 5.5, —OER queue item 0q pane B2):
 CHORD CRUSH'S CODE NOW SAYS WHICH STAGES ARE CLEARED (v51.9.0 LIVE: one
 "<stage>_levels" row per started stage, attempted 12, correct = levels
 cleared; the complete_stage double count is fixed) and Grading_Hub

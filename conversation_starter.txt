@@ -109,6 +109,12 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-26, DUET-CODE) The Da Capo duet's per-seat codes + rubrics
+dacapo_duet_sixths / _sevenths / _triads SHIPPED (live). Before ADD-ON D
+goes on board 1 or 2: play a duet, GET CODES, scan a seat with your phone,
+COPY CODE, decode in hub tab 2 with the board's duet rubric (EXPECT mode
+duet_<course>, no name, 100 at 50+ cards), then section 4 D. Duet codes
+grade by pull + post only. The 0q chain is complete.
 (2026-10-26, CC-LEVELS) Chord Crush's per-stage rows + chordcrush_board2
 SHIPPED (v51.9.0 live). Before ADD-ON C goes on board 2: clear one level
 of Major Triads on the live site, Statistics -> Canvas Code, decode in hub

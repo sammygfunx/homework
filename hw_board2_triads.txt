@@ -8,8 +8,9 @@ identifier, LIVE. Three more ways are written but GATED (section 1,
 ADD-ON WAYS): Chord Crush only for Sam's live decode (its per-stage
 "levels cleared" rows and rubric SHIPPED 2026-10-26, pass CC-LEVELS),
 Piano Tennis only for Sam's live decode (its code
-and rubric SHIPPED 2026-10-26, pass PT-KTS1), the Da Capo duet for a
-duet code (pass DUET-CODE). None is in the base paste.
+and rubric SHIPPED 2026-10-26, pass PT-KTS1), the Da Capo duet only for
+Sam's live decode (its per-seat codes and rubric SHIPPED 2026-10-26,
+pass DUET-CODE). None is in the base paste.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -56,8 +57,11 @@ THE FACTS EVERYTHING HANGS ON
                      Triads: All Qualities" tier (id "w9_plus",
                      Piano_Tennis scripts/theory_data.gd:86-91), win or
                      lose.
-      DA CAPO DUET   GATED: needs pass DUET-CODE (board 1 D4), course
-                     TRIAD QUALITIES.
+      DA CAPO DUET   GATED: codes SHIPPED 2026-10-26 (pass DUET-CODE, board
+                     1 D4, live index.pck 6ea8a51143857edd): one code
+                     per SEAT, mode "duet_triads" (course TRIAD
+                     QUALITIES), no name or ID; rubric dacapo_duet_triads.
+                     Gate left: Sam decodes one live code.
   Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. A Da Capo
   run in any other course lands in the hub's no_rubric list.
 
@@ -157,13 +161,17 @@ ADD-ON P: PIANO TENNIS.
 ===ADDON-P===
 
 ADD-ON D: DA CAPO DUET.
-  GATE: pass DUET-CODE deployed and hash-verified, its board 2 rubric
-  with tests, Sam has played a duet live and decoded both seats' codes.
+  GATE: pass DUET-CODE deployed and hash-verified (DONE 2026-10-26,
+  index.pck 6ea8a51143857edd); rubrics/dacapo_duet_triads.rubric.json
+  with tests on real codes (DONE); Sam has played a duet live, scanned a
+  seat's QR code and decoded it (OPEN: Grading_Hub next_steps S.v).
+  Floor: 50 cards per seat over the sitting. Every label below is the
+  shipped one.
 ===ADDON-D===
 <h4>Da Capo DUET (two players, one MIDI keyboard)</h4>
-<p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. Play as many matches as you like.</p>
-<p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. The end screen keeps the count for each seat.</p>
-<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat gets its own code as a QR code. Scan YOUR seat's QR code with your own phone, copy the code it opens, and paste ALL of it under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits their own code.</p>
+<p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. After each match press <strong>PLAY AGAIN</strong> to keep going.</p>
+<p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. PLAY AGAIN keeps the count; going back to the LOBBY or the TITLE starts it over. The end screen shows each seat's SITTING count.</p>
+<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat (P1 MINT and P2 EMBER) gets its own code as a QR code. Scan YOUR seat's QR code with your own phone. It opens a page with your code: press <strong>COPY CODE</strong> and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits only their own seat's code.</p>
 ===ADDON-D===
 -------------------------------------------------------------------------
 
@@ -194,8 +202,9 @@ keyboard or touch; a mouse can't play a chord." ADD-ON P opens:
 "Piano Tennis: VS COMPUTER, the Triads: All Qualities tier, finish one
 match, win or lose. GET CANVAS CODE, paste it." ADD-ON D opens: "Or Da
 Capo DUET with a partner on one MIDI keyboard, TRIAD QUALITIES, same
-material on. Each of you clears 50 cards, then each scans your own QR
-code and submits your own code.")
+material on, PLAY AGAIN between matches. Each of you clears 50 cards in
+that sitting, then GET CODES: each scans your own seat's QR code with
+your own phone, copies the code and submits your own.")
 
 
 ===========================================================
@@ -260,6 +269,17 @@ Your last submission is the one graded.
       add-on's rubric; app_id differs, so a chordcrush or pianotennis
       rubric loaded beside it grades only its own codes). Tab 1 Batch
       pull or tab 4 Batch Post.
+      ADD-ON D: load dacapo_duet_triads.rubric.json beside dacapo_triads
+      (modes differ; one code posts 100). A duet code has NO name or ID:
+      it grades only when PULLED from Canvas ("Canvas user N" in the
+      preview), never from a paste or the CSV path; a red SHARED CODE
+      block lists one seat's code from more than one submitter (both
+      still grade; decide by hand).
+      ONE RUBRIC AT A TIME IN THE BATCH TOOLS: tab 1 Batch pull and tab 4
+      Batch Post grade with the ONE rubric selected in the dropdown (tab
+      4's single-course Preview Post uses every loaded rubric). Run them
+      once per rubric; a code the selected rubric does not match is
+      excluded, never posted as 0; the last post for a student wins.
   [ ] THE HAND-GRADE LIST ("N submission(s) with no code"): the videos.
   [ ] VIDEOS: SpeedGrader against section 5's answer key; tab 6 sheet,
       hand-graded students ONLY, "Post External Grades". Lateness by
@@ -352,9 +372,10 @@ L. LATENESS: Lateness.gd applies to codes automatically; by hand for
 
 N. NOT VERIFIED BY A HUMAN: the Da Capo id (headless and the live pck
   loaded headless; nobody has played it live), the HTML through the
-  hub's read-back verifier, any real submission. ADD-ON D describes
-  buttons that do not exist yet; ADD-ON P's are live (PT-KTS1) but no
-  human has pressed them on the live site. ADD-ON C's buttons are
+  hub's read-back verifier, any real submission. ADD-ON D's buttons are
+  live (DUET-CODE) and ADD-ON P's are live (PT-KTS1), but no human has
+  pressed them on the live site (D's QR codes decode from a screenshot
+  with zxing-cpp; no phone has scanned one). ADD-ON C's buttons are
   unchanged, but no human has made a v51.9.0 code on the live site
   (the live URL boots headless with 0 errors, and the codes the rubric
   is pinned on came from the build that is live byte for byte).
