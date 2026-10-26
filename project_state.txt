@@ -1,7 +1,13 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-26 (BOARDS-SHIFT, Opus 5.5, pane board2 of the week 11
+Last updated: 2026-10-26 (PT-KTS1, Opus 5.5, —OER queue item 0q pane B1):
+PIANO TENNIS NOW MAKES A KTS1 CODE (v2.1 LIVE; GET CANVAS CODE on the VS
+COMPUTER end panel, app "pianotennis", mode = tier id) and Grading_Hub
+grades it (pianotennis_board1 "w7", pianotennis_board2 "w9_plus": finish
+one match, win or lose -> 100). ADD-ON P on boards 1 and 2 waits only on
+Sam decoding one live code; board 4 needs its own rubric (its D3). Roster
+rows updated. Before that: 2026-10-26 (BOARDS-SHIFT, Opus 5.5, pane board2 of the week 11
 queue; brief —OER/docs/week11_brief_2026-10-25.txt AMENDMENT D3/D4): THE
 BOARDS MOVE A WEEK. Board 1 (sixths + sevenths) = Week 11, due Sun
 2026-11-01 23:59 EST (2026-11-02T04:59:00Z), READY TO CREATE today; Board

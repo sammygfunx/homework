@@ -41,7 +41,10 @@ THE FACTS EVERYTHING HANGS ON
                      middle dot after the week). Report = "Code:
                      PT1-XXXXXXXXXX" + tier/result/accuracy text. NOT a KTS1
                      code: no hub rubric, no decoder (Piano_Tennis next_steps
-                     PASS 5 unbuilt) -> HAND-GRADED
+                     PASS 5 unbuilt) -> HAND-GRADED. SUPERSEDED
+                     2026-10-26: Piano Tennis now makes a KTS1 code (pass
+                     PT-KTS1, mode "w7"; see D3). Before board 4's first
+                     Create, this way becomes a code + rubric way.
       CHORD CRUSH    NOT ON THIS BOARD. Chord Crush has no interval content
                      (chords only), so it is not a path on this board.
       VIDEO          the standing rule: every app HW has a same-grade video
@@ -241,6 +244,14 @@ D2. THE VIDEO (DEFAULT, for Sam to confirm; the standing rule is that
   + the octave; the student names one spelling for the tritone.)
 
 D3. THE OTHER APPS, STATED PLAINLY
+  UPDATE 2026-10-26 (PT-KTS1): Piano Tennis v2.1 now has GET CANVAS CODE
+  on its VS COMPUTER end-of-match panel, a KTS1 code (app "pianotennis",
+  mode = tier id, "w7" for All Intervals). Board 4 still needs its own
+  rubric (pianotennis_board4, mode "w7", the same one column as
+  Grading_Hub rubrics/pianotennis_board1) and its Way 2 text rewritten
+  from hw_board1_sixths_sevenths.txt ADD-ON P (Sam's rule there: finish
+  one full match on the tier, win or lose), under Sam's rule for every
+  app way. The rest of this note is the pre-PT-KTS1 state:
   PIANO TENNIS has no KTS1 code. Its report is "Code: PT1-" + 10 hex
   characters (a salted SHA-256, scripts/main.gd) plus plain text; there
   is no decoder (Piano_Tennis docs/next_steps.txt PASS 5) and no hub

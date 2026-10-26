@@ -6,8 +6,9 @@ TO CREATE (the base paste). WEEK 12, due Sun 11/8 at 11:59 PM Eastern
 (EST), 100 points. Da Capo course id "triads" -- FROZEN public
 identifier, LIVE. Three more ways are written but GATED (section 1,
 ADD-ON WAYS): Chord Crush waits for per-stage "levels cleared" rows
-(pass CC-LEVELS), Piano Tennis for its KTS1 code (pass PT-KTS1), the Da
-Capo duet for a duet code (pass DUET-CODE). None is in the base paste.
+(pass CC-LEVELS), Piano Tennis only for Sam's live decode (its code
+and rubric SHIPPED 2026-10-26, pass PT-KTS1), the Da Capo duet for a
+duet code (pass DUET-CODE). None is in the base paste.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -44,7 +45,10 @@ THE FACTS EVERYTHING HANGS ON
                      levels each, REQUIRED (50 + 50); Diminished Triads and
                      Augmented Triads, all 12 levels each, +3 extra credit
                      each (max 106).
-      PIANO TENNIS   GATED: needs pass PT-KTS1 (board 1 D3). Rule (Sam,
+      PIANO TENNIS   CODE + RUBRIC SHIPPED (PT-KTS1 2026-10-26, board 1
+                     D3): mode "w9_plus", rubric Grading_Hub/rubrics/
+                     pianotennis_board2.rubric.json; gate left: Sam
+                     decodes one live code (ADD-ON P). Rule (Sam,
                      2026-10-26): finish one full match on the "Week 9+ ·
                      Triads: All Qualities" tier (id "w9_plus",
                      Piano_Tennis scripts/theory_data.gd:86-91), win or
@@ -127,9 +131,14 @@ ADD-ON P: PIANO TENNIS.
   GATE: pass PT-KTS1 deployed and hash-verified,
   rubrics/pianotennis_board2.rubric.json with its tests, one real code
   decoded by Sam.
+  STATUS 2026-10-26 (PT-KTS1): the first two are DONE (board 1 D3 has
+  the build, hash and rows). LEFT FOR SAM: one VS COMPUTER match on the
+  Triads: All Qualities tier, GET CANVAS CODE, decode it in hub tab 2
+  with pianotennis_board2 loaded: EXPECT app pianotennis, mode
+  "w9_plus", 100. Labels below are the shipped ones.
 ===ADDON-P===
 <h4>Piano Tennis</h4>
-<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'Triads: All Qualities'. Type your name, then <strong>START MATCH</strong>.</p>
+<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'Triads: All Qualities'. Then <strong>START MATCH</strong>.</p>
 <p><strong>Full credit:</strong> finish one full match on that tier. A win is not required; a loss counts the same.</p>
 <p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave.</p>
 <p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CANVAS CODE</strong>, type your first name, last name and school ID, press <strong>COPY CODE</strong>, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. A match on any other tier does not count for this board.</p>
@@ -316,5 +325,6 @@ L. LATENESS: Lateness.gd applies to codes automatically; by hand for
 
 N. NOT VERIFIED BY A HUMAN: the Da Capo id (headless and the live pck
   loaded headless; nobody has played it live), the HTML through the
-  hub's read-back verifier, any real submission. ADD-ON P and D
-  describe buttons that do not exist yet.
+  hub's read-back verifier, any real submission. ADD-ON D describes
+  buttons that do not exist yet; ADD-ON P's are live (PT-KTS1) but no
+  human has pressed them on the live site.

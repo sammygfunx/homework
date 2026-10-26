@@ -1,7 +1,9 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-26 (BOARDS-SHIFT: boards 1-2 move a week, Board 1 is
-READY TO CREATE, three app passes queued as 0b-0d). Before that:
+Updated: 2026-10-26 (PT-KTS1 DONE: 0b shipped, ADD-ON P on boards 1-2
+waits only on Sam's live decode). Before that: 2026-10-26 (BOARDS-SHIFT:
+boards 1-2 move a week, Board 1 is READY TO CREATE, three app passes
+queued as 0b-0d). Before that:
 2026-10-13 (BOARDS-10-11: item 0a split; boards 1-2 have weeks,
 dates, points). Before that: 2026-10-07 (pass MIDREP-HW: item 0 added,
 midterm item 5 file written). Before that: 2026-09-21 (pass HW5-PROSE from —OER: hw5_first_three_stars.txt
@@ -19,7 +21,9 @@ Ranked high -> low.
    11, title "Choice Board 1: Sixths and Sevenths". The base paste (Da
    Capo SIXTHS or SEVENTHS, or a video) has no blanks:
    hw_board1_sixths_sevenths.txt section 4 A-B. If 0b or 0d lands before
-   Sun 11/1, add its way by section 4 D (same title = an UPDATE).
+   Sun 11/1, add its way by section 4 D (same title = an UPDATE). 0b
+   LANDED 2026-10-26: ADD-ON P goes in after Sam's one live decode
+   (0b's LEFT FOR SAM line).
 
 0a-2. BOARD 2 -- CREATE IT BY MON 11/2 (Sam). Week 12, due Sun 11/8 23:59
    EST (2026-11-09T04:59Z), 100 points (Chord Crush up to 106), module
@@ -27,28 +31,14 @@ Ranked high -> low.
    TRIAD QUALITIES or a video; insert each ADD-ON (C / P / D) whose gate
    is open that morning. hw_board2_triads.txt section 4.
 
-0b. PASS PT-KTS1 (queued 2026-10-26, Sam: "it needs the same treatment we've
-   previously done for Da Capo or Portato"). THIS TOUCHES THREE REPOS
-   (Piano_Tennis, Grading_Hub, —Homework): start from —OER.
-   PROMPT: "Pass PT-KTS1 (TAG "PT-KTS1:"). Give Piano Tennis
-   (—Games/Piano_Tennis) a KTS1 Canvas code. Vendor
-   —Apps/Brains/shared_music_game_foundation/modules/score_report/
-   ScoreReport.gd exactly as Chord Crush and Da Capo do (read its
-   INTEGRATION.txt; app_id "pianotennis" unless INTEGRATION.txt's
-   registry says otherwise). On the VS COMPUTER end-of-match panel add GET
-   CANVAS CODE beside COPY SCORE REPORT (FOR CANVAS) (keep that button):
-   first name, last name, school ID, COPY CODE. Mode = the tier id
-   ("w7", "w9_plus" ...; FROZEN once a rubric names it) so a rubric can
-   require the tier; rows at least: a finished-match row (a code exists
-   only after _end_match, scripts/main.gd:492), correct / attempts, best
-   streak, avg_ms. Tests, deploy with tools/deploy_web.sh, hash-verify.
-   Then Grading_Hub rubrics pianotennis_board1 (mode w7) and
-   pianotennis_board2 (mode w9_plus), each one threshold column worth
-   100 on the finished-match row, with pin tests on real codes; board 4
-   later. Then edit ADD-ON P in —Homework hw_board1/hw_board2 if your
-   labels differ, and the roster rows. Sam's rule: finish one full
-   match on the tier, win or lose. WHATS-NEW line."
-   MODEL: opus | EFFORT: high.
+0b. DONE 2026-10-26: PASS PT-KTS1 (prompt + outcome in history.txt). Piano
+   Tennis v2.1 LIVE (pck b9336b440ae6c8d9) makes a KTS1 code (GET CANVAS
+   CODE, VS COMPUTER end panel; app "pianotennis", mode = tier id);
+   Grading_Hub rubrics pianotennis_board1 ("w7") / pianotennis_board2
+   ("w9_plus"), threshold "match" -> 100, tested on live-pck codes.
+   LEFT FOR SAM (the last gate item of each ADD-ON P): one live match on
+   the tier, GET CANVAS CODE, decode it in hub tab 2 with that board's
+   rubric (EXPECT mode "w7" / "w9_plus", 100); then section 4 D.
 
 0c. PASS CC-LEVELS (queued 2026-10-26, for Board 2). THREE REPOS
    (Chord_Crush, Grading_Hub, —Homework): start from —OER.
@@ -95,8 +85,9 @@ Ranked high -> low.
    points, module, the Piano Tennis / Chord Crush rules, board 4's
    extra-credit or make-up rule), confirm D1/D2 defaults, then section 4
    (after Da Capo's next deploy puts the ids live). Chord Crush boards
-   (2, 3) need pass CC-LEVELS (0c); Piano Tennis boards (1, 2, 4) need
-   PT-KTS1 (0b). Retitle boards 3-4 without the way list, as BOARDS-SHIFT
+   (2, 3) need pass CC-LEVELS (0c); Piano Tennis's code shipped (0b,
+   PT-KTS1): board 4 still needs a pianotennis_board4 rubric (mode "w7")
+   and its Way 2 rewritten from board 1's ADD-ON P (board 4 D3). Retitle boards 3-4 without the way list, as BOARDS-SHIFT
    did for 1-2, before their first Create.
 
 0. MIDTERM ITEM 5 — CREATE IT IN CANVAS (Sam, before Wed 2026-10-14;

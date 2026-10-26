@@ -1,5 +1,36 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS PT-KTS1 (2026-10-26, Opus 5.5, pane B1 of —OER queue item 0q, the
+board-ways chain; next_steps 0b, archived here)
+  THE PROMPT (verbatim from 0b): give Piano Tennis a KTS1 Canvas code by
+  vendoring Brains' ScoreReport.gd (app_id "pianotennis"); GET CANVAS CODE
+  beside COPY SCORE REPORT (FOR CANVAS) on the VS COMPUTER end panel
+  (first, last, school ID, COPY CODE); mode = the tier id, frozen once a
+  rubric names it; rows at least a finished-match row, correct /
+  attempts, best streak, avg_ms; tests, deploy, hash-verify; hub rubrics
+  pianotennis_board1 (w7) and pianotennis_board2 (w9_plus), one
+  threshold column worth 100 on the finished-match row, pin tests on
+  real codes; board 4 later; ADD-ON P labels and roster rows. Sam's rule:
+  finish one full match on the tier, win or lose.
+  DONE, four repos: Brains 719a360 (REGISTRY "pianotennis", INTEGRATION
+  mode list; module tests 59/59; claims report). Piano_Tennis d359425
+  (v2.1: scripts/ScoreReport.gd vendored, scripts/match_code.gd, GET
+  CANVAS CODE panel, tests/canvas_code.gd in CI; deployed, html / pck
+  b9336b440ae6c8d9 / wasm MATCH; the contract test also passes run
+  against the live pck). Grading_Hub f616cde (registry re-copy, the two
+  rubrics, _test_pianotennis_board_rubrics on three live-pck codes;
+  1670 -> 1720 + smoke). Here: board 1 and 2 ADD-ON P gates marked
+  done but Sam's live decode, "Type your name," dropped from the add-on
+  (the code panel asks for names), board 1 D3 records the shipped
+  contract, board 4 D3 + FACTS corrected (Piano Tennis now has a KTS1
+  code), roster rows. Labels shipped exactly as the add-ons quoted
+  them. Claims check on boards 1-2 + both rubrics: nothing flagged
+  (Brains dev_tools/jev/reports/claims_2026-10-26_pt-kts1.txt).
+  FOR SAM: (1) one live decode per board before inserting ADD-ON P;
+  (2) "win or lose" lets a student who answers nothing finish a match
+  and earn 100; the code's answers row shows it, a floor is one rubric
+  column; (3) nobody has pressed the new buttons in a browser.
+
 PASS BOARDS-SHIFT (2026-10-26, Opus 5.5, pane board2 of the week 11 queue;
 brief —OER/docs/week11_brief_2026-10-25.txt AMENDMENT D3/D4, replacing
 its Part 12 / pass BOARD2-FINAL, which stopped before any edit)

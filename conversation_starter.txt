@@ -109,6 +109,11 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-26, PT-KTS1) Piano Tennis's code + rubrics SHIPPED. Before ADD-ON
+P goes on board 1 or 2: one live VS COMPUTER match on the board's tier,
+GET CANVAS CODE, decode in hub tab 2 with pianotennis_board1 / _board2
+(EXPECT 100), then section 4 D. CC-LEVELS and DUET-CODE (next_steps 0c,
+0d) follow in the 0q chain.
 (2026-10-26, BOARDS-SHIFT) BOARD 1 IS READY TO CREATE: "Choice Board 1:
 Sixths and Sevenths", Week 11, due Sun 2026-11-01 23:59 EST; Sam follows
 hw_board1_sixths_sevenths.txt section 4 A-B today. BOARD 2 ("Choice Board

@@ -6,8 +6,10 @@ was given in Week 10, Board 1 was never posted). STATUS: READY TO
 CREATE. WEEK 11, due Sun 11/1 at 11:59 PM Eastern (EST), 100 points.
 Da Capo course ids "sixths" / "sevenths" -- FROZEN public identifiers,
 LIVE. Two more ways are written but GATED (section 1, ADD-ON WAYS):
-Piano Tennis waits for its KTS1 code (pass PT-KTS1), the Da Capo duet
-waits for a duet code (pass DUET-CODE). Neither is in today's paste.
+Piano Tennis's KTS1 code and rubric SHIPPED 2026-10-26 (pass PT-KTS1);
+its gate waits only on Sam decoding one live code (ADD-ON P). The Da
+Capo duet waits for a duet code (pass DUET-CODE). Neither is in
+today's paste.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -44,9 +46,11 @@ THE FACTS EVERYTHING HANGS ON
                      dacapo_sevenths.rubric.json, loaded TOGETHER (the one
                      sanctioned pair; see their headers)
       VIDEO          hand-graded on accuracy (D2)
-      PIANO TENNIS   GATED (D3): today's live report is plain text with a
-                     "PT1-" check string the hub cannot decode. On the
-                     board once pass PT-KTS1 ships a KTS1 code + rubric.
+      PIANO TENNIS   CODE + RUBRIC SHIPPED (D3, PT-KTS1 2026-10-26): GET
+                     CANVAS CODE on the VS COMPUTER end-of-match panel,
+                     app "pianotennis", mode = tier id "w7"; rubric
+                     Grading_Hub/rubrics/pianotennis_board1.rubric.json.
+                     Gate left: Sam decodes one live code (ADD-ON P).
                      Rule (Sam, 2026-10-26): finish one full match on the
                      All Intervals (Midterm Prep) tier, win or lose.
       DA CAPO DUET   GATED (D4): the live duet (deployed fb9f883) makes no
@@ -115,11 +119,17 @@ other labels, the pass edits the block to match before the gate opens.
 ADD-ON P: PIANO TENNIS.
   GATE: pass PT-KTS1 is deployed and hash-verified, the hub rubric
   rubrics/pianotennis_board1.rubric.json exists with its tests, and Sam
-  has decoded one real code from the live site with it. The mode string
-  and row ids below are the pass's to decide; this file quotes them.
+  has decoded one real code from the live site with it.
+  STATUS 2026-10-26 (PT-KTS1): the first two are DONE (Piano Tennis v2.1,
+  live index.pck b9336b440ae6c8d9, hash-verified; rubric + pin tests,
+  hub suite 1720/1720). LEFT FOR SAM: one VS COMPUTER match on the All
+  Intervals tier on the live site, GET CANVAS CODE, decode it in hub tab
+  2 with pianotennis_board1 loaded: EXPECT app pianotennis, mode "w7",
+  100. Then insert this block (section 4 D). The labels below are the
+  shipped ones (GET CANVAS CODE, COPY CODE, Difficulty tier).
 ===ADDON-P===
 <h4>Piano Tennis</h4>
-<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'All Intervals (Midterm Prep)' (it is the only Piano Tennis tier with 7ths; it also deals every other interval). Type your name, then <strong>START MATCH</strong>.</p>
+<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'All Intervals (Midterm Prep)' (it is the only Piano Tennis tier with 7ths; it also deals every other interval). Then <strong>START MATCH</strong>.</p>
 <p><strong>Full credit:</strong> finish one full match on that tier. A win is not required; a loss counts the same.</p>
 <p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave.</p>
 <p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CANVAS CODE</strong>, type your first name, last name and school ID, press <strong>COPY CODE</strong>, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. A match on any other tier does not count for this board.</p>
@@ -234,6 +244,10 @@ Your last submission is the one graded.
       beside these). Tab 1 Batch pull or tab 4 Batch Post. The hub
       grades only codes whose mode is "sixths" / "sevenths"; anything
       else is listed in no_rubric.
+      Once ADD-ON P is on the board, load pianotennis_board1.rubric.json
+      beside the two Da Capo rubrics: its app_id differs, so each code
+      posts 100, never 200 (the hub's _test_pianotennis_board_rubrics
+      pins exactly that load).
       BOARD 1 TRAP: Rubric.dedupe keys on student + app + MODE, so a
       student whose submission holds a sixths AND a sevenths code gets
       TWO postable rows and the later post wins. Look for a name listed
@@ -279,7 +293,8 @@ D0. DECISIONS (all filled):
     the old title "... (Da Capo OR Piano Tennis OR video)" was never a
     key anywhere.
   - Piano Tennis rule: "finish one full match on that tier", win or
-    lose (Sam, 2026-10-26). Lives in ADD-ON P until PT-KTS1 lands.
+    lose (Sam, 2026-10-26). Lives in ADD-ON P; the rubric is
+    pianotennis_board1 (PT-KTS1, D3).
 
 D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game, the
   game ships the verdict as "goal" and the rubric thresholds it. The
@@ -314,6 +329,27 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     (seven games already do: Chord Crush, Clef Runner, Da Capo, Triad
     Dodge, Maze, Piano Wrapper, Progression Pond), add GET CANVAS CODE
     beside COPY SCORE REPORT, then hub rubrics for boards 1, 2 and 4.
+  - SHIPPED 2026-10-26 (PT-KTS1). Piano Tennis v2.1, live index.pck
+    b9336b440ae6c8d9 (hash-verified; the contract test also passes run
+    against the live pck itself). app_id "pianotennis" (new Brains
+    REGISTRY entry, re-copied into the hub). VS COMPUTER only: the
+    end-of-match panel gains GET CANVAS CODE above COPY SCORE REPORT
+    (FOR CANVAS), which stays; it opens First name / Last name / School
+    ID, then COPY CODE (it copies and shows the code). mode = the tier id
+    ("w7" here; "w9_plus" board 2); week 0. Rows, frozen in Piano_Tennis
+    tests/canvas_code.gd: match 1/1 (a code exists only after
+    _end_match), won, answers (attempts / right, avg ms of a right
+    answer), streak, points and opp_points (out of the play-to score),
+    cpu_level (of 5), seconds. Rubric pianotennis_board1: ONE threshold
+    column, "match" >= 1 -> 100. Pin tests on three codes made by the
+    live pck (Grading_Hub tests/fixtures/pianotennis_sample_codes.json).
+  - KNOWN, FOR SAM: "win or lose" means a student who answers nothing
+    still finishes a match (the computer wins every ball that reaches
+    their side) and earns 100. Not timed; Computer level and Play to
+    (5, 7 or 11) are the student's choice.
+    The code shows answers / won / cpu_level / seconds in the hub's raw
+    stats, so a floor is one more rubric column, not a new build.
+    Board 4 (all intervals) can reuse mode "w7" with its own rubric.
 
 D4. THE DA CAPO DUET (researched 2026-10-26 at the deployed fb9f883).
   - Content fits: each seat's deck is any course (Script/Duet.gd:136-140
@@ -353,4 +389,5 @@ L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
 N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites, and the
   LIVE pck loaded headless 2026-10-13; nobody has played them live),
   the HTML through the hub's read-back verifier, any real submission.
-  The two add-on blocks describe buttons that do not exist yet.
+  ADD-ON D describes buttons that do not exist yet. ADD-ON P's buttons
+  are live (PT-KTS1) but no human has pressed them on the live site.
