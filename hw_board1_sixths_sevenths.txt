@@ -5,12 +5,15 @@ Written 2026-10-08 (DACAPO-20); rescheduled and rebuilt 2026-10-26
 was given in Week 10, Board 1 was never posted). STATUS: READY TO
 CREATE. WEEK 11, due Sun 11/1 at 11:59 PM Eastern (EST), 100 points.
 Da Capo course ids "sixths" / "sevenths" -- FROZEN public identifiers,
-LIVE. Two more ways are written but GATED (section 1, ADD-ON WAYS):
-Piano Tennis's KTS1 code and rubric SHIPPED 2026-10-26 (pass PT-KTS1);
-its gate waits only on Sam decoding one live code (ADD-ON P). The Da
-Capo duet's per-seat codes and rubrics SHIPPED 2026-10-26 (pass
-DUET-CODE); its gate waits only on Sam decoding one live code (ADD-ON
-D). Neither is in today's paste.
+LIVE. FOUR WAYS IN THE PASTE since 2026-10-26 evening (BOARD1-FOUR,
+Sam: "let's not go to the trouble of testing first"): Da Capo solo, Da
+Capo DUET (ADD-ON D), Piano Tennis (ADD-ON P), video. Both add-ons'
+builds were hash-checked live that evening (Piano Tennis index.pck
+b9336b440ae6c8d9, Da Capo 6ea8a51143857edd); Sam's live decode was
+WAIVED, so no human has yet pressed GET CANVAS CODE or GET CODES live.
+Created in Canvas 2026-10-26 as "HW #10 — Choice Board 1: Sixths and
+Sevenths", then UNPUBLISHED (its description would not update: —OER
+next_steps 0r).
 ===========================================================
 
 WHAT THIS FILE IS
@@ -80,13 +83,13 @@ CANVAS SETTINGS
 ===========================================================
 
 ------------------------------ TITLE ------------------------------
-Choice Board 1: Sixths and Sevenths
+HW #10 — Choice Board 1: Sixths and Sevenths
 
-(The hub's idempotent match key: never change it after the first
-Create. It names NO ways on purpose (BOARDS-SHIFT): a way added later is
-a description update under the same title, not a new assignment. If Sam
-numbers the boards as HW #N, prefix it BEFORE the first Create, e.g.
-"HW #10 -- Choice Board 1: Sixths and Sevenths". Plain ASCII.)
+(The REAL Canvas title, Sam 2026-10-26: "HW #10", a space, an EM DASH
+(U+2014, not two hyphens), a space. The hub matches titles EXACTLY, so
+copy it from Canvas itself into tab 5's Title field, never retype it.
+It names NO ways on purpose (BOARDS-SHIFT): a way added later is a
+description update under the same title, not a new assignment.)
 
 --------------------------- DESCRIPTION ---------------------------
 (Paste everything between the two ===HTML=== lines into Grading Hub tab
@@ -96,6 +99,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 ===HTML===
 <h3>Choice Board 1: Sixths and Sevenths. Pick ONE way below and submit only that one.</h3>
 <p>This homework practices major and minor 6ths and 7ths. Every way below is worth the same grade. You may try more than one for practice, but submit ONE.</p>
+<p>The four ways: Da Capo on your own, Da Capo DUET with a partner, Piano Tennis, or a video.</p>
 
 <h4>Da Capo (the reading game)</h4>
 <p>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>. On the title screen choose <strong>HOMEWORK</strong>, then select <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>. That starts the run. A run in any other course does not count for this board.</p>
@@ -103,6 +107,17 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <p><strong>Full credit when EITHER is true:</strong> you beat all 24 stages, <em>or</em> you have cleared 50 cards. The game counts for you: GET CODE (pause menu, or the screen at the end) says whether you have earned credit yet and, if not, how many more cards you need.</p>
 <p>Play on a laptop or desktop (the letters A to G play notes; tap T for sharp or R for flat before a letter for a black key; press letters together for notes stacked on top of each other), on an iPad with the on-screen keys, or with a MIDI keyboard. Use the SAME browser on the SAME device each time and press <strong>CONTINUE</strong> to pick a run back up.</p>
 <p><strong>To submit:</strong> GET CODE, type your first name, last name and school ID, COPY CODE, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. Paste only the code.</p>
+
+<h4>Da Capo DUET (two players, one MIDI keyboard)</h4>
+<p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. After each match press <strong>PLAY AGAIN</strong> to keep going.</p>
+<p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. PLAY AGAIN keeps the count; going back to the LOBBY or the TITLE starts it over. The end screen shows each seat's SITTING count.</p>
+<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat (P1 MINT and P2 EMBER) gets its own code as a QR code. Scan YOUR seat's QR code with your own phone. It opens a page with your code: press <strong>COPY CODE</strong> and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits only their own seat's code.</p>
+
+<h4>Piano Tennis</h4>
+<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'All Intervals (Midterm Prep)' (it is the only Piano Tennis tier with 7ths; it also deals every other interval). Then <strong>START MATCH</strong>.</p>
+<p><strong>Full credit:</strong> finish one full match on that tier. A win is not required; a loss counts the same.</p>
+<p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave.</p>
+<p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CANVAS CODE</strong>, type your first name, last name and school ID, press <strong>COPY CODE</strong>, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. A match on any other tier does not count for this board.</p>
 
 <h4>Record a video</h4>
 <p>Record yourself at the piano playing <strong>major 7ths and minor 7ths on every root</strong>, ascending and descending chromatically, as blocked intervals (both notes together), and <strong>say each one out loud</strong> as you play it.</p>
@@ -120,7 +135,10 @@ entities, so the read-back verifier has nothing to mis-decode.)
 -------------------------------------------------------------------
 
 ----------------------------- ADD-ON WAYS -----------------------------
-NOT in today's paste. Each block goes into the HTML above, directly
+BOTH ARE NOW IN THE PASTE ABOVE (BOARD1-FOUR, 2026-10-26: D then P,
+before the video; Sam waived the live-decode gate items). The blocks
+below are kept as the record of each way; the HTML above is the paste.
+Originally: each block goes into the HTML above, directly
 BEFORE the line "<h4>Record a video</h4>", only when its GATE is open;
 then follow section 4 D ("adding a way later"). The ways carry no
 numbers so nothing renumbers. Each block's button names are the
@@ -169,12 +187,21 @@ ADD-ON D: DA CAPO DUET.
 ===========================================================
 
 "This homework is major and minor 6ths and 7ths, and you pick how you do
-it: Da Capo or a video. Submit ONE.
+it: Da Capo, Da Capo duet, Piano Tennis, or a video. Submit ONE.
 
 Da Capo: on the title screen press HOMEWORK, then SIXTHS or SEVENTHS. Beat
 all 24 stages or clear 50 cards, whichever comes first; the game counts
 for you. GET CODE, name and school ID, copy, paste the whole code in the
 text box.
+
+Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, SIXTHS
+or SEVENTHS, same material on, PLAY AGAIN between matches. Each of you
+clears 50 cards in that sitting, then GET CODES: each of you scans your
+own seat's QR code with your own phone, copies it and submits your own.
+
+Piano Tennis: on a computer in Chrome or Edge, VS COMPUTER, the All
+Intervals (Midterm Prep) tier, finish one match, win or lose. GET CANVAS
+CODE, paste it.
 
 Or a video: major and minor 7ths on every root, ascending and descending
 chromatically, blocked and named, with a metronome, four clicks each. One
@@ -183,7 +210,8 @@ take, hands and keys in the frame. Upload it or paste an unlisted YouTube link.
 Same grade every way. Due Sunday 11/1 at 11:59 PM. The last thing you
 submit is what I grade."
 
-(When ADD-ON P opens, add: "Piano Tennis: VS COMPUTER, the All Intervals
+(Both add-ons are in the script above since BOARD1-FOUR. Their original notes:
+When ADD-ON P opens, add: "Piano Tennis: VS COMPUTER, the All Intervals
 (Midterm Prep) tier, finish one match, win or lose. GET CANVAS CODE, paste
 it. Computer, Chrome or Edge." When ADD-ON D opens, add: "Or play Da Capo
 DUET with a partner on one MIDI keyboard, SIXTHS or SEVENTHS, same
@@ -204,6 +232,13 @@ Subject: Choice Board 1: Sixths and Sevenths, due Sun 11/1 at 11:59 PM
     HOMEWORK -> SIXTHS or SEVENTHS. Beat all 24 stages or clear 50
     cards. GET CODE, paste the whole code in the text box. Computer
     (A-G keys), iPad (on-screen keys) or a MIDI keyboard.
+  DA CAPO DUET  with a partner on one MIDI keyboard: MULTIPLAYER ->
+    DUET (ONE KEYBOARD), SIXTHS or SEVENTHS, SAME MATERIAL on. Your
+    seat clears 50 cards in one sitting (PLAY AGAIN keeps the count).
+    GET CODES, scan YOUR seat's QR code with your phone, paste it.
+  PIANO TENNIS  https://piano-tennis.netlify.app (computer, Chrome or
+    Edge): VS COMPUTER, the All Intervals (Midterm Prep) tier. Finish
+    one match, win or lose. GET CANVAS CODE, paste the whole code.
   A VIDEO  major and minor 7ths on every root, ascending and
     descending chromatically, named, metronome at 60, four clicks
     each (the assignment has the details); upload it, or
@@ -238,7 +273,8 @@ Your last submission is the one graded.
 
   B. CREATE IT (tab 5 "Create Assignments")
      Sections     the four "label,course_id" lines, as always
-     Title        Choice Board 1: Sixths and Sevenths
+     Title        HW #10 — Choice Board 1: Sixths and Sevenths
+                  (copy it from Canvas; em dash; see section 1 TITLE)
                   (copy from section 1; the re-run match key)
      Points       100
      Submission   Online — text entry, and TICK "Also accept: Online —
