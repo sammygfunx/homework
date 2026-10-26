@@ -76,6 +76,9 @@ Crush / video, each app only where its content fits). DRAFTED: weeks,
 due dates, points and the Piano Tennis / Chord Crush rules are blank for
 Sam. Da Capo ids sixths / sevenths / triads / seventh_chords /
 all_intervals, rubrics dacapo_<id>.rubric.json; roster CHOICE BOARDS.
+Boards 1-2 rebuilt 2026-10-26 (BOARDS-SHIFT): Week 11 / Week 12, titles
+without a way list, base = Da Capo OR video, other apps as GATED ADD-ON
+blocks (Sam: an app way must be a KTS1 code + rubric).
 
 HOW IT RELATES TO THE REST OF THE OER
 -------------------------------------
@@ -106,6 +109,14 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-26, BOARDS-SHIFT) BOARD 1 IS READY TO CREATE: "Choice Board 1:
+Sixths and Sevenths", Week 11, due Sun 2026-11-01 23:59 EST; Sam follows
+hw_board1_sixths_sevenths.txt section 4 A-B today. BOARD 2 ("Choice Board
+2: Triad Qualities", Week 12, due Sun 11/8) by Mon 11/2. Every app way is
+KTS1 + rubric or it waits: Piano Tennis, Chord Crush and the Da Capo duet
+are GATED ADD-ON blocks in the board files, added later under the same
+title (section 4 D) when passes PT-KTS1 / CC-LEVELS / DUET-CODE land
+(next_steps 0b-0d, prompts written there).
 (2026-10-13, BOARDS-10-11) BOARDS 1 AND 2 are scheduled: board 1 Week 10,
 due Sun 2026-10-25 23:59; board 2 Week 11, due Sun 2026-11-01 23:59 (EST).
 100 points, Da Capo ids live. Sam sets the Piano Tennis / Chord Crush

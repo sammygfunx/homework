@@ -1,6 +1,8 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-13 (BOARDS-10-11: item 0a split; boards 1-2 have weeks,
+Updated: 2026-10-26 (BOARDS-SHIFT: boards 1-2 move a week, Board 1 is
+READY TO CREATE, three app passes queued as 0b-0d). Before that:
+2026-10-13 (BOARDS-10-11: item 0a split; boards 1-2 have weeks,
 dates, points). Before that: 2026-10-07 (pass MIDREP-HW: item 0 added,
 midterm item 5 file written). Before that: 2026-09-21 (pass HW5-PROSE from —OER: hw5_first_three_stars.txt
 section 1 rewritten shorter in the handouts.txt voice; Option B no
@@ -12,22 +14,90 @@ Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
 
-0a-1. BOARD 1 (Week 10, due Sun 10/25) AND BOARD 2 (Week 11, due Sun 11/1)
-   -- SAM (BOARDS-10-11, 2026-10-13). Weeks, due dates, points (100,
-   default) and modules are filled; the Da Capo ids are LIVE. Before
-   each Create: (i) set the Piano Tennis rule (both boards) and the
-   Chord Crush rule (board 2) -- section 5 D0 has a suggested wording;
-   (ii) confirm D1 (board 1: either id) and D2 (the video lists);
-   (iii) section 4 A-B. Board 1 should be live by Mon 10/19; board 2
-   by Mon 10/26. Board 2's Chord Crush codes need hand-grading or a
-   small Grading_Hub rubric pass once the rule is a number.
+0a-1. BOARD 1 -- CREATE IT TODAY (Sam; BOARDS-SHIFT 2026-10-26). Week 11,
+   due Sun 11/1 23:59 EST (2026-11-02T04:59Z), 100 points, module Week
+   11, title "Choice Board 1: Sixths and Sevenths". The base paste (Da
+   Capo SIXTHS or SEVENTHS, or a video) has no blanks:
+   hw_board1_sixths_sevenths.txt section 4 A-B. If 0b or 0d lands before
+   Sun 11/1, add its way by section 4 D (same title = an UPDATE).
+
+0a-2. BOARD 2 -- CREATE IT BY MON 11/2 (Sam). Week 12, due Sun 11/8 23:59
+   EST (2026-11-09T04:59Z), 100 points (Chord Crush up to 106), module
+   Week 12, title "Choice Board 2: Triad Qualities". Base paste = Da Capo
+   TRIAD QUALITIES or a video; insert each ADD-ON (C / P / D) whose gate
+   is open that morning. hw_board2_triads.txt section 4.
+
+0b. PASS PT-KTS1 (queued 2026-10-26, Sam: "it needs the same treatment we've
+   previously done for Da Capo or Portato"). THIS TOUCHES THREE REPOS
+   (Piano_Tennis, Grading_Hub, —Homework): start from —OER.
+   PROMPT: "Pass PT-KTS1 (TAG "PT-KTS1:"). Give Piano Tennis
+   (—Games/Piano_Tennis) a KTS1 Canvas code. Vendor
+   —Apps/Brains/shared_music_game_foundation/modules/score_report/
+   ScoreReport.gd exactly as Chord Crush and Da Capo do (read its
+   INTEGRATION.txt; app_id "pianotennis" unless INTEGRATION.txt's
+   registry says otherwise). On the VS COMPUTER end-of-match panel add GET
+   CANVAS CODE beside COPY SCORE REPORT (FOR CANVAS) (keep that button):
+   first name, last name, school ID, COPY CODE. Mode = the tier id
+   ("w7", "w9_plus" ...; FROZEN once a rubric names it) so a rubric can
+   require the tier; rows at least: a finished-match row (a code exists
+   only after _end_match, scripts/main.gd:492), correct / attempts, best
+   streak, avg_ms. Tests, deploy with tools/deploy_web.sh, hash-verify.
+   Then Grading_Hub rubrics pianotennis_board1 (mode w7) and
+   pianotennis_board2 (mode w9_plus), each one threshold column worth
+   100 on the finished-match row, with pin tests on real codes; board 4
+   later. Then edit ADD-ON P in —Homework hw_board1/hw_board2 if your
+   labels differ, and the roster rows. Sam's rule: finish one full
+   match on the tier, win or lose. WHATS-NEW line."
+   MODEL: opus | EFFORT: high.
+
+0c. PASS CC-LEVELS (queued 2026-10-26, for Board 2). THREE REPOS
+   (Chord_Crush, Grading_Hub, —Homework): start from —OER.
+   PROMPT: "Pass CC-LEVELS (TAG "CC-LEVELS:"). Chord Crush's KTS1 code
+   cannot show one stage cleared (hw_board2_triads.txt section 5 D5).
+   Add, per scripts/session_report.gd's own rule (ADD IDS, NEVER
+   REDEFINE ONE), a per-stage cleared row for each practiced stage, e.g.
+   "maj_levels" = {attempted 12, correct mastered_count}; freeze the new
+   ids in tests/canvas_report.gd. Decide whether to ship on v51.7.0's
+   tree or with v51.8.0 (main, not deployed): ask Sam. Also confirm or
+   refute the double count in GameState.complete_stage (D5: stage
+   accuracy added live AND again at stage end); fix only with Sam's yes.
+   Deploy (tools/deploy_web.sh), hash-verify. Then Grading_Hub
+   rubrics/chordcrush_board2.rubric.json: threshold columns maj_levels
+   12 -> 50, min_levels 12 -> 50, dim_levels 12 -> 3, aug_levels 12 -> 3
+   (Sam: max 106), pin tests on real codes; update ADD-ON C's gate line
+   and the roster. Board 3 (seventh chords) can reuse the rows. WHATS-NEW
+   line."
+   MODEL: opus | EFFORT: high.
+
+0d. PASS DUET-CODE (queued 2026-10-26, Sam: "queue it for Board 2 ... leave
+   things set up such that it would be easy to update board 1"). THREE
+   REPOS (Da_Capo, Grading_Hub, —Homework): start from —OER.
+   PROMPT: "Pass DUET-CODE (TAG "DUET-CODE:"). Read hw_board1_sixths_
+   sevenths.txt section 5 D4 first. Ask Sam to approve the design before
+   building: a GET CODES row on the duet end screen (Script/Duet.gd
+   _build_panel) giving each seat its own KTS1 code, name and ID left
+   blank (the hub posts to the Canvas submitter), its mode naming the
+   seat's course (e.g. "duet_sixths"), a cards-cleared total over the
+   whole sitting (PLAY AGAIN rebuilds Game today, Script/Main.gd:52: the
+   total must survive it), and a per-seat nonce the hub can flag when
+   two submissions carry the same code; each code shown as a QR code
+   (no QR encoder ships with Godot: check the Brains modules first). This
+   breaks design_expansion D14 / TRAP 3 on purpose ('a duet is not a
+   run'): keep Global.run_* untouched and change the panel's 'NOTHING HERE
+   IS GRADED' line. Floor 50 cards per seat. Tests, deploy, hash-verify.
+   Then Grading_Hub duet rubrics for boards 1 (sixths, sevenths) and 2
+   (triads) with pin tests, then ADD-ON D's gate and labels in both
+   board files and the roster. WHATS-NEW line."
+   MODEL: opus | EFFORT: high.
 
 0a. CHOICE BOARDS 3-4 (added 2026-10-08 by DACAPO-20; waits on Sam). When
    a board's week is picked: fill its [FILL IN]s (section 5 D0: due date,
    points, module, the Piano Tennis / Chord Crush rules, board 4's
    extra-credit or make-up rule), confirm D1/D2 defaults, then section 4
    (after Da Capo's next deploy puts the ids live). Chord Crush boards
-   (2, 3) need either a small Grading_Hub rubric pass or hand-grading.
+   (2, 3) need pass CC-LEVELS (0c); Piano Tennis boards (1, 2, 4) need
+   PT-KTS1 (0b). Retitle boards 3-4 without the way list, as BOARDS-SHIFT
+   did for 1-2, before their first Create.
 
 0. MIDTERM ITEM 5 — CREATE IT IN CANVAS (Sam, before Wed 2026-10-14;
    added 2026-10-07 by MIDREP-HW). midterm_item5_repertoire.txt section

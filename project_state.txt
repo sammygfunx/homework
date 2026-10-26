@@ -1,7 +1,25 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-13 (BOARDS-10-11, Opus 5.5, launched from —OER with
+Last updated: 2026-10-26 (BOARDS-SHIFT, Opus 5.5, pane board2 of the week 11
+queue; brief —OER/docs/week11_brief_2026-10-25.txt AMENDMENT D3/D4): THE
+BOARDS MOVE A WEEK. Board 1 (sixths + sevenths) = Week 11, due Sun
+2026-11-01 23:59 EST (2026-11-02T04:59:00Z), READY TO CREATE today; Board
+2 (triads) = Week 12, due Sun 2026-11-08 23:59 EST (2026-11-09T04:59:00Z),
+READY TO CREATE (base). Neither was ever posted; no Week 10 homework.
+SAM'S RULE (2026-10-26): an app way goes on a board only as a KTS1 code a
+Grading_Hub rubric grades (no photos, no hand-read reports); the video
+way stays. So both titles now name no ways ("Choice Board 1: Sixths and
+Sevenths", "Choice Board 2: Triad Qualities") and the base pastes are Da
+Capo OR video; Piano Tennis (finish one match on the tier), Chord Crush
+(board 2: Major + Minor all 12 levels required, Dim / Aug +3 each, max
+106) and a Da Capo DUET way are written as GATED ADD-ON blocks, each
+waiting on an app pass queued in next_steps 0b-0d (PT-KTS1, CC-LEVELS,
+DUET-CODE). Research (cited in board 1 D3/D4, board 2 D5): Piano Tennis's
+report is plain text, not KTS1; the live duet (fb9f883) uses any course
+but makes no code and keeps no clock; Chord Crush's code cannot show a
+stage cleared. Grading_Hub untouched (1670/1670 run as a check). Before
+that: 2026-10-13 (BOARDS-10-11, Opus 5.5, launched from —OER with
 Grading_Hub): CHOICE BOARDS 1 AND 2 SCHEDULED from the Quiz 4 brief Part 5.
 Board 1 = Week 10, due Sun 2026-10-25 23:59 EDT (2026-10-26T03:59:00Z);
 board 2 = Week 11, due Sun 2026-11-01 23:59 EST (2026-11-02T04:59:00Z,

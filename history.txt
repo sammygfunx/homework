@@ -1,5 +1,27 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS BOARDS-SHIFT (2026-10-26, Opus 5.5, pane board2 of the week 11 queue;
+brief —OER/docs/week11_brief_2026-10-25.txt AMENDMENT D3/D4, replacing
+its Part 12 / pass BOARD2-FINAL, which stopped before any edit)
+  Research, read-only: Chord Crush v51.7.0 live (pck 481,304) -- a stage
+  is 12 levels / 78 chords, the KTS1 code has no per-stage cleared row,
+  the Print Report .txt does; Piano Tennis -- report is text + PT1 hash,
+  only after a finished match; Da Capo duet at fb9f883 -- any course, no
+  code, no clock, counts reset per match, MIDI keyboard required.
+  Sam's answers (two rounds): every app way must be KTS1 + rubric, no
+  photos (so the Print Report route was dropped); Piano Tennis stays as
+  a choice once it has KTS1, rule "finish one full match on the tier";
+  duet queued for board 2, board 1 left easy to extend; Chord Crush =
+  Major + Minor all 12 levels required, Dim / Aug +3 each (max 106).
+  hw_board1_sixths_sevenths.txt + hw_board2_triads.txt rewritten: weeks
+  11 / 12, due 2026-11-02T04:59Z / 2026-11-09T04:59Z, modules, titles
+  without a way list, base HTML Da Capo OR video (no blanks, ASCII
+  checked), ADD-ON blocks P / D (and C on board 2) with gates, section 4
+  D "adding a way later" (tab 5 same title = PUT update), research notes
+  D3 / D4 / D5 with file:line citations. Roster rows, next_steps 0a-1,
+  0a-2 and three queued pass prompts 0b PT-KTS1, 0c CC-LEVELS, 0d
+  DUET-CODE. Grading_Hub unchanged; run_tests 1670/1670 as a check.
+
 PASS BOARDS-10-11 (2026-10-13, Opus 5.5, launched from —OER; cross-repo
 with Grading_Hub; brief —OER/docs/quiz4_brief_2026-10-13.txt Parts 1, 5)
   hw_board1_sixths_sevenths.txt and hw_board2_triads.txt: every week /

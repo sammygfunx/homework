@@ -359,32 +359,37 @@ if they become HW #N rows, move them up and prefix the titles BEFORE the
 first tab 5 Create. Every board: Text Entry + File Upload; a VIDEO way
 (hand-graded); Da Capo floor 50 cards or beat the game. Boards 1 and 2
 have weeks, due dates and points (BOARDS-10-11, 2026-10-13, from the
-Quiz 4 brief); boards 3 and 4 are still blank. The Piano Tennis / Chord
-Crush rules are BLANK for Sam on every board. All five Da Capo ids are
+Quiz 4 brief); boards 3 and 4 are still blank. Boards 1-2 moved a week on
+2026-10-26 (BOARDS-SHIFT); every app way must be a KTS1 code + rubric
+(Sam), so Piano Tennis and Chord Crush ways wait on passes PT-KTS1 and
+CC-LEVELS (next_steps 0b-0c). All five Da Capo ids are
 LIVE (deployed index.pck 6c12ef4aebb9b4ef, checked 2026-10-13).
 -----------------------------------------------------------------------
 
-BOARD 1  Sixths and Sevenths (Da Capo OR Piano Tennis OR video).
-         Da Capo "sixths" OR "sevenths"; rubrics dacapo_sixths +
-         dacapo_sevenths loaded together. Piano Tennis All Intervals tier
-         (no KTS1 code: hand-graded). No Chord Crush (no intervals).
-         Week 10, module Week 10. 100 points (default, Sam confirms).
-         Due: Sun 2026-10-25 23:59 Eastern (2026-10-26T03:59:00Z, EDT).
+BOARD 1  "Choice Board 1: Sixths and Sevenths" (title names no ways since
+         BOARDS-SHIFT 2026-10-26, so ways can be added under one key).
+         Ways now: Da Capo "sixths" OR "sevenths" (rubrics dacapo_sixths
+         + dacapo_sevenths loaded together) OR video (hand-graded).
+         GATED add-ons: Piano Tennis All Intervals tier, finish one
+         match (needs PT-KTS1); Da Capo duet (needs DUET-CODE). No Chord
+         Crush (no intervals).
+         Week 11, module Week 11. 100 points.
+         Due: Sun 2026-11-01 23:59 Eastern (2026-11-02T04:59:00Z, EST).
+         Was Week 10 / due 10/25; never posted (Sam's amendment D3/D4).
          Content: —Homework/hw_board1_sixths_sevenths.txt
-         Status: DRAFTED. Da Capo ids LIVE. Blocking the Create: the
-           Piano Tennis rule (file section 5, D0).
-BOARD 2  Triad Qualities (Da Capo OR Piano Tennis OR Chord Crush OR video).
-         Da Capo "triads"; rubric dacapo_triads. Piano Tennis Triads: All
-         Qualities tier (hand-graded). Chord Crush four triad stages (KTS1
-         code, NO rubric yet).
-         Covers major, minor, diminished and augmented (Week 11 adds
-         augmented).
-         Week 11, module Week 11. 100 points (default, Sam confirms).
-         Due: Sun 2026-11-01 23:59 Eastern (2026-11-02T04:59:00Z, EST:
-           DST ends that morning).
+         Status: READY TO CREATE (2026-10-26). No blanks.
+BOARD 2  "Choice Board 2: Triad Qualities".
+         Ways now: Da Capo "triads" (rubric dacapo_triads ALONE) OR
+         video. GATED add-ons: Chord Crush Major + Minor Triads all 12
+         levels (50 + 50), Diminished / Augmented +3 each, max 106
+         (needs CC-LEVELS, rubric chordcrush_board2); Piano Tennis
+         Triads: All Qualities tier, finish one match (needs PT-KTS1);
+         Da Capo duet (needs DUET-CODE).
+         Week 12, module Week 12. 100 points.
+         Due: Sun 2026-11-08 23:59 Eastern (2026-11-09T04:59:00Z, EST).
          Content: —Homework/hw_board2_triads.txt
-         Status: DRAFTED. Da Capo id LIVE. Blocking the Create: the
-           Piano Tennis and Chord Crush rules (file section 5, D0).
+         Status: READY TO CREATE (base paste), 2026-10-26. Create by
+           Mon 11/2 with whichever add-ons are open.
 BOARD 3  Seventh Chords (Da Capo OR Chord Crush OR video).
          Da Capo "seventh_chords"; rubric dacapo_seventh_chords. Chord
          Crush five seventh stages (KTS1 code, NO rubric yet). No Piano
