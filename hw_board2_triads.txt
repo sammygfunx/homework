@@ -103,8 +103,14 @@ below is open by the day Sam creates it, insert that block first.)
 <p><strong>To submit:</strong> GET CODE, type your first name, last name and school ID, COPY CODE, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. Paste only the code.</p>
 
 <h4>Record a video</h4>
-<p>Record yourself at the piano playing these <strong>twelve triads</strong> in root position, blocked (all three notes together), and <strong>say the name of each one out loud</strong> as you play it, for example <em>"F, A-flat, C-flat: F diminished."</em> On C, then on F, then on G, play a major, a minor, a diminished and an augmented triad.</p>
-<p>Keep your hands and the keyboard in the frame and your voice clear. One take is fine. <strong>To submit:</strong> upload the video file under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links.</p>
+<p>Record yourself at the piano playing <strong>all four triad qualities on every root</strong>: major, minor, diminished and augmented, in root position, blocked (all three notes together). <strong>Say the name of each one out loud</strong> as you play it.</p>
+<ul>
+<li>Play one quality at a time, through all 13 roots from C to C, moving a half step each time (chromatically). Start and end every quality on C.</li>
+<li>Play TWO of the qualities ascending (middle C up to the C an octave higher) and the other TWO descending (that C back down to middle C). You choose which. That is 4 x 13 = 52 triads.</li>
+<li>Name each one as you play it, root first: <em>"C major. C-sharp major. D major..."</em> A black-key root may be named either way (C-sharp or D-flat).</li>
+<li>Use a metronome at 60, loud enough to hear on the video. Give each triad four clicks or fewer, and keep the same number of clicks for every triad: play it on the first click and say its name while you hold it.</li>
+</ul>
+<p>One continuous take, no edits; either hand is fine. Keep your hand and the keyboard in the frame and your voice clear. <strong>To submit:</strong> upload the video file under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links.</p>
 
 <h4>Submit one way. Your last submission is the one graded.</h4>
 <h4>Due Sunday, November 8, 2026, 11:59 PM Eastern.</h4>
@@ -188,8 +194,9 @@ all 24 stages or clear 50 cards, whichever comes first; the game counts
 for you. GET CODE, name and school ID, copy, paste the whole code in the
 text box.
 
-Or a video: play and name the list on the assignment, blocked, hands and
-keys in the frame. Upload it or paste an unlisted YouTube link.
+Or a video: all four triad qualities on every root, C to C, two
+qualities ascending and two descending, blocked and named, metronome at
+60, four clicks or fewer each. One take, hands and keys in the frame. Upload it or paste an unlisted YouTube link.
 
 Same grade every way. Due Sunday 11/8 at 11:59 PM. The last thing you
 submit is what I grade."
@@ -219,7 +226,9 @@ Subject: Choice Board 2: Triad Qualities, due Sun 11/8 at 11:59 PM
     HOMEWORK -> TRIAD QUALITIES. Beat all 24 stages or clear 50 cards.
     GET CODE, paste the whole code in the text box. Computer (A-G keys),
     iPad (on-screen keys) or a MIDI keyboard.
-  A VIDEO  play and name the list on the assignment; upload it, or
+  A VIDEO  all four triad qualities on every root, C to C (two
+    ascending, two descending), named, metronome at 60 (the assignment
+    has the details); upload it, or
     paste an unlisted YouTube link in the text box.
 
 Due Sunday, November 8, 2026, 11:59 PM Eastern. Same grade every way.
@@ -312,11 +321,39 @@ D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game.
   into diminished and augmented. That is an estimate from the map rule,
   not a measured run.
 
-D2. THE VIDEO. Blocked, named out loud, one take. Graded on accuracy.
-  ANSWER KEY (the twelve, spelled):
-    on C   maj C-E-G     min C-Eb-G     dim C-Eb-Gb     aug C-E-G#
-    on F   maj F-A-C     min F-Ab-C     dim F-Ab-Cb     aug F-A-C#
-    on G   maj G-B-D     min G-Bb-D     dim G-Bb-Db     aug G-B-D#
+D2. THE VIDEO (rewritten 2026-10-26, Sam: the twelve-triad video was
+  lighter than the app ways; harder, like Board 1's). All four qualities
+  in root position, one quality at a time through the 13 roots C to C,
+  chromatically; two qualities ascending (middle C to C an octave higher)
+  and two descending (back to middle C), the student's choice: 4 x 13 =
+  52 blocked triads. Named root first ("C-sharp minor"; a black-key root
+  either name). Metronome at 60, four clicks or fewer per triad, the same
+  count throughout (at four clicks, about three and a half minutes of
+  playing). One continuous take, either hand.
+  Graded on accuracy. SUGGESTED (Sam's call): 25 points per quality (13
+  triads); deduct 2 per triad missing, wrong or misnamed, and for lost
+  pulse.
+  ANSWER KEY (derived in code; students name root + quality, so the top
+  notes' spelling is not graded; ascending spelled with sharps,
+  descending with flats):
+    maj asc  C-E-G  C#-E#-G#  D-F#-A  D#-F##-A#  E-G#-B  F-A-C  F#-A#-C#
+             G-B-D  G#-B#-D#  A-C#-E  A#-C##-E#  B-D#-F#  C-E-G
+    maj desc C-E-G  B-D#-F#  Bb-D-F  A-C#-E  Ab-C-Eb  G-B-D  Gb-Bb-Db
+             F-A-C  E-G#-B  Eb-G-Bb  D-F#-A  Db-F-Ab  C-E-G
+    min asc  C-Eb-G  C#-E-G#  D-F-A  D#-F#-A#  E-G-B  F-Ab-C  F#-A-C#
+             G-Bb-D  G#-B-D#  A-C-E  A#-C#-E#  B-D-F#  C-Eb-G
+    min desc C-Eb-G  B-D-F#  Bb-Db-F  A-C-E  Ab-Cb-Eb  G-Bb-D  Gb-Bbb-Db
+             F-Ab-C  E-G-B  Eb-Gb-Bb  D-F-A  Db-Fb-Ab  C-Eb-G
+    dim asc  C-Eb-Gb  C#-E-G  D-F-Ab  D#-F#-A  E-G-Bb  F-Ab-Cb  F#-A-C
+             G-Bb-Db  G#-B-D  A-C-Eb  A#-C#-E  B-D-F  C-Eb-Gb
+    dim desc C-Eb-Gb  B-D-F  Bb-Db-Fb  A-C-Eb  Ab-Cb-Ebb  G-Bb-Db
+             Gb-Bbb-Dbb  F-Ab-Cb  E-G-Bb  Eb-Gb-Bbb  D-F-Ab  Db-Fb-Abb
+             C-Eb-Gb
+    aug asc  C-E-G#  C#-E#-G##  D-F#-A#  D#-F##-A##  E-G#-B#  F-A-C#
+             F#-A#-C##  G-B-D#  G#-B#-D##  A-C#-E#  A#-C##-E##  B-D#-F##
+             C-E-G#
+    aug desc C-E-G#  B-D#-F##  Bb-D-F#  A-C#-E#  Ab-C-E  G-B-D#  Gb-Bb-D
+             F-A-C#  E-G#-B#  Eb-G-B  D-F#-A#  Db-F-A  C-E-G#
 
 D5. CHORD CRUSH (researched 2026-10-26 at the live v51.7.0 = Chord_Crush
   7864186^; main is v51.8.0, NOT deployed).
