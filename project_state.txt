@@ -1,7 +1,14 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-26 (PT-KTS1, Opus 5.5, —OER queue item 0q pane B1):
+Last updated: 2026-10-26 (CC-LEVELS, Opus 5.5, —OER queue item 0q pane B2):
+CHORD CRUSH'S CODE NOW SAYS WHICH STAGES ARE CLEARED (v51.9.0 LIVE: one
+"<stage>_levels" row per started stage, attempted 12, correct = levels
+cleared; the complete_stage double count is fixed) and Grading_Hub
+grades board 2's rule (chordcrush_board2: maj 50, min 50, dim 3, aug 3,
+max 106). ADD-ON C on board 2 waits only on Sam decoding one live code;
+board 3 can reuse the rows (its D3). Roster rows updated. Before that:
+2026-10-26 (PT-KTS1, Opus 5.5, —OER queue item 0q pane B1):
 PIANO TENNIS NOW MAKES A KTS1 CODE (v2.1 LIVE; GET CANVAS CODE on the VS
 COMPUTER end panel, app "pianotennis", mode = tier id) and Grading_Hub
 grades it (pianotennis_board1 "w7", pianotennis_board2 "w9_plus": finish

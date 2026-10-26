@@ -1,7 +1,9 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-26 (PT-KTS1 DONE: 0b shipped, ADD-ON P on boards 1-2
-waits only on Sam's live decode). Before that: 2026-10-26 (BOARDS-SHIFT:
+Updated: 2026-10-26 (CC-LEVELS DONE: 0c shipped, ADD-ON C on board 2
+waits only on Sam's live decode). Before that: 2026-10-26 (PT-KTS1 DONE:
+0b shipped, ADD-ON P on boards 1-2 waits only on Sam's live decode).
+Before that: 2026-10-26 (BOARDS-SHIFT:
 boards 1-2 move a week, Board 1 is READY TO CREATE, three app passes
 queued as 0b-0d). Before that:
 2026-10-13 (BOARDS-10-11: item 0a split; boards 1-2 have weeks,
@@ -29,7 +31,9 @@ Ranked high -> low.
    EST (2026-11-09T04:59Z), 100 points (Chord Crush up to 106), module
    Week 12, title "Choice Board 2: Triad Qualities". Base paste = Da Capo
    TRIAD QUALITIES or a video; insert each ADD-ON (C / P / D) whose gate
-   is open that morning. hw_board2_triads.txt section 4.
+   is open that morning. hw_board2_triads.txt section 4. 0c LANDED
+   2026-10-26: ADD-ON C goes in after Sam's one live decode (0c's LEFT
+   FOR SAM line).
 
 0b. DONE 2026-10-26: PASS PT-KTS1 (prompt + outcome in history.txt). Piano
    Tennis v2.1 LIVE (pck b9336b440ae6c8d9) makes a KTS1 code (GET CANVAS
@@ -40,24 +44,17 @@ Ranked high -> low.
    the tier, GET CANVAS CODE, decode it in hub tab 2 with that board's
    rubric (EXPECT mode "w7" / "w9_plus", 100); then section 4 D.
 
-0c. PASS CC-LEVELS (queued 2026-10-26, for Board 2). THREE REPOS
-   (Chord_Crush, Grading_Hub, —Homework): start from —OER.
-   PROMPT: "Pass CC-LEVELS (TAG "CC-LEVELS:"). Chord Crush's KTS1 code
-   cannot show one stage cleared (hw_board2_triads.txt section 5 D5).
-   Add, per scripts/session_report.gd's own rule (ADD IDS, NEVER
-   REDEFINE ONE), a per-stage cleared row for each practiced stage, e.g.
-   "maj_levels" = {attempted 12, correct mastered_count}; freeze the new
-   ids in tests/canvas_report.gd. Decide whether to ship on v51.7.0's
-   tree or with v51.8.0 (main, not deployed): ask Sam. Also confirm or
-   refute the double count in GameState.complete_stage (D5: stage
-   accuracy added live AND again at stage end); fix only with Sam's yes.
-   Deploy (tools/deploy_web.sh), hash-verify. Then Grading_Hub
-   rubrics/chordcrush_board2.rubric.json: threshold columns maj_levels
-   12 -> 50, min_levels 12 -> 50, dim_levels 12 -> 3, aug_levels 12 -> 3
-   (Sam: max 106), pin tests on real codes; update ADD-ON C's gate line
-   and the roster. Board 3 (seventh chords) can reuse the rows. WHATS-NEW
-   line."
-   MODEL: opus | EFFORT: high.
+0c. DONE 2026-10-26: PASS CC-LEVELS (prompt + outcome in history.txt).
+   Chord Crush v51.9.0 LIVE (pck 470,684, dc9f68dba4157d2d, hash-
+   verified) sends one "<stage>_levels" row per started stage (attempted
+   12, correct = levels cleared); the complete_stage double count is
+   fixed. Grading_Hub rubrics/chordcrush_board2: maj_levels 50,
+   min_levels 50, dim_levels 3, aug_levels 3 (max 106), tested on nine
+   real codes. LEFT FOR SAM (the last gate item of ADD-ON C): on the live
+   site clear one level of Major Triads (Chord Stages, Root), Statistics
+   -> Canvas Code -> Generate code -> Copy code, decode in hub tab 2 with
+   chordcrush_board2 (EXPECT a "maj_levels" row, 0 points until Major
+   and Minor are both 12/12); then section 4 D.
 
 0d. PASS DUET-CODE (queued 2026-10-26, Sam: "queue it for Board 2 ... leave
    things set up such that it would be easy to update board 1"). THREE

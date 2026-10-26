@@ -40,7 +40,7 @@ THE FACTS EVERYTHING HANGS ON
       PIANO TENNIS   NOT ON THIS BOARD. Piano Tennis has no seventh chords
                      (its PASS 7c, gated on a curriculum decision), so it is
                      not a path on this board.
-      CHORD CRUSH    https://chord-crush-mobile.netlify.app (v51.7.0 live),
+      CHORD CRUSH    https://chord-crush-mobile.netlify.app (v51.9.0 live),
                      Chord Stages: Major / Dominant / Minor / Half-Diminished
                      / Diminished 7th Chords. KTS1 code, app_id "chordcrush",
                      mode "session_report", whole-profile stats. NO RUBRIC in
@@ -259,6 +259,13 @@ D3. THE OTHER APPS, STATED PLAINLY
   one board is graded per pull); (b) grade the decoded codes by hand.
   Per-quality "any position" rows are not built (Chord_Crush
   next_steps item 10).
+  SINCE 2026-10-26 (pass CC-LEVELS, Chord Crush v51.9.0): the code also
+  sends one "<stage>_levels" row per started stage (attempted 12,
+  correct = levels cleared), so a board 3 rule like "all 12 levels of
+  Dominant 7th Chords" can be graded: rubrics/chordcrush_board3 would be
+  chordcrush_board2.rubric.json with the ids maj7_levels, dom7_levels,
+  min7_levels, hdim7_levels, dim7_levels. Load it ALONE among chordcrush
+  rubrics (same mode as board 2's).
 
 L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
   the same policy by hand to hand-graded rows (tab 6).

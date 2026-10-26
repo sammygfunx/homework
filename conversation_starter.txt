@@ -109,6 +109,11 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-26, CC-LEVELS) Chord Crush's per-stage rows + chordcrush_board2
+SHIPPED (v51.9.0 live). Before ADD-ON C goes on board 2: clear one level
+of Major Triads on the live site, Statistics -> Canvas Code, decode in hub
+tab 2 with chordcrush_board2 (EXPECT a "maj_levels" row), then section 4
+D. DUET-CODE (next_steps 0d) is next in the 0q chain.
 (2026-10-26, PT-KTS1) Piano Tennis's code + rubrics SHIPPED. Before ADD-ON
 P goes on board 1 or 2: one live VS COMPUTER match on the board's tier,
 GET CANVAS CODE, decode in hub tab 2 with pianotennis_board1 / _board2

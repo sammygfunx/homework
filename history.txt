@@ -1,5 +1,39 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS CC-LEVELS (2026-10-26, Opus 5.5, pane B2 of —OER queue item 0q, the
+board-ways chain; next_steps 0c, archived here)
+  THE PROMPT (from 0c): Chord Crush's KTS1 code cannot show one stage
+  cleared (board 2 D5). Add, per session_report.gd's rule (add ids,
+  never redefine one), a per-stage cleared row for each practiced stage
+  ("maj_levels" = {attempted 12, correct mastered_count}); freeze the ids
+  in tests/canvas_report.gd; ship on v51.7.0's tree or with v51.8.0
+  (Sam in 0q: main, v51.8.0); confirm or refute the complete_stage
+  double count (Sam in 0q: if real, fix it with a test, raw counts
+  only); deploy, hash-verify; Grading_Hub rubrics/chordcrush_board2
+  (maj 12 -> 50, min 12 -> 50, dim 12 -> 3, aug 12 -> 3, max 106) with
+  pin tests on real codes; ADD-ON C's gate line and the roster.
+  DONE, four repos: Chord_Crush a0e8b4a + 9fbeb8f (v51.9.0: the
+  "_levels" rows, sent after "levels" / "levels_all" so older rows keep
+  their place, one per started stage, capped at 12; double count
+  CONFIRMED, exactly 2x on a whole-stage test, and FIXED, old profiles
+  untouched; tools/make_board2_sample_codes.gd + fixture; export
+  excludes tools/ and ._ forks; deployed, html / pck dc9f68dba4157d2d /
+  wasm MATCH, live URL booted headless with 0 errors; minor key areas
+  and IPAD-KB went live with it). Grading_Hub d1b60c1 (the rubric,
+  _test_chordcrush_board2_rubric on nine real codes, a whole pull, board
+  2 loaded whole; 1720 -> 1798 + smoke). Brains 161bb93 (claims report:
+  one false positive on unchanged board 3 video text, nothing in this
+  pass's text). Here: board 2 header / FACTS / ADD-ON C gate status /
+  D5 / N, board 3 FACTS + D3 (the rows make a board 3 rubric possible),
+  roster rows, four docs. ADD-ON C's student HTML is unchanged: every
+  label it quotes is in the live build.
+  FOR SAM: (1) one live decode before inserting ADD-ON C; (2) a code from
+  a stale pre-v51.9 build posts 0 (no "_levels" rows): hard-refresh and
+  copy a new code, progress is kept; (3) load ONE chordcrush rubric at a
+  time (every chordcrush code has mode "session_report"); (4) version
+  is v51.9.0, not v51.8.0: the new rows are a new contract, so the code's
+  app_version tells the builds apart.
+
 PASS PT-KTS1 (2026-10-26, Opus 5.5, pane B1 of —OER queue item 0q, the
 board-ways chain; next_steps 0b, archived here)
   THE PROMPT (verbatim from 0b): give Piano Tennis a KTS1 Canvas code by

@@ -364,7 +364,9 @@ Quiz 4 brief); boards 3 and 4 are still blank. Boards 1-2 moved a week on
 (Sam), so Piano Tennis and Chord Crush ways wait on passes PT-KTS1 and
 CC-LEVELS (next_steps 0b-0c). PT-KTS1 SHIPPED 2026-10-26: Piano Tennis
 v2.1 makes a KTS1 code (app "pianotennis", mode = tier id); rubrics
-pianotennis_board1 ("w7") and pianotennis_board2 ("w9_plus"). All five Da Capo ids are
+pianotennis_board1 ("w7") and pianotennis_board2 ("w9_plus").
+CC-LEVELS SHIPPED 2026-10-26: Chord Crush v51.9.0 sends per-stage
+"<stage>_levels" rows; rubric chordcrush_board2. All five Da Capo ids are
 LIVE (deployed index.pck 6c12ef4aebb9b4ef, checked 2026-10-13).
 -----------------------------------------------------------------------
 
@@ -385,7 +387,8 @@ BOARD 2  "Choice Board 2: Triad Qualities".
          Ways now: Da Capo "triads" (rubric dacapo_triads ALONE) OR
          video. GATED add-ons: Chord Crush Major + Minor Triads all 12
          levels (50 + 50), Diminished / Augmented +3 each, max 106
-         (needs CC-LEVELS, rubric chordcrush_board2); Piano Tennis
+         (code rows + rubric chordcrush_board2 SHIPPED 2026-10-26,
+         CC-LEVELS; gate left: Sam decodes one live code); Piano Tennis
          Triads: All Qualities tier, finish one match (code + rubric
          pianotennis_board2 SHIPPED 2026-10-26, PT-KTS1; gate left: Sam
          decodes one live code);
@@ -397,7 +400,9 @@ BOARD 2  "Choice Board 2: Triad Qualities".
            Mon 11/2 with whichever add-ons are open.
 BOARD 3  Seventh Chords (Da Capo OR Chord Crush OR video).
          Da Capo "seventh_chords"; rubric dacapo_seventh_chords. Chord
-         Crush five seventh stages (KTS1 code, NO rubric yet). No Piano
+         Crush five seventh stages (KTS1 code; since CC-LEVELS
+         2026-10-26 its "<stage>_levels" rows make a chordcrush_board3
+         rubric possible, NOT written yet). No Piano
          Tennis (no seventh chords).
          Content: —Homework/hw_board3_seventh_chords.txt
          Status: DRAFTED (Da Capo id LIVE since before 2026-10-13).

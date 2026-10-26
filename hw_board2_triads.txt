@@ -5,8 +5,9 @@ Written 2026-10-08 (DACAPO-20); rescheduled and rebuilt 2026-10-26
 TO CREATE (the base paste). WEEK 12, due Sun 11/8 at 11:59 PM Eastern
 (EST), 100 points. Da Capo course id "triads" -- FROZEN public
 identifier, LIVE. Three more ways are written but GATED (section 1,
-ADD-ON WAYS): Chord Crush waits for per-stage "levels cleared" rows
-(pass CC-LEVELS), Piano Tennis only for Sam's live decode (its code
+ADD-ON WAYS): Chord Crush only for Sam's live decode (its per-stage
+"levels cleared" rows and rubric SHIPPED 2026-10-26, pass CC-LEVELS),
+Piano Tennis only for Sam's live decode (its code
 and rubric SHIPPED 2026-10-26, pass PT-KTS1), the Da Capo duet for a
 duet code (pass DUET-CODE). None is in the base paste.
 ===========================================================
@@ -40,11 +41,13 @@ THE FACTS EVERYTHING HANGS ON
                      stages (ResultCode.GOAL_CARDS_BY_COURSE)
       DA CAPO RUBRIC Grading_Hub/rubrics/dacapo_triads.rubric.json ALONE
       VIDEO          hand-graded on accuracy (D2)
-      CHORD CRUSH    GATED (D5): needs pass CC-LEVELS. Rule (Sam,
-                     2026-10-26): Major Triads and Minor Triads, all 12
-                     levels each, REQUIRED (50 + 50); Diminished Triads and
-                     Augmented Triads, all 12 levels each, +3 extra credit
-                     each (max 106).
+      CHORD CRUSH    CODE ROWS + RUBRIC SHIPPED (CC-LEVELS 2026-10-26,
+                     D5): v51.9.0 live, rubric Grading_Hub/rubrics/
+                     chordcrush_board2.rubric.json; gate left: Sam
+                     decodes one live code. Rule (Sam, 2026-10-26): Major
+                     Triads and Minor Triads, all 12 levels each, REQUIRED
+                     (50 + 50); Diminished Triads and Augmented Triads,
+                     all 12 levels each, +3 extra credit each (max 106).
       PIANO TENNIS   CODE + RUBRIC SHIPPED (PT-KTS1 2026-10-26, board 1
                      D3): mode "w9_plus", rubric Grading_Hub/rubrics/
                      pianotennis_board2.rubric.json; gate left: Sam
@@ -112,13 +115,22 @@ CONTRACT its pass is asked to ship; the pass edits the block if it
 ships other labels.
 
 ADD-ON C: CHORD CRUSH.
-  GATE: pass CC-LEVELS is deployed and hash-verified (the live build is
-  v51.7.0 today, pck 481,304 bytes), rubrics/chordcrush_board2.rubric.json
-  exists with its tests, and Sam has decoded one real code from the live
-  site with it. Every label below exists in the live v51.7.0 build
-  (scenes/title_screen.tscn "Chord Stages" / "Statistics", the stage
-  select's Position row, scenes/stats_display.tscn "Canvas Code"); only
-  the grading is missing.
+  GATE: pass CC-LEVELS is deployed and hash-verified,
+  rubrics/chordcrush_board2.rubric.json exists with its tests, and Sam
+  has decoded one real code from the live site with it.
+  STATUS 2026-10-26 (CC-LEVELS): the first two are DONE. v51.9.0 is live
+  (pck 470,684 bytes, sha256 dc9f68dba4157d2d…, hash-verified; D5 has
+  the rows); the rubric is tested on nine real codes. LEFT FOR SAM: on
+  the live site (hard-refresh; the title screen reads v51.9.0) clear at
+  least one level of Major Triads in Chord Stages, Root position, then
+  Statistics, Canvas Code, Generate code, Copy code; decode it in hub
+  tab 2 with chordcrush_board2 loaded: EXPECT app chordcrush, mode
+  "session_report", a "maj_levels" row (attempted 12, correct = the
+  levels you cleared) and 0 points until Major AND Minor are 12/12.
+  Every label below is in the live build (scenes/title_screen.tscn
+  "Chord Stages" / "Statistics", the stage select's Position row,
+  scenes/stats_display.tscn "Canvas Code", scripts/stats_display.gd
+  "Generate code" / "Copy code"); none changed.
 ===ADDON-C===
 <h4>Chord Crush</h4>
 <p>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. On the title screen choose <strong>Chord Stages</strong>. Leave <strong>Position</strong> on <strong>Root</strong>.</p>
@@ -298,24 +310,39 @@ D5. CHORD CRUSH (researched 2026-10-26 at the live v51.7.0 = Chord_Crush
     Statistics grid "12/12 ✓", scripts/stats_display.gd:136). Every
     stage is unlocked from the start (is_chord_type_unlocked returns
     true, stage_selection.gd:359-362).
-  - WHY IT IS GATED: the KTS1 code (scripts/session_report.gd
-    score_rows) carries, per stage, only correct / attempted answers,
-    plus "levels" = distinct root-position levels over ALL NINE
-    qualities. So "levels 24" could be 12 major + 12 dominant 7th, and
-    no rubric can tell "Major Triads 12/12" from the live code.
-  - THE FIX (pass CC-LEVELS, next_steps.txt): ADD per-stage cleared
-    rows (e.g. "maj_levels": attempted 12, correct = mastered_count),
-    as session_report.gd's own header asks (add ids, never redefine
-    one), deploy, then rubrics/chordcrush_board2.rubric.json with four
-    threshold columns: maj 12 -> 50, min 12 -> 50, dim 12 -> 3, aug
-    12 -> 3 (Sam: +3 each, max 106; the hub's points are whole numbers,
-    Grading_Hub scripts/engine/Rubric.gd:189-190).
-  - SEEN IN PASSING, for that pass to confirm: GameState.complete_stage
-    adds stage_correct_hits / stage_wrong_hits to the profile's
-    stage_accuracy AGAIN, after add_correct_hit / add_wrong_hit already
-    added each one live (scripts/game_state.gd at 7864186^, around
-    lines 449-460 and 504). If so, a cleared stage's accuracy counts are
-    doubled. Accuracy ratios are unchanged; raw counts are not.
+  - WHY IT WAS GATED: through v51.8 the KTS1 code (scripts/
+    session_report.gd score_rows) carried, per stage, only correct /
+    attempted answers, plus "levels" = distinct root-position levels
+    over ALL NINE qualities. So "levels 24" could be 12 major + 12
+    dominant 7th, and no rubric could tell "Major Triads 12/12".
+  - THE FIX, SHIPPED (pass CC-LEVELS, 2026-10-26, Chord Crush v51.9.0,
+    Chord_Crush a0e8b4a + 9fbeb8f): after "levels" and "levels_all" the
+    code sends one "<stage>_levels" row per started stage (played or
+    cleared): attempted 12, correct = distinct levels cleared (capped at
+    12). New ids only; every older row keeps its id and place. Frozen in
+    Chord_Crush tests/canvas_report.gd. Grading_Hub d1b60c1 added
+    rubrics/chordcrush_board2.rubric.json: four threshold columns at 12,
+    maj_levels 50, min_levels 50, dim_levels 3, aug_levels 3 (max 106;
+    GradePost does not cap, so 106 posts as 106). Pinned on nine real
+    codes: 100 / 103 / 106 / 50 (minor 11 of 12) / 50 (12 major + 12
+    dominant 7th) / 6 / 0 (3 levels) / 0 (first inversion) / 0 (a
+    code from before v51.9).
+  - A CODE FROM BEFORE v51.9 POSTS 0 however much it cleared (no
+    "_levels" rows to read). The student hard-refreshes and copies a
+    new code; the profile's progress is all still there. The decoded
+    code's app_version says which build made it.
+  - ONE CHORDCRUSH RUBRIC AT A TIME: every Chord Crush code has mode
+    "session_report", so a second chordcrush rubric (board 3's, later)
+    loaded beside this one would add into the same grade. Beside
+    dacapo_triads and pianotennis_board2 it is safe (tested).
+  - THE DOUBLE COUNT, CONFIRMED AND FIXED (Sam's yes, —OER item 0q):
+    GameState.complete_stage added stage_correct_hits /
+    stage_wrong_hits to the profile AGAIN after add_correct_hit /
+    add_wrong_hit had written each answer live, so a cleared stage's
+    raw accuracy counts read exactly double (a new whole-stage test
+    reads 156/8 for 78 right / 4 wrong on the old code). Ratios were
+    right. Fixed in v51.9.0; old profiles keep the counts they have.
+    The board's grade never read these counts.
   - FAIRNESS, for Sam: Chord Crush's rule (156 chords, up to 106) is
     heavier than Da Capo's 50 cards and is the only way with extra
     credit. Sam's call (2026-10-26: "they need to learn this").
@@ -327,4 +354,7 @@ N. NOT VERIFIED BY A HUMAN: the Da Capo id (headless and the live pck
   loaded headless; nobody has played it live), the HTML through the
   hub's read-back verifier, any real submission. ADD-ON D describes
   buttons that do not exist yet; ADD-ON P's are live (PT-KTS1) but no
-  human has pressed them on the live site.
+  human has pressed them on the live site. ADD-ON C's buttons are
+  unchanged, but no human has made a v51.9.0 code on the live site
+  (the live URL boots headless with 0 errors, and the codes the rubric
+  is pinned on came from the build that is live byte for byte).
