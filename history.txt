@@ -1,5 +1,21 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS PT-BIND (2026-10-27 night, Opus 5.5, —OER queue item 0v V1)
+  Sam's rule (0v): on a shared lab computer one student's saved gauntlet
+  run must not be submittable under another student's name. Piano_Tennis
+  f496f70 (PT-BIND, v2.9 LIVE, pck 0e659550b46d5568): run bound to the
+  school ID of its first code per seat, others refused with "This saved
+  run belongs to <first name>. Press START OVER to play your own.", a
+  per-seat nine-digit run nonce as the last code row. Grading_Hub 139b656
+  (PT-BIND-HUB): tests prove one nonce from two submitters is a SHARED
+  CODE, the same student resubmitting is not; no engine change. This repo
+  (PT-BIND-DONE): hw_board1 section 4 C (SHARED CODE on a gauntlet code =
+  talk to both students), 4 A2 (optional refusal check), 5 D3 (ONE RUN,
+  ONE STUDENT: both layers, the unbound-before-first-code gap, the honest
+  limit), N; roster row. Student paste unchanged (773 words). Claims check
+  (--files the board file): 96 claims, the same 5 cross-app false
+  positives as before, none in the new text.
+
 PASS GAUNTLET, SAM'S CHANGES (2026-10-27 late, final)
   (1) Partial credit, 25 points per stage cleared (Grading_Hub a2273e7);
   OPTION 3 says full credit = all four stages, each stage counts 25%, and

@@ -1,7 +1,15 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-27 late (GAUNTLET-DONE, Sam's changes): PARTIAL
+Last updated: 2026-10-27 night (PT-BIND-DONE, Opus 5.5, —OER queue item 0v
+V1): ONE RUN, ONE STUDENT. Piano Tennis v2.9 (f496f70, live pck
+0e659550b46d5568) binds each seat's saved gauntlet run to the school ID of
+its first code and refuses any other ID; a per-seat run nonce is the last
+code row, and Grading_Hub (139b656, tests only) flags one nonce from two
+submitters as SHARED CODE. hw_board1 section 4 C: a SHARED CODE flag on a
+gauntlet code = talk to both students; 4 A2 gains an optional refusal
+check; 5 D3 ONE RUN, ONE STUDENT (both layers, what it does not cover, the
+honest limit). The student paste is unchanged. Before that: 2026-10-27 late (GAUNTLET-DONE, Sam's changes): PARTIAL
 CREDIT, 25 points per stage cleared (hub rubric percent on stages,
 Grading_Hub a2273e7); the board text still says clear all four for full
 credit and that each stage counts 25%, and that GET CANVAS CODE works after

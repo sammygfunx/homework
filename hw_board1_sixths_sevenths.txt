@@ -339,7 +339,10 @@ Your last submission is the one graded.
       stage, 4 of 4 = 100).
   [ ] If you tested on a classroom computer, open the gauntlet and press
       START OVER twice so the next student starts at stage 1 (see D3,
-      SHARED COMPUTERS).
+      ONE RUN, ONE STUDENT). Optional, 30 seconds: before that, press GET
+      CANVAS CODE again with a made-up school ID. It must refuse ("This
+      saved run belongs to <you>. Press START OVER to play your own.") and
+      show no code.
 
   B. CREATE IT (tab 5 "Create Assignments")
      Sections     the four "label,course_id" lines, as always
@@ -380,7 +383,12 @@ Your last submission is the one graded.
       example an old Piano Tennis root-cycle or tier code: those rubrics
       are not on this board), "submission(s) with no code" (the videos),
       and any SHARED CODE in red (one duet seat's code from two
-      submitters: both still grade; decide by hand). Then Batch Post.
+      submitters: both still grade; decide by hand). A SHARED CODE flag on
+      a GAUNTLET code (the line reads "pianotennis nonce ... carried by 2
+      codes") means one student's saved gauntlet run was handed in by two
+      students: both still grade, so TALK TO BOTH STUDENTS before you
+      decide (PT-BIND, see D3 ONE RUN, ONE STUDENT). The same student
+      resubmitting a later code is never flagged. Then Batch Post.
       CSV route instead: tab 1 "Pull ALL sections" writes one CSV per
       section with ONE grade column titled with the set.
   [ ] What each code earns: Da Capo solo 100 at 50 cards or a beaten game;
@@ -593,12 +601,30 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     reads MIDI KEYBOARD REQUIRED. It clears by itself when a keyboard
     connects or plays a key. A student with saved stages and no keyboard
     still gets OPEN THE GAUNTLET (CODE ONLY), so a code is never stuck.
-  - SHARED COMPUTERS (FOR SAM): the saved run belongs to the computer and
-    browser, not to a student. A student who sits at a classroom computer
-    where someone else cleared stages sees CONTINUE (or a finished
-    gauntlet) and could make a code with their own name. The run is
-    erased only by START OVER (two presses) or by clearing the browser's
-    site data. Da Capo's CONTINUE works the same way.
+  - SHARED COMPUTERS (found 2026-10-27): the saved run belongs to the
+    computer and browser, so a student at a classroom computer where
+    someone else cleared stages sees CONTINUE (or a finished gauntlet).
+    Before PT-BIND that student could make a code with their own name.
+  - ONE RUN, ONE STUDENT (pass PT-BIND, Piano Tennis v2.9, live pck
+    0e659550b46d5568; Sam's rule, —OER next_steps 0v). Two layers:
+    GAME: a saved run is BOUND to the first name and school ID typed at its
+    first GET CANVAS CODE (each seat on its own in LOCAL 1v1). Any other
+    school ID is refused with "This saved run belongs to <first name>.
+    Press START OVER to play your own." and no code is made; the same ID
+    may fix a typo in the name. START OVER (two presses) erases the run,
+    its owner and its number, and the next run starts fresh.
+    HUB: each run carries a random nine-digit "nonce" per seat, the last
+    row of every code from it, new after START OVER. Grading_Hub flags one
+    nonce handed in by two Canvas submitters as SHARED CODE (section 4 C:
+    talk to both students); the same student resubmitting is not flagged,
+    and two partners never share a nonce.
+    WHAT IT DOES NOT COVER: a run nobody has made a code from yet is not
+    bound, so a student who leaves without making a code can still lose
+    the run to the next student, who then owns it. And a KTS1 code is
+    tamper-evident, not fraud-proof: a student who clears the browser's
+    storage and replays the gauntlet has simply done the work.
+    Da Capo's HOMEWORK CONTINUE gets the same treatment in its own pass
+    (DACAPO-BIND, —OER 0v V2).
 
 D4. THE DA CAPO DUET (researched 2026-10-26 at the deployed fb9f883).
   - Content fits: each seat's deck is any course (Script/Duet.gd:136-140
@@ -658,7 +684,7 @@ N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites, and the
   The root-cycle codes (solo and LOCAL 1v1, P1 / P2 CANVAS CODE) are
   live (PT-SEATS v2.6) and graded in headless tests on codes the live
   pck made; no human has finished a root-cycle match live and decoded it.
-  THE GAUNTLET (v2.7, MIDI gate v2.8) is live and hash-verified; its full solo and LOCAL
+  THE GAUNTLET (v2.7, MIDI gate v2.8, run binding + nonce v2.9) is live and hash-verified; its full solo and LOCAL
   1v1 flows, saving across a restart and its codes are tested headless,
   its three SAMPLE codes come from the live pck and grade in the hub's
   set tests, and the panel and HUD were checked in screenshots. No human

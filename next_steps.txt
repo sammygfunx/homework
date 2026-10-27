@@ -1,6 +1,8 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-27 evening (GAUNTLET-DONE: board 1 OPTION 3 rewritten
+Updated: 2026-10-27 night (PT-BIND-DONE: board 1 sections 4 C and 5 D3
+record the gauntlet's one-run-one-student binding and the SHARED CODE
+line; paste unchanged). Before that: 2026-10-27 evening (GAUNTLET-DONE: board 1 OPTION 3 rewritten
 as the Piano Tennis GAUNTLET, graded in one run with the hub's hw10_board1
 set; 0a-1 note). Before that: 2026-10-27 (PT-RC: board 1 OPTION 3 rewritten as Piano Tennis
 ROOT CYCLE, alone or LOCAL 1v1; 0a-1 note). Before that: 2026-10-26 (DUET-CODE DONE: 0d shipped, ADD-ON D on boards 1-2

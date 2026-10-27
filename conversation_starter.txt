@@ -109,6 +109,14 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-27 night, PT-BIND-DONE) ONE RUN, ONE STUDENT on Board 1's
+gauntlet (Sam, —OER next_steps 0v): Piano Tennis v2.9 binds a saved run to
+the school ID of its first code and refuses any other ("This saved run
+belongs to <first name>. Press START OVER to play your own."); each run's
+per-seat nonce lets the hub flag one run handed in twice as SHARED CODE.
+Board 1's section 4 C says a SHARED CODE on a gauntlet code = talk to both
+students; section 5 D3 has the two layers and the honest limit. The
+student HTML did not change (no extra tab 5 re-run needed for this).
 (2026-10-27 evening, GAUNTLET-DONE) BOARD 1 OPTION 3 IS NOW THE PIANO
 TENNIS GAUNTLET (Sam, —OER next_steps 0t): Drill Gauntlet, four stages m6
 -> M6 -> m7 -> M7, all 12 roots each, win or lose, alone vs four
