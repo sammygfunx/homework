@@ -1,5 +1,25 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS GAUNTLET (2026-10-27 evening, Opus 5.5, pane gauntlet of —OER queue
+item 0t, T2)
+  Sam's final rule (0t): single-interval root cycle was too light, so THE
+  GAUNTLET: four stages m6 -> M6 -> m7 -> M7 against four characters, a
+  stage ends at the student's 12th distinct root win or lose, LOCAL 1v1
+  with the partner as opponent (both need 12), saved per stage, 4 of 4
+  for full credit. Step 1, Piano_Tennis c142c29 (GAUNTLET): built and
+  deployed v2.7, pck 45eacfb37c62a20f hash-verified, mode gauntlet_67.
+  Step 2 after the RUBRIC-SET gate (Grading_Hub 2c7e1cd): Grading_Hub
+  ac5bd20 (GAUNTLET-HUB), rubric pianotennis_board1_gauntlet as the fifth
+  rubric of rubrics/hw10_board1, live-pck fixture codes, 2113 tests.
+  This repo (GAUNTLET-DONE): hw_board1 OPTION 3 rewritten (eight short
+  bullets, ASCII, no entities; paste 728 words), sections 2-3 to match,
+  section 4 gains A2 (Sam's 5-minute live check) and a tab 5 re-run step,
+  section 4 C is now the ONE-run set click-path, section 5 D0 / D3 / N
+  record the gauntlet and the SHARED COMPUTERS caveat; roster row.
+  Claims check (--files the board file): 91 claims, 4 flags, all
+  cross-app false positives (Da Capo's solo keyboard / 24 stages / sixths
+  course paired against the duet, Piano Tennis and the video).
+
 PASS PT-RC (2026-10-27, Opus 5.5, pane pt-rc of —OER queue item 0s)
   Sam's final rule (0s): Piano Tennis full credit = ROOT CYCLE on m6 /
   M6 / m7 / M7, finish a match AND reach all 12 distinct roots; LOCAL

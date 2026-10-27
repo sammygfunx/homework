@@ -109,6 +109,16 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-27 evening, GAUNTLET-DONE) BOARD 1 OPTION 3 IS NOW THE PIANO
+TENNIS GAUNTLET (Sam, —OER next_steps 0t): Drill Gauntlet, four stages m6
+-> M6 -> m7 -> M7, all 12 roots each, win or lose, alone vs four
+characters or LOCAL 1v1 (P1 / P2 CANVAS CODE), saved per stage, full
+credit 4 of 4; MIDI keyboard required. Piano Tennis v2.7 LIVE (pck
+45eacfb37c62a20f). Graded in ONE run: hub tab 3 "Load folder…" ->
+Grading_Hub/rubrics/hw10_board1 (five rubrics incl. pianotennis_board1_
+gauntlet; section 4 C). Sam: the 5-minute check (section 4 A2), then re-run
+tab 5 with the section 1 HTML (same title), publish before class Wed 10/28.
+The PT-RC note below is superseded.
 (2026-10-27, PT-RC) BOARD 1 OPTION 3 IS NOW PIANO TENNIS ROOT CYCLE (Sam,
 —OER next_steps 0s): Drill Root cycle on m6 / M6 / m7 / M7, alone or LOCAL
 1v1 (P1 / P2 CANVAS CODE, Piano Tennis v2.6), finish a match with all 12

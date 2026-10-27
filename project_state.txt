@@ -1,7 +1,21 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-27 (PT-RC, Opus 5.5, —OER queue item 0s pane pt-rc):
+Last updated: 2026-10-27 evening (GAUNTLET-DONE, Opus 5.5, —OER queue item
+0t pane gauntlet): BOARD 1 OPTION 3 IS THE PIANO TENNIS GAUNTLET. Drill
+Gauntlet: four root-cycle stages in order, minor 6th, major 6th, minor
+7th, major 7th, each cleared at all 12 distinct roots, win or lose; VS
+COMPUTER against four characters (CPU Levels 2-5) or LOCAL 1v1 with the
+partner as opponent (both need 12; one code per player); cleared stages
+saved on the device; full credit 4 of 4; MIDI keyboard required. Piano
+Tennis v2.7 LIVE (pck 45eacfb37c62a20f, GAUNTLET c142c29). Graded by
+Grading_Hub pianotennis_board1_gauntlet (mode gauntlet_67, stages >= 4 ->
+100; GAUNTLET-HUB ac5bd20), the fifth rubric of the board's SET rubrics/
+hw10_board1, so the whole board grades in ONE run (section 4 C rewritten;
+the "once per rubric" runs and the BOARD 1 TRAP are gone). New section 4
+A2: Sam's 5-minute live check. D3 gains THE GAUNTLET and SHARED COMPUTERS
+(a saved run belongs to the computer, not the student). Sections 2-3 and
+the roster row match. Before that: 2026-10-27 (PT-RC, Opus 5.5, —OER queue item 0s pane pt-rc):
 BOARD 1 OPTION 3 IS PIANO TENNIS ROOT CYCLE. Drill Root cycle on the
 student's choice of m6 / M6 / m7 / M7, VS COMPUTER or LOCAL 1v1 (one code
 per player, P1 / P2 CANVAS CODE, Piano Tennis v2.6 live), finish a match

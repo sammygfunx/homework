@@ -16,7 +16,11 @@ Sevenths", then UNPUBLISHED (its description would not update: —OER
 next_steps 0r; fixed by restarting the hub). OPTION 3 REWRITTEN
 2026-10-27 (PT-RC, Sam's rule in —OER next_steps 0s): Piano Tennis is
 now ROOT CYCLE only, alone or LOCAL 1v1, graded by the four rc rubrics
-(D3). Sam re-runs tab 5 (restart the hub first) before class Wed 10/28.
+(D3). OPTION 3 REWRITTEN AGAIN 2026-10-27 evening (GAUNTLET, Sam's rule in
+—OER next_steps 0t): Piano Tennis is now THE GAUNTLET, four stages m6 ->
+M6 -> m7 -> M7, all 12 roots each, alone or LOCAL 1v1, graded by
+pianotennis_board1_gauntlet in the hub's Board 1 SET (rubrics/hw10_board1,
+one run for the whole board). Sam re-runs tab 5 before class Wed 10/28.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -53,20 +57,24 @@ THE FACTS EVERYTHING HANGS ON
                      dacapo_sevenths.rubric.json, loaded TOGETHER (the one
                      sanctioned pair; see their headers)
       VIDEO          hand-graded on accuracy (D2)
-      PIANO TENNIS   ROOT CYCLE (Sam, 2026-10-27, —OER next_steps 0s; D3):
-                     Drill = Root cycle on m6, M6, m7 or M7 (student's
-                     choice), VS COMPUTER or LOCAL 1v1; finish one match
-                     AND reach all 12 distinct roots, win or lose, all or
-                     nothing. App "pianotennis", mode "rc_m6" / "rc_M6" /
-                     "rc_m7" / "rc_M7" (exact case), the SAME mode solo
-                     and 2-player. Rubrics Grading_Hub/rubrics/
-                     pianotennis_board1_rc_min6 / _rc_maj6 / _rc_min7 /
-                     _rc_maj7 (roots >= 12 -> 100; PT-RC). LOCAL 1v1:
-                     one code per player, P1 CANVAS CODE / P2 CANVAS
-                     CODE (Piano Tennis v2.6, PT-SEATS). Needs a MIDI
-                     keyboard (D3: the computer keyboard reaches a 7th
-                     from 6 roots at most). pianotennis_board1 (tier
-                     "w7", the old rule) stays in the hub, off the text.
+      PIANO TENNIS   THE GAUNTLET (Sam, 2026-10-27, —OER next_steps 0t;
+                     D3): Drill = Gauntlet, four stages in order m6 -> M6
+                     -> m7 -> M7, each cleared when the student has played
+                     its interval from all 12 roots, win or lose; VS
+                     COMPUTER (four characters, CPU Levels 2-5) or LOCAL
+                     1v1 (partner as opponent, a stage clears when BOTH
+                     have 12). Cleared stages are saved on the device.
+                     Full credit = 4 of 4, all or nothing. App
+                     "pianotennis", mode "gauntlet_67", solo and 2-player
+                     alike (Piano Tennis v2.7, live pck 45eacfb37c62a20f).
+                     Rubric Grading_Hub/rubrics/pianotennis_board1_
+                     gauntlet ("stages" >= 4 -> 100; GAUNTLET-HUB), the
+                     fifth rubric of the board's SET rubrics/hw10_board1.
+                     LOCAL 1v1: P1 CANVAS CODE / P2 CANVAS CODE. Needs a
+                     MIDI keyboard (D3). The old rules' rubrics
+                     (pianotennis_board1 tier "w7", the four rc_ files)
+                     stay in the hub, outside the set: no student was
+                     given them.
       DA CAPO DUET   GATED (D4): codes SHIPPED 2026-10-26 (pass DUET-CODE,
                      live index.pck 6ea8a51143857edd): GET CODES on the
                      duet end screen, one code per SEAT, mode
@@ -125,14 +133,16 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <li><strong>To submit:</strong> press <strong>GET CODES</strong>. Each of you scans the QR code for your own seat (P1 or P2) with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas. You do not type a name or ID in the game.</li>
 </ul>
 
-<h4>OPTION 3: Piano Tennis (alone or with a partner)</h4>
+<h4>OPTION 3: Piano Tennis Gauntlet (alone or with a partner)</h4>
 <ul>
 <li>You need a MIDI keyboard (the class pianos work). The computer keyboard cannot reach a 6th or 7th from every root. On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
 <li>Choose <strong>VS COMPUTER</strong> to play alone, or <strong>LOCAL 1v1</strong> to play a partner on the same computer: one keyboard split at E4 and F4 (the left player plays E4 and below), or two MIDI keyboards.</li>
-<li>Set <strong>Drill</strong> to <strong>Root cycle</strong>, choose m6, M6, m7 or M7 in the <strong>Interval</strong> list, and press <strong>START MATCH</strong>. Choosing 11 points under <strong>Play to</strong> gives you more time to reach every root.</li>
-<li>Play the interval up from a new root each time; the lower note is the root. The strip at the top shows the roots already used, and a used root does not count until all 12 have been played.</li>
-<li><strong>Full credit:</strong> finish one match in which you play the interval from all 12 roots. You do not need to win. Your line on the end screen must say "12 of 12 distinct"; if it does not, play another match.</li>
-<li><strong>To submit:</strong> at the end of the match, press <strong>GET CANVAS CODE</strong>. With a partner, each player presses their own button, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas.</li>
+<li>Set <strong>Drill</strong> to <strong>Gauntlet</strong>, press <strong>OPEN THE GAUNTLET</strong>, then press <strong>PLAY STAGE 1</strong>.</li>
+<li>There are four stages in order: minor 6th, major 6th, minor 7th, major 7th. Alone, each stage has a new computer opponent who is a little harder than the last. With a partner, your partner is the opponent.</li>
+<li>In each stage, play the interval up from a new root each time; the lower note is the root. The strip at the top shows the roots already used. A stage is cleared when you have played its interval from all 12 roots, win or lose. With a partner, keep playing until you have both played all 12.</li>
+<li>Cleared stages are saved on that computer and browser, so you can stop between stages and press <strong>CONTINUE</strong> later.</li>
+<li><strong>Full credit:</strong> clear all four stages. You do not need to win.</li>
+<li><strong>To submit:</strong> after stage 4, press <strong>GET CANVAS CODE</strong>. With a partner, each player presses their own button, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas.</li>
 </ul>
 
 <h4>OPTION 4: Video</h4>
@@ -158,8 +168,9 @@ CONTRACT its pass is asked to ship (next_steps.txt); if the pass ships
 other labels, the pass edits the block to match before the gate opens.
 
 ADD-ON P: PIANO TENNIS.
-  SUPERSEDED 2026-10-27 (PT-RC): OPTION 3 in the paste above is now ROOT
-  CYCLE (D3). The block below is the old tier rule, the record only.
+  SUPERSEDED 2026-10-27 (PT-RC): OPTION 3 in the paste above was ROOT
+  CYCLE, and since GAUNTLET the same evening it is THE GAUNTLET (D3). The
+  block below is the old tier rule, the record only.
   GATE: pass PT-KTS1 is deployed and hash-verified, the hub rubric
   rubrics/pianotennis_board1.rubric.json exists with its tests, and Sam
   has decoded one real code from the live site with it.
@@ -214,12 +225,15 @@ clears 50 cards in that sitting, then GET CODES: each of you scans your
 own seat's QR code with your own phone, copies it and submits your own.
 
 Piano Tennis needs a MIDI keyboard for this; the class pianos work.
-Alone (VS COMPUTER) or with a partner (LOCAL 1v1). Drill: Root cycle;
-pick m6, M6, m7 or M7. Play it from a new root each time, all 12 roots
-in one match; the strip at the top shows what you have used. Win or
-lose. The end screen must say 12 of 12 distinct, then GET CANVAS CODE;
-with a partner each of you presses your own, P1 or P2 CANVAS CODE, and
-submits your own.
+Alone (VS COMPUTER) or with a partner (LOCAL 1v1). Set Drill to
+Gauntlet and open the gauntlet. It has four stages in order: minor 6th,
+major 6th, minor 7th, major 7th. Alone, you face four characters, each a
+little harder than the last; with a partner, your partner is the
+opponent. In each stage, play the interval from all 12 roots, a new root
+each time, and the strip at the top shows what you have used. Win or
+lose, all 12 roots clears the stage, and cleared stages are saved on
+that computer. Clear all four, then GET CANVAS CODE; with a partner each
+of you presses your own, P1 or P2 CANVAS CODE, and submits your own.
 
 Or a video: major and minor 7ths on every root, ascending and descending
 chromatically, blocked and named, with a metronome, four clicks each. One
@@ -228,9 +242,9 @@ take, hands and keys in the frame. Upload it or paste an unlisted YouTube link.
 Same grade every way. Due Sunday 11/1 at 11:59 PM. The last thing you
 submit is what I grade."
 
-(Piano Tennis above is the root-cycle rule since PT-RC 2026-10-27; if the
-board was announced with the old tier rule, say: "Piano Tennis changed: it
-is now Root cycle, all 12 roots, and you can do it with a partner.")
+(Piano Tennis above is THE GAUNTLET since 2026-10-27 evening. The board
+had not been announced under the root-cycle or tier rule, so nothing needs
+correcting in class.)
 (Both add-ons are in the script above since BOARD1-FOUR. Their original notes:
 When ADD-ON P opens, add: "Piano Tennis: VS COMPUTER, the All Intervals
 (Midterm Prep) tier, finish one match, win or lose. GET CANVAS CODE, paste
@@ -257,13 +271,14 @@ Subject: Choice Board 1: Sixths and Sevenths, due Sun 11/1 at 11:59 PM
     DUET (ONE KEYBOARD), SIXTHS or SEVENTHS, SAME MATERIAL on. Your
     seat clears 50 cards in one sitting (PLAY AGAIN keeps the count).
     GET CODES, scan YOUR seat's QR code with your phone, paste it.
-  PIANO TENNIS  https://piano-tennis.netlify.app (computer, Chrome or
-    Edge, and a MIDI keyboard: the class pianos work). Alone (VS
-    COMPUTER) or with a partner (LOCAL 1v1). Drill: Root cycle, your
-    choice of m6, M6, m7 or M7. Finish a match in which you play it
-    from all 12 roots (the end screen says "12 of 12 distinct"), win
-    or lose. GET CANVAS CODE (partners: P1 or P2 CANVAS CODE, each
-    your own), paste the whole code.
+  PIANO TENNIS GAUNTLET  https://piano-tennis.netlify.app (computer,
+    Chrome or Edge, and a MIDI keyboard: the class pianos work). Alone
+    (VS COMPUTER) or with a partner (LOCAL 1v1). Drill: Gauntlet, then
+    OPEN THE GAUNTLET. Four stages: minor 6th, major 6th, minor 7th,
+    major 7th. Clear each one by playing its interval from all 12
+    roots, win or lose; cleared stages are saved on that computer.
+    After stage 4, GET CANVAS CODE (partners: P1 or P2 CANVAS CODE,
+    each your own), paste the whole code.
   A VIDEO  major and minor 7ths on every root, ascending and
     descending chromatically, named, metronome at 60, four clicks
     each (the assignment has the details); upload it, or
@@ -296,6 +311,26 @@ Your last submission is the one graded.
   [ ] Also take a short SEVENTHS run, decode both codes with both
       rubrics loaded; each must show 100 or 0, never 200.
 
+  A2. THE 5-MINUTE GAUNTLET CHECK (before class Wed 10/28; a MIDI
+      keyboard and the hub)
+  [ ] https://piano-tennis.netlify.app in Chrome, hard-refresh. VS
+      COMPUTER, Drill = Gauntlet, OPEN THE GAUNTLET: four cards, BISCUIT
+      (m6), BOLT (M6), HAZEL (m7), EMBER (M7); PLAY STAGE 1.
+  [ ] Play a minor 6th from all 12 roots (the strip fills; the score does
+      not matter). The panel comes back with "STAGE 1 CLEARED" and
+      Biscuit's line. Read a few lines: are they in your voice?
+  [ ] GET CANVAS CODE (1 OF 4), your name and ID, COPY CODE. Close the
+      tab, reopen, Drill = Gauntlet, OPEN THE GAUNTLET: it should say
+      CONTINUE: STAGE 2 (the stage was saved).
+  [ ] Hub: tab 3 "Load folder…" -> rubrics/hw10_board1 (the picker shows
+      "SET: HW #10 — Choice Board 1: Sixths and Sevenths [5 rubrics]").
+      Tab 2: paste the code, Decode. EXPECT app pianotennis, mode
+      gauntlet_67, stages 1/4, and the SET block lists you at 0 (4 of 4
+      posts 100).
+  [ ] If you tested on a classroom computer, open the gauntlet and press
+      START OVER twice so the next student starts at stage 1 (see D3,
+      SHARED COMPUTERS).
+
   B. CREATE IT (tab 5 "Create Assignments")
      Sections     the four "label,course_id" lines, as always
      Title        HW #10 — Choice Board 1: Sixths and Sevenths
@@ -315,50 +350,35 @@ Your last submission is the one graded.
   [ ] Student View: a Text Entry tab AND a File Upload tab. Publish.
   [ ] Post section 3; say section 2. docs/roster.txt row BOARD 1:
       READY TO CREATE -> CREATED IN CANVAS -> LIVE.
+  [ ] RE-RUN FOR THE GAUNTLET (2026-10-27): the assignment exists, so tab 5
+      with the SAME title and the new section 1 HTML in ONE paste,
+      Preview, then Create: it UPDATES the description in place. Create
+      refuses if the form changed after Preview (RUBRIC-SET), so press
+      Preview again if it asks.
 
-  C. GRADING IT, after the due date: every path into ONE column.
-  [ ] DA CAPO CODES: tab 3 -> load dacapo_sixths.rubric.json AND
-      dacapo_sevenths.rubric.json together (plus, once a gate has
-      opened, that add-on's rubric: its pass says whether it may load
-      beside these). Tab 1 Batch pull or tab 4 Batch Post. The hub
-      grades only codes whose mode is "sixths" / "sevenths"; anything
-      else is listed in no_rubric.
-      PIANO TENNIS (OPTION 3, ROOT CYCLE since PT-RC 2026-10-27): FOUR
-      rubric runs, one per interval: pianotennis_board1_rc_min6,
-      _rc_maj6, _rc_min7, _rc_maj7 (modes rc_m6 rc_M6 rc_m7 rc_M7; the
-      file names spell min/maj because the volume is case-insensitive).
-      Each posts 100 when the code's roots row is 12 of 12, else 0.
-      Click-path, per run: tab 3 load ONE rc file, then tab 1 Batch pull
-      (or tab 4 Batch Post) on the board; a code for another interval
-      is excluded (no rubric), never posted as 0. LOCAL 1v1 codes are
-      the same mode as solo: the same run grades them (Grading_Hub
-      _test_pianotennis_root_cycle_rubrics pins a seat-2 code grading
-      exactly as solo). Tab 4's single-course Preview Post can hold all
-      four rc files + the Da Capo rubrics at once: every mode differs,
-      so nothing sums (tested). Keep pianotennis_board1 (tier "w7")
-      loaded only if a student submitted under the old text.
-      Quick live check before publishing: Drill Root cycle, M7, VS
-      COMPUTER, play to 5, play all 12 roots, GET CANVAS CODE; tab 3
-      load pianotennis_board1_rc_maj7, tab 2 decode: EXPECT app
-      pianotennis, mode rc_M7, roots 12 of 12, 100.
-      Once ADD-ON D is on the board, load dacapo_duet_sixths.rubric.json
-      and dacapo_duet_sevenths.rubric.json too: every mode differs, so
-      each code posts 100, never summed (_test_dacapo_duet_rubrics). A
-      duet code has NO name or ID: it grades only when PULLED from Canvas
-      (the submitter is the student; the preview names it "Canvas user
-      N"), never from a paste or the CSV path. A red SHARED CODE block
-      lists one seat's code handed in by more than one submitter: both
-      still grade; decide by hand.
-      ONE RUBRIC AT A TIME IN THE BATCH TOOLS: "load together" holds for
-      tab 4's single-course Preview Post, which uses EVERY loaded rubric.
-      Tab 1 Batch pull and tab 4 Batch Post grade with the ONE rubric
-      selected in the dropdown, so run them once per rubric. A code the
-      selected rubric does not match is excluded, never posted as 0; the
-      last post for a student wins.
-      BOARD 1 TRAP: Rubric.dedupe keys on student + app + MODE, so a
-      student whose submission holds a sixths AND a sevenths code gets
-      TWO postable rows and the later post wins. Look for a name listed
-      twice in the preview; post the higher by hand (tab 6) if so.
+  C. GRADING IT, after the due date: ONE run for the whole board (the
+     hub's RUBRIC SET, RUBRIC-SET + GAUNTLET-HUB 2026-10-27).
+  [ ] Grading Hub tab 3 -> "Load folder…" -> pick Grading_Hub/rubrics/
+      hw10_board1. The picker shows "SET: HW #10 — Choice Board 1: Sixths
+      and Sevenths [5 rubrics]", already selected. The five: dacapo_sixths,
+      dacapo_sevenths, dacapo_duet_sixths, dacapo_duet_sevenths,
+      pianotennis_board1_gauntlet.
+  [ ] Tab 1 Sections as usual -> tab 4 Enable -> Preview Batch Post. Each
+      section lists N postable: ONE row per student, their BEST total over
+      every way they handed in (a "best of:" line names the winning way
+      for anyone who sent two). Also listed: "no rubric match" (for
+      example an old Piano Tennis root-cycle or tier code: those rubrics
+      are not on this board), "submission(s) with no code" (the videos),
+      and any SHARED CODE in red (one duet seat's code from two
+      submitters: both still grade; decide by hand). Then Batch Post.
+      CSV route instead: tab 1 "Pull ALL sections" writes one CSV per
+      section with ONE grade column titled with the set.
+  [ ] What each code earns: Da Capo solo 100 at 50 cards or a beaten game;
+      a duet seat 100 at 50 cards in the sitting (graded only when PULLED
+      from Canvas: no name in the code); Piano Tennis gauntlet 100 at 4 of
+      4 stages, else 0 (a 2 OF 4 code verifies and posts 0). Solo and
+      LOCAL 1v1 gauntlet codes share mode gauntlet_67, so the one rubric
+      grades both. Lateness.gd's penalty is inside the best total.
   [ ] THE HAND-GRADE LIST: each section's report prints "N submission(s)
       with no code (video file, link or text)". That list is the video
       students.
@@ -409,6 +429,15 @@ D0. DECISIONS (all filled):
     code per player in the SAME mode, so one rubric grades solo and
     2-player. ONLINE 1v1 codes wait (a later pass, maybe Board 2).
     Rewritten in OPTION 3 by PT-RC; the tier bullet below is history.
+  - Piano Tennis rule REPLACED AGAIN (Sam, 2026-10-27 afternoon, —OER
+    next_steps 0t, final): single-interval root cycle was too light (about
+    12 answers vs Da Capo's 50 cards), so THE GAUNTLET: four stages m6 ->
+    M6 -> m7 -> M7, each cleared at all 12 distinct roots, win or lose (a
+    win earns the character's reaction, not credit); VS COMPUTER against
+    four characters or LOCAL 1v1 with the partner as opponent (both need
+    12); saved per stage; full credit 4 of 4; one mode gauntlet_67 for
+    solo and 2-player; no online codes. Graded in ONE run with the
+    board's rubric set. Rewritten in OPTION 3 by pass GAUNTLET-DONE.
   - description shape (BOARD1-OPTIONS, Sam 2026-10-27: "a giant wall of
     text"): OPTION 1-4 headings, a short bulleted list under each, due
     date at the top, the h3 dropped (the Canvas title says it). 848 -> 562
@@ -511,6 +540,39 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
   - Play to 5 / 7 / 11 is the student's choice; the text suggests 11.
     A short match may end before 12 roots: the student plays another
     match (each code is one match; roots never carry over).
+    (Root-cycle bullets above are the record; Option 3 is now the
+    gauntlet below.)
+  - THE GAUNTLET (pass GAUNTLET, Piano Tennis v2.7, 2026-10-27, live pck
+    45eacfb37c62a20f; Piano_Tennis docs/PROJECT_STATE.txt THE GAUNTLET).
+    Menu Drill "Gauntlet (6ths and 7ths, four opponents)" -> START reads
+    OPEN THE GAUNTLET -> a panel with four stage cards and PLAY STAGE 1 /
+    CONTINUE: STAGE n, GET CANVAS CODE (n OF 4) (LOCAL 1v1: P1 / P2
+    CANVAS CODE), START OVER (two presses) and BACK TO MENU. Stages: 1
+    minor 6th vs BISCUIT (a sleepy cat, CPU Level 2), 2 major 6th vs BOLT
+    (a counting robot, Level 3), 3 minor 7th vs HAZEL (a library owl,
+    Level 4), 4 major 7th vs EMBER (a friendly dragon, Level 5
+    Professor); original pixel portraits drawn in the game. Each stage is
+    a root-cycle match on its interval (lower note = root, the strip,
+    "C USED" misses) that ENDS at the student's 12th distinct root, never
+    at a play-to score; the computer never uses up a root. LOCAL 1v1:
+    the partners share one strip and a stage ends when BOTH have 12; a
+    player who reaches 12 first plays on with any root and uses up none,
+    so they cannot block the partner. Without a MIDI keyboard PLAY is
+    disabled with the reason. No online gauntlet.
+    THE CODE: built from the stages SAVED on the device (user://
+    piano_tennis_gauntlet.json; solo and LOCAL 1v1 runs apart; no names
+    saved), so a closed tab loses no cleared stage and a code can be
+    made after any stage. Mode gauntlet_67; rows stages (4 / cleared,
+    the graded row), st_min6 / st_maj6 / st_min7 / st_maj7 (roots per
+    stage), stage_wins, answers, used_misses, seconds, assist (+ seat /
+    opponent on a LOCAL 1v1 code). Rubric pianotennis_board1_gauntlet:
+    stages >= 4 -> 100.
+  - SHARED COMPUTERS (FOR SAM): the saved run belongs to the computer and
+    browser, not to a student. A student who sits at a classroom computer
+    where someone else cleared stages sees CONTINUE (or a finished
+    gauntlet) and could make a code with their own name. The run is
+    erased only by START OVER (two presses) or by clearing the browser's
+    site data. Da Capo's CONTINUE works the same way.
 
 D4. THE DA CAPO DUET (researched 2026-10-26 at the deployed fb9f883).
   - Content fits: each seat's deck is any course (Script/Duet.gd:136-140
@@ -570,6 +632,11 @@ N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites, and the
   The root-cycle codes (solo and LOCAL 1v1, P1 / P2 CANVAS CODE) are
   live (PT-SEATS v2.6) and graded in headless tests on codes the live
   pck made; no human has finished a root-cycle match live and decoded it.
+  THE GAUNTLET (v2.7) is live and hash-verified; its full solo and LOCAL
+  1v1 flows, saving across a restart and its codes are tested headless,
+  its three SAMPLE codes come from the live pck and grade in the hub's
+  set tests, and the panel and HUD were checked in screenshots. No human
+  has cleared a stage on a real MIDI keyboard yet (section 4 A2).
   ADD-ON P's buttons are live (PT-KTS1) and ADD-ON D's are live
   (DUET-CODE), but no human has pressed either on the live site. For D:
   both QR codes on a GET CODES screenshot decode with zxing-cpp, the

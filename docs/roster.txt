@@ -378,13 +378,16 @@ BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
          Ways (all four in the paste since BOARD1-FOUR 2026-10-26): Da
          Capo "sixths" OR "sevenths" (rubrics dacapo_sixths +
          dacapo_sevenths) OR Da Capo duet, 50 cards per seat over a
-         sitting (dacapo_duet_sixths + _sevenths) OR Piano Tennis ROOT
-         CYCLE on m6 / M6 / m7 / M7, alone or LOCAL 1v1 (one code per
-         player), finish a match with all 12 roots (rubrics
-         pianotennis_board1_rc_min6 / _maj6 / _min7 / _maj7, PT-RC
-         2026-10-27; replaces the All Intervals tier rule) OR video
+         sitting (dacapo_duet_sixths + _sevenths) OR Piano Tennis
+         GAUNTLET, four stages m6 -> M6 -> m7 -> M7, all 12 roots each,
+         alone vs four characters or LOCAL 1v1 (one code per player),
+         saved per stage, 4 of 4 stages (rubric pianotennis_board1_
+         gauntlet, mode gauntlet_67, GAUNTLET-HUB 2026-10-27; replaces
+         the root-cycle and All Intervals tier rules) OR video
          (hand-graded). Sam waived the live-decode gates. No Chord Crush
-         (no intervals).
+         (no intervals). GRADING: ONE run with the hub's rubric SET,
+         tab 3 "Load folder…" -> Grading_Hub/rubrics/hw10_board1 (five
+         rubrics, best total per student, one grade).
          Week 11, module Week 11. 100 points.
          Due: Sun 2026-11-01 23:59 Eastern (2026-11-02T04:59:00Z, EST).
          Was Week 10 / due 10/25; never posted (Sam's amendment D3/D4).
@@ -392,7 +395,9 @@ BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
          Status: CREATED IN CANVAS 2026-10-26, UNPUBLISHED (description
          would not update via tab 5: —OER next_steps 0r; a hub restart
          fixed it). Four-way paste ready; OPTION 3 rewritten 2026-10-27
-         (PT-RC) for Sam to re-run tab 5 before class Wed 10/28.
+         (PT-RC), then again that evening as THE GAUNTLET (GAUNTLET-DONE;
+         Piano Tennis v2.7 LIVE), for Sam to re-run tab 5 before class
+         Wed 10/28 (section 4 A2 is a 5-minute live check first).
 BOARD 2  "Choice Board 2: Triad Qualities".
          Ways now: Da Capo "triads" (rubric dacapo_triads ALONE) OR
          video. GATED add-ons: Chord Crush Major + Minor Triads all 12

@@ -1,6 +1,8 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-27 (PT-RC: board 1 OPTION 3 rewritten as Piano Tennis
+Updated: 2026-10-27 evening (GAUNTLET-DONE: board 1 OPTION 3 rewritten
+as the Piano Tennis GAUNTLET, graded in one run with the hub's hw10_board1
+set; 0a-1 note). Before that: 2026-10-27 (PT-RC: board 1 OPTION 3 rewritten as Piano Tennis
 ROOT CYCLE, alone or LOCAL 1v1; 0a-1 note). Before that: 2026-10-26 (DUET-CODE DONE: 0d shipped, ADD-ON D on boards 1-2
 waits only on Sam's live decode; the board files' grading notes now say
 the batch tools use ONE selected rubric). Before that: 2026-10-26
@@ -35,6 +37,13 @@ Ranked high -> low.
    ROOT CYCLE (alone or LOCAL 1v1, all 12 roots, four rc rubrics). Sam:
    restart the hub, re-run tab 5 with the new HTML (same title), quick
    live decode per section 4 C if time allows, publish before Wed 10/28.
+   UPDATE 2026-10-27 evening (GAUNTLET-DONE, —OER 0t): OPTION 3 is now
+   THE GAUNTLET (four stages m6 -> M6 -> m7 -> M7, all 12 roots each,
+   alone or LOCAL 1v1, saved per stage, 4 of 4; Piano Tennis v2.7 LIVE).
+   Sam: section 4 A2 (5 minutes: clear stage 1 live, decode it with the
+   hw10_board1 set), re-run tab 5 with the new HTML (same title),
+   publish before class Wed 10/28. Grading after Sun 11/1 is ONE run
+   (section 4 C: tab 3 Load folder… -> rubrics/hw10_board1).
 
 0a-2. BOARD 2 -- CREATE IT BY MON 11/2 (Sam). Week 12, due Sun 11/8 23:59
    EST (2026-11-09T04:59Z), 100 points (Chord Crush up to 106), module
