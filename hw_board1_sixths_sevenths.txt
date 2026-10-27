@@ -97,40 +97,40 @@ description update under the same title, not a new assignment.)
 entities, so the read-back verifier has nothing to mis-decode.)
 
 ===HTML===
-<h3>Choice Board 1: Sixths and Sevenths. Pick ONE way below and submit only that one.</h3>
-<p>This homework practices major and minor 6ths and 7ths. Every way below is worth the same grade. You may try more than one for practice, but submit ONE.</p>
-<p>The four ways: Da Capo on your own, Da Capo DUET with a partner, Piano Tennis, or a video.</p>
+<p>This homework practices major and minor 6ths and 7ths. Choose ONE of the four options below and submit only that one. Every option earns the same grade, and your last submission is the one graded.</p>
+<p><strong>Due Sunday, November 1, 2026, at 11:59 PM Eastern.</strong></p>
 
-<h4>Da Capo (the reading game)</h4>
-<p>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>. On the title screen choose <strong>HOMEWORK</strong>, then select <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>. That starts the run. A run in any other course does not count for this board.</p>
-<p>Either course counts; play one of them. Each run is one course.</p>
-<p><strong>Full credit when EITHER is true:</strong> you beat all 24 stages, <em>or</em> you have cleared 50 cards. The game counts for you: GET CODE (pause menu, or the screen at the end) says whether you have earned credit yet and, if not, how many more cards you need.</p>
-<p>Play on a laptop or desktop (the letters A to G play notes; tap T for sharp or R for flat before a letter for a black key; press letters together for notes stacked on top of each other), on an iPad with the on-screen keys, or with a MIDI keyboard. Use the SAME browser on the SAME device each time and press <strong>CONTINUE</strong> to pick a run back up.</p>
-<p><strong>To submit:</strong> GET CODE, type your first name, last name and school ID, COPY CODE, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. Paste only the code.</p>
-
-<h4>Da Capo DUET (two players, one MIDI keyboard)</h4>
-<p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. After each match press <strong>PLAY AGAIN</strong> to keep going.</p>
-<p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. PLAY AGAIN keeps the count; going back to the LOBBY or the TITLE starts it over. The end screen shows each seat's SITTING count.</p>
-<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat (P1 MINT and P2 EMBER) gets its own code as a QR code. Scan YOUR seat's QR code with your own phone. It opens a page with your code: press <strong>COPY CODE</strong> and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits only their own seat's code.</p>
-
-<h4>Piano Tennis</h4>
-<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'All Intervals (Midterm Prep)' (it is the only Piano Tennis tier with 7ths; it also deals every other interval). Then <strong>START MATCH</strong>.</p>
-<p><strong>Full credit:</strong> finish one full match on that tier. A win is not required; a loss counts the same.</p>
-<p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave.</p>
-<p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CANVAS CODE</strong>, type your first name, last name and school ID, press <strong>COPY CODE</strong>, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. A match on any other tier does not count for this board.</p>
-
-<h4>Record a video</h4>
-<p>Record yourself at the piano playing <strong>major 7ths and minor 7ths on every root</strong>, ascending and descending chromatically, as blocked intervals (both notes together), and <strong>say each one out loud</strong> as you play it.</p>
+<h4>OPTION 1: Da Capo</h4>
 <ul>
-<li>Start on middle C. Play the major 7th above it, then the minor 7th above it (the top note moves down a half step).</li>
-<li>Move the bottom note up a half step and do the same on C-sharp, then D, and so on, ascending chromatically to the C an octave higher. Then descend chromatically, a half step at a time, back to middle C. That is 25 roots and 50 sevenths.</li>
-<li>Name each one as you play it, root first: <em>"C, major 7th. C, minor 7th. C-sharp, major 7th..."</em> A black-key root may be named either way (C-sharp or D-flat).</li>
-<li>Use a metronome at 60 or slower, loud enough to hear on the video. Give each seventh four clicks: play it on the first click and say its name while you hold it.</li>
+<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. The GET CODE screen tells you how many cards you still need.</li>
+<li>You can play on a computer keyboard, an iPad, or a MIDI keyboard. Use the same browser on the same device each time, and press <strong>CONTINUE</strong> to pick up where you left off.</li>
+<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
-<p>One continuous take, no edits; either hand is fine. Keep your hand and the keyboard in the frame and your voice clear. <strong>To submit:</strong> upload the video file under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links.</p>
 
-<h4>Submit one way. Your last submission is the one graded.</h4>
-<h4>Due Sunday, November 1, 2026, 11:59 PM Eastern.</h4>
+<h4>OPTION 2: Da Capo Duet (with a partner)</h4>
+<ul>
+<li>You need a partner and one MIDI keyboard (the class pianos work). Open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby, set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>, set <strong>SAME MATERIAL</strong> to <strong>ON</strong>, and press <strong>START</strong>.</li>
+<li><strong>Full credit:</strong> each of you clears 50 cards. Press <strong>PLAY AGAIN</strong> after each match to keep adding to your total; going back to the lobby starts the count over. The end screen shows how many cards each player has cleared so far.</li>
+<li><strong>To submit:</strong> press <strong>GET CODES</strong>. Each of you scans the QR code for your own seat (P1 or P2) with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas. You do not type a name or ID in the game.</li>
+</ul>
+
+<h4>OPTION 3: Piano Tennis</h4>
+<ul>
+<li>On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge. Choose <strong>VS COMPUTER</strong>, set the <strong>Difficulty tier</strong> to the one ending in "All Intervals (Midterm Prep)", and press <strong>START MATCH</strong>.</li>
+<li><strong>Full credit:</strong> finish one full match. You do not need to win.</li>
+<li>Play with a MIDI keyboard, or use your computer keyboard: A S D F G H J K are the white keys, and W E T Y U are the black keys.</li>
+<li><strong>To submit:</strong> at the end of the match, press <strong>GET CANVAS CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+</ul>
+
+<h4>OPTION 4: Video</h4>
+<ul>
+<li>Record yourself playing major and minor 7ths as blocked intervals (both notes together), and name each one out loud: "C, major 7th. C, minor 7th."</li>
+<li>On each root, play the major 7th, then move the top note down a half step for the minor 7th. Start on middle C and ascend chromatically to the C an octave higher, then descend chromatically back to middle C (25 roots, 50 sevenths). A black-key root may be named either way, such as C-sharp or D-flat.</li>
+<li>Set a metronome to 60 or slower, loud enough to hear on the video. Play each seventh on the first click and say its name while you hold it for four clicks.</li>
+<li>Record one continuous take with no edits; either hand is fine. Keep your hand and the keyboard in the frame.</li>
+<li><strong>To submit:</strong> upload the video under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. Please do not send cloud drive links.</li>
+</ul>
 ===HTML===
 -------------------------------------------------------------------
 
@@ -363,6 +363,13 @@ D0. DECISIONS (all filled):
   - Piano Tennis rule: "finish one full match on that tier", win or
     lose (Sam, 2026-10-26). Lives in ADD-ON P; the rubric is
     pianotennis_board1 (PT-KTS1, D3).
+  - description shape (BOARD1-OPTIONS, Sam 2026-10-27: "a giant wall of
+    text"): OPTION 1-4 headings, a short bulleted list under each, due
+    date at the top, the h3 dropped (the Canvas title says it). 848 -> 562
+    words. Cut: Da Capo's A-G / T / R computer-key help (the game shows
+    it) and Piano Tennis's Z / X octave keys. Duet wording per Sam: "The
+    end screen shows how many cards each player has cleared so far." The
+    ADD-ON blocks in section 1 keep the OLD wording as the record only.
 
 D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game, the
   game ships the verdict as "goal" and the rubric thresholds it. The
