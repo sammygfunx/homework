@@ -1,6 +1,7 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-26 (DUET-CODE DONE: 0d shipped, ADD-ON D on boards 1-2
+Updated: 2026-10-27 (PT-RC: board 1 OPTION 3 rewritten as Piano Tennis
+ROOT CYCLE, alone or LOCAL 1v1; 0a-1 note). Before that: 2026-10-26 (DUET-CODE DONE: 0d shipped, ADD-ON D on boards 1-2
 waits only on Sam's live decode; the board files' grading notes now say
 the batch tools use ONE selected rubric). Before that: 2026-10-26
 (CC-LEVELS DONE: 0c shipped, ADD-ON C on board 2
@@ -30,6 +31,10 @@ Ranked high -> low.
    LANDED 2026-10-26: ADD-ON P goes in after Sam's one live decode
    (0b's LEFT FOR SAM line). 0d LANDED 2026-10-26: ADD-ON D likewise
    (0d's LEFT FOR SAM line).
+   UPDATE 2026-10-27 (PT-RC, —OER 0s): OPTION 3 is now Piano Tennis
+   ROOT CYCLE (alone or LOCAL 1v1, all 12 roots, four rc rubrics). Sam:
+   restart the hub, re-run tab 5 with the new HTML (same title), quick
+   live decode per section 4 C if time allows, publish before Wed 10/28.
 
 0a-2. BOARD 2 -- CREATE IT BY MON 11/2 (Sam). Week 12, due Sun 11/8 23:59
    EST (2026-11-09T04:59Z), 100 points (Chord Crush up to 106), module

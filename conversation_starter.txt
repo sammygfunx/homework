@@ -109,6 +109,13 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-27, PT-RC) BOARD 1 OPTION 3 IS NOW PIANO TENNIS ROOT CYCLE (Sam,
+—OER next_steps 0s): Drill Root cycle on m6 / M6 / m7 / M7, alone or LOCAL
+1v1 (P1 / P2 CANVAS CODE, Piano Tennis v2.6), finish a match with all 12
+roots, win or lose; needs a MIDI keyboard. Rubrics Grading_Hub
+pianotennis_board1_rc_min6 / _maj6 / _min7 / _maj7 (four batch runs;
+section 4 C). Sam: restart the hub, re-run tab 5 with the section 1 HTML,
+publish before class Wed 10/28.
 (2026-10-26, DUET-CODE) The Da Capo duet's per-seat codes + rubrics
 dacapo_duet_sixths / _sevenths / _triads SHIPPED (live). Before ADD-ON D
 goes on board 1 or 2: play a duet, GET CODES, scan a seat with your phone,

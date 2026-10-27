@@ -1,7 +1,15 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-26 (DUET-CODE, Opus 5.5, —OER queue item 0q pane B3):
+Last updated: 2026-10-27 (PT-RC, Opus 5.5, —OER queue item 0s pane pt-rc):
+BOARD 1 OPTION 3 IS PIANO TENNIS ROOT CYCLE. Drill Root cycle on the
+student's choice of m6 / M6 / m7 / M7, VS COMPUTER or LOCAL 1v1 (one code
+per player, P1 / P2 CANVAS CODE, Piano Tennis v2.6 live), finish a match
+with all 12 distinct roots, win or lose; a MIDI keyboard is required (the
+computer-keyboard piano reaches a M7 from 6 roots at most). Graded by
+Grading_Hub pianotennis_board1_rc_min6 / _maj6 / _min7 / _maj7 (roots >=
+12 -> 100, solo and 2-player alike, tested on live-pck codes). Sections
+2-5 and the roster row match. Before that: 2026-10-26 (DUET-CODE, Opus 5.5, —OER queue item 0q pane B3):
 THE DA CAPO DUET NOW MAKES A CODE PER SEAT (GET CODES on the end panel,
 LIVE, index.pck 6ea8a51143857edd: one KTS1 code per seat over the sitting,
 mode "duet_<course>", no name or ID, a QR code to a COPY CODE page) and
