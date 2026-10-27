@@ -587,7 +587,7 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     stage), stage_wins, answers, used_misses, seconds, assist (+ seat /
     opponent on a LOCAL 1v1 code). Rubric pianotennis_board1_gauntlet:
     percent on stages, 25 points per stage cleared.
-  - MIDI GATE (v2.8, live pck a19132fc98153e31): with no MIDI keyboard
+  - MIDI GATE (v2.8, live pck 5e7e8b110d81e945): with no MIDI keyboard
     connected or played, the menu's Drill list grays out Gauntlet, a gold
     line "Gauntlet: MIDI keyboard required" sits under it, and START
     reads MIDI KEYBOARD REQUIRED. It clears by itself when a keyboard

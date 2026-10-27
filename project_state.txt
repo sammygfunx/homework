@@ -7,7 +7,7 @@ Grading_Hub a2273e7); the board text still says clear all four for full
 credit and that each stage counts 25%, and that GET CANVAS CODE works after
 any stage (submit again after more stages; the last submission is graded).
 MIDI REQUIRED, ENFORCED in Piano Tennis v2.8 (4d9ea23, live pck
-a19132fc98153e31): Gauntlet grayed out with a "Gauntlet: MIDI keyboard
+5e7e8b110d81e945): Gauntlet grayed out with a "Gauntlet: MIDI keyboard
 required" line until a keyboard connects or plays; OPTION 3 and sections
 2-5 say so, and A2 starts with an unplugged check. Before that: 2026-10-27 evening (GAUNTLET-DONE, Opus 5.5, —OER queue item
 0t pane gauntlet): BOARD 1 OPTION 3 IS THE PIANO TENNIS GAUNTLET. Drill
