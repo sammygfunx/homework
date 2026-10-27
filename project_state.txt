@@ -1,7 +1,17 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-27 night (PT-BIND-DONE, Opus 5.5, —OER queue item 0v
+Last updated: 2026-10-27 night (PT-FIX-DONE, Opus 5.5, —OER queue item 0w
+W1, Sam's playtest): Board 1 OPTION 3 says a root counts only when your
+answer on it WINS THE POINT (you play it, return the ball, your opponent
+misses), your strip shows the roots you have won, a stage = a point won
+from each of the 12 roots whatever the score, and 1v1 partners each have
+their own strip. The "a little harder than the last" line is gone (stages
+3-4 were eased to CPU Level 3 after a measured 14 / 45+ minutes a stage).
+Piano Tennis 52bec4c (v2.10, live pck fc4799c52ce28fa7); Grading_Hub
+1a70c71 + 29b51f4 (comment and docs only). Sections 2-3, 4 A2, 5 D0 / D3
+and the roster match; the facts block's stale "all or nothing" now reads
+25 points per stage. Before that: 2026-10-27 night (PT-BIND-DONE, Opus 5.5, —OER queue item 0v
 V1): ONE RUN, ONE STUDENT. Piano Tennis v2.9 (f496f70, live pck
 0e659550b46d5568) binds each seat's saved gauntlet run to the school ID of
 its first code and refuses any other ID; a per-seat run nonce is the last

@@ -1,6 +1,8 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-27 night (PT-BIND-DONE: board 1 sections 4 C and 5 D3
+Updated: 2026-10-27 night (PT-FIX-DONE: board 1 OPTION 3 + sections 2-5
+for the point rule, own strips and CPU Levels 2/3/3/3; roster). Before
+that: 2026-10-27 night (PT-BIND-DONE: board 1 sections 4 C and 5 D3
 record the gauntlet's one-run-one-student binding and the SHARED CODE
 line; paste unchanged). Before that: 2026-10-27 evening (GAUNTLET-DONE: board 1 OPTION 3 rewritten
 as the Piano Tennis GAUNTLET, graded in one run with the hub's hw10_board1

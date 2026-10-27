@@ -109,6 +109,13 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-27 night, PT-FIX-DONE) Board 1 OPTION 3 now says a root counts
+only when your answer on it WINS THE POINT (Sam's playtest, —OER 0w;
+Piano Tennis v2.10 live, pck fc4799c52ce28fa7): each 1v1 player has their
+own strip, the gauntlet runs CPU Levels 2, 3, 3, 3 (about 5-7 minutes a
+stage, measured), and a keyboard plugged in after load works on the web.
+Sam: paste the section 1 HTML in tab 5 (same title) tonight; section 4
+A2 is the live check.
 (2026-10-27 night, PT-BIND-DONE) ONE RUN, ONE STUDENT on Board 1's
 gauntlet (Sam, —OER next_steps 0v): Piano Tennis v2.9 binds a saved run to
 the school ID of its first code and refuses any other ("This saved run

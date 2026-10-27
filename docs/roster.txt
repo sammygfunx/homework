@@ -379,7 +379,9 @@ BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
          Capo "sixths" OR "sevenths" (rubrics dacapo_sixths +
          dacapo_sevenths) OR Da Capo duet, 50 cards per seat over a
          sitting (dacapo_duet_sixths + _sevenths) OR Piano Tennis
-         GAUNTLET, four stages m6 -> M6 -> m7 -> M7, all 12 roots each,
+         GAUNTLET, four stages m6 -> M6 -> m7 -> M7, a point WON from
+         each of the 12 roots per stage (PT-FIX v2.10: a root counts only
+         when the answer on it wins the point; own strip per player),
          alone vs four characters or LOCAL 1v1 (one code per player),
          saved per stage, 25 points per stage cleared, 4 of 4 = full
          credit, a code after any stage (rubric pianotennis_board1_

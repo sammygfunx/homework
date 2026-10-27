@@ -1,5 +1,17 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS PT-FIX (2026-10-27 night, Opus 5.5, —OER queue item 0w W1)
+  Sam's playtest decisions (0w): point rule (a), own strip per player, web
+  hot-plug, Paddle assist ON / OFF, HEAR MY NOTES. Piano_Tennis 52bec4c
+  (PT-FIX, v2.10 LIVE, pck fc4799c52ce28fa7; stages 3-4 eased to CPU Level
+  3 after build/stage_minutes_sim.gd measured 13.6 and 45+ minutes a
+  stage). Grading_Hub 1a70c71 + 29b51f4 (PT-FIX-HUB: the gauntlet rubric's
+  comment and docs; fixture, tests and logic unchanged). This repo
+  (PT-FIX-DONE): hw_board1 OPTION 3 (root counts only when it wins the
+  point, own strips, no "harder than the last"), sections 2-3, 4 A2, 5 D0 /
+  D3 (POINT RULE bullet with the measured minutes), the facts block (CPU
+  Levels 2/3/3/3, 25 per stage), header, roster. Paste ASCII, 795 words.
+
 PASS PT-BIND (2026-10-27 night, Opus 5.5, —OER queue item 0v V1)
   Sam's rule (0v): on a shared lab computer one student's saved gauntlet
   run must not be submittable under another student's name. Piano_Tennis

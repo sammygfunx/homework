@@ -21,6 +21,11 @@ now ROOT CYCLE only, alone or LOCAL 1v1, graded by the four rc rubrics
 M6 -> m7 -> M7, all 12 roots each, alone or LOCAL 1v1, graded by
 pianotennis_board1_gauntlet in the hub's Board 1 SET (rubrics/hw10_board1,
 one run for the whole board). Sam re-runs tab 5 before class Wed 10/28.
+OPTION 3 UPDATED 2026-10-27 night (PT-FIX, Sam's playtest, —OER 0w):
+a root counts only when the answer on it WINS THE POINT, each 1v1 player
+has their own strip, the gauntlet runs CPU Levels 2, 3, 3, 3 (Piano
+Tennis v2.10, live pck fc4799c52ce28fa7). Paste the section 1 HTML as it
+is now.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -59,12 +64,14 @@ THE FACTS EVERYTHING HANGS ON
       VIDEO          hand-graded on accuracy (D2)
       PIANO TENNIS   THE GAUNTLET (Sam, 2026-10-27, —OER next_steps 0t;
                      D3): Drill = Gauntlet, four stages in order m6 -> M6
-                     -> m7 -> M7, each cleared when the student has played
-                     its interval from all 12 roots, win or lose; VS
-                     COMPUTER (four characters, CPU Levels 2-5) or LOCAL
-                     1v1 (partner as opponent, a stage clears when BOTH
-                     have 12). Cleared stages are saved on the device.
-                     Full credit = 4 of 4, all or nothing. App
+                     -> m7 -> M7, each cleared when the student has WON A
+                     POINT from each of the 12 roots (a root counts only
+                     when the answer on it wins the point; PT-FIX), win
+                     or lose; VS COMPUTER (four characters, CPU Levels 2,
+                     3, 3, 3) or LOCAL 1v1 (partner as opponent, each with
+                     their own strip, a stage clears when BOTH have 12).
+                     Cleared stages are saved on the device. 25 points
+                     per stage cleared; full credit = 4 of 4. App
                      "pianotennis", mode "gauntlet_67", solo and 2-player
                      alike (Piano Tennis v2.7, live pck 45eacfb37c62a20f).
                      Rubric Grading_Hub/rubrics/pianotennis_board1_
@@ -138,8 +145,9 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <li>You need a MIDI keyboard (the class pianos work). The computer keyboard cannot reach a 6th or 7th from every root. On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
 <li>Choose <strong>VS COMPUTER</strong> to play alone, or <strong>LOCAL 1v1</strong> to play a partner on the same computer: one keyboard split at E4 and F4 (the left player plays E4 and below), or two MIDI keyboards.</li>
 <li>Set <strong>Drill</strong> to <strong>Gauntlet</strong>, press <strong>OPEN THE GAUNTLET</strong>, then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
-<li>There are four stages in order: minor 6th, major 6th, minor 7th, major 7th. Alone, each stage has a new computer opponent who is a little harder than the last. With a partner, your partner is the opponent.</li>
-<li>In each stage, play the interval up from a new root each time; the lower note is the root. The strip at the top shows the roots already used. A stage is cleared when you have played its interval from all 12 roots, win or lose. With a partner, keep playing until you have both played all 12.</li>
+<li>There are four stages in order: minor 6th, major 6th, minor 7th, major 7th. Alone, each stage has a new computer opponent. With a partner, your partner is the opponent.</li>
+<li>Play the interval up from a new root each time; the lower note is the root. A root counts only when your answer on it wins the point: you play it, return the ball, and your opponent misses. Your strip at the top shows the roots you have won.</li>
+<li>A stage is cleared when you have won a point from each of the 12 roots, whatever the score. With a partner, each of you has your own strip, and the stage ends when you both have all 12.</li>
 <li>Cleared stages are saved on that computer and browser, so you can stop between stages and press <strong>CONTINUE</strong> later.</li>
 <li><strong>Full credit:</strong> clear all four stages. Each stage you clear counts 25% of the grade, and you do not need to win.</li>
 <li><strong>To submit:</strong> press <strong>GET CANVAS CODE</strong> after any stage; the code counts every stage you have cleared so far. With a partner, each player presses their own button, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas. If you clear more stages later, submit a new code; your last submission is the one graded.</li>
@@ -227,12 +235,14 @@ own seat's QR code with your own phone, copies it and submits your own.
 Piano Tennis needs a MIDI keyboard for this; the class pianos work.
 Alone (VS COMPUTER) or with a partner (LOCAL 1v1). Set Drill to
 Gauntlet and open the gauntlet. It has four stages in order: minor 6th,
-major 6th, minor 7th, major 7th. Alone, you face four characters, each a
-little harder than the last; with a partner, your partner is the
-opponent. In each stage, play the interval from all 12 roots, a new root
-each time, and the strip at the top shows what you have used. Win or
-lose, all 12 roots clears the stage, and cleared stages are saved on
-that computer. Each stage counts 25%, so clear all four for full credit.
+major 6th, minor 7th, major 7th. Alone, you face four characters; with
+a partner, your partner is the opponent. Play the interval from a new
+root each time. A root counts only when your answer on it wins the
+point: you return the ball and your opponent misses. Your strip at the
+top shows the roots you have won. Win a point from all 12 roots and the
+stage is cleared, whatever the score; with a partner, each of you has
+your own strip and needs your own 12. Cleared stages are saved on that
+computer. Each stage counts 25%, so clear all four for full credit.
 GET CANVAS CODE works after any stage and counts every stage you have
 cleared; with a partner each of you presses your own, P1 or P2 CANVAS
 CODE, and submits your own. If Gauntlet is grayed out, the game has not
@@ -278,8 +288,9 @@ Subject: Choice Board 1: Sixths and Sevenths, due Sun 11/1 at 11:59 PM
     Chrome or Edge, and a MIDI keyboard: the class pianos work). Alone
     (VS COMPUTER) or with a partner (LOCAL 1v1). Drill: Gauntlet, then
     OPEN THE GAUNTLET. Four stages: minor 6th, major 6th, minor 7th,
-    major 7th. Clear each one by playing its interval from all 12
-    roots, win or lose; cleared stages are saved on that computer.
+    major 7th. A root counts only when your answer on it wins the
+    point; win a point from all 12 roots to clear a stage, whatever
+    the score. Cleared stages are saved on that computer.
     Each stage counts 25%; clear all four for full credit. GET CANVAS
     CODE works after any stage (partners: P1 or P2 CANVAS CODE, each
     your own); paste the whole code, and submit a new one if you clear
@@ -326,9 +337,11 @@ Your last submission is the one graded.
   [ ] https://piano-tennis.netlify.app in Chrome, hard-refresh. VS
       COMPUTER, Drill = Gauntlet, OPEN THE GAUNTLET: four cards, BISCUIT
       (m6), BOLT (M6), HAZEL (m7), EMBER (M7); PLAY STAGE 1.
-  [ ] Play a minor 6th from all 12 roots (the strip fills; the score does
-      not matter). The panel comes back with "STAGE 1 CLEARED" and
-      Biscuit's line. Read a few lines: are they in your voice?
+  [ ] Win a point from each of the 12 roots with a minor 6th (a root is
+      struck only when your return wins the point: "YOU WIN THE POINT: G
+      IS MARKED OFF"; the score does not matter; about 5 minutes). The
+      panel comes back with "STAGE 1 CLEARED" and Biscuit's line. Read a
+      few lines: are they in your voice?
   [ ] GET CANVAS CODE (1 OF 4), your name and ID, COPY CODE. Close the
       tab, reopen, Drill = Gauntlet, OPEN THE GAUNTLET: it should say
       CONTINUE: STAGE 2 (the stage was saved).
@@ -578,14 +591,26 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     CANVAS CODE), START OVER (two presses) and BACK TO MENU. Stages: 1
     minor 6th vs BISCUIT (a sleepy cat, CPU Level 2), 2 major 6th vs BOLT
     (a counting robot, Level 3), 3 minor 7th vs HAZEL (a library owl,
-    Level 4), 4 major 7th vs EMBER (a friendly dragon, Level 5
-    Professor); original pixel portraits drawn in the game. Each stage is
-    a root-cycle match on its interval (lower note = root, the strip,
-    "C USED" misses) that ENDS at the student's 12th distinct root, never
-    at a play-to score; the computer never uses up a root. LOCAL 1v1:
-    the partners share one strip and a stage ends when BOTH have 12; a
-    player who reaches 12 first plays on with any root and uses up none,
-    so they cannot block the partner. Without a MIDI keyboard PLAY is
+    Level 3), 4 major 7th vs EMBER (a friendly dragon, Level 3); original
+    pixel portraits drawn in the game. (Stages 3-4 were Levels 4-5 until
+    PT-FIX; see POINT RULE below.) Each stage is a root-cycle match on its
+    interval (lower note = root, the strip, "C USED" misses) that ENDS at
+    the student's 12th distinct root WON, never at a play-to score; the
+    computer never marks a root. LOCAL 1v1: each partner has their own
+    strip and a stage ends when BOTH have 12; a player who reaches 12
+    first plays on with any root until the partner finishes.
+  - POINT RULE (a) (Sam's playtest, 2026-10-27 night, —OER next_steps 0w;
+    Piano Tennis v2.10 PT-FIX, live pck fc4799c52ce28fa7): a root is
+    marked off ONLY when the student's answer on it WINS THE POINT (the
+    last correct return before the opponent misses). Correct returns in
+    the middle of a rally keep the ball alive and mark nothing; lost
+    points never mark. Same engine for Root cycle. Measured with the real
+    engine headless (Piano_Tennis build/stage_minutes_sim.gd, a steady
+    student: 90% right, reliable blocking): about 5 minutes a stage at
+    Level 2 and 7 at Level 3, but 14 at Level 4 and 45 or more at Level
+    5, so stages 3 and 4 were eased to Level 3 (Sam's limit: about 8
+    minutes a stage). The whole gauntlet is about 27 minutes for a steady
+    student, longer for a student who misses more. Without a MIDI keyboard PLAY is
     disabled with the reason. No online gauntlet.
     THE CODE: built from the stages SAVED on the device (user://
     piano_tennis_gauntlet.json; solo and LOCAL 1v1 runs apart; no names
