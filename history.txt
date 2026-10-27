@@ -1,5 +1,15 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS GAUNTLET, SAM'S CHANGES (2026-10-27 late, final)
+  (1) Partial credit, 25 points per stage cleared (Grading_Hub a2273e7);
+  OPTION 3 says full credit = all four stages, each stage counts 25%, and
+  GET CANVAS CODE works after any stage (submit again later; the last
+  submission is graded). (2) MIDI required, enforced in Piano Tennis v2.8
+  (4d9ea23): the text tells students Gauntlet stays grayed out until the
+  game finds a MIDI keyboard (plug in, play a key). Sections 2-5, A2 (an
+  unplugged check first, the decode now expects 25), C, D0, D3, N and the
+  roster row match. Paste ASCII, no entities, 773 words.
+
 PASS GAUNTLET (2026-10-27 evening, Opus 5.5, pane gauntlet of —OER queue
 item 0t, T2)
   Sam's final rule (0t): single-interval root cycle was too light, so THE

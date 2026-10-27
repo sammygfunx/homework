@@ -137,12 +137,12 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <ul>
 <li>You need a MIDI keyboard (the class pianos work). The computer keyboard cannot reach a 6th or 7th from every root. On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
 <li>Choose <strong>VS COMPUTER</strong> to play alone, or <strong>LOCAL 1v1</strong> to play a partner on the same computer: one keyboard split at E4 and F4 (the left player plays E4 and below), or two MIDI keyboards.</li>
-<li>Set <strong>Drill</strong> to <strong>Gauntlet</strong>, press <strong>OPEN THE GAUNTLET</strong>, then press <strong>PLAY STAGE 1</strong>.</li>
+<li>Set <strong>Drill</strong> to <strong>Gauntlet</strong>, press <strong>OPEN THE GAUNTLET</strong>, then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
 <li>There are four stages in order: minor 6th, major 6th, minor 7th, major 7th. Alone, each stage has a new computer opponent who is a little harder than the last. With a partner, your partner is the opponent.</li>
 <li>In each stage, play the interval up from a new root each time; the lower note is the root. The strip at the top shows the roots already used. A stage is cleared when you have played its interval from all 12 roots, win or lose. With a partner, keep playing until you have both played all 12.</li>
 <li>Cleared stages are saved on that computer and browser, so you can stop between stages and press <strong>CONTINUE</strong> later.</li>
-<li><strong>Full credit:</strong> clear all four stages. You do not need to win.</li>
-<li><strong>To submit:</strong> after stage 4, press <strong>GET CANVAS CODE</strong>. With a partner, each player presses their own button, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas.</li>
+<li><strong>Full credit:</strong> clear all four stages. Each stage you clear counts 25% of the grade, and you do not need to win.</li>
+<li><strong>To submit:</strong> press <strong>GET CANVAS CODE</strong> after any stage; the code counts every stage you have cleared so far. With a partner, each player presses their own button, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas. If you clear more stages later, submit a new code; your last submission is the one graded.</li>
 </ul>
 
 <h4>OPTION 4: Video</h4>
@@ -232,8 +232,11 @@ little harder than the last; with a partner, your partner is the
 opponent. In each stage, play the interval from all 12 roots, a new root
 each time, and the strip at the top shows what you have used. Win or
 lose, all 12 roots clears the stage, and cleared stages are saved on
-that computer. Clear all four, then GET CANVAS CODE; with a partner each
-of you presses your own, P1 or P2 CANVAS CODE, and submits your own.
+that computer. Each stage counts 25%, so clear all four for full credit.
+GET CANVAS CODE works after any stage and counts every stage you have
+cleared; with a partner each of you presses your own, P1 or P2 CANVAS
+CODE, and submits your own. If Gauntlet is grayed out, the game has not
+found your MIDI keyboard yet: plug it in and play a key.
 
 Or a video: major and minor 7ths on every root, ascending and descending
 chromatically, blocked and named, with a metronome, four clicks each. One
@@ -277,8 +280,10 @@ Subject: Choice Board 1: Sixths and Sevenths, due Sun 11/1 at 11:59 PM
     OPEN THE GAUNTLET. Four stages: minor 6th, major 6th, minor 7th,
     major 7th. Clear each one by playing its interval from all 12
     roots, win or lose; cleared stages are saved on that computer.
-    After stage 4, GET CANVAS CODE (partners: P1 or P2 CANVAS CODE,
-    each your own), paste the whole code.
+    Each stage counts 25%; clear all four for full credit. GET CANVAS
+    CODE works after any stage (partners: P1 or P2 CANVAS CODE, each
+    your own); paste the whole code, and submit a new one if you clear
+    more stages later.
   A VIDEO  major and minor 7ths on every root, ascending and
     descending chromatically, named, metronome at 60, four clicks
     each (the assignment has the details); upload it, or
@@ -313,6 +318,11 @@ Your last submission is the one graded.
 
   A2. THE 5-MINUTE GAUNTLET CHECK (before class Wed 10/28; a MIDI
       keyboard and the hub)
+  [ ] FIRST, with the MIDI keyboard UNPLUGGED: https://piano-tennis
+      .netlify.app in Chrome, hard-refresh. The Drill list shows Gauntlet
+      grayed out and a gold line "Gauntlet: MIDI keyboard required" under
+      it. Plug the keyboard in and play a key: both clear (if they stay
+      until a reload, tell the next pass).
   [ ] https://piano-tennis.netlify.app in Chrome, hard-refresh. VS
       COMPUTER, Drill = Gauntlet, OPEN THE GAUNTLET: four cards, BISCUIT
       (m6), BOLT (M6), HAZEL (m7), EMBER (M7); PLAY STAGE 1.
@@ -325,8 +335,8 @@ Your last submission is the one graded.
   [ ] Hub: tab 3 "Load folder…" -> rubrics/hw10_board1 (the picker shows
       "SET: HW #10 — Choice Board 1: Sixths and Sevenths [5 rubrics]").
       Tab 2: paste the code, Decode. EXPECT app pianotennis, mode
-      gauntlet_67, stages 1/4, and the SET block lists you at 0 (4 of 4
-      posts 100).
+      gauntlet_67, stages 1/4, and the SET block lists you at 25 (25 per
+      stage, 4 of 4 = 100).
   [ ] If you tested on a classroom computer, open the gauntlet and press
       START OVER twice so the next student starts at stage 1 (see D3,
       SHARED COMPUTERS).
@@ -375,8 +385,11 @@ Your last submission is the one graded.
       section with ONE grade column titled with the set.
   [ ] What each code earns: Da Capo solo 100 at 50 cards or a beaten game;
       a duet seat 100 at 50 cards in the sitting (graded only when PULLED
-      from Canvas: no name in the code); Piano Tennis gauntlet 100 at 4 of
-      4 stages, else 0 (a 2 OF 4 code verifies and posts 0). Solo and
+      from Canvas: no name in the code); Piano Tennis gauntlet 25 points
+      per stage cleared (1 OF 4 = 25 ... 4 OF 4 = 100; Sam 2026-10-27).
+      A student who also handed in a Da Capo or video way keeps the
+      better grade (the set takes the best; the video is posted by hand,
+      so compare it with the set's grade yourself). Solo and
       LOCAL 1v1 gauntlet codes share mode gauntlet_67, so the one rubric
       grades both. Lateness.gd's penalty is inside the best total.
   [ ] THE HAND-GRADE LIST: each section's report prints "N submission(s)
@@ -438,6 +451,13 @@ D0. DECISIONS (all filled):
     12); saved per stage; full credit 4 of 4; one mode gauntlet_67 for
     solo and 2-player; no online codes. Graded in ONE run with the
     board's rubric set. Rewritten in OPTION 3 by pass GAUNTLET-DONE.
+  - SAM'S CHANGES (2026-10-27 late, final): (1) PARTIAL CREDIT, 25
+    points per stage cleared (1 = 25 ... 4 = 100); the text still says
+    clear all four for full credit and that each stage counts 25%; the
+    code can be fetched after ANY number of cleared stages. (2) MIDI
+    REQUIRED, ENFORCED in the app (Piano Tennis v2.8): Gauntlet grayed
+    out with a "Gauntlet: MIDI keyboard required" line until a keyboard
+    connects or plays.
   - description shape (BOARD1-OPTIONS, Sam 2026-10-27: "a giant wall of
     text"): OPTION 1-4 headings, a short bulleted list under each, due
     date at the top, the h3 dropped (the Canvas title says it). 848 -> 562
@@ -566,7 +586,13 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     the graded row), st_min6 / st_maj6 / st_min7 / st_maj7 (roots per
     stage), stage_wins, answers, used_misses, seconds, assist (+ seat /
     opponent on a LOCAL 1v1 code). Rubric pianotennis_board1_gauntlet:
-    stages >= 4 -> 100.
+    percent on stages, 25 points per stage cleared.
+  - MIDI GATE (v2.8, live pck a19132fc98153e31): with no MIDI keyboard
+    connected or played, the menu's Drill list grays out Gauntlet, a gold
+    line "Gauntlet: MIDI keyboard required" sits under it, and START
+    reads MIDI KEYBOARD REQUIRED. It clears by itself when a keyboard
+    connects or plays a key. A student with saved stages and no keyboard
+    still gets OPEN THE GAUNTLET (CODE ONLY), so a code is never stuck.
   - SHARED COMPUTERS (FOR SAM): the saved run belongs to the computer and
     browser, not to a student. A student who sits at a classroom computer
     where someone else cleared stages sees CONTINUE (or a finished
@@ -632,7 +658,7 @@ N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites, and the
   The root-cycle codes (solo and LOCAL 1v1, P1 / P2 CANVAS CODE) are
   live (PT-SEATS v2.6) and graded in headless tests on codes the live
   pck made; no human has finished a root-cycle match live and decoded it.
-  THE GAUNTLET (v2.7) is live and hash-verified; its full solo and LOCAL
+  THE GAUNTLET (v2.7, MIDI gate v2.8) is live and hash-verified; its full solo and LOCAL
   1v1 flows, saving across a restart and its codes are tested headless,
   its three SAMPLE codes come from the live pck and grade in the hub's
   set tests, and the panel and HUD were checked in screenshots. No human

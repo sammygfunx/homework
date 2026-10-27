@@ -381,8 +381,10 @@ BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
          sitting (dacapo_duet_sixths + _sevenths) OR Piano Tennis
          GAUNTLET, four stages m6 -> M6 -> m7 -> M7, all 12 roots each,
          alone vs four characters or LOCAL 1v1 (one code per player),
-         saved per stage, 4 of 4 stages (rubric pianotennis_board1_
-         gauntlet, mode gauntlet_67, GAUNTLET-HUB 2026-10-27; replaces
+         saved per stage, 25 points per stage cleared, 4 of 4 = full
+         credit, a code after any stage (rubric pianotennis_board1_
+         gauntlet, mode gauntlet_67, GAUNTLET-HUB 2026-10-27; MIDI
+         keyboard enforced in the app, v2.8; replaces
          the root-cycle and All Intervals tier rules) OR video
          (hand-graded). Sam waived the live-decode gates. No Chord Crush
          (no intervals). GRADING: ONE run with the hub's rubric SET,

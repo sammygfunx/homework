@@ -39,7 +39,9 @@ Ranked high -> low.
    live decode per section 4 C if time allows, publish before Wed 10/28.
    UPDATE 2026-10-27 evening (GAUNTLET-DONE, —OER 0t): OPTION 3 is now
    THE GAUNTLET (four stages m6 -> M6 -> m7 -> M7, all 12 roots each,
-   alone or LOCAL 1v1, saved per stage, 4 of 4; Piano Tennis v2.7 LIVE).
+   alone or LOCAL 1v1, saved per stage; 25 points per stage cleared, 4 of
+   4 = full credit, a code after any stage; the app grays out Gauntlet
+   until a MIDI keyboard connects or plays; Piano Tennis v2.8 LIVE).
    Sam: section 4 A2 (5 minutes: clear stage 1 live, decode it with the
    hw10_board1 set), re-run tab 5 with the new HTML (same title),
    publish before class Wed 10/28. Grading after Sun 11/1 is ONE run
