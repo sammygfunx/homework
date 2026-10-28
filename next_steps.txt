@@ -1,6 +1,8 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-28 (BOARD2-MIC: board 2 OPTIONS 1 and 4 each gain a
+Updated: 2026-10-28, afternoon (Q5REP-HW: NEW quiz5_item5_repertoire.txt,
+Quiz 5 item 5, video OR Clef Runner, READY TO CREATE; roster QUIZ 5.5).
+Before that: 2026-10-28 (BOARD2-MIC: board 2 OPTIONS 1 and 4 each gain a
 microphone (beta) bullet, Sam's yes; 657 words; D1 / D3 say what the mic
 does and that a mic code grades the same; 0a-2 note). Before that:
 2026-10-27 night (BOARD2-OPTIONS: board 2 rebuilt as OPTION 1-5
@@ -75,6 +77,14 @@ Ranked high -> low.
    words). A mic code grades exactly like a keyboard code (checked on
    encoded codes through the hw12_board2 set; D1, D3). Live pcks re-
    checked 2026-10-28T13:03Z (section 4 gate).
+
+0q5. QUIZ 5 ITEM 5 (Q5REP-HW, 2026-10-28): READY TO CREATE. Sam: (1) confirm
+   section 5 D1-D7 (rule, the two extra pieces, title, Week 12, 20 points,
+   the app's editions, no mic); (2) section 4 A, five minutes on the live
+   app; (3) section 4 B, tab 5 Create (title is the hub's re-run key: fix it
+   BEFORE the first Create), Student View, publish; (4) post section 3, say
+   section 2. Grading after Sun 11/8: section 4 C. If Gurlitt / Haydn ever
+   join the app: one line in the HTML, sections 2-3 and D2.
 
 0b. DONE 2026-10-26: PASS PT-KTS1 (prompt + outcome in history.txt). Piano
    Tennis v2.1 LIVE (pck b9336b440ae6c8d9) makes a KTS1 code (GET CANVAS

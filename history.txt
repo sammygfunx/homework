@@ -1,5 +1,12 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS Q5REP-HW (2026-10-28, Opus 5.5, —OER next_steps 0z Z3; last step)
+  Waited for BOARD2-MIC (5f36875). Wrote quiz5_item5_repertoire.txt in the
+  midterm item 5's shape from Clef Runner's shipped strings (Q5REP-CR, then
+  Q5REP-CR2 the same afternoon added the Minuet in G and the Ecossaise) and
+  the hub's rubric; claims check fixed one line (pulse is graded only for a
+  video), then clean; roster QUIZ 5.5. Nothing in Canvas.
+
 PASS BOARD2-MIC (2026-10-28, Opus 5.5, —OER queue item 0z Z2)
   Sam's yes: Board 2 OPTION 1 (Da Capo) gets a microphone line. Read what
   Da Capo's mic does (project_state 0ah / 0ai) and checked a mic run grades

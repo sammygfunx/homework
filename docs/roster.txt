@@ -350,6 +350,29 @@ QUIZ 4.5  Quiz #4: Diatonic Triads (Triad Dodge). NEW 2026-10-13 (pass
          mode quiz4_f26, v2.4.0, best 21/21 = 100 -> 20/20, attempts 1,
          started 2, week 0 (bare link), triads avg_ms 33044.
 
+QUIZ 5.5  Quiz #5: Repertoire (video OR Clef Runner) (title PROPOSED). NEW
+       2026-10-28 (pass Q5REP, —OER next_steps 0z Z3; brief —OER/docs/
+       week11_brief_2026-10-25.txt Parts 5, 8, 9, 13). Quiz #5 item 5.
+       ONE assignment, TWO ways: a VIDEO (file upload or unlisted YouTube
+         link; any piece on the Quiz 5 Repertoire page; hand-graded, the
+         midterm item 5's video rubric) OR a Clef Runner KTS1 code in the
+         text box (Homework -> "Quiz 5: Repertoire", mode
+         "quiz5_repertoire_f26", FROZEN): Option 1 = two different
+         Reinagle Nos. 1-12 (mean), Option 2 = one of Reinagle 13-24, the
+         Minuet in G (mm. 1-16) or the Ecossaise (best); grade = the
+         higher; tempo 60+, no bar. Gurlitt x2 and Haydn: video only.
+       Link: https://clef-runner.netlify.app
+       Due: Sun 2026-11-08 23:59 Eastern (2026-11-09T04:59:00Z). Module
+         Week 12. 20 points.
+       Rubric: Grading_Hub/rubrics/clefrunner_quiz5_repertoire.rubric.json
+         (one percent column on "grade", 20 points: round(grade / 5)) or
+         the folder rubrics/quiz5_item5/. Load it ALONE.
+       Content: —Homework/quiz5_item5_repertoire.txt (section 4 is Sam's
+         tab 5 click-path).
+       Status: DRAFTED. Clef Runner side LIVE (bb3fc40 + 4013399,
+         index.pck 264e2ce4..., unplayed); hub rubric e4d30ee (+ 4765178).
+         Not in Canvas yet.
+
 
 -----------------------------------------------------------------------
 CHOICE BOARDS (F26; NEW 2026-10-08, DACAPO-20 from —OER). Four boards

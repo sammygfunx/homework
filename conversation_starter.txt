@@ -109,6 +109,12 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-28, Q5REP-HW) NEW quiz5_item5_repertoire.txt: Quiz 5 item 5
+(repertoire), one Canvas assignment, a VIDEO or a Clef Runner code (Homework
+-> "Quiz 5: Repertoire": the 24 Reinagle pieces, the Minuet in G mm. 1-16,
+the Ecossaise; LIVE, unplayed). 20 points, due Sun 11/8 11:59 PM, Week 12,
+title proposed "Quiz #5: Repertoire (video OR Clef Runner)". READY TO
+CREATE: section 4 is Sam's click-path. Roster row QUIZ 5.5.
 (2026-10-28, BOARD2-MIC) Board 2's paste now names the microphone (beta):
 one bullet in OPTION 1 (Da Capo) and one in OPTION 4 (Piano Tennis), 657
 words; a mic code grades the same (section 5 D1 / D3). Still READY TO

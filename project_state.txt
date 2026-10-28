@@ -1,7 +1,17 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-28 (BOARD2-MIC, Opus 5.5, —OER queue item 0z Z2,
+Last updated: 2026-10-28, afternoon (Q5REP-HW, Opus 5.5, —OER next_steps 0z
+Z3): NEW quiz5_item5_repertoire.txt, Quiz 5 item 5 (repertoire): ONE Canvas
+assignment, a video (any piece on the Quiz 5 Repertoire page, hand-graded)
+OR a Clef Runner code (mode quiz5_repertoire_f26, FROZEN; Option 1 two
+different Reinagle 1-12, Option 2 one of Reinagle 13-24 / the Minuet in G
+mm. 1-16 / the Ecossaise; tempo 60+; Clef_Runner bb3fc40 + 4013399, index.pck
+264e2ce4... hash-verified, unplayed; hub rubric clefrunner_quiz5_repertoire,
+e4d30ee + 4765178). 20 points, due Sun 2026-11-08 23:59 Eastern, Module
+Week 12, title proposed. Gurlitt x2 and Haydn video-only. Roster row QUIZ
+5.5 DRAFTED. Section 5 D1-D7 = choices made without Sam. Claims check clean.
+Before that: 2026-10-28 (BOARD2-MIC, Opus 5.5, —OER queue item 0z Z2,
 Sam's yes): hw_board2_triads.txt OPTION 1 (Da Capo) and OPTION 4 (Piano
 Tennis) each gain one microphone (beta) bullet: SETTINGS -> MICROPHONE /
 Microphone, best in a quiet room with headphones. The paste is 657 words.

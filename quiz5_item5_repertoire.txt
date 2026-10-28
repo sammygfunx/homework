@@ -1,0 +1,275 @@
+===========================================================
+QUIZ 5, ITEM 5 — REPERTOIRE (video OR Clef Runner) — CANVAS ASSIGNMENT
+One Canvas assignment, two ways to submit. Written 2026-10-28 (pass
+Q5REP, pane q5-rep of THE 2026-10-28 MORNING QUEUE, —OER docs/
+next_steps.txt 0z Z3; brief —OER/docs/week11_brief_2026-10-25.txt Parts
+5, 8, 9, 13) in the shape of midterm_item5_repertoire.txt, from Clef
+Runner's SHIPPED screens (Q5REP-CR, Clef_Runner bb3fc40, + Q5REP-CR2
+4013399 adding the Minuet in G and the Ecossaise; deployed 6ae220fa...,
+index.pck 264e2ce4... hash-verified, UNPLAYED by a human) and Grading
+Hub's shipped rubric (Q5REP-GH, Grading_Hub e4d30ee; Q5REP-GH2 4765178
+adds those two codes to its tests). Due SUN
+2026-11-08, 11:59 PM EST (2026-11-09T04:59Z; DST has ended, EST is
+UTC-5). 20 points. Assignment id ("mode") of the Clef Runner half:
+"quiz5_repertoire_f26" — FROZEN; never rename it.
+STATUS: READY TO PASTE (no [FILL IN] in the section 1 HTML). Nothing is
+in Canvas yet; section 4 is Sam's short click-path.
+===========================================================
+
+WHAT THIS FILE IS
+  section 1  the Canvas assignment (title + description, real HTML)
+  section 2  the ninety-second version to say in class
+  section 3  the message to students (Canvas announcement)
+  section 4  Sam's SHORT click-path in Grading Hub tab 5, then grading
+  section 5  thread notes: choices for Sam to confirm, lateness, what
+             the app certifies, what is not for students
+  The video rubric is midterm_item5_repertoire.txt section 6 (20 points,
+  accuracy 12 + steady pulse 8), unchanged; reuse it if you attach one.
+
+THE FACTS EVERYTHING HANGS ON
+      THE ITEM       Quiz 5 item 5, a repertoire piece of the student's
+                     choice from the Quiz 5 Repertoire page (Lead Sheet
+                     Lab MUSC1105_Quiz5_Repertoire.pdf), recorded, due
+                     Sunday, November 8, by 11:59 PM (brief AMENDMENT D1)
+      THE RULE       Reinagle, 24 Short and Easy Pieces, Op. 1: TWO pieces
+                     from Nos. 1-12, or ONE from Nos. 13-24; or ONE of the
+                     other five pieces on the page (Gurlitt Vivace, Gurlitt
+                     Through Forest and Field, Minuet in G mm. 1-16,
+                     Beethoven Ecossaise, Haydn German Dance)
+      TWO WAYS IN    a VIDEO (file upload, or an unlisted YouTube link in
+                     the text box), any piece on the page; OR a CLEF
+                     RUNNER CODE in the text box: the 24 Reinagle pieces,
+                     the Minuet in G (mm. 1-16) and the Ecossaise (Gurlitt
+                     x2 and Haydn are video-only: no public-domain scan)
+      APP            Clef Runner        https://clef-runner.netlify.app
+      APP ID / MODE  "clefrunner" / "quiz5_repertoire_f26"
+      RUBRIC         Grading_Hub/rubrics/clefrunner_quiz5_repertoire
+                     .rubric.json (ONE "percent" column on "grade", 20
+                     points: round(grade / 5), 85 -> 17, 45 -> 9), or the
+                     folder rubrics/quiz5_item5/ (a one-rubric set, same
+                     grade)
+      THE APP RULE   a run COUNTS on the grand staff, in the printed key,
+                     at tempo 60 or faster, the whole piece with its
+                     repeats and D.C. written out, best run per piece, NO
+                     accuracy bar.
+                     Option 1 = the mean of the two best DIFFERENT pieces
+                       of Nos. 1-12 (one piece alone counts half).
+                     Option 2 = the best of Nos. 13-24, the Minuet in G
+                       (mm. 1-16, its repeat played) and the Ecossaise.
+                     GRADE = the higher option.
+      ON SCREEN      main menu "Homework" -> "Quiz 5: Repertoire" (listed
+                     FIRST) -> Tempo 60 / 80 / 100 -> Play beside a piece
+                     -> scroll down -> First name / Last name / School ID
+                     -> "Get Code" -> "Copy Code"
+  A midterm repertoire code (midterm_repertoire_f26) or any other code
+  pasted here lands in the hub's no_rubric list, never graded.
+
+CANVAS SETTINGS
+  Submission: Online -> Text Entry AND File Uploads (tab 5: "Online —
+    text entry" + tick "Also accept: Online — file upload" ONLY).
+  Points: 20 (one fifth of the quiz; Canvas AND the rubric).
+  Due: Sun 2026-11-08 23:59 Eastern (2026-11-09T04:59:00Z). No
+    availability window. Unlimited attempts; the LAST submission counts.
+  Module: Week 12 (the quiz's week; see section 5, D4). Group: the
+    quizzes' group heading, copied exactly.
+  BROWSER: Clef Runner needs the Web MIDI API: Chrome, Edge or Firefox on
+    a computer with a MIDI keyboard. Safari and iPads cannot. Room 269 can.
+
+
+===========================================================
+1. THE CANVAS ASSIGNMENT
+===========================================================
+
+------------------------------ TITLE ------------------------------
+Quiz #5: Repertoire (video OR Clef Runner)
+
+(PROPOSED, listed FOR SAM: the Quiz #4 item's "Quiz #4: Diatonic
+Triads" style plus the midterm item 5's "(video OR Clef Runner)". It is
+the hub's re-run match key: never change it after the first Create.)
+
+--------------------------- DESCRIPTION ---------------------------
+(Paste everything between the two ===HTML=== lines into Grading Hub tab
+5's Description box in ONE paste. Plain ASCII, no entities, no curly
+quotes. Every quoted Clef Runner string is the shipped one.)
+
+===HTML===
+<h3>Quiz 5, item 5: your repertoire piece. Record it, or play it in Clef Runner.</h3>
+<p>Choose from the <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Quiz5_Repertoire.pdf">Quiz 5 Repertoire page</a>, which links my practice video for each piece:</p>
+<ul>
+<li><strong>Reinagle, 24 Short and Easy Pieces, Op. 1:</strong> TWO pieces from Nos. 1 to 12, or ONE piece from Nos. 13 to 24.</li>
+<li><strong>Or ONE of the other pieces on the page:</strong> Gurlitt, Vivace in C major; Gurlitt, Through Forest and Field; the Minuet in G major (measures 1 to 16); Beethoven, Ecossaise in E-flat major; Haydn, German Dance in B-flat major.</li>
+</ul>
+<p>Play the whole piece, both hands, in the printed key, with the repeats. A video is graded on accuracy and on keeping a steady pulse; Clef Runner grades accuracy at the tempo you choose.</p>
+
+<h4>Way 1: Record a video (any piece on the page)</h4>
+<p>Record yourself playing on a piano or keyboard, with your hands and the keyboard in the frame. One take per piece is fine; for two Reinagle pieces, one video with both or two videos. Choose a tempo you can keep steady from the first note to the last.</p>
+<p>To submit: upload the video file (or files) under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links. Say the piece (and its number, for Reinagle) at the start.</p>
+
+<h4>Way 2: Play it in Clef Runner (Reinagle, the Minuet in G or the Ecossaise)</h4>
+<p>Clef Runner: <a href="https://clef-runner.netlify.app">https://clef-runner.netlify.app</a>. <strong>You need a MIDI keyboard and a computer:</strong> Chrome, Edge or Firefox with your keyboard plugged in. Safari and iPads will not work. Every station in Room 269 has one.</p>
+<ol>
+<li>Choose your player profile, or make one. Your progress lives in that profile, in that browser, on that computer, so use the same one each time.</li>
+<li>From the main menu press <strong>Homework</strong>, then open <strong>Quiz 5: Repertoire</strong>, the first card.</li>
+<li>Pick a tempo (<strong>60, 80 or 100</strong>) and press <strong>Play</strong> beside a piece. It always uses both hands on the grand staff in the printed key, and the app plays the repeats for you, so a run is the whole piece. Prefer a page that stays still? Choose <strong>View: Page</strong>; it grades the same.</li>
+<li>Practice as much as you like. Only your best run on each piece counts. To practice slower than 60, play the piece in Repertoire (under Quiz 5 Repertoire) at 40; those runs are practice and do not count.</li>
+</ol>
+<p><strong>How the app grades it.</strong> A run counts at tempo 60 or faster. Option 1 is the average of your best runs on TWO DIFFERENT pieces from Nos. 1 to 12, so until you play a second one it counts 0 (one 90% piece alone is 45). Option 2 is your best run on one piece: Reinagle Nos. 13 to 24, the Minuet in G (measures 1 to 16) or the Ecossaise. Your grade is the higher option, so trying both never hurts. There is no minimum: a grade of 85 is 17 out of 20.</p>
+<p>To submit: on the same screen, scroll down, type your first name, last name and school ID, press <strong>Get Code</strong>, then <strong>Copy Code</strong>, and paste ONLY the code, all of it, from KTS1 to the last letter, under <strong>Text Entry</strong>. Use the school ID your gradebook knows you by.</p>
+
+<h4>Submit one way. Your last submission is the one graded.</h4>
+<p>A video and a code are worth the same 20 points. If you submit more than once, only the last submission counts.</p>
+
+<h4>Due Sunday, November 8, 2026, 11:59 PM Eastern. You may turn it in early.</h4>
+===HTML===
+-------------------------------------------------------------------
+
+
+===========================================================
+2. WHAT TO SAY IN CLASS (about ninety seconds)
+===========================================================
+
+"Quiz 5 item 5 is your repertoire piece, due Sunday, November 8th, at
+11:59 at night. Pick from the Quiz 5 Repertoire page. Reinagle: two
+pieces from numbers 1 to 12, or one from 13 to 24. Or one of the other
+pieces on the page.
+
+Two ways to turn it in. Way one, any piece: a video. Hands and keys in
+the frame, the whole piece with the repeats. Upload it or paste an
+unlisted YouTube link. For a video I grade accuracy and a steady pulse;
+the app grades accuracy.
+
+Way two, the Reinagle, the Minuet or the Ecossaise: Clef Runner.
+Homework, first card, Quiz 5: Repertoire. All 24 Reinagle pieces, the
+Minuet and the Ecossaise are there with the repeats written out. Pick 60, 80
+or 100, press Play. Runs count at 60 or faster, and only your best run
+counts. For numbers 1 to 12 it averages your two best different pieces,
+so play two; for 13 to 24, the Minuet or the Ecossaise it takes your
+best one. Name, school ID, Get
+Code, Copy, paste the whole code. Chrome or Firefox and a MIDI keyboard;
+the lab has them.
+
+Same 20 points either way. The last thing you submit is what I grade."
+
+
+===========================================================
+3. THE MESSAGE TO STUDENTS (Canvas announcement; Sam sends this)
+===========================================================
+
+Subject: Quiz 5 item 5: your repertoire piece, due Sunday 11/8 at 11:59 PM
+
+Quiz 5 item 5 is on Canvas: "Quiz #5: Repertoire (video OR Clef
+Runner)". Choose from the Quiz 5 Repertoire page:
+  Reinagle, Op. 1: TWO pieces from Nos. 1-12, or ONE from Nos. 13-24.
+  Or ONE of the other pieces on the page (Gurlitt, Minuet in G mm. 1-16,
+  Beethoven, Haydn).
+
+Submit it one of two ways:
+
+  A VIDEO (any piece). The whole piece, both hands, with the repeats.
+  Upload the file, or paste an unlisted YouTube link in the text box.
+  Graded on accuracy and a steady pulse.
+
+  CLEF RUNNER (Reinagle, the Minuet in G, the Ecossaise):
+  https://clef-runner.netlify.app
+  Homework -> "Quiz 5: Repertoire" (the first card) -> tempo 60, 80 or
+  100 -> Play. Runs count at 60 or faster; only your best run on each
+  piece counts. Nos. 1-12: the average of your two best DIFFERENT pieces
+  (play two!). Nos. 13-24, the Minuet or the Ecossaise: your best one.
+  Your grade is the higher.
+  Type your name and school ID, Get Code, Copy Code, and paste the whole
+  code in the text box. Chrome, Edge or Firefox with a MIDI keyboard;
+  Safari and iPads cannot run it. Room 269 has keyboards at every
+  station.
+
+Both ways are worth 20 points. Due SUNDAY, NOVEMBER 8, AT 11:59 PM. Your
+last submission is the one graded.
+
+
+===========================================================
+4. SAM'S SHORT CLICK-PATH (Grading Hub tab 5, then grading)
+===========================================================
+  A. FIVE MINUTES ON THE LIVE APP (Clef_Runner docs/testing.txt 0-Q5REP)
+  [ ] https://clef-runner.netlify.app, Chrome, Cmd+Shift+R, MIDI
+      keyboard, a throwaway profile. Homework -> "Quiz 5: Repertoire" is
+      the FIRST card: two tables (Option 1 = Reinagle Nos. 1-12, Option
+      2 = Nos. 13-24, then the Minuet in G and Beethoven: Ecossaise),
+      Tempo 60 / 80 / 100.
+  [ ] Play No. 1 at 60. EXPECT Option 1's score about half your run and
+      the orange "Option 1 needs 2 different pieces: play 1 more ..."
+  [ ] Get Code, paste it in Grading Hub tab 2 with rubrics/clefrunner_
+      quiz5_repertoire.rubric.json loaded (tab 3): mode
+      quiz5_repertoire_f26, grade / 5 of 20. (No keyboard? Real codes:
+      Grading_Hub/tests/fixtures/q5rep_sample_codes.json.)
+
+  B. CREATE (tab 5, all four sections; RESTART THE HUB FIRST is no longer
+     needed since GH-TAB5-STATE, but press Preview again after any edit)
+     Sections   001,173801 / 002,173802 / 003,173803 / 004,173804
+     Title      Quiz #5: Repertoire (video OR Clef Runner)
+     Points     20
+     Submission Online — text entry; Also accept: TICK file upload ONLY
+     Group      <the quizzes' group heading, copied exactly>
+     Module     Week 12          Under header  <blank or the Quiz 5 heading>
+     Due        2026-11-08 23:59   (Available / Until blank)
+     Description  section 1's HTML, ONE paste
+     Publish    UNTICKED for the first check
+  [ ] Preview: Due reads Sun 2026-11-08 23:59 Eastern (2026-11-09T04:59:00Z),
+      Submission "text entry + file upload", four section lines.
+  [ ] Create/Update -> each row "(description verified ...)".
+  [ ] Student View in one course: Text Entry AND File Upload tabs. Publish
+      (four toggles). Post section 3; say section 2 in class.
+  [ ] docs/roster.txt QUIZ 5.5 row: DRAFTED -> CREATED IN CANVAS -> LIVE.
+
+  C. GRADE (after Sun 11/8 11:59 PM)
+  [ ] Tab 3: load clefrunner_quiz5_repertoire.rubric.json ALONE (or the
+      folder rubrics/quiz5_item5/). Batch pull / Batch Post, as the
+      midterm item 5: codes post round(grade / 5) of 20 with the late
+      multiplier; a midterm or other code lands in "no rubric matched".
+  [ ] The "submission(s) with no code" list = the videos: grade them in
+      SpeedGrader out of 20 (midterm_item5_repertoire.txt section 6
+      rubric), post via tab 6 or SpeedGrader.
+
+
+===========================================================
+5. THREAD NOTES — true, but NOT for the assignment text
+===========================================================
+D. CHOICES MADE WITHOUT SAM (Q5REP, 2026-10-28; each a small change)
+  D1 SCORE RULE (the midterm item 5's, with Reinagle's rule): no bar;
+     Option 1 = the mean of the two best DIFFERENT Nos. 1-12 (one alone
+     counts half); Option 2 = the best of Nos. 13-24, the Minuet and the
+     Ecossaise; grade = the higher.
+     Tempo floor 60 (quarter = 60 in 2/4, 3/4, 4/4: No. 20 is a Presto,
+     No. 13 is 96 bars long at 3/4, about five minutes at 60).
+  D2 TWO OF THE OTHER FIVE SHIPPED the same afternoon (Clef_Runner
+     Q5REP-CR2): the Minuet in G, mm. 1-16 (Batka 1906; the packet and
+     Batka both print the bar-16 repeat, so the app plays it: 32 bars;
+     mordents and the bar-8 appoggiatura left out) and Beethoven's
+     Ecossaise WoO 86 (Breitkopf; both repeats with 1st/2nd endings). No
+     note differs from the packet in either. Gurlitt Vivace, Gurlitt
+     Through Forest and Field and Haydn's German Dance stay VIDEO-ONLY: no
+     public-domain scan was reachable without IMSLP's human check (not
+     bypassed). If you download one, it can join Option 2 later under its
+     reserved slug (the hub already counts it).
+  D3 TITLE: "Quiz #5: Repertoire (video OR Clef Runner)", proposed (the
+     Quiz #4 item style). The in-app card is "Quiz 5: Repertoire".
+  D4 MODULE Week 12, the quiz's week (items 1-4 are Wed 11/4). The
+     Repertoire page is linked from the description, so the module only
+     decides where students find the assignment.
+  D5 POINTS 20 (one fifth of Quiz 5, as the midterm's item 5).
+  D6 THE APP'S SCORES ARE NOT THE PACKET'S EDITION. Clef Runner plays the
+     public-domain J. Balls edition (c.1790), read bar by bar without your
+     Dorico check; the packet students hold is Michael Rivers' 2020
+     typeset. They differ in a few places (PDF_to_musicXML output/
+     reinagle/README.txt): No. 13 has a whole 8-bar strain Rivers leaves
+     out; No. 17 bar 15 (D4 vs A4); No. 24 bars 19, 21, 23 (dotted
+     rhythms). The app shows its own notation, so a student playing in
+     the app reads what is graded. Worth one sentence in class.
+  D7 NO MICROPHONE in this item (as the midterm): MIDI or the computer
+     keyboard only. The Quiz 4 extra credit was the mic's one assignment.
+L. LATENESS: as midterm_item5_repertoire.txt section 5 L1/L2 (the hub's
+   Lateness.gd for codes; videos by hand).
+W. WHAT CLEF RUNNER CERTIFIES: pitch and timing at the chosen tempo, both
+   hands, the whole piece with repeats; not fingering, dynamics or pulse
+   by ear (as the midterm item 5).
+N. NOT VERIFIED BY A HUMAN: nobody has played the live set, created this
+   assignment, or pulled a real submission. Section 4 A and B are those
+   checks.
