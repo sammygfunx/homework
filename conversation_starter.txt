@@ -109,6 +109,10 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-28, BOARD2-MIC) Board 2's paste now names the microphone (beta):
+one bullet in OPTION 1 (Da Capo) and one in OPTION 4 (Piano Tennis), 657
+words; a mic code grades the same (section 5 D1 / D3). Still READY TO
+CREATE Mon 11/2 with the new section 1 paste.
 (2026-10-27 night, BOARD2-OPTIONS) BOARD 2 IS READY TO CREATE in Board 1's
 final shape (—OER next_steps 0y Y1): OPTION 1-5 short bullets, ASCII, 610
 words: Da Capo TRIAD QUALITIES, Da Capo DUET, Chord Crush (Major + Minor

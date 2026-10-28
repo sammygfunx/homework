@@ -1,8 +1,17 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-27 night (BOARD2-OPTIONS, Opus 5.5, —OER queue item
-0y Y1): hw_board2_triads.txt rebuilt in Board 1's final shape. OPTION 1-5,
+Last updated: 2026-10-28 (BOARD2-MIC, Opus 5.5, —OER queue item 0z Z2,
+Sam's yes): hw_board2_triads.txt OPTION 1 (Da Capo) and OPTION 4 (Piano
+Tennis) each gain one microphone (beta) bullet: SETTINGS -> MICROPHONE /
+Microphone, best in a quiet room with headphones. The paste is 657 words.
+Section 5 D1 / D3 record what each game's mic really does and that a mic
+code grades exactly like a keyboard code (two encoded codes per game, same
+rows but the input_* ones, 100 each through rubrics/hw12_board2). Live
+pcks re-checked 2026-10-28T13:03Z: Da Capo 3a5eb23c3cd7b03c, Chord Crush
+dc9f68dba4157d2d, Piano Tennis 717be96df59f1294. Claims check: nothing
+flagged. Before that: 2026-10-27 night (BOARD2-OPTIONS, Opus 5.5, —OER
+queue item 0y Y1): hw_board2_triads.txt rebuilt in Board 1's final shape. OPTION 1-5,
 short bullets, ASCII, no entities, 610 words: 1 Da Capo TRIAD QUALITIES, 2
 Da Capo DUET, 3 Chord Crush (Major + Minor 12/12, 50 + 50; Diminished /
 Augmented +3 each; choose your own player), 4 Piano Tennis (VS COMPUTER,

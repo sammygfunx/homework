@@ -14,6 +14,9 @@ live index.pck was hash-checked against its last recorded deploy
 carry the run nonce since DACAPO-BIND), Chord Crush dc9f68dba4157d2d
 (v51.9.0, CC-LEVELS), Piano Tennis 145321af4240c2df (v2.13, PT-SPEED).
 Graded in ONE run by the hub's set rubrics/hw12_board2 (section 4 C).
+BOARD2-MIC 2026-10-28: OPTIONS 1 and 4 each gain a microphone (beta)
+bullet; live pcks re-checked 13:03Z: Da Capo 3a5eb23c3cd7b03c, Piano
+Tennis 717be96df59f1294 (v2.14), Chord Crush unchanged.
 TITLE PROPOSED, FOR SAM: "HW #11 — Choice Board 2: Triads" (section 1).
 ===========================================================
 
@@ -112,6 +115,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>TRIAD QUALITIES</strong>.</li>
 <li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. The GET CODE screen tells you how many cards you still need.</li>
 <li>Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
+<li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then <strong>MICROPHONE</strong> (beta), and play the cards on the piano. It works best in a quiet room with headphones.</li>
 <li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
 
@@ -134,6 +138,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 4: Piano Tennis</h4>
 <ul>
 <li>On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge. Play on a MIDI keyboard or the computer keyboard.</li>
+<li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then turn <strong>Microphone</strong> (beta) on. It works best in a quiet room with headphones.</li>
 <li>Choose <strong>VS COMPUTER</strong>, set <strong>Drill</strong> to <strong>Weekly tiers</strong>, choose the <strong>Difficulty tier</strong> that ends <strong>Triads: All Qualities</strong>, and press <strong>START MATCH</strong>.</li>
 <li><strong>Full credit:</strong> finish one match on that tier, win or lose. Other tiers do not count.</li>
 <li><strong>To submit:</strong> at the end of the match press <strong>GET CANVAS CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
@@ -237,6 +242,10 @@ way. Your last submission is the one graded.
   hub's fixture). Sam's one-code-per-way decode was WAIVED, as on Board 1;
   section A is the short version. No blanks remain. Create it any day
   before Mon 11/2 (the board's week); Sam's plan is Mon 11/2.
+  RE-CHECKED 2026-10-28T13:03Z (BOARD2-MIC, for the two mic bullets): Da
+  Capo 3a5eb23c3cd7b03c (MIC-CTRL, the mic cluster; same course, codes and
+  rubric), Chord Crush dc9f68dba4157d2d (unchanged), Piano Tennis
+  717be96df59f1294 (v2.14, MIC-PT; tier "w9_plus" and its labels kept).
 
   A. THE 5-MINUTE LIVE CHECK (one browser, the hub; no MIDI keyboard
      needed)
@@ -363,6 +372,14 @@ D0. DECISIONS (all filled):
     asked; the folder name is never shown to students and is not a key,
     and the set's label inside it reads HW #11. Rename the folder (git mv,
     plus the hub test and this file) only if Sam wants them to agree.
+  - BOARD2-MIC (2026-10-28, Sam's yes in —OER 0z): OPTION 1 gains one
+    microphone bullet (D1), and so does OPTION 4, because Piano Tennis's
+    board way (VS COMPUTER tiers) takes the mic too and its code grades
+    identically (D3). Lowercase "(beta)" in the paste reads as a word; the
+    games show BETA. Both bullets add 47 words: the paste is 657 (about
+    560 asked; 610 before). Nothing else in the paste changed. Sections 2
+    and 3 and section 4 A do not name the mic (unchanged). FOR SAM: if 657
+    is too long, the Piano Tennis bullet is the one to drop.
 
 D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game.
   COVERAGE (Curriculum.gd spec_for "triads"): stages 1-6 deal MAJOR AND
@@ -371,11 +388,35 @@ D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game.
   creatures each, so 50 cleared cards should carry a run past stage 6
   into diminished and augmented. That is an estimate from the map rule,
   not a measured run.
-  THE MICROPHONE (BETA, MIC-DACAPO, live e2b0cb0e3d24288b): SETTINGS ->
-  MICROPHONE lets a student answer at an acoustic piano, solo only. Not in
-  the paste (Board 1 does not name it either); the code's last three rows
-  (input_midi / input_keys / input_mic) show which input was used, and no
-  rubric reads them. FOR SAM: one line in OPTION 1 if you want it.
+  THE MICROPHONE (BETA; MIC-DACAPO, MIC-CTRL; live 3a5eb23c3cd7b03c, hash-
+  checked 2026-10-28T13:03Z). IN THE PASTE since BOARD2-MIC (Sam's yes,
+  2026-10-28): one OPTION 1 bullet. What it really does (Da_Capo
+  project_state 0ah / 0ai): SETTINGS -> MICROPHONE -> ON asks the browser
+  for the mic, then 3 s of quiet and middle C three times (tuning saved);
+  the student plays the card nearest Poco on an ACOUSTIC piano, any octave,
+  judged as note names like the A-G keys; a triad needs all three notes (two
+  do nothing, a partly heard chord is dropped, never a wrong answer). Solo
+  only (HOMEWORK is solo; a duet says THE MIC WORKS IN SOLO PLAY ONLY and
+  keeps MIDI). While it listens a MIDI keyboard is ignored, the A-G keys
+  still answer, and the game is SILENT unless HEADPHONES is YES. The touch
+  keys become one left-hand cluster (JUMP above and between < and >,
+  bottom-left; MIC CONTROLS moves it right) so the right hand plays; the HUD
+  shows MIC + a level and I CAN'T HEAR YOU after three unheard attacks.
+  Web version only. Measured on synthetic takes; Sam's own test at an
+  acoustic piano (—OER 0y) worked, and the cluster came from it.
+  SAME GRADE: a mic answer goes through the same Player._fire path as a key
+  answer and counts as a card the same way; the code gains only the last
+  three rows input_midi / input_keys / input_mic, which no rubric reads
+  (dacapo_triads reads "goal" alone). CHECKED 2026-10-28 (BOARD2-MIC):
+  Da Capo's shipping ResultCode.encode made two triads codes, 50 cards
+  each, identical but for the input (50 keys vs 50 mic); the hub decoded
+  both with the same rows except input_keys / input_mic, dacapo_triads
+  matched both, each graded 100, and RubricSet.grade over rubrics/
+  hw12_board2 gave 100 by the Da Capo way, no rubric miss.
+  Honest limit (synthetic, project_state 0ah 8): triad cards right 92.5-
+  100%; the mic is GENEROUS with near-misses (a card with one note a step
+  off is still credited about half the time). It rarely punishes a right
+  answer.
 
 D2. THE VIDEO (rewritten 2026-10-26, Sam: the twelve-triad video was
   lighter than the app ways; harder, like Board 1's). All four qualities
@@ -437,8 +478,25 @@ D3. PIANO TENNIS ON BOARD 2 (board 1 D3 has the build, the code rows and
     is one more rubric column, not a new build. Section 4 A's check uses
     exactly that.
   - A tier code has no run nonce and no binding (it exists only on the
-    end panel of the match just played). MIC-PT (0y Y4) will add a BETA
-    microphone to VS COMPUTER tiers; nothing on this board depends on it.
+    end panel of the match just played).
+  - THE MICROPHONE (BETA; MIC-PT, v2.14, live 717be96df59f1294, hash-
+    checked 2026-10-28T13:03Z). IN THE PASTE since BOARD2-MIC: one OPTION 4
+    bullet, because this board's way (VS COMPUTER, Weekly tiers) is where
+    MIC-PT put it (main.gd _mic_allowed: VS COMPUTER tiers and ROOT CYCLE;
+    LOCAL / ONLINE 1v1 and the gauntlet keep MIDI). Path: SETTINGS ->
+    Microphone: OFF (BETA) -> the MICROPHONE (BETA) panel -> Microphone ON
+    (3 s of quiet, middle C three times). A triad prompt listens for every
+    note of its three names in F3-C6, any voicing; an octave the detector
+    doubts says PLAY IT AGAIN, no miss; the ball waits 0.2 s at the goal
+    line in a mic match only. Silent unless Headphones is YES; MIDI ignored
+    while it listens, the computer keys still answer. Synthetic triad
+    prompts judged right 96-100% (Piano_Tennis PROJECT_STATE MIC-PT).
+    SAME GRADE: pianotennis_board2 reads "match" (always 1/1 on a finished
+    match) and the mode; a mic match only appends input_midi / input_keys /
+    input_mic, last. CHECKED 2026-10-28 (BOARD2-MIC): Piano Tennis's
+    shipping MatchCode.encode made two w9_plus codes identical but for the
+    input (9 keys vs 9 mic answers, a lost match); the hub graded both 100
+    under pianotennis_board2 and the hw12_board2 set.
 
 D4. THE DA CAPO DUET: board 1 D4 (research and build). Board 2's seat
   code is mode "duet_triads" (SAME MATERIAL ON deals both seats P1's

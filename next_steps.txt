@@ -1,6 +1,9 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-27 night (BOARD2-OPTIONS: board 2 rebuilt as OPTION 1-5
+Updated: 2026-10-28 (BOARD2-MIC: board 2 OPTIONS 1 and 4 each gain a
+microphone (beta) bullet, Sam's yes; 657 words; D1 / D3 say what the mic
+does and that a mic code grades the same; 0a-2 note). Before that:
+2026-10-27 night (BOARD2-OPTIONS: board 2 rebuilt as OPTION 1-5
 in Board 1's shape, all five ways in the paste, one-run grading with the
 hub's hw12_board2 set, title proposed "HW #11 — Choice Board 2: Triads";
 0a-2 rewritten; roster). Before that: 2026-10-27 night (PT-FIX-DONE: board 1 OPTION 3 + sections 2-5
@@ -66,6 +69,12 @@ Ranked high -> low.
    rubrics/hw12_board2; (3) section 4 B, tab 5 Create, Student View,
    publish; (4) post section 3, say section 2. Grading after Sun 11/8 is
    ONE run (section 4 C). The 0c / 0d gate lines below are superseded.
+   BOARD2-MIC (2026-10-28, Sam's yes): OPTION 1 (Da Capo) and OPTION 4
+   (Piano Tennis, its VS COMPUTER tier takes the mic since MIC-PT) each
+   gained one microphone (beta) bullet; SECTION 1's PASTE CHANGED (657
+   words). A mic code grades exactly like a keyboard code (checked on
+   encoded codes through the hw12_board2 set; D1, D3). Live pcks re-
+   checked 2026-10-28T13:03Z (section 4 gate).
 
 0b. DONE 2026-10-26: PASS PT-KTS1 (prompt + outcome in history.txt). Piano
    Tennis v2.1 LIVE (pck b9336b440ae6c8d9) makes a KTS1 code (GET CANVAS

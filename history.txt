@@ -1,5 +1,19 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS BOARD2-MIC (2026-10-28, Opus 5.5, —OER queue item 0z Z2)
+  Sam's yes: Board 2 OPTION 1 (Da Capo) gets a microphone line. Read what
+  Da Capo's mic does (project_state 0ah / 0ai) and checked a mic run grades
+  the same: Da Capo's ResultCode.encode made two triads codes, 50 keys vs
+  50 mic answers; the hub decoded both (same rows but input_keys /
+  input_mic), dacapo_triads and the hw12_board2 set graded each 100.
+  Piano Tennis's board way (VS COMPUTER tiers) takes the mic too (MIC-PT),
+  and two w9_plus codes (keys vs mic) graded 100 each, so OPTION 4 got the
+  matching line. Paste 610 -> 657 words. Sections 2, 3 and 4 A and the
+  roster do not name the mic (unchanged); section 4's gate and the header
+  record the re-checked live pcks. Brains 9d481d5 (BOARD2-MIC-BRAINS):
+  web_mic's adopters with versions, sha-verified. Claims check --since
+  dd680a0: 6 claims, nothing flagged (Brains reports/
+  claims_2026-10-28_board2-mic.txt).
 PASS BOARD2-OPTIONS (2026-10-27 night, Opus 5.5, —OER queue item 0y Y1)
   Board 2 given the shape Board 1 ended with (BOARD1-FOUR -> PT-FIX-DONE):
   hw_board2_triads.txt OPTION 1-5 with short bullets, ASCII, no entities,
