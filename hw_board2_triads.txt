@@ -2,15 +2,19 @@
 CHOICE BOARD 2 -- TRIAD QUALITIES -- CANVAS ASSIGNMENT
 Written 2026-10-08 (DACAPO-20); rescheduled and rebuilt 2026-10-26
 (BOARDS-SHIFT, Sam's amendment D4 to the week 11 brief). STATUS: READY
-TO CREATE (the base paste). WEEK 12, due Sun 11/8 at 11:59 PM Eastern
-(EST), 100 points. Da Capo course id "triads" -- FROZEN public
-identifier, LIVE. Three more ways are written but GATED (section 1,
-ADD-ON WAYS): Chord Crush only for Sam's live decode (its per-stage
-"levels cleared" rows and rubric SHIPPED 2026-10-26, pass CC-LEVELS),
-Piano Tennis only for Sam's live decode (its code
-and rubric SHIPPED 2026-10-26, pass PT-KTS1), the Da Capo duet only for
-Sam's live decode (its per-seat codes and rubric SHIPPED 2026-10-26,
-pass DUET-CODE). None is in the base paste.
+TO CREATE (Sam creates it Mon 11/2). WEEK 12, due Sun 11/8 at 11:59 PM
+Eastern (EST), 100 points (Chord Crush up to 106). Da Capo course id
+"triads" -- FROZEN public identifier, LIVE.
+REBUILT 2026-10-27 night (BOARD2-OPTIONS, —OER next_steps 0y Y1) in the
+shape Board 1 ended with: FIVE OPTIONS IN THE PASTE, short bullets, ASCII,
+no entities: 1 Da Capo, 2 Da Capo DUET, 3 Chord Crush, 4 Piano Tennis, 5
+video. The live-decode gates are WAIVED as on Board 1; instead each app's
+live index.pck was hash-checked against its last recorded deploy
+(2026-10-28T01:14Z): Da Capo e2b0cb0e3d24288b (MIC-DACAPO; solo codes
+carry the run nonce since DACAPO-BIND), Chord Crush dc9f68dba4157d2d
+(v51.9.0, CC-LEVELS), Piano Tennis 145321af4240c2df (v2.13, PT-SPEED).
+Graded in ONE run by the hub's set rubrics/hw12_board2 (section 4 C).
+TITLE PROPOSED, FOR SAM: "HW #11 — Choice Board 2: Triads" (section 1).
 ===========================================================
 
 WHAT THIS FILE IS
@@ -35,35 +39,37 @@ THE FACTS EVERYTHING HANGS ON
                      UTC-5). Grading Hub tab 5 Due field: 2026-11-08 23:59.
                      Module: Week 12. Quiz 5 items 1-4 are Wed 11/4 in
                      class; item 5 is due the same Sunday as this board.
-      POINTS         100 (Da Capo posts 100; Canvas matches it). Chord
-                     Crush, once on, can post up to 106 (D5).
-      DA CAPO        course "triads" (TRIAD QUALITIES) on the HOMEWORK
-                     screen; FROZEN id, LIVE. Floor 50 cards or beat 24
-                     stages (ResultCode.GOAL_CARDS_BY_COURSE)
-      DA CAPO RUBRIC Grading_Hub/rubrics/dacapo_triads.rubric.json ALONE
-      VIDEO          hand-graded on accuracy (D2)
-      CHORD CRUSH    CODE ROWS + RUBRIC SHIPPED (CC-LEVELS 2026-10-26,
-                     D5): v51.9.0 live, rubric Grading_Hub/rubrics/
-                     chordcrush_board2.rubric.json; gate left: Sam
-                     decodes one live code. Rule (Sam, 2026-10-26): Major
-                     Triads and Minor Triads, all 12 levels each, REQUIRED
-                     (50 + 50); Diminished Triads and Augmented Triads,
-                     all 12 levels each, +3 extra credit each (max 106).
-      PIANO TENNIS   CODE + RUBRIC SHIPPED (PT-KTS1 2026-10-26, board 1
-                     D3): mode "w9_plus", rubric Grading_Hub/rubrics/
-                     pianotennis_board2.rubric.json; gate left: Sam
-                     decodes one live code (ADD-ON P). Rule (Sam,
-                     2026-10-26): finish one full match on the "Week 9+ ·
-                     Triads: All Qualities" tier (id "w9_plus",
-                     Piano_Tennis scripts/theory_data.gd:86-91), win or
-                     lose.
-      DA CAPO DUET   GATED: codes SHIPPED 2026-10-26 (pass DUET-CODE, board
-                     1 D4, live index.pck 6ea8a51143857edd): one code
-                     per SEAT, mode "duet_triads" (course TRIAD
-                     QUALITIES), no name or ID; rubric dacapo_duet_triads.
-                     Gate left: Sam decodes one live code.
-  Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. A Da Capo
-  run in any other course lands in the hub's no_rubric list.
+      POINTS         100 (every way posts 100 at full credit; Canvas matches
+                     it). Chord Crush's extra credit can post up to 106 (D5).
+      GRADED AS      ONE rubric set: Grading_Hub/rubrics/hw12_board2 (a
+                     manifest: dacapo_triads, dacapo_duet_triads,
+                     chordcrush_board2, pianotennis_board2). Each student's
+                     BEST total over every way they handed in, one grade.
+      DA CAPO        OPTION 1. Course "triads" (TRIAD QUALITIES) on the
+                     HOMEWORK screen; FROZEN id, LIVE. Floor 50 cards or
+                     beat 24 stages (ResultCode.GOAL_CARDS_BY_COURSE).
+                     Rubric dacapo_triads. A saved run is bound to the first
+                     school ID that takes a code from it, and every solo
+                     code ends in the run's nonce (DACAPO-BIND; D6).
+      DA CAPO DUET   OPTION 2. One code per SEAT (GET CODES, a QR code per
+                     seat), mode "duet_triads", no name or ID, 50 cards per
+                     seat over the sitting; rubric dacapo_duet_triads
+                     (DUET-CODE, board 1 D4). Needs a MIDI keyboard.
+      CHORD CRUSH    OPTION 3. Rule (Sam, 2026-10-26): Chord Stages, Root
+                     position; Major Triads and Minor Triads, all 12 levels
+                     each, REQUIRED (50 + 50); Diminished Triads and
+                     Augmented Triads, all 12 levels each, +3 extra credit
+                     each (max 106). Rubric chordcrush_board2 (CC-LEVELS,
+                     v51.9.0, D5).
+      PIANO TENNIS   OPTION 4. Rule (Sam, 2026-10-26, unchanged): VS
+                     COMPUTER, Drill "Weekly tiers", finish one full match
+                     on the "Week 9+ · Triads: All Qualities" tier (id
+                     "w9_plus", Piano_Tennis scripts/theory_data.gd), win or
+                     lose. Rubric pianotennis_board2 (PT-KTS1, D3).
+      VIDEO          OPTION 5. Hand-graded on accuracy (D2).
+  Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. A code for
+  any other course, tier or board lands in the hub's "no rubric match"
+  list, listed, never graded.
 
 CANVAS SETTINGS
   Submission Type: Online -> "Text Entry" AND "File Uploads" (Grading
@@ -80,106 +86,73 @@ CANVAS SETTINGS
 ===========================================================
 
 ------------------------------ TITLE ------------------------------
-Choice Board 2: Triad Qualities
+HW #11 — Choice Board 2: Triads
 
-(The hub's idempotent match key: never change it after the first
-Create. It names NO ways on purpose (BOARDS-SHIFT): a way added later is
-a description update under the same title. If Sam numbers the boards as
-HW #N, prefix it BEFORE the first Create. Plain ASCII.)
+(PROPOSED by BOARD2-OPTIONS, FOR SAM: Board 1's real Canvas title is "HW
+#10 — Choice Board 1: Sixths and Sevenths", so this follows it: "HW #11",
+a space, an EM DASH (U+2014, not two hyphens), a space. The file's older
+title "Choice Board 2: Triad Qualities" was never created in Canvas, so
+nothing has to match it. The hub matches titles EXACTLY and this is the
+re-run key: settle it BEFORE the first Create and never change it after.
+If Sam picks another title, change it here, in section 3's subject line
+and in the "assignment" line of Grading_Hub/rubrics/hw12_board2/
+rubric_set.json (a label there, not a key).)
 
 --------------------------- DESCRIPTION ---------------------------
 (Paste everything between the two ===HTML=== lines into Grading Hub tab
-5's Description box in ONE paste. No blanks to fill. If any ADD-ON gate
-below is open by the day Sam creates it, insert that block first.)
+5's Description box in ONE paste. No blanks to fill. Plain ASCII, no
+entities, so the read-back verifier has nothing to mis-decode.)
 
 ===HTML===
-<h3>Choice Board 2: Triad Qualities. Pick ONE way below and submit only that one.</h3>
-<p>This homework practices major, minor, diminished and augmented triads. Every way below is worth the same grade. You may try more than one for practice, but submit ONE.</p>
+<p>This homework practices major, minor, diminished and augmented triads. Choose ONE of the five options below and submit only that one. Every option earns the same full credit, and your last submission is the one graded.</p>
+<p><strong>Due Sunday, November 8, 2026, at 11:59 PM Eastern.</strong></p>
 
-<h4>Da Capo (the reading game)</h4>
-<p>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>. On the title screen choose <strong>HOMEWORK</strong>, then select <strong>TRIAD QUALITIES</strong>. That starts the run. A run in any other course does not count for this board.</p>
-<p><strong>Full credit when EITHER is true:</strong> you beat all 24 stages, <em>or</em> you have cleared 50 cards. The game counts for you: GET CODE (pause menu, or the screen at the end) says whether you have earned credit yet and, if not, how many more cards you need.</p>
-<p>Play on a laptop or desktop (the letters A to G play notes; tap T for sharp or R for flat before a letter for a black key; press letters together for notes stacked on top of each other), on an iPad with the on-screen keys, or with a MIDI keyboard. Use the SAME browser on the SAME device each time and press <strong>CONTINUE</strong> to pick a run back up.</p>
-<p><strong>To submit:</strong> GET CODE, type your first name, last name and school ID, COPY CODE, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. Paste only the code.</p>
-
-<h4>Record a video</h4>
-<p>Record yourself at the piano playing <strong>all four triad qualities on every root</strong>: major, minor, diminished and augmented, in root position, blocked (all three notes together). <strong>Say the name of each one out loud</strong> as you play it.</p>
+<h4>OPTION 1: Da Capo</h4>
 <ul>
-<li>Play one quality at a time, through all 13 roots from C to C, moving a half step each time (chromatically). Start and end every quality on C.</li>
-<li>Play TWO of the qualities ascending (middle C up to the C an octave higher) and the other TWO descending (that C back down to middle C). You choose which. That is 4 x 13 = 52 triads.</li>
-<li>Name each one as you play it, root first: <em>"C major. C-sharp major. D major..."</em> A black-key root may be named either way (C-sharp or D-flat).</li>
-<li>Use a metronome at 60, loud enough to hear on the video. Give each triad four clicks or fewer, and keep the same number of clicks for every triad: play it on the first click and say its name while you hold it.</li>
+<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>TRIAD QUALITIES</strong>.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. The GET CODE screen tells you how many cards you still need.</li>
+<li>Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
+<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
-<p>One continuous take, no edits; either hand is fine. Keep your hand and the keyboard in the frame and your voice clear. <strong>To submit:</strong> upload the video file under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. No cloud drive links.</p>
 
-<h4>Submit one way. Your last submission is the one graded.</h4>
-<h4>Due Sunday, November 8, 2026, 11:59 PM Eastern.</h4>
+<h4>OPTION 2: Da Capo Duet (with a partner)</h4>
+<ul>
+<li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
+<li><strong>Full credit:</strong> each of you clears 50 cards. <strong>PLAY AGAIN</strong> keeps your count; going back to the lobby starts it over.</li>
+<li><strong>To submit:</strong> press <strong>GET CODES</strong>. Each of you scans the QR code for your own seat with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
+</ul>
+
+<h4>OPTION 3: Chord Crush</h4>
+<ul>
+<li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>.</li>
+<li><strong>Full credit:</strong> clear all 12 levels of <strong>Major Triads</strong> and of <strong>Minor Triads</strong> (half each). A stage says MASTERED when it is done.</li>
+<li><strong>Extra credit:</strong> 3 points for all 12 levels of <strong>Diminished Triads</strong>, and 3 more for all 12 levels of <strong>Augmented Triads</strong>.</li>
+<li>Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
+<li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
+</ul>
+
+<h4>OPTION 4: Piano Tennis</h4>
+<ul>
+<li>On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge. Play on a MIDI keyboard or the computer keyboard.</li>
+<li>Choose <strong>VS COMPUTER</strong>, set <strong>Drill</strong> to <strong>Weekly tiers</strong>, choose the <strong>Difficulty tier</strong> that ends <strong>Triads: All Qualities</strong>, and press <strong>START MATCH</strong>.</li>
+<li><strong>Full credit:</strong> finish one match on that tier, win or lose. Other tiers do not count.</li>
+<li><strong>To submit:</strong> at the end of the match press <strong>GET CANVAS CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+</ul>
+
+<h4>OPTION 5: Video</h4>
+<ul>
+<li>Record yourself playing major, minor, diminished and augmented triads in root position, blocked (all three notes together), and name each one out loud, root first: "C major. C-sharp major."</li>
+<li>Play one quality at a time, a half step at a time: two qualities up from middle C to the next C and the other two back down, your choice (13 roots each, 52 triads). A black-key root may have either name.</li>
+<li>Use a metronome at 60 that the video picks up. Play each triad on a click and name it while you hold it, four clicks or fewer, the same number each time.</li>
+<li>Record one continuous take with no edits; either hand is fine. Keep your hand and the keyboard in the frame.</li>
+<li><strong>To submit:</strong> upload the video under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. Please do not send cloud drive links.</li>
+</ul>
 ===HTML===
 -------------------------------------------------------------------
 
------------------------------ ADD-ON WAYS -----------------------------
-NOT in the base paste. Each block goes into the HTML above, directly
-BEFORE the line "<h4>Record a video</h4>", only when its GATE is open;
-then follow section 4 D. Button names that do not exist yet are the
-CONTRACT its pass is asked to ship; the pass edits the block if it
-ships other labels.
-
-ADD-ON C: CHORD CRUSH.
-  GATE: pass CC-LEVELS is deployed and hash-verified,
-  rubrics/chordcrush_board2.rubric.json exists with its tests, and Sam
-  has decoded one real code from the live site with it.
-  STATUS 2026-10-26 (CC-LEVELS): the first two are DONE. v51.9.0 is live
-  (pck 470,684 bytes, sha256 dc9f68dba4157d2d…, hash-verified; D5 has
-  the rows); the rubric is tested on nine real codes. LEFT FOR SAM: on
-  the live site (hard-refresh; the title screen reads v51.9.0) clear at
-  least one level of Major Triads in Chord Stages, Root position, then
-  Statistics, Canvas Code, Generate code, Copy code; decode it in hub
-  tab 2 with chordcrush_board2 loaded: EXPECT app chordcrush, mode
-  "session_report", a "maj_levels" row (attempted 12, correct = the
-  levels you cleared) and 0 points until Major AND Minor are 12/12.
-  Every label below is in the live build (scenes/title_screen.tscn
-  "Chord Stages" / "Statistics", the stage select's Position row,
-  scenes/stats_display.tscn "Canvas Code", scripts/stats_display.gd
-  "Generate code" / "Copy code"); none changed.
-===ADDON-C===
-<h4>Chord Crush</h4>
-<p>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. On the title screen choose <strong>Chord Stages</strong>. Leave <strong>Position</strong> on <strong>Root</strong>.</p>
-<p><strong>Full credit (100):</strong> clear all 12 levels of <strong>Major Triads</strong> AND all 12 levels of <strong>Minor Triads</strong> (the stage card says MASTERED when all 12 are done). <strong>Extra credit:</strong> +3 for all 12 levels of <strong>Diminished Triads</strong>, and +3 for all 12 levels of <strong>Augmented Triads</strong>, up to 106.</p>
-<p>Chord Crush works with a MIDI keyboard (Chrome, Edge or Firefox on a computer) or by touch on an iPad or a phone. A mouse plays one note at a time, so it cannot play a chord.</p>
-<p><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Canvas Code</strong>. Type your first name, last name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>. Use the same browser and device you practiced on: the code reports everything that profile has played.</p>
-===ADDON-C===
-
-ADD-ON P: PIANO TENNIS.
-  GATE: pass PT-KTS1 deployed and hash-verified,
-  rubrics/pianotennis_board2.rubric.json with its tests, one real code
-  decoded by Sam.
-  STATUS 2026-10-26 (PT-KTS1): the first two are DONE (board 1 D3 has
-  the build, hash and rows). LEFT FOR SAM: one VS COMPUTER match on the
-  Triads: All Qualities tier, GET CANVAS CODE, decode it in hub tab 2
-  with pianotennis_board2 loaded: EXPECT app pianotennis, mode
-  "w9_plus", 100. Labels below are the shipped ones.
-===ADDON-P===
-<h4>Piano Tennis</h4>
-<p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'Triads: All Qualities'. Then <strong>START MATCH</strong>.</p>
-<p><strong>Full credit:</strong> finish one full match on that tier. A win is not required; a loss counts the same.</p>
-<p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave.</p>
-<p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CANVAS CODE</strong>, type your first name, last name and school ID, press <strong>COPY CODE</strong>, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. A match on any other tier does not count for this board.</p>
-===ADDON-P===
-
-ADD-ON D: DA CAPO DUET.
-  GATE: pass DUET-CODE deployed and hash-verified (DONE 2026-10-26,
-  index.pck 6ea8a51143857edd); rubrics/dacapo_duet_triads.rubric.json
-  with tests on real codes (DONE); Sam has played a duet live, scanned a
-  seat's QR code and decoded it (OPEN: Grading_Hub next_steps S.v).
-  Floor: 50 cards per seat over the sitting. Every label below is the
-  shipped one.
-===ADDON-D===
-<h4>Da Capo DUET (two players, one MIDI keyboard)</h4>
-<p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. After each match press <strong>PLAY AGAIN</strong> to keep going.</p>
-<p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. PLAY AGAIN keeps the count; going back to the LOBBY or the TITLE starts it over. The end screen shows each seat's SITTING count.</p>
-<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat (P1 MINT and P2 EMBER) gets its own code as a QR code. Scan YOUR seat's QR code with your own phone. It opens a page with your code: press <strong>COPY CODE</strong> and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits only their own seat's code.</p>
-===ADDON-D===
--------------------------------------------------------------------------
+(The ADD-ON C / P / D blocks this file carried from BOARDS-SHIFT to
+BOARD2-OPTIONS are in its git history (last at dc3d6c8). All three ways
+are OPTIONS 2-4 above now; their old wording is not a second paste.)
 
 
 ===========================================================
@@ -187,79 +160,116 @@ ADD-ON D: DA CAPO DUET.
 ===========================================================
 
 "This homework is major, minor, diminished and augmented triads, and you
-pick how you do it: Da Capo or a video. Submit ONE.
+pick how you do it: Da Capo, Da Capo duet, Chord Crush, Piano Tennis, or
+a video. Submit ONE.
 
-Da Capo: on the title screen press HOMEWORK, then TRIAD QUALITIES. Beat
-all 24 stages or clear 50 cards, whichever comes first; the game counts
-for you. GET CODE, name and school ID, copy, paste the whole code in the
-text box.
+Da Capo: HOMEWORK, then TRIAD QUALITIES. Clear 50 cards or beat all 24
+stages; the game counts for you. GET CODE, name and school ID, copy,
+paste the whole code in the text box.
+
+Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, TRIAD
+QUALITIES, same material on, PLAY AGAIN between matches. Each of you
+clears 50 cards in that sitting, then GET CODES: each of you scans your
+own seat's QR code with your own phone and submits your own.
+
+Chord Crush: pick your own player, Chord Stages, Root position. Clear all
+12 levels of Major Triads and all 12 of Minor Triads; each is half the
+grade. Diminished and Augmented are 3 points extra credit each. MIDI
+keyboard or touch; a mouse can't play a chord. Statistics, Canvas Code,
+paste it.
+
+Piano Tennis: on a computer, VS COMPUTER, Drill Weekly tiers, the tier
+that ends Triads: All Qualities. Finish one match, win or lose. GET
+CANVAS CODE, paste it.
 
 Or a video: all four triad qualities on every root, C to C, two
 qualities ascending and two descending, blocked and named, metronome at
-60, four clicks or fewer each. One take, hands and keys in the frame. Upload it or paste an unlisted YouTube link.
+60, four clicks or fewer each. One take, hands and keys in the frame.
+Upload it or paste an unlisted YouTube link.
 
-Same grade every way. Due Sunday 11/8 at 11:59 PM. The last thing you
-submit is what I grade."
-
-(ADD-ON C opens: "Chord Crush: Chord Stages, Root position. Clear all 12
-levels of Major Triads and of Minor Triads; Diminished and Augmented are
-3 points extra credit each. The card says MASTERED when a stage is
-done. Statistics, Canvas Code, paste it. MIDI
-keyboard or touch; a mouse can't play a chord." ADD-ON P opens:
-"Piano Tennis: VS COMPUTER, the Triads: All Qualities tier, finish one
-match, win or lose. GET CANVAS CODE, paste it." ADD-ON D opens: "Or Da
-Capo DUET with a partner on one MIDI keyboard, TRIAD QUALITIES, same
-material on, PLAY AGAIN between matches. Each of you clears 50 cards in
-that sitting, then GET CODES: each scans your own seat's QR code with
-your own phone, copies the code and submits your own.")
+Same full credit every way. Due Sunday 11/8 at 11:59 PM. The last thing
+you submit is what I grade."
 
 
 ===========================================================
 3. THE MESSAGE TO STUDENTS (Canvas announcement; Sam sends this)
 ===========================================================
 
-Subject: Choice Board 2: Triad Qualities, due Sun 11/8 at 11:59 PM
+Subject: HW #11 — Choice Board 2: Triads, due Sun 11/8 at 11:59 PM
 
-"Choice Board 2: Triad Qualities" is on Canvas. Pick ONE way:
+"HW #11 — Choice Board 2: Triads" is on Canvas. Pick ONE way:
 
   DA CAPO  https://da-capo-game.netlify.app
-    HOMEWORK -> TRIAD QUALITIES. Beat all 24 stages or clear 50 cards.
+    HOMEWORK -> TRIAD QUALITIES. Clear 50 cards or beat all 24 stages.
     GET CODE, paste the whole code in the text box. Computer (A-G keys),
     iPad (on-screen keys) or a MIDI keyboard.
+  DA CAPO DUET  with a partner on one MIDI keyboard: MULTIPLAYER ->
+    DUET (ONE KEYBOARD), TRIAD QUALITIES, SAME MATERIAL on. Each of you
+    clears 50 cards in one sitting (PLAY AGAIN keeps the count). GET
+    CODES, scan YOUR seat's QR code with your phone, paste it.
+  CHORD CRUSH  https://chord-crush-mobile.netlify.app (MIDI keyboard or
+    touch). Your own player, Chord Stages, Root. All 12 levels of Major
+    Triads and of Minor Triads (half each); Diminished and Augmented are
+    +3 extra credit each. Statistics -> Canvas Code, paste it.
+  PIANO TENNIS  https://piano-tennis.netlify.app (computer, Chrome or
+    Edge). VS COMPUTER, Drill: Weekly tiers, the tier that ends Triads:
+    All Qualities. Finish one match, win or lose. GET CANVAS CODE, paste
+    it.
   A VIDEO  all four triad qualities on every root, C to C (two
     ascending, two descending), named, metronome at 60 (the assignment
-    has the details); upload it, or
-    paste an unlisted YouTube link in the text box.
+    has the details); upload it, or paste an unlisted YouTube link in
+    the text box.
 
-Due Sunday, November 8, 2026, 11:59 PM Eastern. Same grade every way.
-Your last submission is the one graded.
-
-(Add one line per open ADD-ON, from section 2's note.)
+Due Sunday, November 8, 2026, 11:59 PM Eastern. Same full credit every
+way. Your last submission is the one graded.
 
 
 ===========================================================
 4. SAM'S CLICK-PATH (play it live, create, grade)
 ===========================================================
 
-  GATE for the base paste: Da Capo's "triads" id is LIVE (in
-  HOMEWORK_COURSES since index.pck 6c12ef4aebb9b4ef, checked 2026-10-13;
-  still listed at the current live fb9f883, Script/Curriculum.gd:43).
-  When to create: any day before Mon 11/2 (the board's week). Check the
-  three ADD-ON gates that morning first.
+  GATE for this paste: every app way is LIVE and hash-checked
+  (2026-10-28T01:14Z, BOARD2-OPTIONS): Da Capo index.pck e2b0cb0e3d24288b
+  ("triads" in HOMEWORK_COURSES since 6c12ef4aebb9b4ef; the duet's GET
+  CODES since DUET-CODE), Chord Crush dc9f68dba4157d2d (v51.9.0), Piano
+  Tennis 145321af4240c2df (v2.13; tier "w9_plus" and its SAMPLE code are
+  pinned byte for byte in Piano_Tennis tests/canvas_code.gd and match the
+  hub's fixture). Sam's one-code-per-way decode was WAIVED, as on Board 1;
+  section A is the short version. No blanks remain. Create it any day
+  before Mon 11/2 (the board's week); Sam's plan is Mon 11/2.
 
-  A. PLAY EACH OPEN PATH ON THE LIVE SITE YOURSELF
-  [ ] https://da-capo-game.netlify.app in Chrome, hard-refresh. HOMEWORK
-      -> TRIAD QUALITIES. Play a few minutes, GET CODE, COPY CODE. Close
-      the tab, reopen, confirm CONTINUE picks the run back up.
-  [ ] Grading Hub -> tab 3 -> load dacapo_triads.rubric.json ALONE. Tab
-      2 -> paste your code -> Decode. EXPECT app dacapo, mode "triads",
-      and 0 (under 50 cards) or 100 (50+ cards or a completed run).
-  [ ] Each OPEN add-on: the check its pass wrote (one real code decoded
-      with its rubric).
+  A. THE 5-MINUTE LIVE CHECK (one browser, the hub; no MIDI keyboard
+     needed)
+  [ ] https://da-capo-game.netlify.app, hard-refresh. HOMEWORK -> TRIAD
+      QUALITIES, clear a card or two (A-G keys, letters together for a
+      chord), ESC -> GET CANVAS CODE, your name and ID, GET CODE, COPY
+      CODE. Save it in a note.
+  [ ] https://chord-crush-mobile.netlify.app, hard-refresh (the title
+      reads v51.9.0). + NEW PROFILE "Test", Chord Stages, Root, Major
+      Triads, clear level 1 (one chord, by touch or MIDI). Statistics ->
+      Canvas Code, your name and ID, Generate code, Copy code. Save it.
+  [ ] https://piano-tennis.netlify.app in Chrome, hard-refresh. VS
+      COMPUTER, Drill = Weekly tiers, Difficulty tier "Week 9+ · Triads:
+      All Qualities", Play to 5 points, START MATCH. Answer nothing and
+      let the computer win (a minute or two). GET CANVAS CODE, your name
+      and ID, COPY CODE.
+  [ ] Hub: tab 3 "Load folder…" -> Grading_Hub/rubrics/hw12_board2 (the
+      picker shows "SET: HW #11 — Choice Board 2: Triads [4 rubrics]").
+      Tab 2: paste all three codes, Decode. EXPECT dacapo / triads with a
+      "nonce" row and 0 (under 50 cards); chordcrush / session_report with
+      a "maj_levels" row 1/12 and 0; pianotennis / w9_plus, 100. The SET
+      block lists you ONCE at 100, with a "best of:" line naming Piano
+      Tennis.
+  [ ] Optional, 30 seconds, the bind (D6): Da Capo, CONTINUE, GET CANVAS
+      CODE with a made-up school ID: it stays on the form with THIS SAVED
+      RUN BELONGS TO <you>. and no code. Then HOMEWORK -> ERASE IT AND
+      START OVER so a classroom computer is clean; in Chord Crush delete
+      the "Test" profile.
 
   B. CREATE IT (tab 5 "Create Assignments")
      Sections     the four "label,course_id" lines, as always
-     Title        Choice Board 2: Triad Qualities
+     Title        HW #11 — Choice Board 2: Triads
+                  (section 1 TITLE: em dash; settle it before Create)
      Points       100
      Submission   Online — text entry, and TICK "Also accept: Online —
                   file upload" ONLY
@@ -267,36 +277,53 @@ Your last submission is the one graded.
      Module       Week 12
      Due          2026-11-08 23:59   Available / Until  blank
                   (Preview must show 2026-11-09T04:59:00Z)
-     Description  section 1's HTML (with any open add-ons), ONE paste
+     Description  section 1's HTML, ONE paste
      Publish      UNTICKED for the first check
-  [ ] Preview, Create, "(description verified ...)" per section.
+  [ ] Preview: Submission reads "Online — text entry + Online — file
+      upload". Create (it refuses a form changed after Preview: press
+      Preview again). Each section ends "(description verified ...)".
   [ ] Student View: a Text Entry tab AND a File Upload tab. Publish.
-  [ ] Post section 3; say section 2. docs/roster.txt row BOARD 2.
+  [ ] Post section 3; say section 2. docs/roster.txt row BOARD 2:
+      READY TO CREATE -> CREATED IN CANVAS -> LIVE.
 
-  C. GRADING IT, after the due date: every path into ONE column.
-  [ ] DA CAPO CODES: tab 3 -> dacapo_triads.rubric.json (plus each open
-      add-on's rubric; app_id differs, so a chordcrush or pianotennis
-      rubric loaded beside it grades only its own codes). Tab 1 Batch
-      pull or tab 4 Batch Post.
-      ADD-ON D: load dacapo_duet_triads.rubric.json beside dacapo_triads
-      (modes differ; one code posts 100). A duet code has NO name or ID:
-      it grades only when PULLED from Canvas ("Canvas user N" in the
-      preview), never from a paste or the CSV path; a red SHARED CODE
-      block lists one seat's code from more than one submitter (both
-      still grade; decide by hand).
-      ONE RUBRIC AT A TIME IN THE BATCH TOOLS: tab 1 Batch pull and tab 4
-      Batch Post grade with the ONE rubric selected in the dropdown (tab
-      4's single-course Preview Post uses every loaded rubric). Run them
-      once per rubric; a code the selected rubric does not match is
-      excluded, never posted as 0; the last post for a student wins.
-  [ ] THE HAND-GRADE LIST ("N submission(s) with no code"): the videos.
-  [ ] VIDEOS: SpeedGrader against section 5's answer key; tab 6 sheet,
-      hand-graded students ONLY, "Post External Grades". Lateness by
-      hand.
+  C. GRADING IT, after the due date: ONE run for the whole board (the
+     hub's RUBRIC SET, BOARD2-HUB 2026-10-27).
+  [ ] Grading Hub tab 3 -> "Load folder…" -> Grading_Hub/rubrics/
+      hw12_board2. The picker shows "SET: HW #11 — Choice Board 2: Triads
+      [4 rubrics]", already selected: dacapo_triads, dacapo_duet_triads,
+      chordcrush_board2, pianotennis_board2.
+  [ ] Tab 1 Sections as usual -> tab 4 Enable -> Preview Batch Post. Each
+      section lists N postable: ONE row per student, their BEST total over
+      every way they handed in (a "best of:" line for anyone who sent two).
+      Also listed: "no rubric match" (a Board 1 code, a Da Capo run in
+      another course, a Piano Tennis match on another tier), "submission(s)
+      with no code" (the videos), and any SHARED CODE in red. A SHARED CODE
+      line "dacapo nonce ... carried by 2 codes" is one Da Capo run handed
+      in by two students (a solo run, DACAPO-BIND, or one duet seat): both
+      still grade, so TALK TO BOTH STUDENTS before you decide. The same
+      student resubmitting a later code is never flagged. Then Batch Post.
+      CSV route instead: tab 1 "Pull ALL sections" writes one CSV per
+      section with ONE grade column titled with the set.
+  [ ] What each code earns: Da Capo solo 100 at 50 cards or a beaten
+      game; a duet seat 100 at 50 cards in the sitting (graded only when
+      PULLED from Canvas: no name in the code); Chord Crush 50 for Major
+      12/12 + 50 for Minor 12/12, +3 each for Diminished / Augmented 12/12
+      (106 posts as 106); Piano Tennis 100 for a finished match on the
+      tier. A Chord Crush code from before v51.9.0 posts 0 however much it
+      cleared: the student hard-refreshes and copies a new code (the
+      profile keeps its progress). Lateness.gd's penalty is inside the best
+      total.
+  [ ] THE HAND-GRADE LIST: each section's "N submission(s) with no code
+      (video file, link or text)" = the video students. A student who also
+      handed in a code keeps the better grade: the set takes the best of
+      the codes, the video is posted by hand, so compare the two yourself.
+  [ ] VIDEOS: SpeedGrader against section 5's answer key (D2); tab 6
+      sheet, hand-graded students ONLY, "Post External Grades". Lateness
+      by hand.
 
-  D. ADDING A WAY LATER: exactly as hw_board1_sixths_sevenths.txt
-     section 4 D (insert the block before "<h4>Record a video</h4>",
-     tab 5 same title -> Create = UPDATE, announce in one line).
+  D. CHANGING THE TEXT LATER: tab 5, the SAME title, same settings, the new
+     HTML in ONE paste, Preview, Create = an UPDATE in place (a PUT that
+     never touches publish state). Announce any change in one line.
 
 
 ===========================================================
@@ -309,9 +336,33 @@ D0. DECISIONS (all filled):
     the hub's tests/run_tests.gd _test_spec_eastern_time (week 12 =
     "2026-11-08 23:59" -> AC.WEEK_DUE_UTC[12]); suite ran 1670/1670 on
     2026-10-26.
-  - points: 100. Module: Week 12. Title: names no ways (BOARDS-SHIFT).
-  - Piano Tennis rule: finish one full match on the tier, win or lose.
+  - points: 100. Module: Week 12.
+  - Piano Tennis rule: finish one full match on the tier, win or lose
+    (unchanged, —OER 0y: "pianotennis_board2 tier rule, unchanged"; no
+    triad gauntlet unless Sam asks).
   - Chord Crush rule: D5.
+  - BOARD2-OPTIONS (2026-10-27 night, —OER next_steps 0y Y1): Board 1's
+    final shape. OPTION headings with short bullets, due date at the top,
+    no h3 (the Canvas title says it), ASCII, no entities. All five ways in
+    the paste: the brief named "OPTION 1-4" (Board 1's count) and also all
+    five ways, so the board has OPTION 1-5; nothing was dropped. The
+    paste is 610 words (about 560 asked: Board 1's OPTIONS version was 562
+    for four ways, about 140 an option; this is about 120 an option; Board
+    1's current paste is 795). Cut against the old text: Da Capo's A-G /
+    T / R key help (the game shows it), the duet's "the end screen shows
+    how many cards each player has cleared", "P1 or P2" and "You do not
+    type a name or ID", Chord Crush's "same browser and device" line (the
+    profile line covers it) and its browser list, Piano Tennis's computer-
+    key map. Wording kept from Board 1 wherever the way is the same. "Every option earns the same full credit" (not "the same grade",
+    as on Board 1): Chord Crush alone can post 106.
+  - Live-decode gates WAIVED (as on Board 1, Sam 2026-10-26); each app's
+    live pck hash-checked instead (header). Section 4 A is the 5-minute
+    version of the waived decodes.
+  - TITLE, FOR SAM: proposed "HW #11 — Choice Board 2: Triads" (Board 1 is
+    HW #10). The hub's set folder is named rubrics/hw12_board2 as the brief
+    asked; the folder name is never shown to students and is not a key,
+    and the set's label inside it reads HW #11. Rename the folder (git mv,
+    plus the hub test and this file) only if Sam wants them to agree.
 
 D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game.
   COVERAGE (Curriculum.gd spec_for "triads"): stages 1-6 deal MAJOR AND
@@ -320,6 +371,11 @@ D1. DA CAPO (built in DACAPO-20). Floor 50 cards or beat the game.
   creatures each, so 50 cleared cards should carry a run past stage 6
   into diminished and augmented. That is an estimate from the map rule,
   not a measured run.
+  THE MICROPHONE (BETA, MIC-DACAPO, live e2b0cb0e3d24288b): SETTINGS ->
+  MICROPHONE lets a student answer at an acoustic piano, solo only. Not in
+  the paste (Board 1 does not name it either); the code's last three rows
+  (input_midi / input_keys / input_mic) show which input was used, and no
+  rubric reads them. FOR SAM: one line in OPTION 1 if you want it.
 
 D2. THE VIDEO (rewritten 2026-10-26, Sam: the twelve-triad video was
   lighter than the app ways; harder, like Board 1's). All four qualities
@@ -355,6 +411,43 @@ D2. THE VIDEO (rewritten 2026-10-26, Sam: the twelve-triad video was
     aug desc C-E-G#  B-D#-F##  Bb-D-F#  A-C#-E#  Ab-C-E  G-B-D#  Gb-Bb-D
              F-A-C#  E-G#-B#  Eb-G-B  D-F#-A#  Db-F-A  C-E-G#
 
+D3. PIANO TENNIS ON BOARD 2 (board 1 D3 has the build, the code rows and
+  the research; checked 2026-10-27 night at Piano_Tennis ca676d5 = live
+  v2.13, pck 145321af4240c2df).
+  - The path: menu Drill "Weekly tiers (mixed prompts)" (the other two
+    are Root cycle and Gauntlet), Difficulty tier "Week 9+ · Triads: All
+    Qualities" (the dot is not ASCII, so the HTML says "the tier that ends
+    Triads: All Qualities"), START MATCH; GET CANVAS CODE and COPY CODE on
+    the end-of-match panel. Mode "w9_plus": major, minor, diminished and
+    augmented triads, any octave, any inversion. PT-UI (v2.12) kept every
+    one of these labels, but its promise was "until after Sun 11/1"
+    (Board 1's due date): FOR SAM, keep Drill / Weekly tiers / Difficulty
+    tier / START MATCH / GET CANVAS CODE / COPY CODE unchanged until after
+    Sun 11/8, or a rename pass edits OPTION 4 and re-runs tab 5.
+  - The menu REMEMBERS the last Drill: a student who played Board 1's
+    gauntlet opens on Drill = Gauntlet, which is why the paste says "set
+    Drill to Weekly tiers".
+  - LOCAL 1v1 on this tier also makes a code per player (PT-SEATS) in the
+    same mode, so pianotennis_board2 grades it too. The paste names VS
+    COMPUTER only (the rule as Sam set it); a partner's code is not
+    refused. FOR SAM if you want it named.
+  - KNOWN, FOR SAM (unchanged since PT-KTS1): "win or lose" means a
+    student who answers nothing still finishes a (lost) match and earns
+    100; the code carries answers / won / cpu_level / seconds, so a floor
+    is one more rubric column, not a new build. Section 4 A's check uses
+    exactly that.
+  - A tier code has no run nonce and no binding (it exists only on the
+    end panel of the match just played). MIC-PT (0y Y4) will add a BETA
+    microphone to VS COMPUTER tiers; nothing on this board depends on it.
+
+D4. THE DA CAPO DUET: board 1 D4 (research and build). Board 2's seat
+  code is mode "duet_triads" (SAME MATERIAL ON deals both seats P1's
+  course; with it OFF, P2's code is for P2's own course and lands in "no
+  rubric match" unless that course is TRIAD QUALITIES). Every seat code
+  carries its own nonce: one seat's code from two submitters is a SHARED
+  CODE. The OPTION 2 text dropped "P1 or P2" and "MINT / EMBER"; the GET
+  CODES screen labels each QR code by seat.
+
 D5. CHORD CRUSH (researched 2026-10-26 at the live v51.7.0 = Chord_Crush
   7864186^; main is v51.8.0, NOT deployed).
   - A stage = one quality in one position, 12 levels, one per key, in
@@ -388,10 +481,10 @@ D5. CHORD CRUSH (researched 2026-10-26 at the live v51.7.0 = Chord_Crush
     "_levels" rows to read). The student hard-refreshes and copies a
     new code; the profile's progress is all still there. The decoded
     code's app_version says which build made it.
-  - ONE CHORDCRUSH RUBRIC AT A TIME: every Chord Crush code has mode
+  - ONE CHORDCRUSH RUBRIC PER SET: every Chord Crush code has mode
     "session_report", so a second chordcrush rubric (board 3's, later)
-    loaded beside this one would add into the same grade. Beside
-    dacapo_triads and pianotennis_board2 it is safe (tested).
+    in the same set would match the same code. hw12_board2 holds only
+    chordcrush_board2 (its manifest says so; tested).
   - THE DOUBLE COUNT, CONFIRMED AND FIXED (Sam's yes, —OER item 0q):
     GameState.complete_stage added stage_correct_hits /
     stage_wrong_hits to the profile AGAIN after add_correct_hit /
@@ -400,19 +493,50 @@ D5. CHORD CRUSH (researched 2026-10-26 at the live v51.7.0 = Chord_Crush
     reads 156/8 for 78 right / 4 wrong on the old code). Ratios were
     right. Fixed in v51.9.0; old profiles keep the counts they have.
     The board's grade never read these counts.
+  - PROFILES (checked 2026-10-27 night): the game opens on SELECT PLAYER
+    (up to 8 named profiles on a device, "+ NEW PROFILE"; the title
+    screen has "Change Profile"), and a code reports the profile in use.
+    That is why OPTION 3 says to choose your own player.
   - FAIRNESS, for Sam: Chord Crush's rule (156 chords, up to 106) is
     heavier than Da Capo's 50 cards and is the only way with extra
     credit. Sam's call (2026-10-26: "they need to learn this").
 
+D6. ONE RUN, ONE STUDENT on this board (the bind note; —OER 0v).
+  - DA CAPO SOLO (DACAPO-BIND, live since 619d4d0958b0a7e6, still in
+    e2b0cb0e3d24288b): a saved run is BOUND to the school ID typed at its
+    first GET CODE; any other ID is refused on the code form with THIS
+    SAVED RUN BELONGS TO <FIRST NAME>. / PRESS START GAME OR HOMEWORK TO
+    PLAY YOUR OWN., and nothing is encoded. Every solo code ends in the
+    run's nine-digit "nonce" row, so the hub flags one run handed in by
+    two Canvas submitters as SHARED CODE (section 4 C: talk to both). Same
+    student resubmitting = never flagged. A run nobody has taken a code
+    from is not bound (a student who leaves without a code can lose the
+    run to the next student).
+  - DA CAPO DUET: no name or ID by design; each seat code carries its own
+    nonce, so one seat's code from two submitters is flagged the same way.
+  - CHORD CRUSH and the PIANO TENNIS TIER have NO nonce and NO binding.
+    Chord Crush's protection is the profile (D5): a student who picks
+    someone else's player on a shared device gets that player's progress
+    under their own name, and the hub cannot see it. FOR SAM: a Chord
+    Crush bind + nonce would be a Chord Crush pass (not asked for).
+  - THE HONEST LIMIT: a KTS1 code is tamper-evident, not fraud-proof. A
+    student who clears the browser's storage and replays has simply done
+    the work; a student who copies another's code text is caught by the
+    hub's SHARED CODE flag only where the code carries a nonce (Da Capo
+    solo and duet).
+  - HUB PROOF: Grading_Hub _test_rubric_set_board2_real_codes (BOARD2-HUB)
+    on five Da Capo triads codes the LIVE pck made: Bo's code from Ada's
+    run is flagged once and both still grade; Ada resubmitting is not.
+
 L. LATENESS: Lateness.gd applies to codes automatically; by hand for
   hand-graded rows.
 
-N. NOT VERIFIED BY A HUMAN: the Da Capo id (headless and the live pck
-  loaded headless; nobody has played it live), the HTML through the
-  hub's read-back verifier, any real submission. ADD-ON D's buttons are
-  live (DUET-CODE) and ADD-ON P's are live (PT-KTS1), but no human has
-  pressed them on the live site (D's QR codes decode from a screenshot
-  with zxing-cpp; no phone has scanned one). ADD-ON C's buttons are
-  unchanged, but no human has made a v51.9.0 code on the live site
-  (the live URL boots headless with 0 errors, and the codes the rubric
-  is pinned on came from the build that is live byte for byte).
+N. NOT VERIFIED BY A HUMAN: no person has played any of the five ways
+  live for this board or decoded a live code with the hw12_board2 set
+  (section 4 A is that check). What is verified: the three live pcks
+  match their recorded deploys byte for byte (sha256, 2026-10-28T01:14Z);
+  the hub grades the set on real codes headless (2219/2219 + smoke): Da
+  Capo triads codes made by the live pck itself, the duet's triads seat,
+  Chord Crush v51.9.0's nine codes, Piano Tennis's w9_plus SAMPLE (byte-
+  identical to the live build's frozen sample). The HTML has not been
+  through the hub's read-back verifier (it runs at Create).

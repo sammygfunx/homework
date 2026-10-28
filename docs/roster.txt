@@ -371,6 +371,8 @@ CC-LEVELS SHIPPED 2026-10-26: Chord Crush v51.9.0 sends per-stage
 (mode "duet_<course>", no name or ID, as a QR code); rubrics
 dacapo_duet_sixths / _sevenths / _triads. All five Da Capo ids are
 LIVE (deployed index.pck 6c12ef4aebb9b4ef, checked 2026-10-13).
+Boards 1 and 2 grade as rubric SETS (one run each): Grading_Hub/rubrics/
+hw10_board1 and rubrics/hw12_board2 (RUBRIC-SET, BOARD2-HUB 2026-10-27).
 -----------------------------------------------------------------------
 
 BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
@@ -404,23 +406,27 @@ BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
          (PT-RC), then again that evening as THE GAUNTLET (GAUNTLET-DONE;
          Piano Tennis v2.7 LIVE), for Sam to re-run tab 5 before class
          Wed 10/28 (section 4 A2 is a 5-minute live check first).
-BOARD 2  "Choice Board 2: Triad Qualities".
-         Ways now: Da Capo "triads" (rubric dacapo_triads ALONE) OR
-         video. GATED add-ons: Chord Crush Major + Minor Triads all 12
-         levels (50 + 50), Diminished / Augmented +3 each, max 106
-         (code rows + rubric chordcrush_board2 SHIPPED 2026-10-26,
-         CC-LEVELS; gate left: Sam decodes one live code); Piano Tennis
-         Triads: All Qualities tier, finish one match (code + rubric
-         pianotennis_board2 SHIPPED 2026-10-26, PT-KTS1; gate left: Sam
-         decodes one live code);
-         Da Capo duet, 50 cards per seat over a sitting (codes + rubric
-         dacapo_duet_triads SHIPPED 2026-10-26, DUET-CODE; gate left: Sam
-         decodes one live code).
-         Week 12, module Week 12. 100 points.
+BOARD 2  "HW #11 — Choice Board 2: Triads" (PROPOSED by BOARD2-OPTIONS,
+         2026-10-27 night, for Sam to confirm before the first Create;
+         the file's old title "Choice Board 2: Triad Qualities" was never
+         created). Five ways, all in the paste since BOARD2-OPTIONS
+         (OPTION 1-5, short bullets, Board 1's shape): Da Capo "triads"
+         (dacapo_triads; solo runs bound + a run nonce, DACAPO-BIND) OR Da
+         Capo duet, 50 cards per seat over a sitting (dacapo_duet_triads)
+         OR Chord Crush Major + Minor Triads all 12 levels (50 + 50),
+         Diminished / Augmented +3 each, max 106 (chordcrush_board2) OR
+         Piano Tennis VS COMPUTER, Weekly tiers, the Triads: All Qualities
+         tier, finish one match, win or lose (pianotennis_board2, mode
+         w9_plus, unchanged) OR video (hand-graded). Live-decode gates
+         waived as on Board 1; the three live pcks were hash-checked
+         2026-10-28T01:14Z. GRADING: ONE run with the hub's rubric SET,
+         tab 3 "Load folder…" -> Grading_Hub/rubrics/hw12_board2 (four
+         rubrics, best total per student, one grade; BOARD2-HUB).
+         Week 12, module Week 12. 100 points (Chord Crush up to 106).
          Due: Sun 2026-11-08 23:59 Eastern (2026-11-09T04:59:00Z, EST).
          Content: —Homework/hw_board2_triads.txt
-         Status: READY TO CREATE (base paste), 2026-10-26. Create by
-           Mon 11/2 with whichever add-ons are open.
+         Status: READY TO CREATE (five-way paste), 2026-10-27 night. Sam
+           creates it Mon 11/2 after section 4 A (5-minute live check).
 BOARD 3  Seventh Chords (Da Capo OR Chord Crush OR video).
          Da Capo "seventh_chords"; rubric dacapo_seventh_chords. Chord
          Crush five seventh stages (KTS1 code; since CC-LEVELS

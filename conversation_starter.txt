@@ -109,6 +109,16 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-27 night, BOARD2-OPTIONS) BOARD 2 IS READY TO CREATE in Board 1's
+final shape (—OER next_steps 0y Y1): OPTION 1-5 short bullets, ASCII, 610
+words: Da Capo TRIAD QUALITIES, Da Capo DUET, Chord Crush (Major + Minor
+12/12, Diminished / Augmented +3 each), Piano Tennis (Weekly tiers, the
+Triads: All Qualities tier, one match, win or lose), video. Live-decode
+gates waived; the three live pcks hash-checked. Graded in ONE run: hub tab
+3 "Load folder…" -> Grading_Hub/rubrics/hw12_board2 (BOARD2-HUB b26aeff).
+TITLE PROPOSED "HW #11 — Choice Board 2: Triads" (Sam confirms before
+Create). Sam, Mon 11/2: hw_board2_triads.txt section 4 A (5 minutes), then
+B (tab 5 Create), publish, section 3.
 (2026-10-27 night, PT-FIX-DONE) Board 1 OPTION 3 now says a root counts
 only when your answer on it WINS THE POINT (Sam's playtest, —OER 0w;
 Piano Tennis v2.10 live, pck fc4799c52ce28fa7): each 1v1 player has their

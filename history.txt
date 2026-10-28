@@ -1,5 +1,24 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS BOARD2-OPTIONS (2026-10-27 night, Opus 5.5, —OER queue item 0y Y1)
+  Board 2 given the shape Board 1 ended with (BOARD1-FOUR -> PT-FIX-DONE):
+  hw_board2_triads.txt OPTION 1-5 with short bullets, ASCII, no entities,
+  610 words (Board 1's four-option version was 562): Da Capo TRIAD
+  QUALITIES, Da Capo DUET (duet_triads), Chord Crush (chordcrush_board2;
+  "choose your own player" since the game opens on SELECT PLAYER),
+  Piano Tennis (pianotennis_board2 tier rule unchanged; "set Drill to
+  Weekly tiers" because the menu remembers Board 1's Gauntlet), video
+  (BOARD2-VIDEO rule). Live-decode gates waived; live pcks hash-checked
+  (Da Capo e2b0cb0e3d24288b, Chord Crush dc9f68dba4157d2d, Piano Tennis
+  145321af4240c2df, all equal to their recorded deploys). Grading_Hub
+  b26aeff (BOARD2-HUB): rubrics/hw12_board2 manifest + real-code tests
+  (Da Capo triads codes from the live pck), 2219/2219 + smoke. Sections
+  2-5 rewritten: one-run grading click-path, a 5-minute live check, D6 the
+  bind note. Title proposed "HW #11 — Choice Board 2: Triads". Claims check
+  (--files the board file + the manifest): two flags fixed (section 3
+  quoted the title with a comma; the extra-credit sentence read as per
+  level), then 83 claims, nothing flagged.
+
 PASS PT-FIX (2026-10-27 night, Opus 5.5, —OER queue item 0w W1)
   Sam's playtest decisions (0w): point rule (a), own strip per player, web
   hot-plug, Paddle assist ON / OFF, HEAR MY NOTES. Piano_Tennis 52bec4c

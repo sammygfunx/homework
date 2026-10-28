@@ -1,6 +1,9 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-27 night (PT-FIX-DONE: board 1 OPTION 3 + sections 2-5
+Updated: 2026-10-27 night (BOARD2-OPTIONS: board 2 rebuilt as OPTION 1-5
+in Board 1's shape, all five ways in the paste, one-run grading with the
+hub's hw12_board2 set, title proposed "HW #11 — Choice Board 2: Triads";
+0a-2 rewritten; roster). Before that: 2026-10-27 night (PT-FIX-DONE: board 1 OPTION 3 + sections 2-5
 for the point rule, own strips and CPU Levels 2/3/3/3; roster). Before
 that: 2026-10-27 night (PT-BIND-DONE: board 1 sections 4 C and 5 D3
 record the gauntlet's one-run-one-student binding and the SHARED CODE
@@ -51,14 +54,18 @@ Ranked high -> low.
    publish before class Wed 10/28. Grading after Sun 11/1 is ONE run
    (section 4 C: tab 3 Load folder… -> rubrics/hw10_board1).
 
-0a-2. BOARD 2 -- CREATE IT BY MON 11/2 (Sam). Week 12, due Sun 11/8 23:59
+0a-2. BOARD 2 -- CREATE IT MON 11/2 (Sam). Week 12, due Sun 11/8 23:59
    EST (2026-11-09T04:59Z), 100 points (Chord Crush up to 106), module
-   Week 12, title "Choice Board 2: Triad Qualities". Base paste = Da Capo
-   TRIAD QUALITIES or a video; insert each ADD-ON (C / P / D) whose gate
-   is open that morning. hw_board2_triads.txt section 4. 0c LANDED
-   2026-10-26: ADD-ON C goes in after Sam's one live decode (0c's LEFT
-   FOR SAM line). 0d LANDED 2026-10-26: ADD-ON D likewise (0d's LEFT FOR
-   SAM line).
+   Week 12. REBUILT 2026-10-27 night (BOARD2-OPTIONS, —OER 0y Y1): all
+   five ways in ONE paste (OPTION 1 Da Capo, 2 duet, 3 Chord Crush, 4
+   Piano Tennis, 5 video); the add-on gates are waived as on Board 1 (live
+   pcks hash-checked instead). SAM, IN THIS ORDER: (1) confirm the title,
+   proposed "HW #11 — Choice Board 2: Triads" (section 1 TITLE; if it
+   changes, also section 3 and the hub manifest's "assignment" line);
+   (2) section 4 A, the 5-minute live check through the hub's set
+   rubrics/hw12_board2; (3) section 4 B, tab 5 Create, Student View,
+   publish; (4) post section 3, say section 2. Grading after Sun 11/8 is
+   ONE run (section 4 C). The 0c / 0d gate lines below are superseded.
 
 0b. DONE 2026-10-26: PASS PT-KTS1 (prompt + outcome in history.txt). Piano
    Tennis v2.1 LIVE (pck b9336b440ae6c8d9) makes a KTS1 code (GET CANVAS

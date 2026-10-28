@@ -1,7 +1,25 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-27 night (PT-FIX-DONE, Opus 5.5, —OER queue item 0w
+Last updated: 2026-10-27 night (BOARD2-OPTIONS, Opus 5.5, —OER queue item
+0y Y1): hw_board2_triads.txt rebuilt in Board 1's final shape. OPTION 1-5,
+short bullets, ASCII, no entities, 610 words: 1 Da Capo TRIAD QUALITIES, 2
+Da Capo DUET, 3 Chord Crush (Major + Minor 12/12, 50 + 50; Diminished /
+Augmented +3 each; choose your own player), 4 Piano Tennis (VS COMPUTER,
+Drill Weekly tiers, the Triads: All Qualities tier, one match, win or
+lose: pianotennis_board2 unchanged), 5 video (unchanged rule). The ADD-ON
+blocks are gone (all in the paste). Live-decode gates WAIVED as on Board
+1; live pcks hash-checked 2026-10-28T01:14Z (Da Capo e2b0cb0e3d24288b,
+Chord Crush dc9f68dba4157d2d, Piano Tennis 145321af4240c2df). Section 4: A
+a 5-minute live check through the set, B tab 5, C ONE run with Grading_Hub
+rubrics/hw12_board2 (BOARD2-HUB b26aeff: four rubrics, best total per
+student, tested on real codes incl. a best-of-two student and a SHARED
+CODE nonce pair), D text changes. Section 5: D0 (shape, word count, the
+waiver, the proposed title), D1 the mic note, D3 Piano Tennis on board 2
+(the remembered Drill, LOCAL 1v1 codes, PT-UI's label promise ends 11/1),
+D4 duet, D5 Chord Crush profiles, D6 ONE RUN, ONE STUDENT (the bind note).
+Title PROPOSED "HW #11 — Choice Board 2: Triads"; roster row. Before that:
+2026-10-27 night (PT-FIX-DONE, Opus 5.5, —OER queue item 0w
 W1, Sam's playtest): Board 1 OPTION 3 says a root counts only when your
 answer on it WINS THE POINT (you play it, return the ball, your opponent
 misses), your strip shows the roots you have won, a stage = a point won
