@@ -109,6 +109,13 @@ push). —OER's own .gitignore lists —Homework/ beside —Games/, —Apps/,
 
 NEXT ACTION
 -----------
+(2026-10-28 late afternoon, B1-TEXT) Board 1's paste describes the fixes
+students asked for (—OER 0aa): Da Capo's 50-card window and the duet's
+count + pause-menu GET CODES (DC-FIX), Piano Tennis's rally rule, BALL
+SPEED, LOCAL 1v1 character screen and "Stage cleared!" window (PT-FIX-A/B,
+v2.17). SAM: tab 5 re-run for Board 1 (same title; section 4 B), then post
+section 3's UPDATE ANNOUNCEMENT. Board 2 Options 1-2 updated too (created
+Mon 11/2). Pre-fix codes still grade (hub B1-TEXT-HUB 46de09d).
 (2026-10-28, Q5REP-HW) NEW quiz5_item5_repertoire.txt: Quiz 5 item 5
 (repertoire), one Canvas assignment, a VIDEO or a Clef Runner code (Homework
 -> "Quiz 5: Repertoire": the 24 Reinagle pieces, the Minuet in G mm. 1-16,

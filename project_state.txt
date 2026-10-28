@@ -1,7 +1,21 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-28, afternoon (Q5REP-HW, Opus 5.5, —OER next_steps 0z
+Last updated: 2026-10-28, late afternoon (B1-TEXT, Opus 5.5, —OER next_steps
+0aa AA4, Sam away): Board 1 OPTIONS 1-4 rewritten to the fixes that shipped
+from students' feedback (Da Capo DC-FIX f85945c, live pck c07aeeb986b58ed6:
+the 50-card window, the duet's count by each name and GET CODES in its pause
+menu; Piano Tennis PT-FIX-A b1d9893 + F6 c4480fa + PT-FIX-B 29ad29a, v2.17,
+live pck 927e18d5f7d877ce: the rally rule, BALL SPEED, LOCAL 1v1's own
+character screen, the "Stage cleared!" window); 1034 words (was 949),
+ASCII. Sections 2-5 to match (A2 live check, B re-run line, D5 note), plus
+section 3's UPDATE ANNOUNCEMENT for Sam. Board 2 OPTIONS 1-2 (Da Capo)
+likewise, 669 words; its Piano Tennis tier way is unchanged. Grading_Hub
+B1-TEXT-HUB 46de09d: pre- and post-fix codes for every way grade the same
+(2469 + smoke). Claims check: 7 Jev flags, all cross-app mis-pairings or
+older text, none changed. Roster BOARD 1 / BOARD 2. Same titles, rubrics,
+due dates.
+Before that: 2026-10-28, afternoon (Q5REP-HW, Opus 5.5, —OER next_steps 0z
 Z3): NEW quiz5_item5_repertoire.txt, Quiz 5 item 5 (repertoire): ONE Canvas
 assignment, a video (any piece on the Quiz 5 Repertoire page, hand-graded)
 OR a Clef Runner code (mode quiz5_repertoire_f26, FROZEN; Option 1 two

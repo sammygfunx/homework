@@ -64,12 +64,18 @@ THE FACTS EVERYTHING HANGS ON
       VIDEO          hand-graded on accuracy (D2)
       PIANO TENNIS   THE GAUNTLET (Sam, 2026-10-27, —OER next_steps 0t;
                      D3): Drill = Gauntlet, four stages in order m6 -> M6
-                     -> m7 -> M7, each cleared when the student has WON A
-                     POINT from each of the 12 roots (a root counts only
-                     when the answer on it wins the point; PT-FIX), win
-                     or lose; VS COMPUTER (four characters, CPU Levels 2,
-                     3, 3, 3) or LOCAL 1v1 (partner as opponent, each with
-                     their own strip, a stage clears when BOTH have 12).
+                     -> m7 -> M7, each cleared when all 12 roots are
+                     cleared under THE RALLY RULE (PT-FIX-A, v2.16: every
+                     root returned in a rally turns green; a won point
+                     clears all of them, a lost point resets them; a root
+                     once per rally), win or lose; VS COMPUTER (four
+                     characters, CPU Levels 2, 3, 3, 3) or LOCAL 1v1
+                     (each partner picks a character, each has their own
+                     strip, a stage clears when BOTH have 12). BALL SPEED
+                     EASY / MEDIUM (default, 100%) / HARD / INSANE above
+                     PLAY; a "Stage cleared! Get your code now, or keep
+                     playing?" window (PT-FIX-B, v2.17, live pck
+                     927e18d5f7d877ce).
                      Cleared stages are saved on the device. 25 points
                      per stage cleared; full credit = 4 of 4. App
                      "pianotennis", mode "gauntlet_67", solo and 2-player
@@ -87,7 +93,12 @@ THE FACTS EVERYTHING HANGS ON
                      duet end screen, one code per SEAT, mode
                      "duet_sixths" / "duet_sevenths", no name or ID;
                      rubrics dacapo_duet_sixths + dacapo_duet_sevenths.
-                     Gate left: Sam decodes one live code.
+                     Gate left: Sam decodes one live code. Since DC-FIX
+                     (2026-10-28, live pck c07aeeb986b58ed6): CARDS n/50
+                     by each name, GET CODES in the duet's pause menu
+                     (ESC or B) mid-match, and a 50-card window (GET CODE
+                     / KEEP PLAYING) per seat; solo Da Capo has the same
+                     window at 50 cards.
       CHORD CRUSH    NOT ON THIS BOARD: it has no interval content.
   Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. A Da Capo
   run in any other course lands in the hub's no_rubric list, listed,
@@ -110,6 +121,18 @@ the gauntlet alone (VS COMPUTER), 4 = the gauntlet with a partner (LOCAL
 has no codes yet, so it is not an option. Sam's Canvas still showed the
 OLD tier Option 3 on 10-28 morning: restart the hub, re-run tab 5 (or
 paste the HTML in Canvas's HTML editor).
+
+BOARD FIXES 2026-10-28 afternoon (B1-TEXT, —OER next_steps 0aa; students'
+feedback the day Board 1 opened). Options 1-4 now describe what shipped:
+Da Capo DC-FIX f85945c (live pck c07aeeb986b58ed6): the 50-card window
+(solo and per duet seat), the duet's CARDS n/50 and GET CODES in its pause
+menu. Piano Tennis PT-FIX-A b1d9893 (v2.16, the RALLY RULE; F6 c4480fa,
+v2.15, the C#/D# paddle bug) and PT-FIX-B 29ad29a (v2.17, live pck
+927e18d5f7d877ce): BALL SPEED, LOCAL 1v1's own character screen, the
+"Stage cleared!" window. Same title, rubrics, codes and due date; codes
+made before the update still grade (Grading_Hub B1-TEXT-HUB 46de09d). Sam:
+RE-RUN TAB 5 (section 4 B, the update) and post the section 3 UPDATE
+ANNOUNCEMENT.
 ===========================================================
 1. THE CANVAS ASSIGNMENT
 ===========================================================
@@ -135,7 +158,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 1: Da Capo</h4>
 <ul>
 <li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>.</li>
-<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. The GET CODE screen tells you how many cards you still need.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>? The GET CODE screen tells you how many cards you still need.</li>
 <li>You can play on a computer keyboard, an iPad, or a MIDI keyboard. Use the same browser on the same device each time, and press <strong>CONTINUE</strong> to pick up where you left off.</li>
 <li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
@@ -143,31 +166,31 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 2: Da Capo Duet (with a partner)</h4>
 <ul>
 <li>You need a partner and one MIDI keyboard (the class pianos work). Open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby, set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>, set <strong>SAME MATERIAL</strong> to <strong>ON</strong>, and press <strong>START</strong>.</li>
-<li><strong>Full credit:</strong> each of you clears 50 cards. Press <strong>PLAY AGAIN</strong> after each match to keep adding to your total; going back to the lobby starts the count over. The end screen shows how many cards each player has cleared so far.</li>
-<li><strong>To submit:</strong> press <strong>GET CODES</strong>. Each of you scans the QR code for your own seat (P1 or P2) with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas. You do not type a name or ID in the game.</li>
+<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name at the top. <strong>PLAY AGAIN</strong> after each match keeps adding to it; going back to the lobby starts the count over. When one of you reaches 50, a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
+<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or any time in a match: press ESC to pause, then <strong>GET CODES</strong>. Each of you scans the QR code for your own seat (P1 or P2) with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas. You do not type a name or ID in the game.</li>
 </ul>
 
 <h4>OPTION 3: Piano Tennis Gauntlet (alone)</h4>
 <ul>
 <li>You need a MIDI keyboard (the class pianos work). The computer keyboard cannot reach a 6th or 7th from every root. On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
-<li>Choose <strong>VS COMPUTER</strong>, set <strong>Drill</strong> to <strong>Gauntlet</strong>, press <strong>OPEN THE GAUNTLET</strong>, then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
-<li>There are four stages in order: minor 6th, major 6th, minor 7th, major 7th. Each stage has a new computer opponent.</li>
-<li>Play the interval up from a new root each time; the lower note is the root. A root counts only when your answer on it wins the point: you play it, return the ball, and your opponent misses. Your strip at the top shows the roots you have won.</li>
-<li>A stage is cleared when you have won a point from each of the 12 roots, whatever the score.</li>
+<li>Choose <strong>VS COMPUTER</strong>, set <strong>Drill</strong> to <strong>Gauntlet</strong>, and press <strong>OPEN THE GAUNTLET</strong>. Pick a <strong>BALL SPEED</strong> (EASY, MEDIUM, HARD or INSANE; MEDIUM is the default), then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
+<li>There are four stages in order: minor 6th, major 6th, minor 7th, major 7th. Each stage has a new computer opponent, and the ball speeds up as you win points.</li>
+<li>Play the interval up from a root; the lower note is the root. Every root you return the ball with turns green on your strip at the top. Win the point and all your green roots are cleared; lose it and they reset. A root can be used once per rally.</li>
+<li>A stage is cleared when all 12 roots are cleared, whatever the score. A window then asks: get your code now, or keep playing?</li>
 <li>Cleared stages are saved on that computer and browser, so you can stop between stages and press <strong>CONTINUE</strong> later.</li>
 <li><strong>Full credit:</strong> clear all four stages. Each stage you clear counts 25% of the grade, and you do not need to win.</li>
-<li><strong>To submit:</strong> press <strong>GET CANVAS CODE</strong> after any stage; the code counts every stage you have cleared so far. Enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>. If you clear more stages later, submit a new code; your last submission is the one graded.</li>
+<li><strong>To submit:</strong> press <strong>GET CANVAS CODE</strong> in that window or after any stage; the code counts every stage you have cleared so far. Enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>. If you clear more stages later, submit a new code; your last submission is the one graded.</li>
 </ul>
 
 <h4>OPTION 4: Piano Tennis Gauntlet (with a partner)</h4>
 <ul>
 <li>You need a partner, one computer, and a MIDI keyboard (the class pianos work). Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
-<li>Choose <strong>LOCAL 1v1</strong>. Share one keyboard split at E4 and F4 (the left player plays E4 and below), or use two MIDI keyboards. Set <strong>Drill</strong> to <strong>Gauntlet</strong>, press <strong>OPEN THE GAUNTLET</strong>, then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
+<li>Choose <strong>LOCAL 1v1</strong>. Share one keyboard split at E4 and F4 (the left player plays E4 and below), or use two MIDI keyboards. Set <strong>Drill</strong> to <strong>Gauntlet</strong> and press <strong>OPEN THE GAUNTLET</strong>. Each of you clicks a character (P1 on the left, P2 on the right). Pick a <strong>BALL SPEED</strong>, then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
 <li>The four stages are the same as Option 3 (minor 6th, major 6th, minor 7th, major 7th), and your partner is your opponent.</li>
-<li>Play the interval up from a new root each time; the lower note is the root. A root counts only when your answer on it wins the point: you play it, return the ball, and your partner misses. Each of you has your own strip at the top.</li>
-<li>A stage ends when you BOTH have won a point from each of the 12 roots, whatever the score. Cleared stages are saved on that computer and browser; press <strong>CONTINUE</strong> to pick up later.</li>
+<li>The rally rule is the same as Option 3, and each of you has your own strip at the top.</li>
+<li>When you clear all 12 of your roots, a window comes up for you while the match waits: get your code now, or keep playing? A stage ends when you BOTH have cleared all 12, whatever the score. Cleared stages are saved on that computer and browser; press <strong>CONTINUE</strong> to pick up later.</li>
 <li><strong>Full credit:</strong> clear all four stages. Each stage you clear counts 25% of the grade, and you do not need to win.</li>
-<li><strong>To submit:</strong> press your own button after any stage, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas. Each partner submits their own code; your last submission is the one graded.</li>
+<li><strong>To submit:</strong> press your own button, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>, in your window or after any stage. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas. Each partner submits their own code; your last submission is the one graded.</li>
 </ul>
 
 <h4>OPTION 5: Video</h4>
@@ -241,28 +264,30 @@ it: Da Capo, Da Capo duet, Piano Tennis, or a video. Submit ONE.
 
 Da Capo: on the title screen press HOMEWORK, then SIXTHS or SEVENTHS. Beat
 all 24 stages or clear 50 cards, whichever comes first; the game counts
-for you. GET CODE, name and school ID, copy, paste the whole code in the
-text box.
+for you, and at 50 cards it asks if you want your code now. GET CODE,
+name and school ID, copy, paste the whole code in the text box.
 
 Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, SIXTHS
 or SEVENTHS, same material on, PLAY AGAIN between matches. Each of you
-clears 50 cards in that sitting, then GET CODES: each of you scans your
+clears 50 cards in that sitting; your count is by your name. GET CODES
+is on the end screen and in the pause menu (ESC): each of you scans your
 own seat's QR code with your own phone, copies it and submits your own.
 
 Piano Tennis needs a MIDI keyboard for this; the class pianos work.
 Alone (VS COMPUTER) or with a partner (LOCAL 1v1). Set Drill to
-Gauntlet and open the gauntlet. It has four stages in order: minor 6th,
-major 6th, minor 7th, major 7th. Alone, you face four characters; with
-a partner, your partner is the opponent. Play the interval from a new
-root each time. A root counts only when your answer on it wins the
-point: you return the ball and your opponent misses. Your strip at the
-top shows the roots you have won. Win a point from all 12 roots and the
-stage is cleared, whatever the score; with a partner, each of you has
-your own strip and needs your own 12. Cleared stages are saved on that
-computer. Each stage counts 25%, so clear all four for full credit.
-GET CANVAS CODE works after any stage and counts every stage you have
-cleared; with a partner each of you presses your own, P1 or P2 CANVAS
-CODE, and submits your own. If Gauntlet is grayed out, the game has not
+Gauntlet and open the gauntlet; with a partner, each of you picks a
+character. Pick a ball speed; MEDIUM is the default. It has four stages in order: minor 6th, major 6th, minor 7th, major
+7th. Alone, you face four characters; with a partner, your partner is
+the opponent. Play the interval from a root. Every root you return the
+ball with turns green; win the point and all your green roots are
+cleared, lose it and they reset. Clear all 12 roots and the stage is
+cleared, whatever the score; with a partner, each of you has your own
+strip and needs your own 12. When you clear a stage, the game asks if
+you want your code now or want to keep playing. Cleared stages are
+saved on that computer. Each stage counts 25%, so clear all four for
+full credit. GET CANVAS CODE works after any stage and counts every
+stage you have cleared; with a partner each of you presses your own,
+P1 or P2 CANVAS CODE, and submits your own. If Gauntlet is grayed out, the game has not
 found your MIDI keyboard yet: plug it in and play a key.
 
 Or a video: major and minor 7ths on every root, ascending and descending
@@ -300,14 +325,16 @@ Subject: Choice Board 1: Sixths and Sevenths, due Sun 11/1 at 11:59 PM
   DA CAPO DUET  with a partner on one MIDI keyboard: MULTIPLAYER ->
     DUET (ONE KEYBOARD), SIXTHS or SEVENTHS, SAME MATERIAL on. Your
     seat clears 50 cards in one sitting (PLAY AGAIN keeps the count).
-    GET CODES, scan YOUR seat's QR code with your phone, paste it.
+    GET CODES (end screen, or ESC to pause), scan YOUR seat's QR code
+    with your phone, paste it.
   PIANO TENNIS GAUNTLET  https://piano-tennis.netlify.app (computer,
     Chrome or Edge, and a MIDI keyboard: the class pianos work). Alone
     (VS COMPUTER) or with a partner (LOCAL 1v1). Drill: Gauntlet, then
-    OPEN THE GAUNTLET. Four stages: minor 6th, major 6th, minor 7th,
-    major 7th. A root counts only when your answer on it wins the
-    point; win a point from all 12 roots to clear a stage, whatever
-    the score. Cleared stages are saved on that computer.
+    OPEN THE GAUNTLET, pick a BALL SPEED. Four stages: minor 6th,
+    major 6th, minor 7th, major 7th. Every root you return the ball
+    with turns green; win the point and they are all cleared, lose it
+    and they reset. Clear all 12 roots to clear a stage, whatever the
+    score. Cleared stages are saved on that computer.
     Each stage counts 25%; clear all four for full credit. GET CANVAS
     CODE works after any stage (partners: P1 or P2 CANVAS CODE, each
     your own); paste the whole code, and submit a new one if you clear
@@ -321,6 +348,34 @@ Due Sunday, November 1, 2026, 11:59 PM Eastern. Same grade every way.
 Your last submission is the one graded.
 
 (A way added later gets its own short announcement, section 4 D.)
+
+UPDATE ANNOUNCEMENT, 2026-10-28 (B1-TEXT; Sam posts this after the tab 5
+re-run in section 4 B. Board 1 is already live, so this is a second,
+short announcement, not a repost of the one above.)
+
+Subject: Choice Board 1: game updates (your progress still counts)
+
+Thank you for the feedback on Choice Board 1 this week! I've made some
+updates to Da Capo and Piano Tennis based on what you told me:
+
+  DA CAPO: at 50 cards, a window asks if you want to get your code now
+    or keep playing. In DUET, each player's count is shown by their
+    name, and you can press ESC in the middle of a match to pause and
+    GET CODES.
+  PIANO TENNIS GAUNTLET: a new rally rule. Every root you return the
+    ball with turns green; win the point and all your green roots are
+    cleared at once (lose it and they reset), so stages go faster. Pick
+    a BALL SPEED before you play (MEDIUM is the default; try HARD if
+    Biscuit is too easy). With a partner, each of you picks your own
+    character. When you clear a stage, the game asks if you want your
+    code now or want to keep playing. And C-sharp and D-sharp answers
+    no longer move the paddle by mistake.
+
+Your progress and codes still count: stages and cards you have already
+cleared are still saved, and a code you already submitted is still
+graded the same way. The assignment page has the updated steps.
+
+The due date is the same: Sunday, November 1, at 11:59 PM Eastern.
 
 
 ===========================================================
@@ -351,17 +406,30 @@ Your last submission is the one graded.
       grayed out and a gold line "Gauntlet: MIDI keyboard required" under
       it. Plug the keyboard in and play a key: both clear (if they stay
       until a reload, tell the next pass).
-  [ ] https://piano-tennis.netlify.app in Chrome, hard-refresh. VS
-      COMPUTER, Drill = Gauntlet, OPEN THE GAUNTLET: four cards, BISCUIT
-      (m6), BOLT (M6), HAZEL (m7), EMBER (M7); PLAY STAGE 1.
-  [ ] Win a point from each of the 12 roots with a minor 6th (a root is
-      struck only when your return wins the point: "YOU WIN THE POINT: G
-      IS MARKED OFF"; the score does not matter; about 5 minutes). The
-      panel comes back with "STAGE 1 CLEARED" and Biscuit's line. Read a
-      few lines: are they in your voice?
-  [ ] GET CANVAS CODE (1 OF 4), your name and ID, COPY CODE. Close the
+  [ ] https://piano-tennis.netlify.app in Chrome, hard-refresh (v2.17,
+      pck 927e18d5f7d877ce). VS COMPUTER, Drill = Gauntlet, OPEN THE
+      GAUNTLET: four cards, BISCUIT (m6), BOLT (M6), HAZEL (m7), EMBER
+      (M7); the BALL SPEED row right above PLAY, MEDIUM lit; PLAY STAGE 1
+      (the readout under your score says SPEED 100% MEDIUM).
+  [ ] THE RALLY RULE with a minor 6th: a root you play shows a yellow dot
+      on your strip, a root you return with a green check; win the point
+      and every green root is struck ("YOU WIN THE POINT: C, G ARE
+      CLEARED"); lose it and they reset; a root already green this rally
+      is refused ("G IN THIS RALLY"). Clear all 12 (about 2-3 minutes at
+      MEDIUM). The window "STAGE 1 CLEARED!" / "Stage cleared! Get your
+      code now, or keep playing?" comes up with GET CANVAS CODE and KEEP
+      PLAYING. Read a few of Biscuit's lines: in your voice, and true?
+  [ ] GET CANVAS CODE in the window, your name and ID, COPY CODE. Close the
       tab, reopen, Drill = Gauntlet, OPEN THE GAUNTLET: it should say
       CONTINUE: STAGE 2 (the stage was saved).
+  [ ] LOCAL 1v1 (30 seconds, no need to play): Drill = Gauntlet, OPEN THE
+      GAUNTLET shows NO computer opponents, just P1 and P2 picking a
+      character (Biscuit, Bolt, Hazel, Ember) and the BALL SPEED row.
+  [ ] DA CAPO (DC-FIX, pck c07aeeb986b58ed6, 2 minutes): MULTIPLAYER ->
+      DUET (ONE KEYBOARD), SIXTHS, START: CARDS 0/50 by each name; ESC:
+      RESUME / GET CODES / QUIT TO LOBBY / QUIT TO TITLE; GET CODES shows
+      both QR codes; BACK, RESUME, the count is unchanged. (The 50-card
+      window itself is in Da_Capo project_state 0aj's live check.)
   [ ] Hub: tab 3 "Load folder…" -> rubrics/hw10_board1 (the picker shows
       "SET: HW #10 — Choice Board 1: Sixths and Sevenths [5 rubrics]").
       Tab 2: paste the code, Decode. EXPECT app pianotennis, mode
@@ -393,6 +461,10 @@ Your last submission is the one graded.
   [ ] Student View: a Text Entry tab AND a File Upload tab. Publish.
   [ ] Post section 3; say section 2. docs/roster.txt row BOARD 1:
       READY TO CREATE -> CREATED IN CANVAS -> LIVE.
+  [ ] RE-RUN FOR THE BOARD FIXES (2026-10-28, B1-TEXT): the same as the
+      re-run below, with today's section 1 HTML (Options 1-4 changed).
+      Then post section 3's UPDATE ANNOUNCEMENT. Nothing else changes:
+      same title, points, due date, rubrics and set.
   [ ] RE-RUN FOR THE GAUNTLET (2026-10-27): the assignment exists, so tab 5
       with the SAME title and the new section 1 HTML in ONE paste,
       Preview, then Create: it UPDATES the description in place. Create
@@ -716,6 +788,46 @@ D4. THE DA CAPO DUET (researched 2026-10-26 at the deployed fb9f883).
     nonce from two submitters (SHARED CODE). With SAME MATERIAL OFF, P2's
     code is for P2's own course (P2 COURSE), which this board's rubrics
     do not take unless it is SIXTHS or SEVENTHS.
+
+D5. THE BOARD FIXES (2026-10-28 afternoon, —OER next_steps 0aa; students'
+  feedback the day Board 1 opened; Board 1 text pass B1-TEXT).
+  - WHAT SHIPPED. Da Capo DC-FIX f85945c (live pck c07aeeb986b58ed6, hash
+    re-checked by B1-TEXT): the duet HUD's CARDS n/50 by each name (CARDS
+    50 - CODE READY from 50); the duet pause menu RESUME / GET CODES /
+    QUIT TO LOBBY / QUIT TO TITLE (ESC or B), its GET CODES = the end
+    screen's two QR codes for the sitting so far, the count untouched;
+    THE 50-CARD MOMENT: a short sound and "YOU'VE CLEARED 50 FLASH CARDS!
+    / GET YOUR CODE NOW, OR KEEP PLAYING?" (duet: "P1 MINT: ...") with
+    GET CODE / KEEP PLAYING, the cursor on KEEP PLAYING, once per run
+    (solo, at the course's floor: 50 on sixths / sevenths) and once per
+    seat per sitting (duet). Piano Tennis PT-FIX-A-F6 c4480fa (v2.15: an
+    answer note is never a paddle key; only the lowest Db/Eb steers),
+    PT-FIX-A b1d9893 (v2.16, THE RALLY RULE, replacing point rule (a)
+    above: played = yellow dot, returned = green check, a won point
+    strikes every green root of the rally (red line), a lost point resets
+    them, a root green this rally or already struck is refused; same in
+    the ROOT CYCLE drill and for each 1v1 player), PT-FIX-B 29ad29a
+    (v2.17, live pck 927e18d5f7d877ce, hash re-checked): BALL SPEED
+    EASY 75% / MEDIUM 100% (default) / HARD 115% / INSANE 135% above
+    PLAY (VS COMPUTER adapts per point from there; LOCAL 1v1 stays at the
+    start speed; tiers and root cycle unchanged); LOCAL 1v1's gauntlet
+    screen shows no computer opponents, each player picks a character;
+    the "Stage cleared! Get your code now, or keep playing?" window (1v1:
+    the first player to 12 gets it mid-match while the match waits, and
+    their code counts the stage at once).
+  - MINUTES PER STAGE (Piano_Tennis build/stage_minutes_sim.gd, steady
+    student, PT-FIX-B means, EASY / MEDIUM / HARD / INSANE): Level 2
+    3.0 / 2.0 / 1.9 / 1.8; Level 3 2.9 / 2.6 / 2.6 / 3.0. The gauntlet
+    (Levels 2, 3, 3, 3) is about 10-14 minutes, down from about 27.
+  - THE ENDGAME (PT-FIX-A FOR SAM 2, kept literal): once every open root
+    is green in a rally the student has no legal answer and loses that
+    point; the last root needs a rally where its return wins.
+  - COMPATIBILITY. No KTS1 row, mode, id or save version changed in
+    either app; saved gauntlet stages and Da Capo runs load. Grading_Hub
+    B1-TEXT-HUB 46de09d grades pre- and post-fix codes for every way
+    through rubrics/hw10_board1 (and Board 2's Da Capo ways through
+    hw12_board2), including a duet code taken mid-match and a 1v1 code
+    from a player who cleared a stage first: 2469 + smoke.
 
 L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
   the same policy by hand to hand-graded rows (tab 6).

@@ -1,5 +1,14 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS B1-TEXT (2026-10-28, Opus 5.5, —OER next_steps 0aa AA4; last pane)
+  Waited for PT-FIX-B (29ad29a) and DC-FIX (f85945c); read their FOR SAM
+  blocks; hash-checked both live pcks. Board 1 OPTIONS 1-4 and Board 2
+  OPTIONS 1-2 rewritten to the shipped behavior (labels from the code);
+  Board 1 sections 2-5, an UPDATE ANNOUNCEMENT, roster. Grading_Hub got
+  post-fix fixtures made by the shipped scripts and one pre/post test
+  (B1-TEXT-HUB 46de09d). Claims check: no real contradiction. Nothing in
+  Canvas.
+
 PASS Q5REP-HW (2026-10-28, Opus 5.5, —OER next_steps 0z Z3; last step)
   Waited for BOARD2-MIC (5f36875). Wrote quiz5_item5_repertoire.txt in the
   midterm item 5's shape from Clef Runner's shipped strings (Q5REP-CR, then

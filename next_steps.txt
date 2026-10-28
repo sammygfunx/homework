@@ -1,6 +1,11 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-28, afternoon (Q5REP-HW: NEW quiz5_item5_repertoire.txt,
+Updated: 2026-10-28, late afternoon (B1-TEXT: Board 1 OPTIONS 1-4 + Board 2
+OPTIONS 1-2 updated to DC-FIX / PT-FIX-A / PT-FIX-B; Board 1 section 3 UPDATE
+ANNOUNCEMENT; hub B1-TEXT-HUB 46de09d. SAM: re-run tab 5 for Board 1 (the
+update, section 4 B) and post the announcement; Board 2 is created Mon 11/2
+with its new paste).
+Before that: 2026-10-28, afternoon (Q5REP-HW: NEW quiz5_item5_repertoire.txt,
 Quiz 5 item 5, video OR Clef Runner, READY TO CREATE; roster QUIZ 5.5).
 Before that: 2026-10-28 (BOARD2-MIC: board 2 OPTIONS 1 and 4 each gain a
 microphone (beta) bullet, Sam's yes; 657 words; D1 / D3 say what the mic

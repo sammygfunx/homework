@@ -404,9 +404,10 @@ BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
          Capo "sixths" OR "sevenths" (rubrics dacapo_sixths +
          dacapo_sevenths) OR Da Capo duet, 50 cards per seat over a
          sitting (dacapo_duet_sixths + _sevenths) OR Piano Tennis
-         GAUNTLET, four stages m6 -> M6 -> m7 -> M7, a point WON from
-         each of the 12 roots per stage (PT-FIX v2.10: a root counts only
-         when the answer on it wins the point; own strip per player),
+         GAUNTLET, four stages m6 -> M6 -> m7 -> M7, all 12 roots
+         cleared per stage under the RALLY RULE (PT-FIX-A v2.16: a won
+         point clears every root returned in that rally; own strip per
+         player; BALL SPEED and a stage-cleared window, PT-FIX-B v2.17),
          alone vs four characters or LOCAL 1v1 (one code per player),
          saved per stage, 25 points per stage cleared, 4 of 4 = full
          credit, a code after any stage (rubric pianotennis_board1_
@@ -429,6 +430,12 @@ BOARD 1  "HW #10 — Choice Board 1: Sixths and Sevenths" (the real Canvas
          (PT-RC), then again that evening as THE GAUNTLET (GAUNTLET-DONE;
          Piano Tennis v2.7 LIVE), for Sam to re-run tab 5 before class
          Wed 10/28 (section 4 A2 is a 5-minute live check first).
+         2026-10-28 afternoon (B1-TEXT, —OER 0aa): Options 1-4 updated
+         to DC-FIX + PT-FIX-A/B (50-card window, duet count + pause GET
+         CODES, rally rule, BALL SPEED, 1v1 character screen, stage
+         window); codes, rubrics, title and due date unchanged; pre-fix
+         codes still grade (hub B1-TEXT-HUB). Sam: RE-RUN TAB 5 (section
+         4 B) and post section 3's UPDATE ANNOUNCEMENT.
 BOARD 2  "HW #11 — Choice Board 2: Triads" (PROPOSED by BOARD2-OPTIONS,
          2026-10-27 night, for Sam to confirm before the first Create;
          the file's old title "Choice Board 2: Triad Qualities" was never
@@ -450,6 +457,8 @@ BOARD 2  "HW #11 — Choice Board 2: Triads" (PROPOSED by BOARD2-OPTIONS,
          Content: —Homework/hw_board2_triads.txt
          Status: READY TO CREATE (five-way paste), 2026-10-27 night. Sam
            creates it Mon 11/2 after section 4 A (5-minute live check).
+           B1-TEXT 2026-10-28: Options 1-2 name Da Capo's 50-card window
+           and the duet's pause GET CODES; section 1's paste changed.
 BOARD 3  Seventh Chords (Da Capo OR Chord Crush OR video).
          Da Capo "seventh_chords"; rubric dacapo_seventh_chords. Chord
          Crush five seventh stages (KTS1 code; since CC-LEVELS

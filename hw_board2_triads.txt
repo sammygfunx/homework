@@ -17,6 +17,14 @@ Graded in ONE run by the hub's set rubrics/hw12_board2 (section 4 C).
 BOARD2-MIC 2026-10-28: OPTIONS 1 and 4 each gain a microphone (beta)
 bullet; live pcks re-checked 13:03Z: Da Capo 3a5eb23c3cd7b03c, Piano
 Tennis 717be96df59f1294 (v2.14), Chord Crush unchanged.
+B1-TEXT 2026-10-28 afternoon (—OER next_steps 0aa): OPTIONS 1 and 2 (Da
+Capo) name DC-FIX's 50-card window, the duet's count by each name and GET
+CODES in the duet pause menu (live pck c07aeeb986b58ed6, hash-checked).
+OPTION 4 unchanged: PT-FIX-A/B's rally rule, BALL SPEED and stage window
+are the gauntlet / root cycle only; the Weekly tiers play as before (Piano
+Tennis v2.17, live pck 927e18d5f7d877ce). Codes, modes and rubrics
+unchanged; the hub grades pre- and post-fix triads codes (B1-TEXT-HUB
+46de09d). Section 1's paste changed: 669 words.
 TITLE PROPOSED, FOR SAM: "HW #11 — Choice Board 2: Triads" (section 1).
 ===========================================================
 
@@ -113,7 +121,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 1: Da Capo</h4>
 <ul>
 <li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>TRIAD QUALITIES</strong>.</li>
-<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. The GET CODE screen tells you how many cards you still need.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>? The GET CODE screen tells you how many cards you still need.</li>
 <li>Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
 <li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then <strong>MICROPHONE</strong> (beta), and play the cards on the piano. It works best in a quiet room with headphones.</li>
 <li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
@@ -122,8 +130,8 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 2: Da Capo Duet (with a partner)</h4>
 <ul>
 <li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
-<li><strong>Full credit:</strong> each of you clears 50 cards. <strong>PLAY AGAIN</strong> keeps your count; going back to the lobby starts it over.</li>
-<li><strong>To submit:</strong> press <strong>GET CODES</strong>. Each of you scans the QR code for your own seat with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
+<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name at the top; <strong>PLAY AGAIN</strong> keeps it, and going back to the lobby starts it over. At 50 a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
+<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC in a match, then <strong>GET CODES</strong>. Each of you scans the QR code for your own seat with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
 </ul>
 
 <h4>OPTION 3: Chord Crush</h4>
@@ -169,12 +177,14 @@ pick how you do it: Da Capo, Da Capo duet, Chord Crush, Piano Tennis, or
 a video. Submit ONE.
 
 Da Capo: HOMEWORK, then TRIAD QUALITIES. Clear 50 cards or beat all 24
-stages; the game counts for you. GET CODE, name and school ID, copy,
-paste the whole code in the text box.
+stages; the game counts for you, and at 50 cards it asks if you want
+your code now. GET CODE, name and school ID, copy, paste the whole code
+in the text box.
 
 Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, TRIAD
 QUALITIES, same material on, PLAY AGAIN between matches. Each of you
-clears 50 cards in that sitting, then GET CODES: each of you scans your
+clears 50 cards in that sitting; your count is by your name. GET CODES
+is on the end screen and in the pause menu (ESC): each of you scans your
 own seat's QR code with your own phone and submits your own.
 
 Chord Crush: pick your own player, Chord Stages, Root position. Clear all
@@ -211,7 +221,8 @@ Subject: HW #11 — Choice Board 2: Triads, due Sun 11/8 at 11:59 PM
   DA CAPO DUET  with a partner on one MIDI keyboard: MULTIPLAYER ->
     DUET (ONE KEYBOARD), TRIAD QUALITIES, SAME MATERIAL on. Each of you
     clears 50 cards in one sitting (PLAY AGAIN keeps the count). GET
-    CODES, scan YOUR seat's QR code with your phone, paste it.
+    CODES (end screen, or ESC to pause), scan YOUR seat's QR code with
+    your phone, paste it.
   CHORD CRUSH  https://chord-crush-mobile.netlify.app (MIDI keyboard or
     touch). Your own player, Chord Stages, Root. All 12 levels of Major
     Triads and of Minor Triads (half each); Diminished and Augmented are
