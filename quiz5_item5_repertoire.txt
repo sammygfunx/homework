@@ -106,12 +106,12 @@ quotes. Every quoted Clef Runner string is the shipped one.)
 
 ===HTML===
 <h3>Quiz 5, item 5: your repertoire piece. Record a video, or play it in Clef Runner.</h3>
-<p>Choose from the <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Quiz5_Repertoire.pdf">Quiz 5 Repertoire page</a>, which links my practice video for each piece:</p>
+<p>Item 5 is worth one fifth of Quiz 5 (20 points). Choose from the <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Quiz5_Repertoire.pdf">Quiz 5 Repertoire page</a>, which links my practice video for each piece:</p>
 <ul>
 <li><strong>Reinagle, 24 Short and Easy Pieces, Op. 1:</strong> TWO pieces from Nos. 1 to 12, or ONE piece from Nos. 13 to 24.</li>
 <li><strong>Or ONE of the other pieces on the page:</strong> Gurlitt, Vivace in C major; Gurlitt, Through Forest and Field; the Minuet in G major (measures 1 to 16); Beethoven, Ecossaise in E-flat major; Haydn, German Dance in B-flat major.</li>
 </ul>
-<p>Play the whole piece, both hands, in the printed key, with the repeats. A video is graded on accuracy and on keeping a steady pulse; Clef Runner grades accuracy at the tempo you choose.</p>
+<p>Play the whole piece, both hands, in the printed key, with the repeats. A video is graded on accuracy and on keeping a steady pulse; Clef Runner grades accuracy, and a run counts at tempo 60 or faster.</p>
 
 <h4>Way 1: Record a video (any piece on the page)</h4>
 <p>Record yourself playing on a piano or keyboard, with your hands and the keyboard in the frame. One take per piece is fine; for two Reinagle pieces, one video with both or two videos. Choose a tempo you can keep steady from the first note to the last.</p>
@@ -342,6 +342,25 @@ D. CHOICES MADE WITHOUT SAM (Q5REP, 2026-10-28; each a small change)
      the app reads what is graded. Worth one sentence in class.
   D7 NO MICROPHONE in this item (as the midterm): MIDI or the computer
      keyboard only. The Quiz 4 extra credit was the mic's one assignment.
+X. CROSS-CHECK (Q5-GURLITT-TEXT2, 2026-11-02): the Canvas HTML read against the
+   Week 12 chapter (#week-12, output/keys_to_success_weeks_01_13_v2026-09-12),
+   the Quiz 5 Outline and the Quiz 5 Repertoire handout. AGREE: due Sunday
+   Nov 8 11:59 PM; item 5 is one fifth (20%) of the quiz (the HTML now says so);
+   the Reinagle rule (two of Nos. 1-12 or one of 13-24, or one of the other
+   pieces); Clef Runner at tempo 60 or faster, best run per piece, both hands,
+   repeats written out, MIDI keyboard + Chrome/Edge/Firefox; the video way
+   (upload, or an unlisted YouTube link). The HTML is the ONE text Sam pastes
+   into the hub's tab 5 (the hub keeps no saved row), so it is the hub row.
+   MISMATCHES (not edited here):
+   - FOR SAM: the Week 12 chapter's homework paragraph says Clef Runner "has
+     all 24 Reinagle pieces, the Minuet in G (measures 1 to 16), and
+     Beethoven's Ecossaise": it omits both Gurlitt pieces. A chapter change.
+   - FOR SAM: the Repertoire handout's opening line says item 5 is "recorded
+     and due Sunday"; the Outline and chapter say recorded OR Clef Runner.
+     Small; the handout's own Clef Runner strip lower down says it.
+   - The chapter's week-12 line says the video can be "paste a link to an
+     unlisted YouTube video"; the live assignment also keeps the website URL
+     type, so a link works in either box.
 L. LATENESS: as midterm_item5_repertoire.txt section 5 L1/L2 (the hub's
    Lateness.gd for codes; videos by hand).
 W. WHAT CLEF RUNNER CERTIFIES: pitch and timing at the chosen tempo, both
