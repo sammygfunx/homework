@@ -11,7 +11,7 @@ the hub's set Grading_Hub/rubrics/hw13_board3 (W13-HW-HUB b01eafa).
 Live pcks hash-checked 2026-11-02T18:10Z against their recorded deploys:
 Da Capo c07aeeb986b58ed6 (DC-FIX, f85945c; "seventh_chords" live since
 pass 21), Chord Crush 2d62355997d039c1 (v51.9.1, CC-REVENDOR 44465e8).
-Section 1's paste: 622 words (Board 2's: 704, counted the same way).
+Section 1's paste: 629 words (Board 2's: 704, counted the same way).
 TITLE PROPOSED, FOR SAM: "HW #13 — Choice Board 3: Seventh Chords"
 (Pop Tune Composition takes HW #12; section 1).
 ===========================================================
@@ -124,7 +124,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 3: Chord Crush</h4>
 <ul>
 <li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>.</li>
-<li><strong>Full credit:</strong> clear levels 1 to 6 (the keys C, G, D, A, E and B) of all five seventh-chord stages: <strong>Major 7th Chords</strong>, <strong>Dominant 7th Chords</strong>, <strong>Minor 7th Chords</strong>, <strong>Half-Diminished 7th Chords</strong> and <strong>Diminished 7th Chords</strong> (one fifth of the grade each). Each stage card shows your levels, for example 6/12.</li>
+<li><strong>Full credit:</strong> clear levels 1 to 6 (the keys C, G, D, A, E and B) of all five seventh-chord stages: <strong>Major 7th Chords</strong>, <strong>Dominant 7th Chords</strong>, <strong>Minor 7th Chords</strong>, <strong>Half-Diminished 7th Chords</strong> and <strong>Diminished 7th Chords</strong>. Each stage earns 20 points once all 6 of those levels are cleared; its card shows your levels, for example 6/12.</li>
 <li><strong>Extra credit:</strong> 1 point for each of those stages you finish (all 12 levels).</li>
 <li>Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
 <li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
@@ -301,7 +301,7 @@ D0. THE PROPOSAL (W13-HW, 2026-11-02), ALL FOR SAM TO APPROVE:
   - NOT ADDED (FOR SAM): a "practice first" line naming Key Spar's Seventh
     Chords course or Lead Sheet Lab (ungraded, D3). Left out to keep the
     paste to graded ways, as Board 2.
-  - The paste is 622 words, tags stripped (Board 2's five ways: 704 by
+  - The paste is 629 words, tags stripped (Board 2's five ways: 704 by
     the same count).
 
 D1. DA CAPO (DACAPO-20; Curriculum.gd spec_for "seventh_chords").

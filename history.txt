@@ -1,5 +1,18 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS W13-HW (2026-11-02, Opus 5.5, —OER docs/passes_2026-11-02_ks_w13.txt
+  section 4; gated on W13-SHEETS 83e8579). Read-only prep while gated: the
+  brief (PART 7), roster, Board 3, every app's seventh-chord coverage (only
+  Da Capo and Chord Crush send a gradable code; Key Spar and Lead Sheet Lab
+  drill the five without one) and every scale-drilling app. Built Board 3's
+  hub side on real codes made by scratch copies of the games' own sample
+  tools (neither game repo touched): W13-HW-HUB b01eafa, 2469 -> 2563 +
+  smoke. Wrote hw12_pop_tune.txt, final_repertoire_selections.txt, Board 3
+  (PROPOSED), docs/w13_scale_quiz_options.txt; roster rows (the HW #12 row
+  first broke the claims checker's two-space row split: fixed). Claims
+  check: two Jev flags on Board 3's Chord Crush lines; one reworded, one a
+  false alarm. Nothing in Canvas.
+
 PASS B1-TEXT (2026-10-28, Opus 5.5, —OER next_steps 0aa AA4; last pane)
   Waited for PT-FIX-B (29ad29a) and DC-FIX (f85945c); read their FOR SAM
   blocks; hash-checked both live pcks. Board 1 OPTIONS 1-4 and Board 2

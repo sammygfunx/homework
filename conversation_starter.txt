@@ -116,6 +116,12 @@ SPEED, LOCAL 1v1 character screen and "Stage cleared!" window (PT-FIX-A/B,
 v2.17). SAM: tab 5 re-run for Board 1 (same title; section 4 B), then post
 section 3's UPDATE ANNOUNCEMENT. Board 2 Options 1-2 updated too (created
 Mon 11/2). Pre-fix codes still grade (hub B1-TEXT-HUB 46de09d).
+(2026-11-02, W13-HW) WEEK 13: NEW hw12_pop_tune.txt (HW #12, hand-made in
+Canvas, READY TO CREATE), NEW final_repertoire_selections.txt (ungraded
+announcement, one blank: Sam's Google Sheet link), Board 3 PROPOSED (four
+ways, hub set rubrics/hw13_board3; Sam approves before Create), NEW
+docs/w13_scale_quiz_options.txt (Friday's digital scale quiz: options for
+Sam). next_steps 0W13 has Sam's four steps.
 (2026-10-28, Q5REP-HW) NEW quiz5_item5_repertoire.txt: Quiz 5 item 5
 (repertoire), one Canvas assignment, a VIDEO or a Clef Runner code (Homework
 -> "Quiz 5: Repertoire": the 24 Reinagle pieces, the Minuet in G mm. 1-16,

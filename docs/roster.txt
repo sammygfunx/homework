@@ -284,6 +284,26 @@ HW #9  Diatonic Triad Dodge: the 49 white-key triads.
          (2026-10-13, v2.3.1, live): the game's blurb, HUD and "Goal
          met" now say session mastery of the 49, matching this text.
 
+HW #12  Pop Tune Composition (title PROPOSED by W13-HW, 2026-11-02:
+       "HW #12 — Pop Tune Composition"; Boards 1-2 are HW #10-#11 below,
+       Board 3 proposed as HW #13). F25's HW #10, kept and simplified (Sam 2026-11-02: shorter, a
+       clear-cut checklist, NO in-class performance).
+       No app; FILE UPLOAD of the written score (photo, scan or a PDF from
+       MuseScore / any notation app). Links W13-SHEETS' live sheet + template
+       (coursepack /handouts/MUSC1105_Pop_Tune.pdf, _Template.pdf).
+       Due: Sun 2026-11-15 23:59 Eastern (2026-11-16T04:59:00Z; default N3,
+         FOR SAM). Module Week 13. 100 points.
+       Rubric: none in Grading_Hub (hand-made in Canvas, A7): the sheet's
+         eight-item checklist as a Canvas rubric, 12.5 each (PROPOSED).
+       Content: —Homework/hw12_pop_tune.txt
+       Status: READY TO CREATE (by hand in Canvas, section 4).
+
+FINAL REPERTOIRE SELECTIONS (not a numbered HW): UNGRADED, Sam's own
+       Google Sheet sign-up, Monday of Week 13; no Canvas assignment, no
+       due date. The announcement / page text is this folder's
+       final_repertoire_selections.txt (one blank: the sheet link).
+       Status: READY TO POST.
+
 -----------------------------------------------------------------------
 MIDTERM ITEMS (their own series; only the ones whose content lives in
 this folder)
@@ -459,14 +479,23 @@ BOARD 2  "HW #11 — Choice Board 2: Triads" (PROPOSED by BOARD2-OPTIONS,
            creates it Mon 11/2 after section 4 A (5-minute live check).
            B1-TEXT 2026-10-28: Options 1-2 name Da Capo's 50-card window
            and the duet's pause GET CODES; section 1's paste changed.
-BOARD 3  Seventh Chords (Da Capo OR Chord Crush OR video).
-         Da Capo "seventh_chords"; rubric dacapo_seventh_chords. Chord
-         Crush five seventh stages (KTS1 code; since CC-LEVELS
-         2026-10-26 its "<stage>_levels" rows make a chordcrush_board3
-         rubric possible, NOT written yet). No Piano
-         Tennis (no seventh chords).
+BOARD 3  "HW #13 — Choice Board 3: Seventh Chords" (PROPOSED by W13-HW,
+         2026-11-02, for Sam to approve before Canvas Create). Four ways,
+         Board 2's shape (OPTION 1-4): Da Capo "seventh_chords"
+         (dacapo_seventh_chords) OR Da Capo duet, 50 cards per seat over a
+         sitting (dacapo_duet_seventh_chords, NEW) OR Chord Crush, Chord
+         Stages Root, each of the five seventh stages levels 1-6 (C G D A
+         E B) = 20, all 12 = +1 extra credit, max 105 (chordcrush_board3,
+         NEW) OR video, the five qualities on C G D A E B (30 chords,
+         hand-graded). No Piano Tennis (no seventh chords); Key Spar /
+         Lead Sheet Lab / Krill Keys drill or name them but send no code.
+         GRADING: ONE run with the hub's rubric SET Grading_Hub/rubrics/
+         hw13_board3 (W13-HW-HUB b01eafa, real-code tests, 2563 + smoke).
+         Week 13, module Week 13. 100 points (Chord Crush up to 105).
+         Due: Sun 2026-11-15 23:59 Eastern (2026-11-16T04:59:00Z, EST; A11).
          Content: —Homework/hw_board3_seventh_chords.txt
-         Status: DRAFTED (Da Capo id LIVE since before 2026-10-13).
+         Status: PROPOSED (live pcks hash-checked 2026-11-02T18:10Z: Da
+           Capo c07aeeb986b58ed6, Chord Crush v51.9.1 2d62355997d039c1).
 BOARD 4  All Intervals (Da Capo OR Piano Tennis OR video); extra credit
          or a make-up.
          Da Capo "all_intervals"; rubric dacapo_all_intervals. Piano

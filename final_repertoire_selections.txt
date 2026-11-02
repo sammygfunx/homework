@@ -29,8 +29,8 @@ THE FACTS
                      learned by Monday of Week 14 (11/16), all the notes by
                      Friday of Week 14 (11/20); the recital Monday of Week
                      15 (11/23), make-ups Monday of Week 16 (11/30) (A6).
-      RECITAL        2.5 minutes each; introduce your piece (F25 final
-                     outline, kept).
+      RECITAL        2.5 minutes each, including a short introduction of
+                     the piece (F25 final outline, kept).
 
 
 ===========================================================
@@ -43,14 +43,14 @@ Title: Final Repertoire Selections: choose your recital piece
 Plain ASCII.)
 
 ===HTML===
-<p>It is time to choose your piece for the final recital. Take a look at the <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Final_Repertoire.pdf">Final Repertoire page</a>: it explains how to choose, has a short list of pieces in order of difficulty with free scores, and gives the recital rules. You may also choose a piece from the Final Exam Repertoire packet on Canvas, or ask me about another piece.</p>
-<p><strong>Sign up here:</strong> <a href="[SAM: paste your Google Sheet sign-up link]">the Final Repertoire sign-up sheet</a>. Write your name and your piece. If the music is in the public domain, link the score; any piece I approve is fine.</p>
+<p>It is time to choose your piece for the final recital. Take a look at the <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Final_Repertoire.pdf">Final Repertoire page</a>: it explains how to choose, lists eight pieces in order of difficulty (most with a free score), and gives the recital rules. You may also choose a piece from the Final Exam Repertoire packet on Canvas, or ask me about another piece.</p>
+<p><strong>Sign up here:</strong> <a href="[SAM: paste your Google Sheet sign-up link]">the Final Repertoire sign-up sheet</a>. Write your name and your piece. If the music is in the public domain, link a free score, such as its IMSLP page; if it is not, order your own copy of the sheet music.</p>
 <ul>
-<li><strong>The recital:</strong> Monday, November 23, in class. Play about 2.5 minutes and introduce your piece first. Make-ups are Monday, November 30.</li>
+<li><strong>The recital:</strong> Monday, November 23, in class. You will have 2.5 minutes, including a short introduction of your piece. Monday, November 30 is for make-ups.</li>
 <li><strong>Half of the piece learned:</strong> by Monday, November 16.</li>
 <li><strong>All of the notes learned:</strong> by Friday, November 20.</li>
 </ul>
-<p>Not graded on its own: the sign-up just tells me what you are playing. Please sign up by the end of class on Monday.</p>
+<p>The sign-up is not graded: it tells me what you are playing. Please sign up during class on Monday.</p>
 ===HTML===
 
 
@@ -71,21 +71,25 @@ thing). Add the page to the Week 13 module, published.
 D0. DECISIONS AND DEFAULTS
   - UNGRADED (A1). Sam's Google Sheet, his own (made and shared by Sam;
     W13-CANVAS is Sam's step, not a pane).
-  - "Sign up by the end of class on Monday" follows the brief's Q1
-    recommendation (filled in by the end of Monday's class); FOR SAM if
-    you want another deadline.
+  - "Sign up during class on Monday" matches the OER page ("during class
+    on Monday of Week 13"; the brief's Q1 recommendation); FOR SAM if you
+    want another deadline.
   - Dates appear here (a Canvas announcement); the book and the OER page
     use weekday names only.
   - MILESTONES: orchestrator default N4 (FOR SAM). Brief A6 had proposed
     the same days (half by Mon 11/16, all notes by Fri 11/20).
-  - "Any piece I approve is fine" = the brief's "any pre-approved piece OK";
-    "link the score" is A2's public-domain rule. "Order a copy" (F25) is
-    not repeated: the OER page says how to get a score.
+  - Wording matched to the LIVE OER page (W13-SHEETS 83e8579): the packet
+    or any approved piece; public domain -> link a free score (IMSLP), not
+    -> order your own copy; 2.5 minutes INCLUDING the introduction;
+    make-ups for illness or if time runs out. Two of the eight (Haydn's
+    Quadrille, J. C. Bach's Minuet) have no IMSLP score ("use the packet"),
+    hence "most with a free score".
   - PRACTICE VIDEOS: Sam records them by Mon 11/9 (A2, N6); the OER page's
     video slots fill in when he sends links (a Lead Sheet Lab rebuild).
     This text does not mention videos, so it needs no change then.
   - THE ONE BLANK: the Google Sheet link, once in section 1's HTML (the
     href of "the Final Repertoire sign-up sheet").
 
-N. NOT VERIFIED BY A HUMAN: not posted; the OER page link was checked to
-  open (200) at the end of W13-HW.
+N. NOT VERIFIED BY A HUMAN: not posted. The OER page link returned 200 on
+  2026-11-02 after W13-SHEETS (83e8579; the PDF; the page has no .html
+  copy on the site).

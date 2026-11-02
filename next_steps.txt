@@ -1,6 +1,10 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-10-28, late afternoon (B1-TEXT: Board 1 OPTIONS 1-4 + Board 2
+Updated: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
+CREATE, final_repertoire_selections.txt READY TO POST, Board 3 PROPOSED with
+its hub set hw13_board3 (Grading_Hub W13-HW-HUB b01eafa), the scale quiz memo
+docs/w13_scale_quiz_options.txt for Sam's decision; roster).
+Before that: 2026-10-28, late afternoon (B1-TEXT: Board 1 OPTIONS 1-4 + Board 2
 OPTIONS 1-2 updated to DC-FIX / PT-FIX-A / PT-FIX-B; Board 1 section 3 UPDATE
 ANNOUNCEMENT; hub B1-TEXT-HUB 46de09d. SAM: re-run tab 5 for Board 1 (the
 update, section 4 B) and post the announcement; Board 2 is created Mon 11/2
@@ -41,9 +45,34 @@ Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
 
-0W13. PASS W13-HW -- QUEUED 2026-11-02 -> RUNNING 2026-11-02 (opus 5.5,
-   high; prompt = —OER/docs/passes_2026-11-02_ks_w13.txt section 4, copied
-   verbatim below so it lives with the repo).
+0W13. WEEK 13 -- SAM (pass W13-HW DONE 2026-11-02; prompt copied below).
+   Gate met: W13-SHEETS 83e8579 (sheets LIVE, 200). SAM, before Mon 11/9:
+   (1) HW #12 POP TUNE: hw12_pop_tune.txt section 4 -- create by hand in
+       Canvas (File Upload, 100 pts, due Sun 11/15 11:59 PM, Week 13), the
+       eight-item checklist as the rubric (12.5 each, PROPOSED). FOR SAM:
+       the title "HW #12 — Pop Tune Composition", the due date (N3), the
+       equal weights.
+   (2) FINAL REPERTOIRE: make/share your Google Sheet, paste its link into
+       final_repertoire_selections.txt (one blank, "[SAM:"), post the
+       announcement Monday 11/9 (+ the optional Week 13 page). Ungraded.
+       FOR SAM: "sign up during class on Monday", the N4 milestones.
+   (3) BOARD 3 IS PROPOSED -- APPROVE OR CHANGE: hw_board3_seventh_
+       chords.txt section 5 D0 (four ways: Da Capo, Da Capo duet, Chord
+       Crush levels 1-6 of all five seventh stages = 20 each + 1 per stage
+       at 12 (max 105), video of 30 chords; title "HW #13 — Choice Board 3:
+       Seventh Chords"; due Sun 11/15; the mic bullet). Then section 4 A
+       (5-minute live check with rubrics/hw13_board3) and B (tab 5 Create).
+       A changed Chord Crush rule = a small hub pass first (the numbers in
+       chordcrush_board3 + its test).
+   (4) THE SCALE QUIZ (Fri 11/13): decide docs/w13_scale_quiz_options.txt
+       (RECOMMENDED: Option B, a Portato Web typed-fingering + black-keys
+       quiz mode; a Portato Web pass + a hub rubric pass, launched by Tue
+       11/10 at the latest).
+   Claims check (Brains jev, --files, report in the pass's scratchpad, not
+   committed): one Jev flag left, a false alarm (board 3's extra-credit line
+   paired with one of the five 12-level columns); an earlier one fixed by
+   rewording ("20 points once all 6 levels are cleared").
+   The prompt as launched:
    | 4. W13-HW  (—Homework [+ —Apps/Grading_Hub only if needed] | opus 5.5 |
    |            high | TAG "W13-HW:")
    | --------------------------------------------------------------------
@@ -167,7 +196,9 @@ Ranked high -> low.
    50+ cards); then section 4 D. Grade duet codes by pull + post (a paste
    has no Canvas user).
 
-0a. CHOICE BOARDS 3-4 (added 2026-10-08 by DACAPO-20; waits on Sam). When
+0a. CHOICE BOARDS 3-4 (added 2026-10-08 by DACAPO-20; waits on Sam).
+   BOARD 3 SUPERSEDED 2026-11-02 by item 0W13 (3): PROPOSED, every blank
+   filled, hub set built. Board 4 below is unchanged. When
    a board's week is picked: fill its [FILL IN]s (section 5 D0: due date,
    points, module, the Piano Tennis / Chord Crush rules, board 4's
    extra-credit or make-up rule), confirm D1/D2 defaults, then section 4

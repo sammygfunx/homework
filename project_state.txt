@@ -1,7 +1,24 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-10-28, late afternoon (B1-TEXT, Opus 5.5, —OER next_steps
+Last updated: 2026-11-02 (W13-HW, Opus 5.5, —OER docs/passes_2026-11-02_
+ks_w13.txt section 4, gated on W13-SHEETS 83e8579, Sam away): Week 13.
+NEW hw12_pop_tune.txt (HW #12 — Pop Tune Composition, proposed title;
+hand-made in Canvas, File Upload, 100 pts, due Sun 2026-11-15 23:59 EST; one
+paste linking the live sheet + template; the sheet's eight-item checklist as
+the rubric, 12.5 each; no app, so no video pair). NEW
+final_repertoire_selections.txt (ungraded; Sam's Google Sheet, one blank;
+announcement + optional page, wording matched to the live OER page). Board 3
+REBUILT as PROPOSED (four ways in Board 2's shape: Da Capo, duet, Chord
+Crush levels 1-6 of the five seventh stages = 20 each + 1 per stage at 12,
+video of the five qualities on C G D A E B; 629 words, ASCII; every other
+app checked and named NOT ON THIS BOARD with its reason; live pcks
+hash-checked 18:10Z). Grading_Hub W13-HW-HUB b01eafa: chordcrush_board3,
+dacapo_duet_seventh_chords, set hw13_board3, real-code fixtures, 2563 +
+smoke. NEW docs/w13_scale_quiz_options.txt (design memo, four options,
+recommends a Portato Web typed-fingering quiz). Roster: HW #12, FINAL
+REPERTOIRE, BOARD 3. Claims check: one false alarm left (next_steps 0W13).
+Before that: 2026-10-28, late afternoon (B1-TEXT, Opus 5.5, —OER next_steps
 0aa AA4, Sam away): Board 1 OPTIONS 1-4 rewritten to the fixes that shipped
 from students' feedback (Da Capo DC-FIX f85945c, live pck c07aeeb986b58ed6:
 the 50-card window, the duet's count by each name and GET CODES in its pause
