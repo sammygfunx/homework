@@ -1,0 +1,91 @@
+===========================================================
+FINAL REPERTOIRE SELECTIONS -- CANVAS ANNOUNCEMENT + PAGE TEXT
+Written 2026-11-02 (pass W13-HW, —OER docs/passes_2026-11-02_ks_w13.txt
+section 4 d; brief —OER/docs/week13_brief_2026-10-30.txt PART 7 A1, A2,
+A6). STATUS: READY TO POST (Sam), once he fills in the Google Sheet link.
+UNGRADED: Sam's own Google Sheet sign-up, which he manages himself. NO
+Canvas assignment, nothing for the Grading Hub. Monday of Week 13 (11/9).
+===========================================================
+
+WHAT THIS FILE IS
+  Two short pastes for Sam: (1) a Canvas announcement for Monday 11/9 and
+  (2) the same as a Canvas Page for the Week 13 module, if he wants one
+  there too. Both link the OER page W13-SHEETS built and published
+  (Lead_Sheet_Lab tools/musc1105/repertoire.py) and Sam's Google Sheet.
+
+THE FACTS
+      THE OER PAGE   https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Final_Repertoire.pdf
+                     (Sam's paragraph, how to choose, the short list =
+                     packet pp. 1-9 in order of difficulty with IMSLP links
+                     and a video slot per piece, the recital rules, the
+                     milestones by weekday name)
+      THE SHEET      [SAM: paste your Google Sheet sign-up link] -- the one
+                     blank; it sits once in section 1's HTML (search
+                     "[SAM:"), which section 2 reuses.
+      THE PACKET     Sam's Final Exam Repertoire packet stays on Canvas
+                     (copyrighted pieces and editions: Kabalevsky, Gillock,
+                     the method-book pages); the OER page never copies it.
+      MILESTONES     (orchestrator default N4; FOR SAM) half the piece
+                     learned by Monday of Week 14 (11/16), all the notes by
+                     Friday of Week 14 (11/20); the recital Monday of Week
+                     15 (11/23), make-ups Monday of Week 16 (11/30) (A6).
+      RECITAL        2.5 minutes each; introduce your piece (F25 final
+                     outline, kept).
+
+
+===========================================================
+1. THE ANNOUNCEMENT (Canvas -> Announcements -> + Announcement)
+===========================================================
+
+Title: Final Repertoire Selections: choose your recital piece
+
+(Paste between the ===HTML=== lines into the HTML editor (</>), ONE paste.
+Plain ASCII.)
+
+===HTML===
+<p>It is time to choose your piece for the final recital. Take a look at the <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Final_Repertoire.pdf">Final Repertoire page</a>: it explains how to choose, has a short list of pieces in order of difficulty with free scores, and gives the recital rules. You may also choose a piece from the Final Exam Repertoire packet on Canvas, or ask me about another piece.</p>
+<p><strong>Sign up here:</strong> <a href="[SAM: paste your Google Sheet sign-up link]">the Final Repertoire sign-up sheet</a>. Write your name and your piece. If the music is in the public domain, link the score; any piece I approve is fine.</p>
+<ul>
+<li><strong>The recital:</strong> Monday, November 23, in class. Play about 2.5 minutes and introduce your piece first. Make-ups are Monday, November 30.</li>
+<li><strong>Half of the piece learned:</strong> by Monday, November 16.</li>
+<li><strong>All of the notes learned:</strong> by Friday, November 20.</li>
+</ul>
+<p>Not graded on its own: the sign-up just tells me what you are playing. Please sign up by the end of class on Monday.</p>
+===HTML===
+
+
+===========================================================
+2. THE SAME AS A CANVAS PAGE (optional; Week 13 module)
+===========================================================
+
+Page title: Final Repertoire Selections
+
+Use section 1's HTML unchanged (the page and the announcement say the same
+thing). Add the page to the Week 13 module, published.
+
+
+===========================================================
+3. THREAD NOTES — true, but NOT for the student text
+===========================================================
+
+D0. DECISIONS AND DEFAULTS
+  - UNGRADED (A1). Sam's Google Sheet, his own (made and shared by Sam;
+    W13-CANVAS is Sam's step, not a pane).
+  - "Sign up by the end of class on Monday" follows the brief's Q1
+    recommendation (filled in by the end of Monday's class); FOR SAM if
+    you want another deadline.
+  - Dates appear here (a Canvas announcement); the book and the OER page
+    use weekday names only.
+  - MILESTONES: orchestrator default N4 (FOR SAM). Brief A6 had proposed
+    the same days (half by Mon 11/16, all notes by Fri 11/20).
+  - "Any piece I approve is fine" = the brief's "any pre-approved piece OK";
+    "link the score" is A2's public-domain rule. "Order a copy" (F25) is
+    not repeated: the OER page says how to get a score.
+  - PRACTICE VIDEOS: Sam records them by Mon 11/9 (A2, N6); the OER page's
+    video slots fill in when he sends links (a Lead Sheet Lab rebuild).
+    This text does not mention videos, so it needs no change then.
+  - THE ONE BLANK: the Google Sheet link, once in section 1's HTML (the
+    href of "the Final Repertoire sign-up sheet").
+
+N. NOT VERIFIED BY A HUMAN: not posted; the OER page link was checked to
+  open (200) at the end of W13-HW.

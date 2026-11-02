@@ -1,0 +1,224 @@
+===========================================================
+HW #12 -- POP TUNE COMPOSITION -- CANVAS ASSIGNMENT (HAND-MADE)
+Written 2026-11-02 (pass W13-HW, —OER docs/passes_2026-11-02_ks_w13.txt
+section 4 c; brief —OER/docs/week13_brief_2026-10-30.txt PART 7 A5, A7,
+A8). STATUS: READY TO CREATE (Sam, by hand in Canvas; not through the
+Grading Hub). WEEK 13, due Sun 11/15 at 11:59 PM Eastern (EST), 100
+points. No app, so no code and no app/video pair: the submission is the
+written score itself.
+The sheets it links were built and published by W13-SHEETS (Lead_Sheet_Lab
+tools/musc1105/pop_tune.py): see the LINKS block below.
+TITLE PROPOSED, FOR SAM: "HW #12 — Pop Tune Composition".
+===========================================================
+
+WHAT THIS FILE IS
+  The Week 13 written assignment (F25's HW #10 "Pop Tune Composition",
+  kept and simplified, Sam 2026-11-02: "less wordy, simpler", a clear-cut
+  checklist, no in-class performance). Five sections, as every assignment
+  file:
+    section 1  the Canvas assignment (title + description, real HTML)
+    section 2  the ninety-second version to say in class
+    section 3  the message to students
+    section 4  Sam's click-path: create it by hand, the rubric, grading
+    section 5  thread notes: decisions, defaults, what changed from F25
+
+THE FACTS EVERYTHING HANGS ON
+      WHAT           Compose a short pop tune: a melody with lyrics over a
+                     progression of at least four chords, written out with
+                     the accompaniment twice (root position; closest
+                     inversions with a rhythm). F25's requirements 1-7; the
+                     old 8 ("perform in class") is DROPPED (A5).
+      WEEK / DUE     Week 13. Due Sunday, November 15, 2026, 11:59 PM
+                     Eastern = 2026-11-16T04:59:00Z (EST). Module: Week 13.
+                     Same Sunday as Choice Board 3 (HW #13) and Reading
+                     Sprint 13. (Orchestrator default N3; FOR SAM.)
+      POINTS         100 (A7: hand-made Canvas assignment for F26).
+      SUBMISSION     Online -> File Uploads (a photo or scan of the
+                     handwritten score, a PDF from MuseScore or any notation
+                     app). Graded by hand in SpeedGrader with the rubric in
+                     section 4.
+      LINKS (live, W13-SHEETS)
+                     the assignment sheet  https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Tune.pdf
+                     the template          https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Tune_Template.pdf
+                     Pop Progressions with Inversions (Week 11)
+                                           https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Inversions.pdf
+      NO APP         Lead Sheet Lab and Krill Keys are named as helpers on
+                     the sheet; neither is required, and nothing is
+                     submitted from an app, so the "every app HW has a
+                     same-grade video" rule does not apply.
+
+
+===========================================================
+1. THE CANVAS ASSIGNMENT
+===========================================================
+
+------------------------------ TITLE ------------------------------
+HW #12 — Pop Tune Composition
+
+(PROPOSED, FOR SAM: Board 2 is "HW #11 — Choice Board 2: Triads", so this
+is "HW #12", a space, an EM DASH (U+2014), a space. Board 3 is proposed as
+HW #13. Hand-made, so the title is not a Grading Hub key; still, settle it
+before the board titles go in.)
+
+--------------------------- DESCRIPTION ---------------------------
+(Canvas -> the assignment -> Edit -> the rich content editor's HTML view
+(the </> button) -> paste everything between the two ===HTML=== lines in
+ONE paste -> Save. Plain ASCII, no entities.)
+
+===HTML===
+<p>Compose a short pop tune of your own: a melody with lyrics over a chord progression. A verse or a chorus is enough. This builds on <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Inversions.pdf">Pop Progressions with Inversions</a> and item 4 of Quiz 5: the same chords in the closest inversions, now under a tune of your own.</p>
+<p><strong>Due Sunday, November 15, 2026, at 11:59 PM Eastern.</strong></p>
+<p><strong>Start here:</strong> <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Tune.pdf">the Pop Tune Composition sheet</a> (the checklist, how to start, and a worked example) and <a href="https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Tune_Template.pdf">the template</a> (fill it in, or use staff paper).</p>
+
+<h4>Checklist: your score has</h4>
+<ol>
+<li><strong>At least four chords</strong> in your progression.</li>
+<li><strong>The melody,</strong> notated in the treble clef.</li>
+<li><strong>Lyrics</strong> under the melody that teach something you have learned about the piano this semester.</li>
+<li><strong>Chord symbols</strong> above the staff, each one over the note where its chord begins.</li>
+<li><strong>Roman numerals</strong> below the staff.</li>
+<li><strong>Accompaniment, root position:</strong> the left hand plays the roots and the right hand plays root-position triads.</li>
+<li><strong>Accompaniment, closest inversions:</strong> the left hand plays the roots and the right hand plays each chord in the inversion closest to the one before it.</li>
+<li><strong>A rhythm</strong> for the right-hand chords that gives your progression its own character.</li>
+</ol>
+
+<h4>Ways to write it (all equal)</h4>
+<ul>
+<li>By hand on staff paper or on the template, then upload a photo or a scan.</li>
+<li>MuseScore (free, at musescore.org) or any notation app, then upload a PDF or an image.</li>
+<li>Krill Keys shows your notes on a grand staff and names each chord as you play it, and Lead Sheet Lab drills the chord symbols. Use them to help; submit the score itself.</li>
+</ul>
+
+<p><strong>To submit:</strong> upload your score under <strong>File Upload</strong> (one file, or a few photos of the pages). Make sure every page is readable. Your last submission is the one graded.</p>
+===HTML===
+-------------------------------------------------------------------
+
+
+===========================================================
+2. WHAT TO SAY IN CLASS (about ninety seconds)
+===========================================================
+
+"Your homework this week is a pop tune of your own: a short melody with
+lyrics, over four chords or more. A verse or a chorus is plenty.
+
+It builds on the pop progressions with inversions from Week 11 and on
+Quiz 5: the same chords in the closest inversions, now under your own tune.
+
+The sheet on Canvas has an eight-item checklist, and that checklist is the
+grade: four chords; the melody in treble clef; lyrics about something you
+learned about the piano this semester; chord symbols above; Roman numerals
+below; the accompaniment in root position; then in the closest inversions;
+and a rhythm for the right hand.
+
+Write it however you like: staff paper, the template, MuseScore, any app.
+Upload a photo or a PDF. There is a worked example on the sheet.
+
+There is no performance this time. Due Sunday at 11:59 PM, the same night
+as Choice Board 3."
+
+
+===========================================================
+3. THE MESSAGE TO STUDENTS (Canvas announcement; Sam sends this)
+===========================================================
+
+Subject: HW #12 — Pop Tune Composition, due Sun 11/15 at 11:59 PM
+
+"HW #12 — Pop Tune Composition" is on Canvas. Compose a short pop tune: a
+melody with lyrics over four chords or more, written out with the
+accompaniment.
+
+  THE SHEET (checklist + worked example):
+    https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Tune.pdf
+  THE TEMPLATE:
+    https://keys-to-success-coursepack.netlify.app/handouts/MUSC1105_Pop_Tune_Template.pdf
+
+The checklist is the grade. Write it by hand, on the template, in MuseScore
+(free) or in any notation app, and upload a photo or a PDF. No
+performance. Due Sunday, November 15, 2026, 11:59 PM Eastern.
+
+
+===========================================================
+4. SAM'S CLICK-PATH (by hand in Canvas; the Grading Hub is not involved)
+===========================================================
+
+  GATE: the two sheets are live (W13-SHEETS; the LINKS block above). Both
+  links open in a private window.
+
+  A. CREATE IT (each of the four sections, or one and copy it)
+  [ ] Assignments -> + Assignment.
+      Title        HW #12 — Pop Tune Composition
+      Description  the HTML editor (</>), section 1's HTML in ONE paste
+      Points       100
+      Group        <the HW group, exact heading>
+      Display      Points
+      Submission   Online -> File Uploads ONLY (no type restriction)
+      Attempts     unlimited
+      Due          Nov 15, 2026, 11:59 PM   Available from / Until  blank
+  [ ] Module Week 13: add the assignment.
+  [ ] Save (unpublished), Student View: the links open and File Upload is
+      there. Publish.
+
+  B. THE RUBRIC (Canvas: the assignment -> + Rubric). The checklist IS the
+     rubric: eight criteria, each all or nothing, 12.5 points each (= 100).
+     Tick "Use this rubric for assignment grading". Criteria, copied from
+     the checklist:
+       1  At least four chords                                   12.5
+       2  The melody, notated in the treble clef                 12.5
+       3  Lyrics that teach something learned about the piano    12.5
+          this semester
+       4  Chord symbols above the staff, over the note where     12.5
+          each chord begins
+       5  Roman numerals below the staff                         12.5
+       6  Accompaniment, root position (LH roots, RH root-       12.5
+          position triads)
+       7  Accompaniment, closest inversions (LH roots, RH each   12.5
+          chord closest to the one before)
+       8  A rhythm for the right-hand chords                     12.5
+     (PROPOSED, FOR SAM: equal weights, all or nothing; half credit for an
+     item mostly right is Sam's call in SpeedGrader.)
+
+  C. AFTER IT IS LIVE
+  [ ] Post section 3; say section 2.
+  [ ] docs/roster.txt row HW #12: READY TO CREATE -> CREATED IN CANVAS ->
+      LIVE.
+
+  D. GRADING: SpeedGrader with the rubric. Lateness by Canvas's late
+     policy or by hand, as the other hand-graded work.
+
+
+===========================================================
+5. THREAD NOTES — true, but NOT for the assignment text
+===========================================================
+
+D0. DECISIONS AND DEFAULTS
+  - KEPT, simplified (A5): F25's requirements 1-7, the "at least 4
+    chords" line made an item; requirement 8 (perform in class, F25's
+    Wednesday) DROPPED: Mon 11/16 is final exam review.
+  - DUE Sun 11/15 11:59 PM (orchestrator default N3; FOR SAM). F25 was due
+    a Tuesday.
+  - HAND-MADE in Canvas (A7), 100 points, HW #12 (proposed; FOR SAM).
+    LATER, not queued (A7): a notation app the hub could grade for
+    mistakes (—Codex/—Notation), reviewed with Sam first.
+  - WAYS TO WRITE IT (A8), all equal: staff paper / the template + photo,
+    MuseScore, any notation app; Lead Sheet Lab and Krill Keys as helpers.
+    "Educational lyrics" kept (A8).
+  - NO VIDEO PAIR: no app is required and nothing is submitted from one;
+    the standing video rule binds app homework (brief PART 3 c).
+  - THE TUTORIAL VIDEO (F25 "Pop Tune Tutorial"): HELD (A12, N5) -- Sam
+    reviews it first. Not linked here or on the sheet.
+  - THE F25 OUTSIDE SOURCES (Useful and Common Chord Progressions, Chord
+    Loops, Chord Progression Trends): not linked; the sheet points to the
+    book's Four Chords of Pop and Pop Progressions with Inversions.
+  - THE RUBRIC: the sheet's checklist, eight items, equal weight (PROPOSED).
+
+D1. THE CHECKLIST'S SOURCE: W13-SHEETS' CHECKLIST in Lead_Sheet_Lab tools/
+  musc1105/pop_tune.py, copied word for word into section 1 and the
+  rubric. If the sheet's checklist changes, change section 1, the rubric
+  and section 2 together.
+
+D2. QUIZ 5 ITEM 4: section 1 names "item 4 of Quiz 5" in words only (the
+  sheet links the Quiz 5 outline); no Canvas link, so nothing breaks if
+  the quiz is renamed.
+
+N. NOT VERIFIED BY A HUMAN: the HTML has not been pasted into Canvas; no
+  student has used the template.

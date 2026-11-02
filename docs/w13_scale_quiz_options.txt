@@ -1,0 +1,132 @@
+WEEK 13 DIGITAL SCALE QUIZ — OPTIONS (DESIGN MEMO ONLY, NO BUILD)
+=================================================================
+Written 2026-11-02 by pass W13-HW (—OER docs/passes_2026-11-02_ks_w13.txt
+section 4 N2; brief —OER/docs/week13_brief_2026-10-30.txt PART 7 A9-A10, N2).
+Sam decides at the next catchup. Nothing here is built or queued.
+
+THE ASK (Sam, A9): revamp the written scale quiz as a DIGITAL-ONLY
+assignment, in class on Friday of Week 13, graded through the Grading Hub.
+"Let's think on it." Format TBD with Sam.
+
+WHAT THE OLD QUIZ ASKED (F25 Quiz #6, "Written Major Scale Quiz (Take
+Home)", —Codex/—Digital_Coursepack/audit/f25_google_drive_text/MUSC 1105/
+Quizzes/; F24 had the same): for each of the twelve major scales C G F D Bb
+A Eb E Ab B Db F#/Gb, (1) write the fingering, two octaves ascending, for
+the RH and for the LH, and (2) draw a dot above every black key. Open book,
+take-home, uploaded to Canvas. So the quiz is about FINGERING and THE IMAGE
+OF EACH SCALE (which keys are black), not about playing.
+
+THE HUB'S RULES (what any option must fit): a student pastes a signed
+"KTS1" code into a Canvas text entry; Grading_Hub decodes it and grades it
+with a rubric JSON that names the app_id and an EXACTLY-EQUAL mode; a column
+turns one score row (id, attempted, correct) into points (threshold /
+percent / correct_count / completion). A NEW MODE in an app the hub already
+knows (portato, clefrunner, dacapo, chordcrush, pianotennis, ...) costs the
+hub one rubric file and a test; a NEW APP also needs a secret in the hub's
+REGISTRY (Brains score_report module, re-vendored).
+
+WHAT EXISTS TODAY (checked 2026-11-02, each app's source and docs):
+  - Portato Web "?quiz=keysig" (Quiz #2, 2026-09-04): 30 typed answers, the
+    fifteen major key signatures in treble and bass, three attempts per
+    student ID, the Canvas window is the timer; code portato / "keysig";
+    rubric Grading_Hub/rubrics/Quiz__2_Key_Signatures.rubric.json (two
+    percent columns, 20 points). Graded 2026-09-21. Identifies signatures;
+    no scales, no fingering.
+  - Clef Runner Scale Practice: the twelve majors played on MIDI, two
+    octaves, RH / LH / HT / FULL, a tempo ladder per scale (ScaleMastery.gd).
+    Fingering is SHOWN from its data, not graded. Its KTS1 codes cover only
+    SightReadingAssignment entries (sight-reading and repertoire), and a
+    code reports a profile's BEST-EVER attempt: no scale assignment, no
+    rubric, no "one attempt" logic.
+  - Fishtemporize two-octave scale levels (played, all twelve; "the
+    fingering is the teacher's to check"): no KTS1 code, not in the hub's
+    registry.
+  - Key Spar "Major Scales" course (scale notes identified one card at a
+    time): no KTS1 code.
+  - Da Capo "keys" course: note reading in one key per stage; exports a
+    code (mode = course id) but it is reading, not scales.
+  - Nothing grades fingering. MIDI carries no finger data, so no played
+    option can ever see it; only TYPED fingering can be graded.
+  - Answer-key source for any fingering option: —Coursepack/source/
+    musicdata.py scale_fingering() (the source of the book's fingering
+    chart, Lead_Sheet_Lab tools/musc1105/scales.py) -- derive, never type.
+
+
+OPTION A — RE-USE PORTATO'S KEY SIGNATURE QUIZ (zero build)
+  What: the class takes ?quiz=keysig again (or a Week 13 copy of its Canvas
+    assignment) as the "scale quiz".
+  Hub grades: keysig_treble + keysig_bass percent, the existing rubric.
+  Cost: none (a Canvas assignment by tab 5; maybe a new title).
+  Against: it repeats Quiz #2 and tests signatures, not scales or
+    fingering. Honest only as a stopgap.
+
+OPTION B — PORTATO WEB "SCALE QUIZ" MODE: TYPED FINGERING + BLACK KEYS
+  (the digital twin of the F25 paper quiz)  *** RECOMMENDED ***
+  What: a new ?quiz=scales mode beside ?quiz=keysig. For each of the
+    twelve major scales (shuffled): (1) TAP the black keys of the scale on
+    a one-octave keyboard picture (the paper quiz's dots), and (2) TYPE the
+    RH and the LH fingering, two octaves ascending (e.g. "1 2 3 1 2 3 4 1
+    2 3 1 2 3 4 5"), into two boxes. Three attempts per student ID and the
+    Canvas window as the timer, exactly as keysig; one code at the end.
+  Hub grades: mode "scales", three rows -- scale_black_keys (12),
+    scale_rh_fingering (12), scale_lh_fingering (12); a rubric of three
+    percent columns (points Sam's call; Quiz #2 used 20). One rubric file +
+    one test.
+  Answer key: derived from —Coursepack musicdata.scale_fingering() and the scale
+    spellings (copied into Portato Web's data by a script, with a test that
+    pins it to the source).
+  Cost: one Portato Web pass about the size of the keysig quiz (a91a9df:
+    a KeySigQuiz.gd of 278 lines, Main.gd +413, ResultCode +15, ~390 lines
+    of tests) + one small Grading_Hub pass (a rubric + test, as 4629f6b).
+    Roughly a day of agent work; not measured.
+  For: keeps exactly what the old quiz tested (fingering and the image of
+    each scale), it is graded exactly, it runs in any browser (no MIDI
+    keyboard needed, so every lab seat works), and the class already knows
+    the keysig quiz's screens and rules.
+  Against: it is not played. Open questions for Sam: does the black-key
+    part count separately or inside each scale's item? Does "F#/Gb" accept
+    either fingering? Two octaves or one?
+
+OPTION C — CLEF RUNNER "SCALE QUIZ" ASSIGNMENT: PLAYED SCALES ON MIDI
+  What: a new Clef Runner Homework entry ("Quiz: Major Scales"): a fixed
+    list (Sam picks, e.g. six of the twelve, or all twelve RH then LH), two
+    octaves up and down at a set tempo (e.g. quarter = 60), one take each,
+    graded on notes and timing as Clef Runner already judges a scale.
+  Hub grades: mode e.g. "scale_quiz_f26", one row per scale + hand
+    (attempted = notes, correct = notes right), a percent column (the
+    Quiz 5 repertoire rubric shape).
+  Cost: a Clef Runner pass the size of Q5REP (bb3fc40: SightReadingAssign-
+    ment +124, Main.gd +389, ResultCode +11, tests +231) PLUS new "one take,
+    not best-ever" logic (Clef Runner codes report a profile's best attempt
+    today), + a Grading_Hub rubric pass. More than B, and riskier for a
+    Friday-in-class date.
+  For: tests the scales as PLAYED; uses the lab's MIDI keyboards; extends a
+    mode students know (Scale Practice).
+  Against: fingering is invisible to MIDI (the old quiz's main content is
+    lost); needs a working MIDI keyboard at every seat; best-ever codes
+    must be changed to one-take for a quiz.
+
+OPTION D — B NOW, C LATER (two steps)
+  Week 13 Friday: Option B (fingering + image, graded exactly). The final
+  exam's scale playing stays as Sam already examines it in person. Option
+  C becomes a winter-break idea if Sam wants played scales graded by the
+  hub too.
+
+
+RECOMMENDATION: OPTION B (and D's "C later" only if Sam asks).
+  It is the only option that grades what the old quiz graded (fingering and
+  the black keys), it needs no MIDI, it copies a quiz shape that has already
+  been sat and graded this semester (Quiz #2), and its build is one
+  Portato Web pass + one rubric. To be ready for Friday 11/13 in class, the
+  pair of passes should launch by Tuesday 11/10 at the latest, and Sam
+  should take it once himself on the live site the day before.
+
+FOR SAM (decide at the catchup):
+  1. Which option (A / B / C / D)?
+  2. If B: which parts and points (black keys, RH, LH; 20 points like Quiz
+     #2?), one octave or two, all twelve or a subset, attempts (three as
+     keysig?), and F#/Gb: accept either?
+  3. If C: which scales and hands, tempo, and whether a wrong note fails the
+     scale or costs a percentage.
+  4. Title and numbering in the quiz series (Quiz #6?), the in-class time
+     window (the Canvas availability window is the timer).
