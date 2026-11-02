@@ -41,6 +41,46 @@ Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
 
+0W13. PASS W13-HW -- QUEUED 2026-11-02 -> RUNNING 2026-11-02 (opus 5.5,
+   high; prompt = —OER/docs/passes_2026-11-02_ks_w13.txt section 4, copied
+   verbatim below so it lives with the repo).
+   | 4. W13-HW  (—Homework [+ —Apps/Grading_Hub only if needed] | opus 5.5 |
+   |            high | TAG "W13-HW:")
+   | --------------------------------------------------------------------
+   | GATE: W13-SHEETS: in "$R/—Apps/Lead_Sheet_Lab".
+   | Read the Week 13 brief (PART 7 overrides) and docs/roster.txt. Week 13
+   | graded load = Pop Tune (HW, 100 pts, hand-made Canvas assignment) + Choice
+   | Board 3 (Seventh Chords, due Sunday of Week 13 11:59 PM, A11) + Sprint 13;
+   | the Friday scale quiz is separate (below). Number them from the roster
+   | (Board 2 = HW #11; propose the next numbers; FOR SAM).
+   |   c. hw12_pop_tune.txt (the five-section shape every assignment file
+   |      uses): Canvas HTML = one paste, linking W13-SHEETS' live Pop Tune
+   |      sheet + template; the simplified checklist as the rubric; due Sunday
+   |      11/15 23:59 (2026-11-16T04:59Z); no app, so no video pair needed;
+   |      roster row.
+   |   d. Final Repertoire Selections: UNGRADED, Sam's Google Sheet; write the
+   |      short Canvas announcement/page text (links the OER page + a sheet
+   |      placeholder). No Canvas assignment.
+   |   N1. Board 3 (hw_board3_seventh_chords.txt): re-read it against the LIVE
+   |      apps (which really drill maj7, dom7, min7, half-dim7, dim7 today:
+   |      Chord Crush, Lead Sheet Lab, Krill Keys, Clef Runner, others -- check
+   |      each app's docs/levels, don't assume), fill its [FILL IN]s with a
+   |      proposal that keeps the load reasonable next to Pop Tune, every app
+   |      way paired with a same-grade video way, due Sunday of Week 13. Mark
+   |      the file "PROPOSED -- Sam approves before Canvas Create". If the hub
+   |      needs a WEEK_KEY/rubric row/title for Board 3 (as Board 2 did), make
+   |      that change in Grading_Hub on a branch-free main commit with tests,
+   |      tagged in the same pass; otherwise don't touch Grading_Hub.
+   |   N2. Digital scale quiz (Fri of Week 13, in class, graded through the
+   |      hub, digital only): DESIGN MEMO ONLY, no build --
+   |      —Homework/docs/w13_scale_quiz_options.txt: 2-4 options (an existing
+   |      app mode that already exports a hub-gradable code, a small new mode,
+   |      or a new mini-app), what the hub would grade, what it costs, a
+   |      recommendation. Sam decides at the next catchup.
+   | Docs only (plus Grading_Hub if N1 needs it). Final commit ends
+   | "WHATS-NEW: none".
+   |
+
 0a-1. BOARD 1 -- CREATE IT TODAY (Sam; BOARDS-SHIFT 2026-10-26). Week 11,
    due Sun 11/1 23:59 EST (2026-11-02T04:59Z), 100 points, module Week
    11, title "Choice Board 1: Sixths and Sevenths". The base paste (Da
