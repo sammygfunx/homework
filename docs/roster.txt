@@ -371,6 +371,11 @@ QUIZ 4.5  Quiz #4: Diatonic Triads (Triad Dodge). NEW 2026-10-13 (pass
          started 2, week 0 (bare link), triads avg_ms 33044.
 
 QUIZ 5.5  Quiz #5: Repertoire (video OR Clef Runner) (title PROPOSED). NEW
+       UPDATE 2026-11-02 PM (Q5-GURLITT-TEXT): the Canvas assignment ALREADY EXISTS
+       (F25 text, 20 pts, some submissions): UPDATE it by its EXACT existing title
+       (not found in any file: Sam copies it from Canvas); types url + media
+       recording + upload + text entry; both Gurlitt pieces now in Clef Runner,
+       only Haydn video-only; section 3b UPDATE ANNOUNCEMENT.
        2026-10-28 (pass Q5REP, —OER next_steps 0z Z3; brief —OER/docs/
        week11_brief_2026-10-25.txt Parts 5, 8, 9, 13). Quiz #5 item 5.
        ONE assignment, TWO ways: a VIDEO (file upload or unlisted YouTube
