@@ -309,8 +309,10 @@ D. CHOICES MADE WITHOUT SAM (Q5REP, 2026-10-28; each a small change)
      (Clef_Runner Q5-GURLITT-CR 05cc87f, pck f3ec20e8 hash-verified,
      both played through live at 60: Vivace 116/116, Forest and Field
      354/354; scores read by PDF_to_musicXML Q5-GURLITT-READ bd174b2;
-     the Vivace's notes are Gurlitt's public domain, typeset by
-     animatedpiano.com CC BY-SA 4.0, credited in the game). Forest and
+     since Q5-GURLITT-CR2 5d4abfd (pck d211490d, replayed live
+     116/116) the Vivace is Sam's own notation of the G. Schirmer 1895
+     print, credited "G. Schirmer edition, 1895"; same notes, sample
+     codes unchanged). Forest and
      Field changes key mid-piece (A minor / A major bars 33-64 / A minor);
      the game draws one signature, so bars 33-64's sharps are written as
      accidentals (same notes). Only Haydn stays video-only. The Hub's
