@@ -3,15 +3,29 @@ CHOICE BOARD 3 -- SEVENTH CHORDS -- CANVAS ASSIGNMENT
 *** PROPOSED -- Sam approves before Canvas Create. ***
 Drafted 2026-10-08 (DACAPO-20); REBUILT 2026-11-02 (pass W13-HW, —OER
 docs/passes_2026-11-02_ks_w13.txt section 4 N1; brief —OER/docs/
-week13_brief_2026-10-30.txt PART 7 A9-A11) in Board 2's final shape: FOUR
-OPTIONS IN ONE PASTE, short bullets, ASCII, no entities: 1 Da Capo, 2 Da
-Capo DUET, 3 Chord Crush, 4 video. WEEK 13, due Sun 11/15 at 11:59 PM
-Eastern (EST), 100 points (Chord Crush up to 105). Graded in ONE run by
-the hub's set Grading_Hub/rubrics/hw13_board3 (W13-HW-HUB b01eafa).
-Live pcks hash-checked 2026-11-02T18:10Z against their recorded deploys:
-Da Capo c07aeeb986b58ed6 (DC-FIX, f85945c; "seventh_chords" live since
-pass 21), Chord Crush 2d62355997d039c1 (v51.9.1, CC-REVENDOR 44465e8).
-Section 1's paste: 629 words (Board 2's: 704, counted the same way).
+week13_brief_2026-10-30.txt PART 7 A9-A11) in Board 2's final shape: short
+bullets, ASCII, no entities. REBUILT AGAIN 2026-11-03 PM (pass B3-TEXT, —OER
+docs/passes_2026-11-03_board3_followups.txt E; evidence Da_Capo docs/
+board3_qa.txt F1-F6, after DC-SEVENTHS, CC-SAVE, KS-CODE and KS-HUB): FIVE
+OPTIONS IN ONE PASTE: 1 Da Capo, 2 Da Capo DUET, 3 Chord Crush, 4 KEY SPAR
+(new), 5 video. WEEK 13, due Sun 11/15 at 11:59 PM Eastern (EST), 100 points
+(Chord Crush up to 105). Graded in ONE run by the hub's set
+Grading_Hub/rubrics/hw13_board3 (FIVE ways, FOUR rubrics: the video is hand-
+graded; KS-HUB 277e3a4).
+Live pcks hash-checked (curl, sha256 first 16 hex) 2026-11-03 PM against
+their recorded deploys: Da Capo bc3e2e1940a2d37e (DC-SEVENTHS f26584c),
+Chord Crush f8984362c52111b0 (v51.9.2, CC-SAVE 8a097d7), Key Spar
+4b705c46bdd2230a (1.7.0, KS-CODE 1817b7a). (11-02's c07aeeb986b58ed6 /
+2d62355997d039c1 are superseded.)
+CHANGES IN THIS REBUILD (each is a FOR SAM item in section 5 D0 too):
+  OPTION 1 says all five seventh chords are dealt from stage 4 (measured, D1).
+  OPTION 2 adds "P1 TIER to TIER 2 or higher" (TIER 1 deals only MAJ7/7/MIN7).
+  OPTION 3 says "levels 1 to 6" (the key list is gone) and asks for a
+  Statistics check of 6/12 before the code; no Quit line (CC-SAVE fixed it).
+  OPTION 4 is Key Spar: Seventh Chords, solo vs the computer, a MIDI keyboard.
+  The video is now OPTION 5.
+Section 1's paste: 759 words (11-02's four-option paste was 629;
+Board 2's was 704 and 669 later, counted the same way: tags stripped).
 TITLE PROPOSED, FOR SAM: "HW #13 — Choice Board 3: Seventh Chords"
 (Pop Tune Composition takes HW #12; section 1).
 ===========================================================
@@ -43,29 +57,42 @@ THE FACTS EVERYTHING HANGS ON
       POINTS         100 (every way posts 100 at full credit). Chord Crush's
                      extra credit can post up to 105 (D5).
       GRADED AS      ONE rubric set: Grading_Hub/rubrics/hw13_board3 (a
-                     manifest: dacapo_seventh_chords, dacapo_duet_seventh_
-                     chords, chordcrush_board3). Each student's BEST total
+                     manifest of FOUR rubrics: dacapo_seventh_chords,
+                     dacapo_duet_seventh_chords, chordcrush_board3,
+                     keyspar_seventh_chords). Each student's BEST total
                      over every way they handed in, one grade.
       DA CAPO        OPTION 1. Course "seventh_chords" (SEVENTH CHORDS) on
                      the HOMEWORK screen; FROZEN id, LIVE. Floor 50 cards or
-                     beat 24 stages (ResultCode.GOAL_CARDS_BY_COURSE).
+                     beat 24 stages (ResultCode.GOAL_CARDS_BY_COURSE). All
+                     five chords from stage 4 (DC-SEVENTHS).
                      Rubric dacapo_seventh_chords (DACAPO-20). Solo runs bound
                      + a run nonce (DACAPO-BIND), as Board 2.
       DA CAPO DUET   OPTION 2. One code per SEAT, mode "duet_seventh_
-                     chords", 50 cards per seat over the sitting; rubric
+                     chords", 50 cards per seat over the sitting, P1 TIER 2
+                     or higher (TIER 1 = level 2 = stage 3, no hdim7 / dim7);
+                     rubric
                      dacapo_duet_seventh_chords (NEW, W13-HW-HUB). Needs a
                      MIDI keyboard.
       CHORD CRUSH    OPTION 3. Rule (PROPOSED, W13-HW): Chord Stages, Root;
-                     each of the five seventh-chord stages, levels 1-6 (C G
-                     D A E B) cleared = 20 points; all 12 levels of a stage
-                     = +1 extra credit (max 105). Rubric chordcrush_board3
-                     (NEW, W13-HW-HUB; D5).
-      VIDEO          OPTION 4. Hand-graded on accuracy (D2).
+                     each of the five seventh-chord stages, levels 1 to 6
+                     cleared = 20 points; all 12 levels of a stage = +1
+                     extra credit (max 105). Rubric chordcrush_board3
+                     (NEW, W13-HW-HUB; D5). Needs v51.9.2 (CC-SAVE: every
+                     cleared level is saved at once).
+      KEY SPAR       OPTION 4 (NEW 11-03, Sam: "Key Spar should become a
+                     fifth way"). key-spar.netlify.app, Game Chords, Course
+                     Seventh Chords, Players Solo vs Computer, MIDI keyboard.
+                     Full credit = matches 1-5 (the five qualities, root
+                     position) won vs the computer at ANY computer level.
+                     app_id keyspar, mode "seventh_chords". Rubric
+                     keyspar_seventh_chords (KS-HUB). Build 1.7.0 (D3).
+      VIDEO          OPTION 5. Hand-graded on accuracy (D2).
       NOT ON THIS    PIANO TENNIS (its "m7" / "M7" are intervals; a
-      BOARD          sevenths tier is only proposed). KEY SPAR, LEAD SHEET
-                     LAB, KRILL KEYS: they drill or name the five chords but
-                     send no KTS1 code (D3).
-  Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. A code for
+      BOARD          sevenths tier is only proposed). LEAD SHEET LAB, KRILL
+                     KEYS: they drill or name the five chords but send no
+                     KTS1 code (D3).
+  Rubric.matches filters on app_id and an EXACTLY-EQUAL mode (Da Capo and Key
+  Spar both use "seventh_chords"; app_id keeps them apart). A code for
   any other course or board lands in the hub's "no rubric match" list,
   listed, never graded.
 
@@ -102,13 +129,13 @@ label there, not a key).)
 entities, so the read-back verifier has nothing to mis-decode.)
 
 ===HTML===
-<p>This homework practices the five seventh chords: major 7th, dominant 7th, minor 7th, half-diminished 7th and fully diminished 7th. Choose ONE of the four options below and submit only that one. Every option earns the same full credit, and your last submission is the one graded.</p>
+<p>This homework practices the five seventh chords: major 7th, dominant 7th, minor 7th, half-diminished 7th and fully diminished 7th. Choose ONE of the five options below and submit only that one. Every option earns the same full credit, and your last submission is the one graded.</p>
 <p><strong>Due Sunday, November 15, 2026, at 11:59 PM Eastern.</strong></p>
 
 <h4>OPTION 1: Da Capo</h4>
 <ul>
 <li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>SEVENTH CHORDS</strong>.</li>
-<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>? The GET CODE screen tells you how many cards you still need.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. All five seventh chords are dealt from stage 4 on. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>? The GET CODE screen tells you how many cards you still need.</li>
 <li>Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
 <li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then <strong>MICROPHONE</strong> (beta), and play the cards on the piano. It works best in a quiet room with headphones.</li>
 <li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
@@ -116,7 +143,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 
 <h4>OPTION 2: Da Capo Duet (with a partner)</h4>
 <ul>
-<li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SEVENTH CHORDS</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
+<li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SEVENTH CHORDS</strong>, <strong>P1 TIER</strong> to <strong>TIER 2</strong> or higher, and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
 <li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name at the top; <strong>PLAY AGAIN</strong> keeps it, and going back to the lobby starts it over. At 50 a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
 <li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC in a match, then <strong>GET CODES</strong>. Each of you scans the QR code for your own seat with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
 </ul>
@@ -124,13 +151,20 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 3: Chord Crush</h4>
 <ul>
 <li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>.</li>
-<li><strong>Full credit:</strong> clear levels 1 to 6 (the keys C, G, D, A, E and B) of all five seventh-chord stages: <strong>Major 7th Chords</strong>, <strong>Dominant 7th Chords</strong>, <strong>Minor 7th Chords</strong>, <strong>Half-Diminished 7th Chords</strong> and <strong>Diminished 7th Chords</strong>. Each stage earns 20 points once all 6 of those levels are cleared; its card shows your levels, for example 6/12.</li>
+<li><strong>Full credit:</strong> clear levels 1 to 6 of all five seventh-chord stages: <strong>Major 7th Chords</strong>, <strong>Dominant 7th Chords</strong>, <strong>Minor 7th Chords</strong>, <strong>Half-Diminished 7th Chords</strong> and <strong>Diminished 7th Chords</strong>. Each stage earns 20 points once all 6 of those levels are cleared; its card shows your levels, for example 6/12.</li>
 <li><strong>Extra credit:</strong> 1 point for each of those stages you finish (all 12 levels).</li>
 <li>Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
-<li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
+<li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong> and check that each of the five stages reads 6/12 or more. Then choose <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
 </ul>
 
-<h4>OPTION 4: Video</h4>
+<h4>OPTION 4: Key Spar</h4>
+<ul>
+<li>Open <a href="https://key-spar.netlify.app">https://key-spar.netlify.app</a> with a MIDI keyboard (the class pianos work). Set <strong>Game</strong> to <strong>Chords</strong>, <strong>Course</strong> to <strong>Seventh Chords</strong> and <strong>Players</strong> to <strong>Solo vs Computer</strong>. Play in the same browser each time.</li>
+<li><strong>Full credit:</strong> win matches 1 to 5 against the computer, at any computer level. Play each chord with its root on the bottom. The <strong>Homework</strong> row shows how many you have won.</li>
+<li><strong>To submit:</strong> press <strong>Get Code</strong> (in the <strong>Homework</strong> row, or on the screen after your fifth win), enter your name and school ID, press <strong>Get Code</strong> again, then <strong>Copy Code</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+</ul>
+
+<h4>OPTION 5: Video</h4>
 <ul>
 <li>Record yourself playing all five seventh chords in root position, blocked (all four notes together), on C, G, D, A, E and B (30 chords). Name each one out loud, root first: "C major 7th. C dominant 7th."</li>
 <li>Play one root at a time in this order: major 7th, dominant 7th, minor 7th, half-diminished 7th, fully diminished 7th. Each chord lowers one note of the chord before it by a half step.</li>
@@ -148,20 +182,27 @@ entities, so the read-back verifier has nothing to mis-decode.)
 
 "This homework is the five seventh chords: major 7th, dominant 7th, minor
 7th, half-diminished 7th and fully diminished 7th. You pick how you do it:
-Da Capo, Da Capo duet, Chord Crush, or a video. Submit ONE.
+Da Capo, Da Capo duet, Chord Crush, Key Spar, or a video. Submit ONE.
 
 Da Capo: HOMEWORK, then SEVENTH CHORDS. Clear 50 cards or beat all 24
-stages; at 50 cards it asks if you want your code now. GET CODE, name and
+stages. All five chords show up from stage 4. At 50 cards it asks if you
+want your code now. GET CODE, name and
 school ID, copy, paste the whole code in the text box.
 
 Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, SEVENTH
-CHORDS, same material on. Each of you clears 50 cards in that sitting.
+CHORDS, P1 TIER 2 or higher (tier 1 skips two of the five chords), same
+material on. Each of you clears 50 cards in that sitting.
 GET CODES: each of you scans your own seat's QR code and submits your own.
 
 Chord Crush: your own player, Chord Stages, Root. The five seventh-chord
-stages, levels 1 to 6 in each: C, G, D, A, E, B. Finishing all 12 levels
-of a stage is a point of extra credit. MIDI keyboard or touch. Statistics,
-Canvas Code, paste it.
+stages, levels 1 to 6 in each. Finishing all 12 levels of a stage is a point
+of extra credit. MIDI keyboard or touch. Before you copy your code, open
+Statistics and check each stage reads 6/12. Then Canvas Code, paste it.
+
+Key Spar: a MIDI keyboard. Game Chords, Course Seventh Chords, Solo vs
+Computer. Win matches 1 to 5 against the computer, any computer level, root
+of each chord on the bottom. Get Code, name and school ID, Copy Code, paste
+the whole code.
 
 Or a video: the five seventh chords on C, G, D, A, E and B, blocked and
 named, in the order major 7th down to fully diminished, metronome at 60.
@@ -178,21 +219,27 @@ as the Pop Tune. The last thing you submit is what I grade."
 
 Subject: HW #13 — Choice Board 3: Seventh Chords, due Sun 11/15 at 11:59 PM
 
-"HW #13 — Choice Board 3: Seventh Chords" is on Canvas. Pick ONE way:
+"HW #13 — Choice Board 3: Seventh Chords" is on Canvas. Pick ONE of five ways:
 
   DA CAPO  https://da-capo-game.netlify.app
-    HOMEWORK -> SEVENTH CHORDS. Clear 50 cards or beat all 24 stages.
-    GET CODE, paste the whole code in the text box. Computer (A-G keys),
+    HOMEWORK -> SEVENTH CHORDS. Clear 50 cards or beat all 24 stages
+    (all five chords from stage 4). GET CODE, paste the whole code in the text box. Computer (A-G keys),
     iPad (on-screen keys) or a MIDI keyboard.
   DA CAPO DUET  with a partner on one MIDI keyboard: MULTIPLAYER ->
-    DUET (ONE KEYBOARD), SEVENTH CHORDS, SAME MATERIAL on. Each of you
+    DUET (ONE KEYBOARD), SEVENTH CHORDS, P1 TIER 2 or higher, SAME
+    MATERIAL on. Each of you
     clears 50 cards in one sitting (PLAY AGAIN keeps the count). GET
     CODES (end screen, or ESC to pause), scan YOUR seat's QR code with
     your phone, paste it.
   CHORD CRUSH  https://chord-crush-mobile.netlify.app (MIDI keyboard or
-    touch). Your own player, Chord Stages, Root. Levels 1-6 (C G D A E B)
+    touch). Your own player, Chord Stages, Root. Levels 1 to 6
     of all five seventh-chord stages; all 12 levels of a stage is +1
-    extra credit. Statistics -> Canvas Code, paste it.
+    extra credit. Check Statistics reads 6/12 on each, then Canvas Code,
+    paste it.
+  KEY SPAR  https://key-spar.netlify.app (MIDI keyboard). Chords ->
+    Seventh Chords, Solo vs Computer. Win matches 1 to 5 against the
+    computer, any level, root on the bottom. Get Code, paste the whole
+    code.
   A VIDEO  the five seventh chords on C, G, D, A, E and B, named,
     metronome at 60 (the assignment has the details); upload it, or
     paste an unlisted YouTube link in the text box.
@@ -205,9 +252,9 @@ way. Your last submission is the one graded.
 4. SAM'S CLICK-PATH (approve, play it live, create, grade)
 ===========================================================
 
-  GATE: SAM APPROVES THIS PROPOSAL (section 5 D0: the four ways, the
-  Chord Crush rule, the video, the title, the due date). Every app way is
-  LIVE and hash-checked (2026-11-02T18:10Z, header). If the Chord Crush
+  GATE: SAM APPROVES THIS PROPOSAL (section 5 D0: the five ways, the
+  Chord Crush rule, the Key Spar goal, the video, the title, the due date).
+  Every app way is LIVE and hash-checked (2026-11-03 PM, header). If the Chord Crush
   rule changes, the numbers in Grading_Hub/rubrics/chordcrush_board3 and
   its test change with it (one small hub pass) BEFORE the board is posted.
   Create it any day before Mon 11/9 (the board's week).
@@ -218,14 +265,22 @@ way. Your last submission is the one graded.
       CHORDS, clear a card (A-G keys, letters together for a chord), ESC ->
       GET CANVAS CODE, your name and ID, GET CODE, COPY CODE. Save it.
   [ ] https://chord-crush-mobile.netlify.app, hard-refresh (the title
-      reads v51.9.1). + NEW PROFILE "Test", Chord Stages, Root, Major 7th
+      reads v51.9.2). + NEW PROFILE "Test", Chord Stages, Root, Major 7th
       Chords, clear level 1 (one chord, by touch or MIDI). Statistics ->
       Canvas Code, your name and ID, Generate code, Copy code. Save it.
+      (Without pressing Quit: the level you cleared is already in the
+      code, since v51.9.2.)
+  [ ] https://key-spar.netlify.app, hard-refresh. Game Chords, Course
+      Seventh Chords, Players Solo vs Computer, Homework row -> Get Code,
+      name and ID, Get Code, Copy Code. Save it. (A match win is needed for
+      a nonzero goal; the code itself decodes with none. A MIDI keyboard
+      plays the match; without one, the Homework screen still makes a code.)
   [ ] Hub: tab 3 "Load folder…" -> Grading_Hub/rubrics/hw13_board3 (the
-      picker shows "SET: HW #13 — Choice Board 3: Seventh Chords [3
-      rubrics]"). Tab 2: paste both codes, Decode. EXPECT dacapo /
+      picker shows "SET: HW #13 — Choice Board 3: Seventh Chords [4
+      rubrics]"). Tab 2: paste the three codes, Decode. EXPECT dacapo /
       seventh_chords with a "nonce" row and 0 (under 50 cards);
-      chordcrush / session_report with a "maj7_levels" row 1/12 and 0.
+      chordcrush / session_report with a "maj7_levels" row 1/12 and 0;
+      keyspar / seventh_chords with a "goal" row 0/1 and a "nonce" row, 0.
   [ ] Clean up: Da Capo HOMEWORK -> ERASE IT AND START OVER on a classroom
       computer; delete the Chord Crush "Test" profile.
 
@@ -252,7 +307,8 @@ way. Your last submission is the one graded.
   C. GRADING IT, after the due date: ONE run for the whole board.
   [ ] Grading Hub tab 3 -> "Load folder…" -> Grading_Hub/rubrics/
       hw13_board3. The picker shows the SET, already selected:
-      dacapo_seventh_chords, dacapo_duet_seventh_chords, chordcrush_board3.
+      dacapo_seventh_chords, dacapo_duet_seventh_chords, chordcrush_board3,
+      keyspar_seventh_chords.
   [ ] Tab 1 Sections as usual -> tab 4 Enable -> Preview Batch Post. ONE
       row per student, their BEST total over every way they handed in.
       Also listed: "no rubric match" (a Board 2 code, a Da Capo run in
@@ -263,8 +319,11 @@ way. Your last submission is the one graded.
   [ ] What each code earns: Da Capo solo 100 at 50 cards or a beaten
       game; a duet seat 100 at 50 cards in the sitting; Chord Crush 20 per
       seventh stage at 6 of 12 levels (Root), +1 per stage at 12 of 12
-      (105 posts as 105). A Chord Crush code from before v51.9.0 posts 0:
-      the student hard-refreshes and copies a new code. Lateness.gd's
+      (105 posts as 105); Key Spar 100 when matches 1-5 are won solo (any
+      computer level). A Chord Crush code from before v51.9.0 posts 0: the
+      student hard-refreshes and copies a new code. A Chord Crush code from
+      before v51.9.2 may be missing levels that were never saved: same fix
+      (reload, replay the missing levels, copy a new code). Lateness.gd's
       penalty is inside the best total.
   [ ] VIDEOS: SpeedGrader against section 5's answer key (D2); tab 6
       sheet, hand-graded students ONLY, "Post External Grades". Lateness
@@ -279,18 +338,31 @@ way. Your last submission is the one graded.
 5. THREAD NOTES — true, but NOT for the assignment text
 ===========================================================
 
-D0. THE PROPOSAL (W13-HW, 2026-11-02), ALL FOR SAM TO APPROVE:
-  - FOUR WAYS: Da Capo, Da Capo duet, Chord Crush, video. Board 2 had five;
-    Piano Tennis has no seventh chords, so it drops out. No new app work
-    was needed: every app way is live today and the hub grades it
-    (W13-HW-HUB b01eafa).
+D0. THE PROPOSAL (W13-HW 2026-11-02, rebuilt B3-TEXT 2026-11-03 PM), ALL FOR
+  SAM TO APPROVE:
+  - FIVE WAYS: Da Capo, Da Capo duet, Chord Crush, Key Spar, video (was four
+    on 11-02; Board 2 has five, with Piano Tennis, which has no seventh
+    chords and stays out). Key Spar joined on Sam's 11-03 "Key Spar should
+    become a fifth way": KS-CODE 1817b7a made the code, KS-HUB 277e3a4 grades
+    it (rubric keyspar_seventh_chords, REGISTRY "keyspar").
+    ORDER, FOR SAM: Da Capo, Duet, Chord Crush, Key Spar, video (the app
+    ways first, by how long the graded rule is; the video last as always).
+    If another order reads better, move the OPTION 4 block and renumber.
   - THE LOAD, next to the Pop Tune Composition due the same Sunday: Da
     Capo stays at Board 2's 50 cards (Sam's "50 across the board"). Chord
     Crush is LIGHTER than Board 2's (6 levels a stage = 21 chords, 105 in
     all, against Board 2's 156), because a full seventh stage is 78
     four-note chords and all five would be 390. The video is 30 chords
-    (Board 2's was 52 triads). If Sam wants it heavier: Chord Crush at 12
-    levels per stage is one number per column in chordcrush_board3 (D5).
+    (Board 2's was 52 triads). Key Spar: five matches. If Sam wants Chord
+    Crush heavier: 12 levels per stage is one number per column in
+    chordcrush_board3 (D5).
+  - KEY SPAR GOAL, FOR SAM (your "approve all" took the defaults): matches
+    1-5 (the five qualities) won solo vs the computer at ANY computer level;
+    all 9 is one constant (GOAL_LEVELS), a minimum computer level would be
+    one threshold on the code's cpu_level row (no new build). Root position
+    is enforced in Key Spar's chord matches now (stricter in every Key Spar
+    chord course, not only this one). The pasted text tells students to
+    put the root on the bottom.
   - DUE Sunday of Week 13 (A11), module Week 13, 100 points.
   - TITLE "HW #13 — Choice Board 3: Seventh Chords" (HW #12 = Pop Tune).
   - THE VIDEO: D2. Its order (each chord lowers one note a half step) is
@@ -298,18 +370,33 @@ D0. THE PROPOSAL (W13-HW, 2026-11-02), ALL FOR SAM TO APPROVE:
   - THE MIC bullet in OPTION 1 is kept as on Board 2; seventh chords are
     the mic's weakest card kind (D1). FOR SAM: drop the bullet if you
     would rather not offer it for four-note chords.
-  - NOT ADDED (FOR SAM): a "practice first" line naming Key Spar's Seventh
-    Chords course or Lead Sheet Lab (ungraded, D3). Left out to keep the
-    paste to graded ways, as Board 2.
-  - The paste is 629 words, tags stripped (Board 2's five ways: 704 by
-    the same count).
+  - NOT ADDED: a "practice first" line for Lead Sheet Lab (ungraded, D3).
+    Left out to keep the paste to graded ways, as Board 2.
+  - THE PASTE changed from 11-02: OPTION 1 (all five from stage 4), OPTION 2
+    (P1 TIER 2 or higher), OPTION 3 (levels 1 to 6, Statistics check, no
+    Quit line), new OPTION 4 Key Spar, video renumbered 5. 759 words,
+    tags stripped (the 11-02 four-option paste: 629).
+  - NO QUIT LINE IN OPTION 3 (CC-SAVE's FOR SAM 2: v51.9.2 saves every
+    level at once). Students who played Chord Crush on Board 2 before
+    11/3 may find a stage reading lower than they remember: Chord_Crush
+    next_steps FOR SAM 1 has the one-line announcement ("If your Chord
+    Crush stage shows fewer levels than you cleared, reload the page and
+    replay the missing levels; every level you clear now saves right away").
+    Board 3 opens Mon 11/9; this should touch only Board 2 students.
 
-D1. DA CAPO (DACAPO-20; Curriculum.gd spec_for "seventh_chords").
-  COVERAGE: stages 1-6 treble staff, MAJ7, 7 AND MIN7 only; 7-12 grand
-  staff, all five; 13-18 adds inversions [0, 1, 2]; 19-24 every inversion.
-  Pack C maps hold at most five creatures each, so 50 cleared cards should
-  carry a run past stage 6 into the half- and fully diminished 7ths. That
-  is an estimate from the map rule, not a measured run (as Board 2's D1).
+D1. DA CAPO (DACAPO-20; Curriculum.spec_for "seventh_chords"; DC-SEVENTHS
+  f26584c, live pck bc3e2e1940a2d37e).
+  COVERAGE (measured by BOARD3-QA, then fixed): the old curve dealt only
+  MAJ7, 7 and MIN7 in stages 1-6, and 50 cards landed inside stage 6's
+  boss, so a student who stopped at 50 had never met the half-diminished or
+  diminished 7th. NOW: stages 1-3 treble, MAJ7, 7 and MIN7; stages 4-12
+  grand staff, ALL FIVE; 13-18 adds inversions [0, 1, 2]; 19-24 every
+  inversion. Stage 4 deals the two new chords first, and the deal is an
+  even shuffled bag (dim7 had been ~10% of deals). Measured, three
+  headless runs of tools/board3_play.gd: half-diminished AND diminished
+  7ths are met by card 40 (inside stage 4) every time; stage 4 ends at card
+  39-48, the stage 6 boss at 77-80 and deals all five. 50 cards still ends
+  the goal; codes, rows and the rubric are unchanged.
   THE MIC (BETA): Board 2 D1 has what it does. Synthetic recall on SEVENTH
   CHORD cards (Da_Capo project_state, MIC-DACAPO item 8): 95% clean, 87.5%
   room, 87.5% detuned (note recall 95.6-98.8%), the lowest of the card
@@ -354,11 +441,24 @@ D2. THE VIDEO (PROPOSED). All five qualities in root position on the six
 
 D3. EVERY OTHER APP, CHECKED 2026-11-02 (W13-HW; each app's source and
   docs, not assumed):
-  - KEY SPAR (live 1.4.0, key-spar.netlify.app): a "Seventh Chords" course
-    in the Chords menu (scripts/campaign_data.gd): one level per quality
-    in root position, then first / second / third inversions, then a
-    review. NO KTS1 code (no ScoreReport, no app id in the hub registry).
-    A board way would need a Key Spar code pass + a hub registry entry.
+  - KEY SPAR: NOW A BOARD WAY (OPTION 4; checked 2026-11-02 as "no code",
+    changed by KS-CODE 1817b7a, build 1.7.0, live pck 4b705c46bdd2230a, and
+    KS-HUB 277e3a4). The "Seventh Chords" course in the Chords menu
+    (scripts/campaign_data.gd) has nine matches: one per quality in root
+    position (1-5), then first / second / third inversions (6-8), then a
+    review (9). The homework goal is matches 1-5 won solo vs the computer,
+    any computer level. The code: app_id keyspar, mode "seventh_chords",
+    rows goal, levels, maj7 dom7 min7 hdim7 dim7, inv1 inv2 inv3 review,
+    cards, cpu_level, seconds, nonce, input_midi. ONE BROWSER RUN, ONE
+    STUDENT (as Da Capo): the first code binds the run to that name and
+    school ID; another ID is refused ("This saved course belongs to Ada.
+    Press Start Over to play your own."). Matches won before 1.7.0 are not
+    counted. Only Solo vs Computer matches count (2 Players, teams, online
+    and Training do not). Key Spar answers only from MIDI, so a keyboard is
+    needed. Hub-tested on the committed fixture (tests/fixtures/keyspar_
+    board3_sample_codes.json): goal at CPU 1 -> 100, four of five -> 0,
+    all nine -> 100, a tampered code rejected, a second student's code
+    from the same run flagged SHARED CODE.
   - LEAD SHEET LAB (live): all five in data/chords.json under the book's
     symbols (C7, CMA7, CMI7, C°, CMI7(b5)); practice modes, "The app emits
     no homework codes" (its docs/next_steps).
@@ -379,8 +479,16 @@ D4. THE DA CAPO DUET: Board 1 D4 / Board 2 D4. The lobby's P1 COURSE cycles
   cards -> 100, P2 45 -> 0, one seat from two submitters flagged SHARED.
   Seventh chords need four keys at once: MIDI only in a duet, as always.
 
-D5. CHORD CRUSH (checked 2026-11-02 at Chord_Crush 44465e8 = live v51.9.1,
-  pck 2d62355997d039c1).
+D5. CHORD CRUSH (first checked 2026-11-02 at Chord_Crush 44465e8 = v51.9.1; re-checked
+  2026-11-03 PM at v51.9.2, pck f8984362c52111b0).
+  - 2026-11-03 PM: v51.9.2 (CC-SAVE 8a097d7, live pck f8984362c52111b0):
+    every cleared level is now saved the moment it is cleared (before, only
+    at 12/12 or pause -> Quit, so a code made after a Game Over or a closed
+    tab could be missing a stage's row and post 0). Tested: six levels with
+    no Quit read back from disk and through a real code, for a triad and a
+    seventh stage. The stage card with a saved game reads "6/12 · SAVED at
+    Level 7". The text now says "levels 1 to 6" and asks for a Statistics
+    check of 6/12 before the code.
   - The five seventh stages are Chord Stages cards named by ChordData.
     CHORD_TYPE_NAMES: "Major 7th Chords", "Dominant 7th Chords", "Minor
     7th Chords", "Half-Diminished 7th Chords", "Diminished 7th Chords";
@@ -409,10 +517,14 @@ D5. CHORD CRUSH (checked 2026-11-02 at Chord_Crush 44465e8 = live v51.9.1,
 L. LATENESS: Lateness.gd applies to codes automatically; by hand for
   hand-graded rows.
 
-N. NOT VERIFIED BY A HUMAN: no person has played any of the four ways
+N. NOT VERIFIED BY A HUMAN: no person has played any of the five ways
   live for this board or decoded a live code with the hw13_board3 set
-  (section 4 A is that check). What is verified: the two live pcks match
-  their recorded deploys (sha256, 2026-11-02T18:10Z); the hub grades the
-  set on real codes made by the games' own encoders, headless (2563 +
-  smoke). The HTML has not been through the hub's read-back verifier (it
-  runs at Create).
+  (section 4 A is that check). What is verified: the three live pcks
+  (Da Capo, Chord Crush, Key Spar) re-hashed by curl on 2026-11-03 PM and
+  match their recorded deploys; the hub grades the set on real codes made
+  by the games' own encoders, headless (KS-HUB: 2748 + smoke); BOARD3-QA
+  (Da_Capo docs/board3_qa.txt) played Da Capo solo and the duet end to end.
+  The HTML has not been through the hub's read-back verifier (it runs at
+  Create). The Key Spar OPTION 4 wording (menu names Game / Course /
+  Players, the Homework row, Get Code / Copy Code) was read from Key
+  Spar's main.gd and PROJECT_STATE, not played by this pass.

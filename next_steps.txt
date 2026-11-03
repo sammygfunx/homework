@@ -1,6 +1,6 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-11-03 (SCALE-TEXT DONE: quiz6_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
+Updated: 2026-11-03 PM (B3-TEXT DONE, item 0B3T: Board 3 is FIVE ways incl. Key Spar, hw_board2 duet TIER line; see FOR SAM under 0B3T). Before that: 2026-11-03 (SCALE-TEXT DONE: quiz6_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
 CREATE, final_repertoire_selections.txt READY TO POST, Board 3 PROPOSED with
 its hub set hw13_board3 (Grading_Hub W13-HW-HUB b01eafa), the scale quiz memo
 docs/w13_scale_quiz_options.txt for Sam's decision; roster).
@@ -45,6 +45,54 @@ Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
 
+0B3T. B3-TEXT (DONE 2026-11-03 PM, commit "B3-TEXT:"; was RUNNING; prompt copied verbatim from —OER/docs/
+   passes_2026-11-03_board3_followups.txt block E; sonnet 5.5 | medium | TAG "B3-TEXT:")
+   GATES MET: DC-SEVENTHS f26584c (Da Capo, pck bc3e2e1940a2d37e), CC-SAVE 8a097d7
+   (Chord Crush v51.9.2, pck f8984362c52111b0), KS-HUB 277e3a4 (Grading_Hub); KS-CODE 1817b7a
+   (Key Spar 1.7.0, pck 4b705c46bdd2230a). All three live pcks re-hashed by curl 11-03 = match.
+   --- BLOCK E ---
+   E. B3-TEXT (—Homework). Read board3_qa.txt "EXACT TEXT EDITS TO QUEUE IN —HOMEWORK" and the
+   three final commits. hw_board3_seventh_chords.txt (still PROPOSED; Sam Creates Mon 11/9):
+   - FIVE options in one paste: add OPTION "Key Spar" (from KS-CODE's live words: URL
+     key-spar.netlify.app, the course, what full credit is, GET CODE / COPY CODE, solo vs the
+     computer only, any CPU level). Order: Da Capo, Da Capo Duet, Chord Crush, Key Spar, video
+     (FOR SAM if another order reads better).
+   - OPTION 2: "P1 TIER to TIER 2 or higher" (TIER 1 deals only three of the five).
+   - OPTION 1: true to DC-SEVENTHS (all five by stage 4; 50 cards).
+   - OPTION 3: drop "(the keys C, G, D, A, E and B)" (say "levels 1 to 6"); add "Before you copy
+     your code, choose Statistics and check each stage reads 6/12"; no Quit line (CC-SAVE fixed
+     it) unless CC-SAVE's FOR SAM says old saves need it.
+   - Sections 2 (class script), 3 (announcement), 4 (click-path: the hub set now shows 4 rubrics;
+     live-check a Key Spar code too), 5 (D0 four -> five ways, D1 measured numbers replace the
+     estimate, D3 Key Spar now a way, D5 the save fix + version, N updated), header pcks/hashes,
+     word count re-measured.
+   hw_board2_triads.txt: the duet option gets the same TIER line (triads TIER 1 = major and minor
+   only) -- FOR SAM: Board 2 is in Canvas; say exactly which HTML to re-paste (tab 5 same title =
+   update in place). American spelling, ASCII in the paste. Final commit "B3-TEXT: ...",
+   WHATS-NEW: none.
+   --- END BLOCK E ---
+   RESULT: hw_board3_seventh_chords.txt rebuilt: FIVE options (Da Capo, Duet, Chord Crush, Key
+   Spar, video), paste 759 words (was 629), ASCII; sections 2-5, header and hashes updated; hub
+   set shown as 4 rubrics. hw_board2_triads.txt: OPTION 2 + sections 2-3 say P1 TIER 2 or higher.
+   FOR SAM:
+   1. BOARD 3 (still PROPOSED): approve D0 (five ways, ORDER Da Capo / Duet / Chord Crush / Key
+      Spar / video; say if another order reads better), then section 4 A (the live check now
+      includes a Key Spar code) and B (tab 5 Create) before Mon 11/9.
+   2. KEY SPAR GOAL = matches 1-5 solo vs the computer, any computer level, root on the bottom
+      (your "approve all"); all 9 or a minimum CPU level is one constant / one rubric threshold.
+   3. BOARD 2 IS IN CANVAS: RE-PASTE hw_board2_triads.txt section 1's HTML (only OPTION 2's first
+      bullet changes: "P1 TIER to TIER 2 or higher"; tab 5, the SAME title "HW #11 — Choice Board
+      2: Triads", same settings, Preview, Create = update in place), and post one line: "Choice
+      Board 2, Da Capo Duet: set P1 TIER to TIER 2 or higher so you get all four triad
+      qualities." If the CB-HALF re-paste is still pending, one paste covers both.
+   4. CHORD CRUSH: students who played Board 2 before 11/3 may see a lower stage count; Chord_Crush
+      next_steps FOR SAM 1 has the announcement line.
+   5. OPTION 4's Key Spar wording (Game / Course / Players menu, Homework row, Get Code) was read
+      from Key Spar's source and docs, not played; the 5-minute live check covers it.
+   6. The mic bullet in OPTION 1 stays (D0).
+   DA CAPO SYMBOLS (DC-SYMBOLS) did not gate this pass: the paste names no chord label, so it
+   needs no change either way.
+
 0Q6. QUIZ 6 MAJOR SCALE FINGERING (pass SCALE-TEXT DONE 2026-11-03): quiz6_scale_fingering.txt
    READY TO CREATE (Grading Hub tab 5, NEW assignment, text entry only, 20 pts PROPOSED, due
    Fri 11/13 23:59 PROPOSED, unlimited attempts, no video way by Sam's call). App:
@@ -67,7 +115,7 @@ Ranked high -> low.
        announcement Monday 11/9 (+ the optional Week 13 page). Ungraded.
        FOR SAM: "sign up during class on Monday", the N4 milestones.
    (3) BOARD 3 IS PROPOSED -- APPROVE OR CHANGE: hw_board3_seventh_
-       chords.txt section 5 D0 (four ways: Da Capo, Da Capo duet, Chord
+       chords.txt section 5 D0 (FIVE ways since B3-TEXT 11-03: Da Capo, Da Capo duet, Key Spar, Chord
        Crush levels 1-6 of all five seventh stages = 20 each + 1 per stage
        at 12 (max 105), video of 30 chords; title "HW #13 — Choice Board 3:
        Seventh Chords"; due Sun 11/15; the mic bullet). Then section 4 A

@@ -36,6 +36,19 @@ Extra credit unchanged (all 12 of Diminished / Augmented, +3 each) -- FOR SAM,
 say if that should drop to 6 too. Needs Grading_Hub chordcrush_board2
 min_correct 12 -> 6 on maj/min; no Chord Crush app change (the codes already
 carry attempted / correct per stage). Canvas description must be re-pasted.
+B3-TEXT 2026-11-03 (Board 3 followups, —OER passes_2026-11-03_board3_followups
+E; evidence Da_Capo docs/board3_qa.txt D3/F2): OPTION 2 (the duet) now says
+"P1 TIER to TIER 2 or higher", because the lobby's default TIER 1 (Duet.
+TIER_LEVELS[0] = level 2) deals only major and minor triads, so a pair who
+left it would never meet diminished or augmented (Curriculum.spec_for
+"triads": level < 6). TIER 2 (level 8) deals all four. Sections 2 and 3 say
+the same. The code, mode and rubric are unchanged (the mode has no tier).
+FOR SAM: Board 2 is already in Canvas. RE-PASTE section 1's HTML (the
+Option 2 first bullet is the only change; tab 5, the SAME title "HW #11 —
+Choice Board 2: Triads", same settings, Preview, Create = an update in place)
+and post one line: "Choice Board 2, Da Capo Duet: set P1 TIER to TIER 2 or
+higher so you get all four triad qualities." This rides with the CB-HALF
+re-paste if that has not been pasted yet: one paste covers both.
 TITLE PROPOSED, FOR SAM: "HW #11 — Choice Board 2: Triads" (section 1).
 ===========================================================
 
@@ -140,7 +153,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 
 <h4>OPTION 2: Da Capo Duet (with a partner)</h4>
 <ul>
-<li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
+<li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong>, <strong>P1 TIER</strong> to <strong>TIER 2</strong> or higher, and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
 <li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name at the top; <strong>PLAY AGAIN</strong> keeps it, and going back to the lobby starts it over. At 50 a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
 <li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC in a match, then <strong>GET CODES</strong>. Each of you scans the QR code for your own seat with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
 </ul>
@@ -193,7 +206,7 @@ your code now. GET CODE, name and school ID, copy, paste the whole code
 in the text box.
 
 Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, TRIAD
-QUALITIES, same material on, PLAY AGAIN between matches. Each of you
+QUALITIES, P1 TIER 2 or higher, same material on, PLAY AGAIN between matches. Each of you
 clears 50 cards in that sitting; your count is by your name. GET CODES
 is on the end screen and in the pause menu (ESC): each of you scans your
 own seat's QR code with your own phone and submits your own.
@@ -230,7 +243,8 @@ Subject: HW #11 — Choice Board 2: Triads, due Sun 11/8 at 11:59 PM
     GET CODE, paste the whole code in the text box. Computer (A-G keys),
     iPad (on-screen keys) or a MIDI keyboard.
   DA CAPO DUET  with a partner on one MIDI keyboard: MULTIPLAYER ->
-    DUET (ONE KEYBOARD), TRIAD QUALITIES, SAME MATERIAL on. Each of you
+    DUET (ONE KEYBOARD), TRIAD QUALITIES, P1 TIER 2 or higher, SAME
+    MATERIAL on. Each of you
     clears 50 cards in one sitting (PLAY AGAIN keeps the count). GET
     CODES (end screen, or ESC to pause), scan YOUR seat's QR code with
     your phone, paste it.

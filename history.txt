@@ -1,5 +1,16 @@
 HOMEWORK — HISTORY (completed work archive)
 ============================================
+PASS B3-TEXT (2026-11-03 PM, Sonnet 5.5, —OER docs/passes_2026-11-03_board3_followups.txt
+  block E; gated on DC-SEVENTHS f26584c, CC-SAVE 8a097d7, KS-HUB 277e3a4).
+  Read Da_Capo docs/board3_qa.txt and the final commits and FOR SAM blocks of
+  all four game/hub passes (KS-CODE 1817b7a too); re-hashed the three live
+  pcks. Board 3 now FIVE options (Key Spar is OPTION 4, video OPTION 5):
+  OPTION 1 (all five from stage 4), OPTION 2 (P1 TIER 2 or higher),
+  OPTION 3 (levels 1 to 6, Statistics 6/12 check, no Quit line), sections
+  1-5, header and N; paste 759 words. Board 2's duet option, sections 2-3
+  and a header note gained the same TIER line (FOR SAM: re-paste Board 2).
+  Nothing in Canvas. WHATS-NEW: none.
+
 PASS W13-HW (2026-11-02, Opus 5.5, —OER docs/passes_2026-11-02_ks_w13.txt
   section 4; gated on W13-SHEETS 83e8579). Read-only prep while gated: the
   brief (PART 7), roster, Board 3, every app's seventh-chord coverage (only
