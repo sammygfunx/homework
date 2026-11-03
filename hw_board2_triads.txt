@@ -30,6 +30,12 @@ Difficulty tier) and GET CODE (was GET CANVAS CODE); Weekly tiers, START
 MATCH, COPY CODE unchanged. Board 2 was ALREADY LIVE in Canvas with the old
 words: Sam re-pastes section 1 (only the Option 4 lines differ). Click-path
 text in section 4 updated to match.
+CB-HALF 2026-11-03 (Sam): Chord Crush full credit is now 6 levels of Major
+Triads + 6 of Minor Triads (50 + 50, "half each"; Sam's typo stands).
+Extra credit unchanged (all 12 of Diminished / Augmented, +3 each) -- FOR SAM,
+say if that should drop to 6 too. Needs Grading_Hub chordcrush_board2
+min_correct 12 -> 6 on maj/min; no Chord Crush app change (the codes already
+carry attempted / correct per stage). Canvas description must be re-pasted.
 TITLE PROPOSED, FOR SAM: "HW #11 — Choice Board 2: Triads" (section 1).
 ===========================================================
 
@@ -142,7 +148,7 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 3: Chord Crush</h4>
 <ul>
 <li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>.</li>
-<li><strong>Full credit:</strong> clear all 12 levels of <strong>Major Triads</strong> and of <strong>Minor Triads</strong> (half each). A stage says MASTERED when it is done.</li>
+<li><strong>Full credit:</strong> clear 6 levels of <strong>Major Triads</strong> and 6 levels of <strong>Minor Triads</strong> (half each). A stage says MASTERED when it is done.</li>
 <li><strong>Extra credit:</strong> 3 points for all 12 levels of <strong>Diminished Triads</strong>, and 3 more for all 12 levels of <strong>Augmented Triads</strong>.</li>
 <li>Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
 <li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
@@ -192,8 +198,8 @@ clears 50 cards in that sitting; your count is by your name. GET CODES
 is on the end screen and in the pause menu (ESC): each of you scans your
 own seat's QR code with your own phone and submits your own.
 
-Chord Crush: pick your own player, Chord Stages, Root position. Clear all
-12 levels of Major Triads and all 12 of Minor Triads; each is half the
+Chord Crush: pick your own player, Chord Stages, Root position. Clear 6
+levels of Major Triads and 6 of Minor Triads; each is half the
 grade. Diminished and Augmented are 3 points extra credit each. MIDI
 keyboard or touch; a mouse can't play a chord. Statistics, Canvas Code,
 paste it.
@@ -229,8 +235,8 @@ Subject: HW #11 — Choice Board 2: Triads, due Sun 11/8 at 11:59 PM
     CODES (end screen, or ESC to pause), scan YOUR seat's QR code with
     your phone, paste it.
   CHORD CRUSH  https://chord-crush-mobile.netlify.app (MIDI keyboard or
-    touch). Your own player, Chord Stages, Root. All 12 levels of Major
-    Triads and of Minor Triads (half each); Diminished and Augmented are
+    touch). Your own player, Chord Stages, Root. 6 levels of Major
+    Triads and 6 of Minor Triads (half each); Diminished and Augmented are
     +3 extra credit each. Statistics -> Canvas Code, paste it.
   PIANO TENNIS  https://piano-tennis.netlify.app (computer, Chrome or
     Edge). VS COMPUTER, Drill: Weekly tiers, the tier that ends Triads:
