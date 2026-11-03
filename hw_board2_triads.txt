@@ -91,8 +91,8 @@ THE FACTS EVERYTHING HANGS ON
                      seat over the sitting; rubric dacapo_duet_triads
                      (DUET-CODE, board 1 D4). Needs a MIDI keyboard.
       CHORD CRUSH    OPTION 3. Rule (Sam, 2026-10-26): Chord Stages, Root
-                     position; Major Triads and Minor Triads, all 12 levels
-                     each, REQUIRED (50 + 50); Diminished Triads and
+                     position; Major Triads and Minor Triads, 6 of 12 levels
+                     each, REQUIRED (50 + 50; CB-HALF 11-03, was all 12); Diminished Triads and
                      Augmented Triads, all 12 levels each, +3 extra credit
                      each (max 106). Rubric chordcrush_board2 (CC-LEVELS,
                      v51.9.0, D5).
@@ -161,8 +161,8 @@ entities, so the read-back verifier has nothing to mis-decode.)
 <h4>OPTION 3: Chord Crush</h4>
 <ul>
 <li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>.</li>
-<li><strong>Full credit:</strong> clear 6 levels of <strong>Major Triads</strong> and 6 levels of <strong>Minor Triads</strong> (half each). A stage says MASTERED when it is done.</li>
-<li><strong>Extra credit:</strong> 3 points for all 12 levels of <strong>Diminished Triads</strong>, and 3 more for all 12 levels of <strong>Augmented Triads</strong>.</li>
+<li><strong>Full credit:</strong> clear 6 levels of <strong>Major Triads</strong> and 6 levels of <strong>Minor Triads</strong> (half each). The stage card shows <strong>6/12</strong> when you have six.</li>
+<li><strong>Extra credit:</strong> 3 points for all 12 levels of <strong>Diminished Triads</strong>, and 3 more for all 12 levels of <strong>Augmented Triads</strong>. The card says <strong>✓ MASTERED</strong> when all 12 are done.</li>
 <li>Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
 <li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
 </ul>
