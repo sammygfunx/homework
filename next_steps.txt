@@ -1,6 +1,6 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
+Updated: 2026-11-03 (SCALE-TEXT DONE: quiz6_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
 CREATE, final_repertoire_selections.txt READY TO POST, Board 3 PROPOSED with
 its hub set hw13_board3 (Grading_Hub W13-HW-HUB b01eafa), the scale quiz memo
 docs/w13_scale_quiz_options.txt for Sam's decision; roster).
@@ -44,6 +44,16 @@ HTML into the live Canvas assignment; the app itself is unchanged).
 Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
+
+0Q6. QUIZ 6 MAJOR SCALE FINGERING (pass SCALE-TEXT DONE 2026-11-03): quiz6_scale_fingering.txt
+   READY TO CREATE (Grading Hub tab 5, NEW assignment, text entry only, 20 pts PROPOSED, due
+   Fri 11/13 23:59 PROPOSED, unlimited attempts, no video way by Sam's call). App:
+   https://scale-fingering.netlify.app/?quiz=1 ; hub rubric scalefingering_quiz6 ("keep": "best").
+   Prompt: —OER docs/passes_2026-11-03_tue.txt block 9 (gates SCALE-HUB f3597e4 + PT-E cebb495 met).
+   FOR SAM (file section 5): 1 points (20); 2 due/in-class window; 3 the Canvas pull reads the LATEST
+   submission only, so say "paste your best code"; 4 title "Quiz 6: Major Scale Fingering" vs
+   "Quiz #6:" style (the hub rubric names the same string); 5 app name pick; 6 more alternative
+   fingerings?; 7 no-device students; 8 accommodations.
 
 0W13. WEEK 13 -- SAM (pass W13-HW DONE 2026-11-02; prompt copied below).
    Gate met: W13-SHEETS 83e8579 (sheets LIVE, 200). SAM, before Mon 11/9:

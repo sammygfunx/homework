@@ -284,6 +284,18 @@ HW #9  Diatonic Triad Dodge: the 49 white-key triads.
          (2026-10-13, v2.3.1, live): the game's blurb, HUD and "Goal
          met" now say session mastery of the 49, matching this text.
 
+QUIZ 6  Quiz 6: Major Scale Fingering (title PROPOSED, FOR SAM). NEW 2026-11-03 (pass
+       SCALE-TEXT; app Scale_Fingering SCALE-1 b44750d, hub SCALE-HUB f3597e4).
+       In class Fri 11/13; due Fri 2026-11-13 23:59 Eastern (2026-11-14T04:59:00Z;
+       PROPOSED). Module Week 13. 20 points PROPOSED. Unlimited attempts, best code
+       counts; text entry only; NO video way (Sam's call, an explicit exception).
+       App: https://scale-fingering.netlify.app/?quiz=1 (app id scalefingering, mode
+         major_scales_f26).
+       Rubric: Grading_Hub/rubrics/scalefingering_quiz6.rubric.json (percent on
+         "total" of 720, "keep": "best").
+       Content: —Homework/quiz6_scale_fingering.txt
+       Status: READY TO CREATE.
+
 HW #12  Pop Tune Composition (title PROPOSED by W13-HW, 2026-11-02:
        "HW #12 — Pop Tune Composition"; Boards 1-2 are HW #10-#11 below,
        Board 3 proposed as HW #13). F25's HW #10, kept and simplified (Sam 2026-11-02: shorter, a
