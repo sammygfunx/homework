@@ -45,6 +45,52 @@ Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
 
+0S2. RUNNING -- pass SCALE-TEXT2 (started 2026-11-04). Prompt, verbatim:
+   SCALE-TEXT2  (—Homework | sonnet 5.5 | low | NO GATE | TAG "SCALE-TEXT2:")
+   ---------------------------------------------------------------------------
+   Launched Wed 2026-11-04 from Scale_Fingering's SCALE-2 session (Sam: go).
+   Rules: —OER/docs/passes_2026-11-02_ks_w13.txt "RULES FOR EVERY PANE" (one repo
+   per pane; keep every Bash cwd OFF the exFAT volume: `cd /Users/ginghers23 &&`,
+   absolute paths, `git -C`; skip `._*` files). First, copy this block verbatim to
+   the top of —Homework/docs/next_steps.txt (or the repo's next_steps file) as a
+   RUNNING item and commit it "SCALE-TEXT2-wip: ...".
+
+   WHY: Sam's decisions 11-04 for the scale app (SCALE-TEXT bad2524 wrote
+   quiz6_scale_fingering.txt for "Quiz 6"):
+     - It is now HW #14: "HW #14: Major Scale Fingering", 200 POINTS, a Canvas
+       HW assignment (double a homework's weight; NOT a quiz). HW #13 stays
+       Choice Board 3 (roster.txt, PROPOSED). Due/in class Fri 11/13 (Week 13).
+     - The app is "Scale Fingerprint"; the link students open is
+       https://scale-fingerprint.netlify.app/?quiz=1 (scale-fingering is gone).
+     - Unlimited attempts; the BEST code counts; after each attempt the results
+       show every scale's answers; a finished attempt can't be reopened or
+       edited ("Take it again" starts blank). No video/paper alternative.
+     - NEW finger input (app v1.1.0): 15 finger boxes, one per note, one always
+       selected; tapping 1-5 fills the selected box and moves to the next (so
+       in-order entry works as before); tap any box to fill or fix just that
+       one; the erase key (⌫) erases the selected box. A blank box counts as a
+       wrong finger.
+   READ: —Apps/Scale_Fingering/README.txt and docs/grading.txt (formula, accepted
+   alternatives: B major LH first note 4 or 1; F major RH top note 4 or 1).
+   Don't edit Scale_Fingering or any repo but —Homework.
+
+   DO:
+   1. Update the student-facing text in quiz6_scale_fingering.txt: title, points,
+      assignment type, link, app name, the finger-box instructions, attempts.
+      Rename the file to match the HW naming (e.g. hw14_scale_fingering.txt,
+      `git mv`) and fix every reference to it inside —Homework.
+   2. roster.txt: an HW #14 entry (Scale Fingerprint, 200 pts, Canvas HW group,
+      Online text entry with the code, Week 13, no video way — Sam's exception);
+      remove/mark the old "Quiz 6" references.
+   3. Grep —Homework for "Quiz 6", "Quiz #6", "quiz6", "scale-fingering.netlify",
+      "Scale Fingering" (the app name, not the book's chart) and fix stale ones;
+      history files stay.
+   4. References OUTSIDE —Homework (Coursepack, website, —OER): list them in
+      the item for the orchestrator; don't edit them.
+   5. Final commit "SCALE-TEXT2: ..." ; mark the item DONE with an OUTCOME and a
+      FOR SAM (the exact Canvas text to paste, if the file holds it). Push. Do
+      NOT edit —OER docs.
+
 0CLS. CLS-HW (DONE 2026-11-04, commit "CLS-HW:"): homework text uses the new labels; directions trimmed.
    SAM, RE-PASTE section 1 into Canvas (tab 5, the SAME title, Preview, Create = update in place; do not push from here):
    - Board 1 (LIVE: "HW #10 — Choice Board 1: Sixths and Sevenths") -- OPTIONS 1-4 label changes, trimmed.
