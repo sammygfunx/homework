@@ -2,7 +2,9 @@ WEEK 13 DIGITAL SCALE QUIZ — OPTIONS (DESIGN MEMO ONLY, NO BUILD)
 =================================================================
 Written 2026-11-02 by pass W13-HW (—OER docs/passes_2026-11-02_ks_w13.txt
 section 4 N2; brief —OER/docs/week13_brief_2026-10-30.txt PART 7 A9-A10, N2).
-Sam decides at the next catchup. Nothing here is built or queued.
+DECIDED 2026-11-04 -> HW #14: Major Scale Fingering (Scale Fingerprint app,
+200 pts, Canvas HOMEWORK group). See hw14_scale_fingering.txt; this memo is kept
+as the design record.
 
 THE ASK (Sam, A9): revamp the written scale quiz as a DIGITAL-ONLY
 assignment, in class on Friday of Week 13, graded through the Grading Hub.
@@ -128,5 +130,5 @@ FOR SAM (decide at the catchup):
      keysig?), and F#/Gb: accept either?
   3. If C: which scales and hands, tempo, and whether a wrong note fails the
      scale or costs a percentage.
-  4. Title and numbering in the quiz series (Quiz #6?), the in-class time
+  4. Title and numbering (decided: HW #14), the in-class time
      window (the Canvas availability window is the timer).

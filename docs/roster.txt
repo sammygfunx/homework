@@ -284,8 +284,7 @@ HW #9  Diatonic Triad Dodge: the 49 white-key triads.
          (2026-10-13, v2.3.1, live): the game's blurb, HUD and "Goal
          met" now say session mastery of the 49, matching this text.
 
-HW #14  HW #14: Major Scale Fingering (title: Sam, 2026-11-04; was "Quiz 6" in the
-       2026-11-03 SCALE-TEXT draft; reworked by SCALE-TEXT2). Scale Fingerprint
+HW #14  HW #14: Major Scale Fingering (title: Sam, 2026-11-04; SCALE-TEXT2). Scale Fingerprint
        (app Scale_Fingering folder, v1.1.0; hub SCALE-HUB f3597e4). HW #13 stays
        Choice Board 3 (PROPOSED). 200 POINTS (double a HW), a Canvas HOMEWORK group
        assignment, NOT a quiz. In class Fri 11/13; due Fri 2026-11-13 23:59 Eastern
@@ -295,9 +294,9 @@ HW #14  HW #14: Major Scale Fingering (title: Sam, 2026-11-04; was "Quiz 6" in t
        exception). Finger input: 15 finger boxes (one selected; blank = wrong).
        App: https://scale-fingerprint.netlify.app/?quiz=1 (app id scalefingering, mode
          major_scales_f26).
-       Rubric: Grading_Hub scalefingering_quiz6 (percent on "total" of 720, "keep":
-         "best"); the hub rubric still says 20 points and the old "Quiz 6" title: it
-         needs points 200 and the assignment string "HW #14: Major Scale Fingering".
+       Rubric: Grading_Hub scalefingering_hw14 (rubrics/scalefingering_hw14.rubric.json;
+         percent on "total" of 720, "keep": "best"; 200 points, assignment
+         "HW #14: Major Scale Fingering").
        Content: —Homework/hw14_scale_fingering.txt
        Status: READY TO CREATE.
 

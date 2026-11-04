@@ -1,7 +1,7 @@
 ===========================================================
 HW #14 -- MAJOR SCALE FINGERING -- CANVAS ASSIGNMENT (Grading Hub tab 5)
 One Canvas assignment, one way to submit: a code from the Scale Fingerprint
-app. Written 2026-11-03 as "Quiz 6" (pass SCALE-TEXT), reworked 2026-11-04
+app. Written 2026-11-03 (pass SCALE-TEXT), reworked 2026-11-04
 (pass SCALE-TEXT2) for Sam's decisions: it is HW #14, 200 POINTS, a Canvas
 HOMEWORK assignment (double a homework's weight; NOT a quiz; HW #13 stays
 Choice Board 3); the app is "Scale Fingerprint" (v1.1.0,
@@ -37,9 +37,8 @@ THE FACTS EVERYTHING HANGS ON
                      Canvas link; opens the assignment). Practice (no
                      code): https://scale-fingerprint.netlify.app
       APP ID / MODE  "scalefingering" / "major_scales_f26" (week 13)
-      RUBRIC         Grading_Hub rubric scalefingering_quiz6 (the hub's
-                     file is still named for "Quiz 6"; the hub is not
-                     edited here): ONE "percent" column on the row
+      RUBRIC         Grading_Hub rubric scalefingering_hw14 (hub file
+                     rubrics/scalefingering_hw14.rubric.json): ONE "percent" column on the row
                      "total" (attempted 720), now 200 POINTS (the hub
                      rubric "points" and the Canvas Points must both say
                      200), "keep": "best" (the hub grades a student's
@@ -100,9 +99,7 @@ THE FACTS EVERYTHING HANGS ON
 HW #14: Major Scale Fingering
 
 (Sam, 11-04. It is the hub's re-run match key: never change it after the
-first Create. The hub rubric's "assignment" field still carries the old
-"Quiz 6" title; the orchestrator updates it to this exact string before
-the first Create. Group: the Canvas HOMEWORK group.)
+first Create. The hub rubric's "assignment" field carries this exact string. Group: the Canvas HOMEWORK group.)
 
 --------------------------- DESCRIPTION ---------------------------
 (Paste everything between the two ===HTML=== lines into Grading Hub tab
@@ -223,8 +220,8 @@ video or paper way to do it. Drill first in Practice if you like.
       LIVE.
 
   B. GRADE (after Fri 11/13 11:59 PM)
-  [ ] Tab 3: load the scalefingering rubric (hub file still named
-      for quiz6; points 200) ALONE. Batch pull / Batch Post: each code
+  [ ] Tab 3: load the scalefingering rubric (hub file
+      scalefingering_hw14; points 200) ALONE. Batch pull / Batch Post: each code
       posts round(total / 720 x 200) with the late multiplier; a student
       who pasted two codes gets the better; a code of any other app or
       mode lands in "no rubric matched".
