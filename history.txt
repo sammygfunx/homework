@@ -808,3 +808,5 @@ CLS-HW 2026-11-04 (CODE-LABEL-SWEEP, Sonnet 5.5, from —OER; Sam not watching):
   repertoire (no app code). Rules, points, dates, links, modes, options, the
   video alternative and the grading paragraphs are unchanged. Historical
   changelog lines in file headers and history.txt were left as written.
+
+2026-11-04 CLS-ORBIT-HINT (Sam): Orbit field hint is now "your ECU Banner ID" (the Canvas ID is teacher-only; students type their Banner ID, called Student ID). Orbit v1.0.2 deployed. HW5 text and conversation_starter.txt labels updated.

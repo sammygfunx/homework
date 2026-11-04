@@ -151,7 +151,7 @@ Sam: paste the section 1 HTML in tab 5 (same title) tonight; section 4
 A2 is the live check.
 (2026-10-27 night, PT-BIND-DONE) ONE RUN, ONE STUDENT on Board 1's
 gauntlet (Sam, —OER next_steps 0v): Piano Tennis v2.9 binds a saved run to
-the school ID of its first code and refuses any other ("This saved run
+the Student ID of its first code and refuses any other ("This saved run
 belongs to <first name>. Press START OVER to play your own."); each run's
 per-seat nonce lets the hub flag one run handed in twice as SHARED CODE.
 Board 1's section 4 C says a SHARED CODE on a gauntlet code = talk to both
@@ -160,7 +160,7 @@ student HTML did not change (no extra tab 5 re-run needed for this).
 (2026-10-27 evening, GAUNTLET-DONE) BOARD 1 OPTION 3 IS NOW THE PIANO
 TENNIS GAUNTLET (Sam, —OER next_steps 0t): Drill Gauntlet, four stages m6
 -> M6 -> m7 -> M7, all 12 roots each, win or lose, alone vs four
-characters or LOCAL 1v1 (P1 / P2 CANVAS CODE), saved per stage; 25
+characters or LOCAL 1v1 (P1 / P2 CODE), saved per stage; 25
 points per stage cleared, full credit 4 of 4, a code after any stage
 (Sam's change, late 10/27); MIDI keyboard required and enforced in the
 app (Gauntlet grayed out until one connects or plays). Piano Tennis v2.8
@@ -171,7 +171,7 @@ tab 5 with the section 1 HTML (same title), publish before class Wed 10/28.
 The PT-RC note below is superseded.
 (2026-10-27, PT-RC) BOARD 1 OPTION 3 IS NOW PIANO TENNIS ROOT CYCLE (Sam,
 —OER next_steps 0s): Drill Root cycle on m6 / M6 / m7 / M7, alone or LOCAL
-1v1 (P1 / P2 CANVAS CODE, Piano Tennis v2.6), finish a match with all 12
+1v1 (P1 / P2 CODE, Piano Tennis v2.6), finish a match with all 12
 roots, win or lose; needs a MIDI keyboard. Rubrics Grading_Hub
 pianotennis_board1_rc_min6 / _maj6 / _min7 / _maj7 (four batch runs;
 section 4 C). Sam: restart the hub, re-run tab 5 with the section 1 HTML,
@@ -184,12 +184,12 @@ duet_<course>, no name, 100 at 50+ cards), then section 4 D. Duet codes
 grade by pull + post only. The 0q chain is complete.
 (2026-10-26, CC-LEVELS) Chord Crush's per-stage rows + chordcrush_board2
 SHIPPED (v51.9.0 live). Before ADD-ON C goes on board 2: clear one level
-of Major Triads on the live site, Statistics -> Canvas Code, decode in hub
+of Major Triads on the live site, Statistics -> Get Code, decode in hub
 tab 2 with chordcrush_board2 (EXPECT a "maj_levels" row), then section 4
 D. DUET-CODE (next_steps 0d) is next in the 0q chain.
 (2026-10-26, PT-KTS1) Piano Tennis's code + rubrics SHIPPED. Before ADD-ON
 P goes on board 1 or 2: one live VS COMPUTER match on the board's tier,
-GET CANVAS CODE, decode in hub tab 2 with pianotennis_board1 / _board2
+GET CODE, decode in hub tab 2 with pianotennis_board1 / _board2
 (EXPECT 100), then section 4 D. CC-LEVELS and DUET-CODE (next_steps 0c,
 0d) follow in the 0q chain.
 (2026-10-26, BOARDS-SHIFT) BOARD 1 IS READY TO CREATE: "Choice Board 1:

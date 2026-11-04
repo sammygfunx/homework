@@ -180,7 +180,7 @@ differently, the site wins and this file gets re-derived.)
 <p>The homework screen is a checklist: C major, G major and F major, each with a Drill box and a Melody box. For each key, drill its scale degrees (15 or more tries at 75% or better), then pass one of the six handout melodies in that key at the Slow tempo. Orbit opens the keys in order: C, then G, then F. The <strong>Drill &#8594;</strong> and <strong>Melodies &#8594;</strong> buttons on each row take you straight there.</p>
 <p>Either drill counts, Find the Note or Name the Note. The 75% is your running accuracy in that key. The melody list marks the six handout tunes with &#10022; HW #5. Passing a melody is 85% in Perform, at the Slow tempo or faster. If you drop below the Slow tempo, the results say "Practice tempo - no mastery credit" and nothing is recorded.</p>
 <p><strong>Each key you finish is worth a third: one key is 33, two keys 67, all three 100.</strong> The line at the bottom of the checklist tells you where you stand. You can paste a code now and a better one later; the newest code counts.</p>
-<p>To submit: press <strong>GET CODE</strong>, enter your first name, last name and <strong>Student ID</strong> (the number on your Canvas profile), press GET CODE again, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Paste only the code, and all of it, from KTS1 to the last letter.</p>
+<p>To submit: press <strong>GET CODE</strong>, enter your first name, last name and <strong>Student ID</strong> (your ECU Banner ID), press GET CODE again, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Paste only the code, and all of it, from KTS1 to the last letter.</p>
 
 <h4>Due Friday, September 25, 2026, 6:00 PM Eastern</h4>
 <h4>Lab hours (Room 269)</h4>
@@ -516,7 +516,7 @@ OPTION B — WHAT ACTUALLY SHIPPED (every string quoted from the code on
           Canvas ID, then GET CODE. A code is always issued; the line
           above says whether it earns credit yet."; fields "First name"
           (placeholder "as it appears in Canvas"), "Last name", "Student
-          ID" ("the number on your Canvas profile"); "Your Canvas ID
+          ID" ("your ECU Banner ID"); "Your Canvas ID
           must match the gradebook exactly, or the grade lands on the
           wrong row. Your Orbit pilot name is not used."; "GET CODE" /
           "BACK"; refusal "All three fields are needed: first name, last
