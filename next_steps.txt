@@ -1,6 +1,6 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-11-04 (CLS-HW DONE, item 0CLS: new Get Code / Copy Code / Student ID labels in every app HW file, section 1 trimmed; re-paste list in 0CLS). Before that: 2026-11-03 PM (B3-TEXT DONE, item 0B3T: Board 3 is FIVE ways incl. Key Spar, hw_board2 duet TIER line; see FOR SAM under 0B3T). Before that: 2026-11-03 (SCALE-TEXT DONE: quiz6_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
+Updated: 2026-11-04 PM (SCALE-TEXT2 DONE, item 0S2: Quiz 6 is now HW #14 Scale Fingerprint, 200 pts, hw14_scale_fingering.txt). Before that: 2026-11-04 (CLS-HW DONE, item 0CLS: new Get Code / Copy Code / Student ID labels in every app HW file, section 1 trimmed; re-paste list in 0CLS). Before that: 2026-11-03 PM (B3-TEXT DONE, item 0B3T: Board 3 is FIVE ways incl. Key Spar, hw_board2 duet TIER line; see FOR SAM under 0B3T). Before that: 2026-11-03 (SCALE-TEXT DONE: quiz6_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
 CREATE, final_repertoire_selections.txt READY TO POST, Board 3 PROPOSED with
 its hub set hw13_board3 (Grading_Hub W13-HW-HUB b01eafa), the scale quiz memo
 docs/w13_scale_quiz_options.txt for Sam's decision; roster).
@@ -45,7 +45,7 @@ Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
 
-0S2. RUNNING -- pass SCALE-TEXT2 (started 2026-11-04). Prompt, verbatim:
+0S2. DONE 2026-11-04 -- pass SCALE-TEXT2 (commit "SCALE-TEXT2:"). Prompt, verbatim:
    SCALE-TEXT2  (—Homework | sonnet 5.5 | low | NO GATE | TAG "SCALE-TEXT2:")
    ---------------------------------------------------------------------------
    Launched Wed 2026-11-04 from Scale_Fingering's SCALE-2 session (Sam: go).
@@ -54,6 +54,17 @@ Ranked high -> low.
    absolute paths, `git -C`; skip `._*` files). First, copy this block verbatim to
    the top of —Homework/docs/next_steps.txt (or the repo's next_steps file) as a
    RUNNING item and commit it "SCALE-TEXT2-wip: ...".
+   OUTCOME: quiz6_scale_fingering.txt git-mv'd to hw14_scale_fingering.txt and rewritten: title "HW #14: Major Scale Fingering",
+   200 pts, Canvas HOMEWORK group, Scale Fingerprint, scale-fingerprint.netlify.app/?quiz=1, 15 finger boxes (select/fill/erase,
+   blank = wrong), unlimited attempts + best code, results show every scale, finished attempt not reopenable. Sections 1-5 all
+   updated (formula now x200). docs/roster.txt: QUIZ 6 row replaced by HW #14; 0Q6 and 0CLS lines updated. history.txt and
+   w13_scale_quiz_options.txt left as history.
+   FOR SAM: re-paste nothing yet (never created); at Create paste hw14_scale_fingering.txt section 1 HTML between the ===HTML=== lines,
+   title "HW #14: Major Scale Fingering", Points 200, Homework group.
+   FOR THE ORCHESTRATOR (outside --Homework, not edited): (a) Grading_Hub rubric scalefingering_quiz6: points 20 -> 200 and
+   "assignment" -> "HW #14: Major Scale Fingering" (file may be renamed); (b) --OER docs/next_steps.txt, docs/open_questions.txt,
+   docs/passes_2026-11-03_tue.txt still say quiz6_scale_fingering.txt / scale-fingering.netlify.app / Quiz 6; (c) Coursepack and
+   website: none found by grep under --OER, check the Coursepack syllabus/schedule for "Quiz 6" (20 pts) -> HW #14 (200 pts).
 
    WHY: Sam's decisions 11-04 for the scale app (SCALE-TEXT bad2524 wrote
    quiz6_scale_fingering.txt for "Quiz 6"):
@@ -99,7 +110,7 @@ Ranked high -> low.
    - Board 3 (PROPOSED, not yet in Canvas): paste the new section 1 at the first Create. Option 4 (Key Spar) says Get Code /
      Copy Code / Student ID and is true only once Key Spar's label deploy is live: FOR SAM, check that before 11/9.
    - Quiz 5 item 5 (the EXISTING Canvas assignment): the update click-path already in its section 4 B; Student ID replaces School ID.
-   - Quiz 6 Scale Fingering (READY TO CREATE): paste the new one at Create.
+   - HW #14 Scale Fingering (was Quiz 6; hw14_scale_fingering.txt; READY TO CREATE): paste the new one at Create.
    - Board 4 is still a DRAFT ([FILL IN]): labels fixed, nothing to paste yet.
    - HW3, HW4, HW5 and midterm item 5 are past due; their files are updated, and a re-paste matters only if one is reused.
    - hw12_pop_tune and final_repertoire_selections: no app labels, unchanged.
@@ -155,15 +166,13 @@ Ranked high -> low.
    DA CAPO SYMBOLS (DC-SYMBOLS) did not gate this pass: the paste names no chord label, so it
    needs no change either way.
 
-0Q6. QUIZ 6 MAJOR SCALE FINGERING (pass SCALE-TEXT DONE 2026-11-03): quiz6_scale_fingering.txt
-   READY TO CREATE (Grading Hub tab 5, NEW assignment, text entry only, 20 pts PROPOSED, due
-   Fri 11/13 23:59 PROPOSED, unlimited attempts, no video way by Sam's call). App:
-   https://scale-fingering.netlify.app/?quiz=1 ; hub rubric scalefingering_quiz6 ("keep": "best").
-   Prompt: —OER docs/passes_2026-11-03_tue.txt block 9 (gates SCALE-HUB f3597e4 + PT-E cebb495 met).
-   FOR SAM (file section 5): 1 points (20); 2 due/in-class window; 3 the Canvas pull reads the LATEST
-   submission only, so say "paste your best code"; 4 title "Quiz 6: Major Scale Fingering" vs
-   "Quiz #6:" style (the hub rubric names the same string); 5 app name pick; 6 more alternative
-   fingerings?; 7 no-device students; 8 accommodations.
+0Q6. HW #14 MAJOR SCALE FINGERING (was "Quiz 6"; SCALE-TEXT 2026-11-03, reworked by SCALE-TEXT2 2026-11-04):
+   hw14_scale_fingering.txt READY TO CREATE (Grading Hub tab 5, NEW assignment, Canvas HOMEWORK group,
+   200 pts, text entry only, due Fri 11/13 23:59, unlimited attempts, no video way). App: Scale Fingerprint
+   https://scale-fingerprint.netlify.app/?quiz=1 ; hub rubric scalefingering_quiz6 ("keep": "best").
+   FOR SAM (file section 5): 2 due/in-class window; 3 the Canvas pull reads the LATEST submission only,
+   so say "paste your best code"; 6 more alternative fingerings?; 7 no-device students; 8 accommodations.
+   (1 points, 4 title, 5 app name are now decided.)
 
 0W13. WEEK 13 -- SAM (pass W13-HW DONE 2026-11-02; prompt copied below).
    Gate met: W13-SHEETS 83e8579 (sheets LIVE, 200). SAM, before Mon 11/9:

@@ -284,16 +284,21 @@ HW #9  Diatonic Triad Dodge: the 49 white-key triads.
          (2026-10-13, v2.3.1, live): the game's blurb, HUD and "Goal
          met" now say session mastery of the 49, matching this text.
 
-QUIZ 6  Quiz 6: Major Scale Fingering (title PROPOSED, FOR SAM). NEW 2026-11-03 (pass
-       SCALE-TEXT; app Scale_Fingering SCALE-1 b44750d, hub SCALE-HUB f3597e4).
-       In class Fri 11/13; due Fri 2026-11-13 23:59 Eastern (2026-11-14T04:59:00Z;
-       PROPOSED). Module Week 13. 20 points PROPOSED. Unlimited attempts, best code
-       counts; text entry only; NO video way (Sam's call, an explicit exception).
-       App: https://scale-fingering.netlify.app/?quiz=1 (app id scalefingering, mode
+HW #14  HW #14: Major Scale Fingering (title: Sam, 2026-11-04; was "Quiz 6" in the
+       2026-11-03 SCALE-TEXT draft; reworked by SCALE-TEXT2). Scale Fingerprint
+       (app Scale_Fingering folder, v1.1.0; hub SCALE-HUB f3597e4). HW #13 stays
+       Choice Board 3 (PROPOSED). 200 POINTS (double a HW), a Canvas HOMEWORK group
+       assignment, NOT a quiz. In class Fri 11/13; due Fri 2026-11-13 23:59 Eastern
+       (2026-11-14T04:59:00Z). Module Week 13. Online TEXT ENTRY with the code only.
+       Unlimited attempts, best code counts; after each attempt the results show every
+       scale's answers; a finished attempt can't be reopened. NO video way (Sam's
+       exception). Finger input: 15 finger boxes (one selected; blank = wrong).
+       App: https://scale-fingerprint.netlify.app/?quiz=1 (app id scalefingering, mode
          major_scales_f26).
-       Rubric: Grading_Hub/rubrics/scalefingering_quiz6.rubric.json (percent on
-         "total" of 720, "keep": "best").
-       Content: —Homework/quiz6_scale_fingering.txt
+       Rubric: Grading_Hub scalefingering_quiz6 (percent on "total" of 720, "keep":
+         "best"); the hub rubric still says 20 points and the old "Quiz 6" title: it
+         needs points 200 and the assignment string "HW #14: Major Scale Fingering".
+       Content: —Homework/hw14_scale_fingering.txt
        Status: READY TO CREATE.
 
 HW #12  Pop Tune Composition (title PROPOSED by W13-HW, 2026-11-02:

@@ -1,0 +1,293 @@
+===========================================================
+HW #14 -- MAJOR SCALE FINGERING -- CANVAS ASSIGNMENT (Grading Hub tab 5)
+One Canvas assignment, one way to submit: a code from the Scale Fingerprint
+app. Written 2026-11-03 as "Quiz 6" (pass SCALE-TEXT), reworked 2026-11-04
+(pass SCALE-TEXT2) for Sam's decisions: it is HW #14, 200 POINTS, a Canvas
+HOMEWORK assignment (double a homework's weight; NOT a quiz; HW #13 stays
+Choice Board 3); the app is "Scale Fingerprint" (v1.1.0,
+https://scale-fingerprint.netlify.app/?quiz=1; scale-fingering is gone);
+new finger-box input. Brief: —OER/docs/week13_brief_2026-10-30.txt PART 7
+A9-A10, N2; options memo docs/w13_scale_quiz_options.txt.
+STATUS: READY TO CREATE (no [FILL IN] in the section 1 HTML). NEW
+assignment in Canvas (F26 has none), unlike Quiz 5 item 5.
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels are Get Code / Copy Code / Student ID.
+===========================================================
+
+WHAT THIS FILE IS
+  section 1  the Canvas assignment (title + description, real HTML)
+  section 2  the ninety-second version to say in class (Friday 11/13)
+  section 3  the message to students (Canvas announcement)
+  section 4  Sam's click-path in Grading Hub tab 5, then grading
+  section 5  thread notes: FOR SAMs, decisions, what the app certifies
+
+THE FACTS EVERYTHING HANGS ON
+      THE HOMEWORK   HW #14, "Major Scale Fingering": for each of the
+                     twelve major scales (C, G, F, D, B-flat, A, E-flat,
+                     E, A-flat, B, D-flat, F-sharp/G-flat), left hand
+                     then right hand, two octaves going up: tap the 15
+                     keys of the scale (black keys show as dots) and fill
+                     the 15 finger boxes. It replaces F25's "Written
+                     Major Scale Quiz (Take Home)", which asked the same
+                     two things on paper.
+      WHEN           IN CLASS Friday of Week 13 (Nov 13). Due Fri Nov 13,
+                     2026, 11:59 PM Eastern = 2026-11-14T04:59:00Z (EST).
+                     Week 13, Sam's decision.
+      APP            Scale Fingerprint, v1.1.0
+                     https://scale-fingerprint.netlify.app/?quiz=1 (the
+                     Canvas link; opens the assignment). Practice (no
+                     code): https://scale-fingerprint.netlify.app
+      APP ID / MODE  "scalefingering" / "major_scales_f26" (week 13)
+      RUBRIC         Grading_Hub rubric scalefingering_quiz6 (the hub's
+                     file is still named for "Quiz 6"; the hub is not
+                     edited here): ONE "percent" column on the row
+                     "total" (attempted 720), now 200 POINTS (the hub
+                     rubric "points" and the Canvas Points must both say
+                     200), "keep": "best" (the hub grades a student's
+                     BEST code).
+      POINTS         200 (Sam, 11-04). Canvas HOMEWORK group, not Quizzes.
+      ATTEMPTS       UNLIMITED. The best code counts, but see FOR SAM 3
+                     (the Canvas pull reads the latest submission only).
+                     After each attempt the results show every scale's
+                     answers. A finished attempt can't be reopened or
+                     edited; "Take it again" starts blank.
+      NO VIDEO WAY   By Sam's call: grading a video or a paper
+                     alternative takes too long. An explicit exception to
+                     the "every app homework has a same-grade video" rule
+                     (brief PART 3 c). A student who cannot use a device
+                     talks to Sam.
+      INPUT          Mouse or touch (phones and tablets, portrait and
+                     landscape). KEYS: tap the keys. FINGERS: 15 finger
+                     boxes, one per note, one always selected. Tapping
+                     1-5 fills the selected box and moves to the next, so
+                     entering in order works as before. Tap any box to
+                     fill or fix just that one. The erase key (the
+                     backspace symbol) erases the selected box. A blank
+                     box counts as a wrong finger. No MIDI in the
+                     assignment (MIDI play-through is in Practice only).
+      THE FORMULA    in plain words (also in the student text):
+                       Every scale counts the same (1/12 of the HW).
+                       In each scale, each hand is half.
+                       In each hand, the NOTES are half and the FINGERING
+                       is half.
+                       Each of a hand's 15 notes counts 1/15 of its half.
+                     Because every part has the same 15 items this is
+                     EXACTLY: score = (notes right + fingers right, both
+                     hands, all scales) / 720. So 705/720 is 97.9 percent
+                     = 195.8, which the hub rounds to 196 of 200; 690/720
+                     is 192.
+      FINGERING      The book's chart (Scale Fingering Chart handout) is
+                     the standard. Two alternatives it prints in
+                     parentheses are also right: B major, left hand, the
+                     lowest B, finger 4 or 1 (thumb); F major, right hand,
+                     the top F, finger 4 or 1. The app shows a standard
+                     answer plain and an accepted alternative in
+                     PARENTHESES. A finger the chart does not print is
+                     wrong even if it is playable.
+      SCREENS        Scale Fingerprint opens on the assignment with ?quiz=1:
+                     First name / Last name / Student ID, then one scale
+                     at a time (the F25 order) with Prev / Next, "Finish
+                     and Get Code", then a code box and "Copy Code".
+                     The results screen shows every scale's answers and
+                     the student's best code on that device and says
+                     "Paste your BEST code".
+
+
+===========================================================
+1. THE CANVAS ASSIGNMENT
+===========================================================
+
+------------------------------ TITLE ------------------------------
+HW #14: Major Scale Fingering
+
+(Sam, 11-04. It is the hub's re-run match key: never change it after the
+first Create. The hub rubric's "assignment" field still carries the old
+"Quiz 6" title; the orchestrator updates it to this exact string before
+the first Create. Group: the Canvas HOMEWORK group.)
+
+--------------------------- DESCRIPTION ---------------------------
+(Paste everything between the two ===HTML=== lines into Grading Hub tab
+5's Description box in ONE paste. Plain ASCII, no entities, no curly
+quotes. Every quoted app string is the shipped one.)
+
+===HTML===
+<h3>HW #14: the twelve major scales, with their fingering. Do it in Scale Fingerprint.</h3>
+<p>This replaces the old written scale quiz. For each of the twelve major scales, left hand first and then right hand, two octaves going up, you show <strong>the image of the scale</strong> (tap its keys on the keyboard; the black keys show as dots) and <strong>its fingering</strong> (the finger number for each of the 15 notes, lowest note first).</p>
+<p>Open it here: <a href="https://scale-fingerprint.netlify.app/?quiz=1">https://scale-fingerprint.netlify.app/?quiz=1</a>. It works on a phone, a tablet or a computer. You do not need a MIDI keyboard. It is open book: the Scale Fingering Chart in the book is the answer.</p>
+<p>Want to practice first? <a href="https://scale-fingerprint.netlify.app">https://scale-fingerprint.netlify.app</a> has games and a grid of all twelve keys for each hand. Practice never counts for a grade.</p>
+
+<h4>How to do it</h4>
+<ol>
+<li>Open the link. Type your first name, last name and <strong>Student ID</strong> (the one your gradebook knows you by).</li>
+<li>The scales come in order: C, G, F, D, B-flat, A, E-flat, E, A-flat, B, D-flat, F-sharp/G-flat. For each one, do the left hand, then the right hand: tap the 15 keys, then fill the 15 finger boxes, lowest note first.</li>
+<li>Finger boxes: one box is always selected. Tap a finger (1 to 5) and it fills that box and moves to the next, so just go in order. To fix one, tap that box and tap the right finger. The erase key (the backspace symbol) clears the selected box. A blank box counts as a wrong finger.</li>
+<li>Use Prev and Next to move between scales. Your work is saved on your device, so a reload will not lose it.</li>
+<li>Press <strong>Finish and Get Code</strong>. The results show every scale's answers. Then press <strong>Copy Code</strong> and paste ONLY the code, all of it, from KTS1 to the last letter, under <strong>Text Entry</strong> here.</li>
+</ol>
+
+<h4>How it is graded</h4>
+<p>Every scale counts the same. In each scale, each hand is worth half. Within a hand, the notes are half and the fingering is half, and each of the 15 notes counts the same. A key you leave out or a key that is not in the scale is a note wrong; a finger box you leave blank is wrong. Partial credit adds up note by note, so a scale with one slip is nearly full marks. The fingering in the book's chart is the standard. Two places on the chart show a second correct choice in parentheses (B major left hand, the lowest B; F major right hand, the top F); either is right, and the app shows an alternative in parentheses so you know. A finger the chart does not show is wrong, even if you could play it.</p>
+
+<h4>Do it as many times as you like. Your best code counts.</h4>
+<p>You have unlimited attempts. A finished attempt cannot be reopened or edited; "Take it again" starts a blank one. The results screen shows your best code on that device; <strong>paste your best code</strong>. There is no video or paper way to do this homework, so use your own phone or tablet, or a computer in the lab.</p>
+
+<h4>Due Friday, November 13, 2026, 11:59 PM Eastern. We do it together in class that day.</h4>
+===HTML===
+-------------------------------------------------------------------
+
+
+===========================================================
+2. WHAT TO SAY IN CLASS (about ninety seconds)
+===========================================================
+
+"Homework 14 is scale fingering, worth 200 points, and today is the day.
+It's the same two things the old written quiz asked, now on your phone or
+a computer.
+
+Open the link on Canvas. Type your name and your student ID. For each of
+the twelve major scales, left hand first, then right hand, two octaves up:
+tap the fifteen keys, then fill the fifteen finger boxes, lowest note
+first. The black keys show as dots. One finger box is always selected;
+tap a finger and it moves to the next box. To fix one, tap that box. The
+erase key clears the selected box, and a blank box counts as wrong. You
+don't need a MIDI keyboard.
+
+It's open book. The chart in the book is the answer, and two spots on it
+show a second correct finger in parentheses.
+
+Press Finish and Get Code, look over the results, then Copy Code and paste
+the whole code into Canvas, text entry. You can do it as many times as you
+like and your best code counts, so paste your best one. A finished attempt
+can't be reopened; Take it again starts blank. Practice mode is there if
+you want to drill first. Every scale counts the same, each hand is half,
+and notes and fingering are each half of a hand, so one slip costs one
+note, not a whole scale. Due tonight at 11:59, but let's do it now."
+
+
+===========================================================
+3. THE MESSAGE TO STUDENTS (Canvas announcement; Sam sends this)
+===========================================================
+
+Subject: HW #14: Major Scale Fingering (200 points), Friday 11/13 (in class), due 11:59 PM
+
+HW #14 is on Canvas: "HW #14: Major Scale Fingering", 200 points. It
+replaces the old written scale quiz, and we do it in class Friday,
+November 13.
+
+  THE HOMEWORK:  https://scale-fingerprint.netlify.app/?quiz=1
+  PRACTICE:      https://scale-fingerprint.netlify.app
+
+For each of the twelve major scales, left hand then right hand, two
+octaves up: tap the 15 keys of the scale (black keys show as dots) and
+fill the 15 finger boxes, lowest note first. One box is always selected;
+tap a finger and it moves to the next; tap any box to fix just that one.
+It works on a phone, tablet or computer; no MIDI keyboard needed. It is
+open book: the Scale Fingering Chart in the book is the answer.
+
+At the end, press Finish and Get Code (the results show every scale's
+answers), then Copy Code, and paste the whole code into the text box on
+Canvas. You can do it as many times as you like; your best code counts,
+so paste your best one.
+
+Every scale counts the same; each hand is half; the notes are half and the
+fingering is half. Due Friday, November 13, 11:59 PM Eastern. There is no
+video or paper way to do it. Drill first in Practice if you like.
+
+
+===========================================================
+4. SAM'S SHORT CLICK-PATH (Grading Hub tab 5, then grading)
+===========================================================
+  GATE: the app is live and the hub has the rubric (both are). Two minutes
+  first, optional: docs/testing.txt in Scale_Fingering has the 5-minute
+  check on phone + laptop (do it Wed-Thu, before you tell students).
+
+  A. CREATE IT (tab 5, all four sections)
+     Sections   001,173801 / 002,173802 / 003,173803 / 004,173804
+     Title      HW #14: Major Scale Fingering   (exactly)
+     Points     200   (must match the hub rubric "points")
+     Submission Online -- text entry ONLY (no "Also accept" ticks)
+     Group      <the HOMEWORK group heading, copied exactly>
+     Module     Week 13          Under header  <blank>
+     Due        2026-11-13 23:59   (Available from / Until blank)
+     Attempts   unlimited
+     Description  section 1's HTML, ONE paste
+     Publish    UNTICKED for the first check
+  [ ] Preview: Due reads Fri 2026-11-13 23:59 Eastern
+      (2026-11-14T04:59:00Z), Points 20, Submission "text entry", four
+      section lines, the Title as typed. (Preview does not say create vs
+      update; this is a NEW assignment, so each row should read "created".)
+  [ ] Create -> each row "created" and "(description verified ...)".
+  [ ] Student View in one course: the text box is there, the link opens
+      the assignment. Publish (four toggles). Post section 3 (announcement);
+      say section 2 in class Friday.
+  [ ] docs/roster.txt row HW #14: READY TO CREATE -> CREATED IN CANVAS ->
+      LIVE.
+
+  B. GRADE (after Fri 11/13 11:59 PM)
+  [ ] Tab 3: load the scalefingering rubric (hub file still named
+      for quiz6; points 200) ALONE. Batch pull / Batch Post: each code
+      posts round(total / 720 x 200) with the late multiplier; a student
+      who pasted two codes gets the better; a code of any other app or
+      mode lands in "no rubric matched".
+  [ ] The "submission(s) with no code" list: students who handed in
+      something else. There is no alternative way; talk to them.
+  [ ] Fixtures for what the hub must give (Scale_Fingering docs/
+      hub_handoff.txt section 4): all right 200, one hand blank 190, notes
+      right/fingers wrong 200 (check against the hub's fixtures), blank 0,
+      two attempts (718 then 600) 199.
+
+
+===========================================================
+5. THREAD NOTES -- true, but NOT for the assignment text
+===========================================================
+FOR SAM (decide; each has a default taken):
+  1. POINTS: 200 (Sam, 11-04): hub rubric "points" must be 200 too
+     (orchestrator/hub pass; the hub rubric is not edited here).
+  2. DUE: Fri 11/13 23:59 Eastern, the in-class day (Sam). The
+     assignment is open all week as soon as the assignment is published; students
+     can take it before class. If you want it in-class only, set Available
+     from Fri 11/13 morning (hub tab 5 Available from) and say so here.
+  3. BEST OF SEVERAL: the hub's "keep": "best" picks the best CODE among
+     those it SEES, but the Canvas pull reads each student's LATEST
+     submission only (SCALE-HUB). So the text says "paste your best code"
+     and the app shows it. A student who resubmits a worse code last gets
+     that grade. Say it in class ("paste your best one"). A later hub pass
+     can read the submission history.
+  4. TITLE: "HW #14: Major Scale Fingering" (Sam, 11-04). The hub rubric's
+     "assignment" field must be the same string (still the old title).
+  5. NAME of the app: DECIDED, "Scale Fingerprint" (Sam, 11-04); the live
+     URL is scale-fingerprint.netlify.app; the app id and the code are
+     unchanged.
+  6. ALTERNATIVES: only the chart's two (B LH, F RH). Considered, not
+     accepted: D-flat either hand, F-sharp/G-flat either hand,
+     B-flat RH starting on 2 (one web source). See Scale_Fingering docs/
+     grading.txt section 4. Say yes to add any; a later pass adds it.
+  7. The in-class homework has NO VIDEO/PAPER way (Sam): an explicit
+     exception. A student with no device: lab seat or Sam's discretion.
+  8. ACCESSIBILITY/ACCOMMODATIONS: the app is tap/click/type; extra-time
+     accommodations ride on Canvas's per-student availability, not the
+     app (no timer inside the app).
+
+D. DECISIONS MADE WITHOUT SAM (SCALE-TEXT)
+  D1 Submission is TEXT ENTRY ONLY (no file/URL/media), since there is no
+     alternative way. D2 Module Week 13. D3 The Canvas text names the
+     formula in plain words (Sam asked for "the grading formula in plain
+     words"); the exact 720 math is here, not in the student text. D4 The
+     student text says "open book; the chart is the answer" (the F25 quiz
+     was open book and take-home; the chart is the derivation of the
+     key). If Sam wants closed-book in class, delete those two sentences.
+
+L. LATENESS: the hub's Lateness.gd applies to the code's total as to every
+   code (see midterm_item5_repertoire.txt section 5). A "best" pick uses
+   the late-penalized score.
+
+W. WHAT THE APP CERTIFIES: which keys and which fingers, scale by scale,
+   in a signed KTS1 code the hub verifies (a tampered code is rejected).
+   It does NOT see the student's hands: a student could be coached or
+   copy a classmate's finger list. The code names the student ID typed
+   in the app; a student could type another ID (same exposure as every
+   hub app).
+
+N. NOT VERIFIED BY A HUMAN: nobody but SCALE-1's headless Chrome has taken
+   the live assignment, nobody has created this assignment, and no real
+   submission has been pulled. Section 4 A and the Scale_Fingering
+   testing.txt 5-minute check are those checks.
