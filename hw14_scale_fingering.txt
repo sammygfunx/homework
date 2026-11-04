@@ -208,8 +208,12 @@ video or paper way to do it. Drill first in Practice if you like.
      Attempts   unlimited
      Description  section 1's HTML, ONE paste
      Publish    UNTICKED for the first check
+  [ ] OLD ITEMS (before Create): in the Week 13 module, unpublish the text
+      header "Quiz #6 (take-home assignment): due 11/13!" and the old
+      "Quiz #6 (Written Scale Quiz)" assignment (F25 carry-over). HW #14 goes
+      in the Week 13 module (the Module row above).
   [ ] Preview: Due reads Fri 2026-11-13 23:59 Eastern
-      (2026-11-14T04:59:00Z), Points 20, Submission "text entry", four
+      (2026-11-14T04:59:00Z), Points 200, Submission "text entry", four
       section lines, the Title as typed. (Preview does not say create vs
       update; this is a NEW assignment, so each row should read "created".)
   [ ] Create -> each row "created" and "(description verified ...)".
