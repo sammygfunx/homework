@@ -11,6 +11,7 @@ Clef Runner half: "midterm_repertoire_f26" — FROZEN, a public
 identifier now that the rubric names it; never rename it.
 STATUS: READY TO PASTE (no [FILL IN] in the section 1 HTML). Nothing is
 in Canvas yet; section 4 is Sam's click-path.
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; labels only (the midterm item is past due, so no re-paste is needed unless it is reused).
 ===========================================================
 
 CR-PAGE-2 (Clef Runner, 2026-10-09): the section 1 HTML (Way 2's list) and
@@ -81,7 +82,7 @@ THE FACTS EVERYTHING HANGS ON
       ON SCREEN      main menu "Homework" -> "Midterm Exam Repertoire"
                      (listed FIRST) -> Tempo 60 / 80 / 100 -> Play beside
                      a piece -> scroll down -> First name / Last name /
-                     School ID -> "Get Code" -> "Copy Code"
+                     Student ID -> "Get Code" -> "Copy Code"
   Rubric.matches filters on app_id and an EXACTLY-EQUAL mode. The
   sight-reading midterm code (sartorio_midterm_any1), Quiz 3 codes and
   every other app's code pasted here land in the hub's no_rubric list,
@@ -167,9 +168,9 @@ differently, the site wins and this file gets re-derived.)
 <li>Practice as much as you like. Only your best run on each piece counts. To practice slower than 60, play the piece in Repertoire at 40; those runs are practice and do not count.</li>
 </ol>
 <p><strong>How the app grades it.</strong> A run counts at tempo 60 or faster. Option 1 is the average of your best Bagpipe and your best Echo Dance, so a piece you have not played counts 0 (one 90% piece alone is 45). Option 2 is your better run on Old German Dance or Canario. Your grade is the higher of the two options, so trying both never hurts. There is no minimum: a grade of 85 is 17 out of 20. The screen shows each option's score and your grade as you go.</p>
-<p>To submit: on the same screen, scroll down, type your first name, last name and school ID, press <strong>Get Code</strong>, then <strong>Copy Code</strong>, and paste the code under <strong>Text Entry</strong>.</p>
+<p>To submit: on the same screen, scroll down, type your first name, last name and Student ID, press <strong>Get Code</strong>, then <strong>Copy Code</strong>, and paste the code under <strong>Text Entry</strong>.</p>
 <ul>
-<li>Use the school ID your gradebook knows you by.</li>
+<li>Use the Student ID your gradebook knows you by.</li>
 <li>Paste ONLY the code, and ALL of it, from KTS1 to the very last letter.</li>
 <li>The line under the code tells you what it is worth. You may submit again later with a better code.</li>
 </ul>
@@ -202,7 +203,7 @@ card, Midterm Exam Repertoire. Pick 60, 80 or 100 and press Play. It's
 always both hands, and the app plays the repeats for you. Runs count at
 60 or faster, only your best run counts, so practice all you want. For
 Option 1 it averages your two pieces, so play both; for Option 2 it
-takes your better one. Name, school ID, Get Code, Copy, paste the whole
+takes your better one. Name, Student ID, Get Code, Copy, paste the whole
 code in the text box. Chrome or Firefox and a MIDI keyboard; the lab has
 them.
 
@@ -238,7 +239,7 @@ Then submit it one of two ways:
   your best run on each piece counts. Option 1 averages your two pieces
   (play both!); Option 2 takes your better one; your grade is the
   higher option. Prefer a page that stays still? Choose View: Page
-  before you play; it grades the same. Type your name and school ID,
+  before you play; it grades the same. Type your name and Student ID,
   Get Code, Copy Code, and
   paste the whole code in the text box. Chrome, Edge or Firefox on a
   computer with a MIDI keyboard; Safari and iPads cannot run it. Room
@@ -276,7 +277,7 @@ last submission is the one graded.
       orange "Option 1 needs both pieces: play Echo Dance at tempo 60 or
       faster..." line, and "Grade: N, your better option (Option 1: N,
       Option 2: 0)."
-  [ ] Scroll down, a name and a fake school ID -> Get Code -> Copy Code.
+  [ ] Scroll down, a name and a fake Student ID -> Get Code -> Copy Code.
   [ ] Grading Hub -> tab 3 "Rubrics & Export" -> load rubrics/clefrunner_
       midterm_repertoire.rubric.json ALONE -> tab 2 "Paste codes" ->
       paste the code (only the code) -> "Decode pasted codes". EXPECT

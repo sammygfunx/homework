@@ -14,6 +14,7 @@ row at 50 instead of reading "goal", so codes issued under the 100
 floor regrade to 100 on a plain re-pull. Every student-facing line
 below says 50; the Canvas description still says 100 until Sam
 edits it (one line in the Option B list).
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; section 1 trimmed 1178 -> 806 words (tags stripped; HW #3 is past due, so a re-paste matters only if it is reused); Canvas assignment needs a re-paste of section 1.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -113,56 +114,42 @@ bold survive; the visual editor would paste the tags as literal text.)
 
 ===HTML===
 <h3>Choose ONE option and submit ONLY ONE. Either option earns full credit for HW #3.</h3>
-<p>You may do both for extra practice if you like, but only one submission is counted. Pick the one you want graded and submit that.</p>
+<p>You may do both for practice, but only one submission is counted.</p>
 
 <h4>Option A &mdash; Record a video: play and spell every perfect 4th, with a metronome</h4>
-<p><strong>A METRONOME IS REQUIRED for this option, and it must be audible in your recording.</strong> Every interval has to land on a click. Any metronome works &mdash; a phone app, or the built-in metronome on the keyboards in Room 269 (see the lab hours below).</p>
-<p>Record a video of yourself at the piano playing <strong>every perfect 4th as a blocked (harmonic) interval, chromatically up from middle C and back down</strong>, and <strong>saying the spelling of each one out loud as you play it</strong>. This is exactly what <a href="https://youtu.be/xg1L2ccDO9M">the perfect 4ths chromatic play-along video</a> does &mdash; the same intervals in the same order &mdash; except that you name every interval as you go, and you get more time on each one. (The whole <a href="https://www.youtube.com/playlist?list=PLnO4XsbPuZRTRSBYWxtqjlrUKX5JrdTJl">interval play-along playlist</a> is there too if you want the others for practice.)</p>
+<p><strong>A METRONOME IS REQUIRED and must be audible in your recording.</strong> Every interval has to land on a click. Any metronome works: a phone app, or the built-in one on the keyboards in Room 269.</p>
+<p>Record yourself at the piano playing <strong>every perfect 4th as a blocked (harmonic) interval, chromatically up from middle C and back down</strong>, and <strong>saying the spelling of each one out loud as you play it</strong>. <a href="https://youtu.be/xg1L2ccDO9M">The perfect 4ths chromatic play-along video</a> plays the same intervals in the same order, but you name every interval and get more time on each one. (The <a href="https://www.youtube.com/playlist?list=PLnO4XsbPuZRTRSBYWxtqjlrUKX5JrdTJl">interval play-along playlist</a> has the others for practice.)</p>
 <ul>
-  <li><strong>Start on C4&ndash;F4</strong> (middle C with the F above it). Go up chromatically one interval at a time: C&ndash;F, C&sharp;&ndash;F&sharp;, D&ndash;G &hellip; <strong>turn around on C5&ndash;F5</strong>, then come back down chromatically <strong>to end on C4&ndash;F4</strong>. That is <strong>25 intervals in all</strong> (13 going up, 12 coming down).</li>
-  <li><strong>Play each perfect 4th as a harmonic interval</strong> &mdash; both notes together (blocked), not one after the other &mdash; and <strong>land every interval on a click</strong>.</li>
-  <li><strong>The goal is four beats per interval at quarter note = 60</strong>: set the metronome to 60 and change intervals every four clicks (that is 100 seconds for the whole thing). You may go faster if you like, as long as every blocked interval falls on a click and you stay with the beat the whole way.</li>
-  <li><strong>Say the spelling of every interval as you play it, spelled as a FOURTH.</strong> For example: <em>&ldquo;F to B-flat, perfect 4th.&rdquo;</em> The two letter names must be four letters apart (F&ndash;G&ndash;A&ndash;B = a 4th). &ldquo;F to A-sharp&rdquo; is <em>not</em> a perfect 4th &mdash; it is the same sound spelled as a 3rd, and it does not count. <strong>Recommended: sharps on the way up, flats on the way down</strong> (C&sharp;&ndash;F&sharp; going up, D&flat;&ndash;G&flat; coming down). Either spelling is accepted as long as the interval is correctly spelled and named as a perfect 4th (C&sharp;&ndash;F&sharp; or D&flat;&ndash;G&flat; &mdash; never D&flat;&ndash;F&sharp;). On the way down you may name the two notes in either order (&ldquo;B to E&rdquo; or &ldquo;E down to B&rdquo;).</li>
-  <li><strong>Your video file must be under 2 minutes long.</strong> A file that is 2:00 or longer receives no credit. One take, no editing needed &mdash; if you stumble, stop and record again.</li>
-  <li>Your hands, the keyboard, your voice and the metronome all need to be clearly on the recording. A phone propped on the music stand is fine.</li>
+  <li><strong>Start on C4&ndash;F4</strong> (middle C with the F above it). Go up chromatically: C&ndash;F, C&sharp;&ndash;F&sharp;, D&ndash;G &hellip; <strong>turn around on C5&ndash;F5</strong>, then come back down <strong>to end on C4&ndash;F4</strong>. That is <strong>25 intervals</strong> (13 up, 12 down).</li>
+  <li><strong>Play both notes together</strong> (blocked), and <strong>land every interval on a click</strong>.</li>
+  <li><strong>The goal is four beats per interval at quarter note = 60</strong>: change intervals every four clicks (100 seconds in all). You may go faster if every interval still falls on a click.</li>
+  <li><strong>Say each spelling as a FOURTH,</strong> for example <em>&ldquo;F to B-flat, perfect 4th.&rdquo;</em> The two letter names must be four letters apart (F&ndash;G&ndash;A&ndash;B). &ldquo;F to A-sharp&rdquo; is <em>not</em> a perfect 4th and does not count. <strong>Recommended: sharps going up, flats coming down</strong> (C&sharp;&ndash;F&sharp; up, D&flat;&ndash;G&flat; down). Either is accepted if it is spelled as a perfect 4th (never D&flat;&ndash;F&sharp;). Coming down, you may name the notes in either order (&ldquo;B to E&rdquo; or &ldquo;E down to B&rdquo;).</li>
+  <li><strong>Your video must be under 2 minutes.</strong> A file of 2:00 or longer receives no credit. One take; if you stumble, record again.</li>
+  <li>Your hands, the keyboard, your voice and the metronome must all be on the recording.</li>
 </ul>
-<p><strong>How Option A is graded:</strong> on accuracy &mdash; all 25 intervals present in the right order, every one blocked and on a click, every one correctly spelled and named as a perfect 4th, and the file under two minutes.</p>
-<p><strong>To submit Option A:</strong> use the <strong>File Upload</strong> tab below and upload the video file itself (.mp4 or .mov from a phone is fine). Do not paste a link to a cloud drive; upload the file.</p>
+<p><strong>Grading:</strong> all 25 intervals present in the right order, every one blocked, on a click, correctly spelled and named as a perfect 4th, and the file under two minutes.</p>
+<p><strong>To submit Option A:</strong> upload the video file itself (.mp4 or .mov is fine) in the <strong>File Upload</strong> tab. Do not paste a cloud drive link.</p>
 
 <h4>Option B &mdash; Play Da Capo on its PERFECT 4THS course</h4>
-<p>Play Da Capo, the reading game, on its <strong>PERFECT 4THS</strong> course: <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a></p>
-<p>Da Capo is a little arcade game: you are a dragon, enemies carry flashcards, and you answer a card by playing the note or interval it shows. This assignment uses one specific set of cards &mdash; perfect 4ths only, melodic first and then harmonic (two notes played together).</p>
-<p><strong>Choose the right course first.</strong> A run in any other course does not count for this assignment.</p>
-<ol>
-  <li>On the title screen choose <strong>HOMEWORK</strong>.</li>
-  <li>Select <strong>PERFECT 4THS</strong>. This starts the run directly.</li>
-</ol>
-<p>(Or: PRACTICE &rarr; COURSE row &rarr; LEFT/RIGHT to PERFECT 4THS &rarr; START &mdash; either path lands on the same course.) The title screen also prints the current course along the bottom, so you can check it before you begin.</p>
-<p><strong>You have full credit when EITHER of these is true:</strong></p>
+<p>Da Capo is a reading game: enemies carry flashcards, and you answer by playing the note or interval shown. Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>. This assignment uses perfect 4ths only, melodic first and then harmonic.</p>
+<p><strong>Choose the right course first.</strong> A run in any other course does not count. On the title screen choose <strong>HOMEWORK</strong>, then <strong>PERFECT 4THS</strong>. (PRACTICE &rarr; COURSE row &rarr; PERFECT 4THS &rarr; START reaches the same course.)</p>
+<p><strong>You have full credit when EITHER is true:</strong> you beat all 24 stages, <em>or</em> you have cleared 50 cards. <strong>GET CODE</strong> (pause menu, or the screen at the end) tells you whether you have earned credit yet and, if not, how many more cards you need.</p>
+<p><strong>You do not need a MIDI keyboard.</strong> The letters A to G play those notes; tap T (sharp) or R (flat) first for a black key. When a card shows two stacked notes, press both letters at once. The keyboards in Room 269 also work as MIDI controllers during lab hours (cables provided). You do need a laptop or desktop: a phone or iPad cannot play Da Capo.</p>
+<p><strong>Coming back to a run:</strong> your run is saved in that browser on that computer. Use the SAME browser and computer each time, and press <strong>CONTINUE</strong> on the title screen (not START GAME, which begins a new run). If the game asks, choose KEEP THE SAVED RUN.</p>
+<p><strong>To submit Option B:</strong> press <strong>GET CODE</strong>, type your first name, last name and <strong>STUDENT ID</strong> once, press <strong>COPY CODE</strong>, and paste it into the <strong>Text Entry</strong> tab below.</p>
 <ul>
-  <li>you beat all 24 stages, <em>or</em></li>
-  <li>you have cleared 50 cards.</li>
-</ul>
-<p>Whichever comes first. The game keeps count for you: GET CODE (from the pause menu, or from the screen at the end) tells you whether you have earned credit yet and, if not, exactly how many more cards you need.</p>
-<p><strong>You do not need a MIDI keyboard.</strong> The letters A to G on your computer keyboard play those notes. For a black key, tap T (sharp) or R (flat) first and the next letter plays it. When a card shows two notes stacked on top of each other, play them <em>together</em> &mdash; press both letters at the same time, the way you would on a piano. If you would rather play it on a real keyboard, the Room 269 keyboards work as MIDI controllers during lab hours (cables provided) &mdash; see below.</p>
-<p><strong>You do need a laptop or a desktop computer.</strong> Da Capo has no touch controls at all, so a phone or an iPad cannot play it, with or without a keyboard. Use your own computer, the music computer lab, or anywhere you have the internet and a laptop or desktop.</p>
-<p><strong>Coming back to a run:</strong> your run is saved in that browser, on that computer. Use the SAME browser on the SAME computer every time; when you come back, press <strong>CONTINUE</strong> on the title screen (not START GAME, which begins a brand new run); if the game asks, choose KEEP THE SAVED RUN.</p>
-<p><strong>To submit Option B:</strong> press GET CODE (pause menu, or the screen after the last stage), type your first name, last name and school ID once, then COPY CODE and paste it into the <strong>Text Entry</strong> tab below.</p>
-<ul>
-  <li>Use the school ID your gradebook knows you by.</li>
-  <li>Paste ONLY the code &mdash; nothing typed after it in the same submission.</li>
-  <li>Paste ALL of it, from KTS1 to the very last letter.</li>
+  <li>Use the student ID your gradebook knows you by.</li>
+  <li>Paste ONLY the code, and ALL of it, from KTS1 to the very last letter.</li>
 </ul>
 
 <h4>Due Friday, September 25 at 6:00 pm.</h4>
 <h4>Lab hours this week (Room 269)</h4>
-<p>Every keyboard in Room 269 has a built-in metronome, and each one can be plugged into a computer as a MIDI keyboard for Da Capo (cables provided). Come use them for either option during the remaining lab hours this week:</p>
+<p>Every keyboard in Room 269 has a built-in metronome and can be plugged into a computer as a MIDI keyboard for Da Capo (cables provided). The lab is there if you want it, not required:</p>
 <ul>
   <li>Wednesday 5:00&ndash;6:00 pm</li>
   <li>Thursday 9:30&ndash;11:00 am</li>
   <li>Friday 5:00&ndash;6:00 pm</li>
 </ul>
-<p>Or do either option on your own equipment wherever you like &mdash; the lab is there if you want it, not required.</p>
 
 <h4>Which option should I pick?</h4>
 <p>Pick the video if you have a keyboard where you practice and you want the spelling in your mouth as well as your hands. Pick Da Capo if you would rather drill by reading. They are worth the same. <strong>Submit one.</strong></p>
@@ -193,7 +180,7 @@ screen press HOMEWORK, then PERFECT 4THS -- that starts it. Every card is
 a perfect 4th. Full credit for beating all 24 stages OR clearing 50
 cards, whichever comes first; the game counts for you. Laptop or desktop
 only, same browser every time, CONTINUE not START GAME when you come
-back. At the end, GET CODE, type your name and school ID, copy the code,
+back. At the end, GET CODE, type your name and Student ID, copy the code,
 paste the whole thing into the text box on Canvas.
 
 The keyboards in 269 have metronomes and plug in as MIDI for Da Capo --

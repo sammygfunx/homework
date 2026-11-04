@@ -793,3 +793,18 @@ Ranked high -> low. (HW-DEADLINES, the former item 1, was DONE
 2026-09-19 by the pane queued from —OER item 19 — archived verbatim in
 history.txt; hw3/hw4 files now say Fri 2026-09-25 everywhere, Canvas
 edit left to Sam.)
+
+CLS-HW 2026-11-04 (CODE-LABEL-SWEEP, Sonnet 5.5, from —OER; Sam not watching):
+  Every app HW file now uses the apps' new labels: Get Code / Copy Code /
+  Student ID (Da Capo and Progression Pond all caps; Piano Tennis 2-player
+  P1 CODE / P2 CODE and GET CODE (n OF 4) in the gauntlet; Chord Crush
+  Statistics -> Get Code, then Get Code, then Copy Code; Key Spar as listed,
+  pending its deploy; Orbit's field is Student ID with the hint "the number
+  on your Canvas profile"; Scale Fingering "Finish and Get Code"). Section 1
+  trimmed, words before -> after (tags stripped): Board 1 1063 -> 917, Board 2
+  722 -> 657, Board 3 759 -> 714, HW3 1178 -> 806, HW4 995 -> 811, HW5 707 ->
+  648, Quiz 5 item 5 655 -> 613, Quiz 6 520 -> 476. Labels only: Board 4
+  (still a DRAFT with [FILL IN]), midterm item 5 (past due), hw12, final
+  repertoire (no app code). Rules, points, dates, links, modes, options, the
+  video alternative and the grading paragraphs are unchanged. Historical
+  changelog lines in file headers and history.txt were left as written.

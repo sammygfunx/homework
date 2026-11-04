@@ -25,6 +25,7 @@ are the gauntlet / root cycle only; the Weekly tiers play as before (Piano
 Tennis v2.17, live pck 927e18d5f7d877ce). Codes, modes and rubrics
 unchanged; the hub grades pre- and post-fix triads codes (B1-TEXT-HUB
 46de09d). Section 1's paste changed: 669 words.
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; section 1 trimmed 722 -> 657 words (tags stripped); Canvas assignment needs a re-paste of section 1.
 PT-E 2026-11-03 (Sam approved the renames): Option 4 now says Week (was
 Difficulty tier) and GET CODE (was GET CANVAS CODE); Weekly tiers, START
 MATCH, COPY CODE unchanged. Board 2 was ALREADY LIVE in Canvas with the old
@@ -84,7 +85,7 @@ THE FACTS EVERYTHING HANGS ON
                      HOMEWORK screen; FROZEN id, LIVE. Floor 50 cards or
                      beat 24 stages (ResultCode.GOAL_CARDS_BY_COURSE).
                      Rubric dacapo_triads. A saved run is bound to the first
-                     school ID that takes a code from it, and every solo
+                     Student ID that takes a code from it, and every solo
                      code ends in the run's nonce (DACAPO-BIND; D6).
       DA CAPO DUET   OPTION 2. One code per SEAT (GET CODES, a QR code per
                      seat), mode "duet_triads", no name or ID, 50 cards per
@@ -144,36 +145,33 @@ entities, so the read-back verifier has nothing to mis-decode.)
 
 <h4>OPTION 1: Da Capo</h4>
 <ul>
-<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>TRIAD QUALITIES</strong>.</li>
-<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>? The GET CODE screen tells you how many cards you still need.</li>
-<li>Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
-<li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then <strong>MICROPHONE</strong> (beta), and play the cards on the piano. It works best in a quiet room with headphones.</li>
-<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then <strong>TRIAD QUALITIES</strong>. Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
+<li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then <strong>MICROPHONE</strong> (beta). It works best in a quiet room with headphones.</li>
+<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and <strong>STUDENT ID</strong>, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
 
 <h4>OPTION 2: Da Capo Duet (with a partner)</h4>
 <ul>
-<li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong>, <strong>P1 TIER</strong> to <strong>TIER 2</strong> or higher, and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
-<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name at the top; <strong>PLAY AGAIN</strong> keeps it, and going back to the lobby starts it over. At 50 a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
-<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC in a match, then <strong>GET CODES</strong>. Each of you scans the QR code for your own seat with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
+<li>With a partner and one MIDI keyboard, open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>TRIAD QUALITIES</strong>, <strong>P1 TIER</strong> to <strong>TIER 2</strong> or higher, and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
+<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name; <strong>PLAY AGAIN</strong> keeps it, and going back to the lobby starts it over.</li>
+<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC, then <strong>GET CODES</strong>. Each of you scans your own seat's QR code with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
 </ul>
 
 <h4>OPTION 3: Chord Crush</h4>
 <ul>
-<li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>.</li>
+<li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>. Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
 <li><strong>Full credit:</strong> clear 6 levels of <strong>Major Triads</strong> and 6 levels of <strong>Minor Triads</strong> (half each). The stage card shows <strong>6/12</strong> when you have six.</li>
-<li><strong>Extra credit:</strong> 3 points for all 12 levels of <strong>Diminished Triads</strong>, and 3 more for all 12 levels of <strong>Augmented Triads</strong>. The card says <strong>✓ MASTERED</strong> when all 12 are done.</li>
-<li>Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
-<li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
+<li><strong>Extra credit:</strong> 3 points for all 12 levels of <strong>Diminished Triads</strong>, and 3 more for all 12 levels of <strong>Augmented Triads</strong>.</li>
+<li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong>, then <strong>Get Code</strong>. Enter your first name, last name and Student ID, press <strong>Get Code</strong>, then <strong>Copy Code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
 </ul>
 
 <h4>OPTION 4: Piano Tennis</h4>
 <ul>
-<li>On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge. Play on a MIDI keyboard or the computer keyboard.</li>
-<li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then turn <strong>Microphone</strong> (beta) on. It works best in a quiet room with headphones.</li>
+<li>On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge. Play on a MIDI keyboard or the computer keyboard. At an acoustic piano? Choose <strong>SETTINGS</strong> and turn <strong>Microphone</strong> (beta) on.</li>
 <li>Choose <strong>VS COMPUTER</strong>, set <strong>Drill</strong> to <strong>Weekly tiers</strong>, choose the <strong>Week</strong> that ends <strong>Triads: All Qualities</strong>, and press <strong>START MATCH</strong>.</li>
 <li><strong>Full credit:</strong> finish one match on that tier, win or lose. Other tiers do not count.</li>
-<li><strong>To submit:</strong> at the end of the match press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and <strong>Student ID</strong>, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
 
 <h4>OPTION 5: Video</h4>
@@ -202,7 +200,7 @@ a video. Submit ONE.
 
 Da Capo: HOMEWORK, then TRIAD QUALITIES. Clear 50 cards or beat all 24
 stages; the game counts for you, and at 50 cards it asks if you want
-your code now. GET CODE, name and school ID, copy, paste the whole code
+your code now. GET CODE, name and Student ID, COPY CODE, paste the whole code
 in the text box.
 
 Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, TRIAD
@@ -214,8 +212,8 @@ own seat's QR code with your own phone and submits your own.
 Chord Crush: pick your own player, Chord Stages, Root position. Clear 6
 levels of Major Triads and 6 of Minor Triads; each is half the
 grade. Diminished and Augmented are 3 points extra credit each. MIDI
-keyboard or touch; a mouse can't play a chord. Statistics, Canvas Code,
-paste it.
+keyboard or touch; a mouse can't play a chord. Statistics, Get Code,
+name and Student ID, Get Code, Copy Code, paste it.
 
 Piano Tennis: on a computer, VS COMPUTER, Drill Weekly tiers, the tier
 that ends Triads: All Qualities. Finish one match, win or lose. GET
@@ -251,7 +249,8 @@ Subject: HW #11 — Choice Board 2: Triads, due Sun 11/8 at 11:59 PM
   CHORD CRUSH  https://chord-crush-mobile.netlify.app (MIDI keyboard or
     touch). Your own player, Chord Stages, Root. 6 levels of Major
     Triads and 6 of Minor Triads (half each); Diminished and Augmented are
-    +3 extra credit each. Statistics -> Canvas Code, paste it.
+    +3 extra credit each. Statistics -> Get Code, name and Student ID,
+    Get Code, Copy Code, paste it.
   PIANO TENNIS  https://piano-tennis.netlify.app (computer, Chrome or
     Edge). VS COMPUTER, Drill: Weekly tiers, the tier that ends Triads:
     All Qualities. Finish one match, win or lose. GET CODE, paste
@@ -287,17 +286,17 @@ way. Your last submission is the one graded.
      needed)
   [ ] https://da-capo-game.netlify.app, hard-refresh. HOMEWORK -> TRIAD
       QUALITIES, clear a card or two (A-G keys, letters together for a
-      chord), ESC -> GET CANVAS CODE, your name and ID, GET CODE, COPY
-      CODE. Save it in a note.
+      chord), ESC -> GET CODE, your name and Student ID, COPY CODE.
+      Save it in a note.
   [ ] https://chord-crush-mobile.netlify.app, hard-refresh (the title
       reads v51.9.0). + NEW PROFILE "Test", Chord Stages, Root, Major
       Triads, clear level 1 (one chord, by touch or MIDI). Statistics ->
-      Canvas Code, your name and ID, Generate code, Copy code. Save it.
+      Get Code, your name and Student ID, Get Code, Copy Code. Save it.
   [ ] https://piano-tennis.netlify.app in Chrome, hard-refresh. VS
       COMPUTER, Drill = Weekly tiers, Week "Week 9+ · Triads:
       All Qualities", Play to 5 points, START MATCH. Answer nothing and
       let the computer win (a minute or two). GET CODE, your name
-      and ID, COPY CODE.
+      and Student ID, COPY CODE.
   [ ] Hub: tab 3 "Load folder…" -> Grading_Hub/rubrics/hw12_board2 (the
       picker shows "SET: HW #11 — Choice Board 2: Triads [4 rubrics]").
       Tab 2: paste all three codes, Decode. EXPECT dacapo / triads with a
@@ -305,8 +304,8 @@ way. Your last submission is the one graded.
       a "maj_levels" row 1/12 and 0; pianotennis / w9_plus, 100. The SET
       block lists you ONCE at 100, with a "best of:" line naming Piano
       Tennis.
-  [ ] Optional, 30 seconds, the bind (D6): Da Capo, CONTINUE, GET CANVAS
-      CODE with a made-up school ID: it stays on the form with THIS SAVED
+  [ ] Optional, 30 seconds, the bind (D6): Da Capo, CONTINUE, GET CODE
+      with a made-up Student ID: it stays on the form with THIS SAVED
       RUN BELONGS TO <you>. and no code. Then HOMEWORK -> ERASE IT AND
       START OVER so a classroom computer is clean; in Chord Crush delete
       the "Test" profile.
@@ -494,12 +493,12 @@ D3. PIANO TENNIS ON BOARD 2 (board 1 D3 has the build, the code rows and
   - The path: menu Drill "Weekly tiers (mixed prompts)" (the other two
     are Root cycle and Gauntlet), Week "Week 9+ · Triads: All
     Qualities" (the dot is not ASCII, so the HTML says "the tier that ends
-    Triads: All Qualities"), START MATCH; GET CANVAS CODE and COPY CODE on
+    Triads: All Qualities"), START MATCH; GET CODE and COPY CODE on
     the end-of-match panel. Mode "w9_plus": major, minor, diminished and
     augmented triads, any octave, any inversion. PT-UI (v2.12) kept every
     one of these labels, but its promise was "until after Sun 11/1"
     (Board 1's due date): FOR SAM, keep Drill / Weekly tiers / Difficulty
-    tier / START MATCH / GET CANVAS CODE / COPY CODE unchanged until after
+    tier / START MATCH / GET CODE / COPY CODE unchanged until after
     Sun 11/8, or a rename pass edits OPTION 4 and re-runs tab 5.
   - The menu REMEMBERS the last Drill: a student who played Board 1's
     gauntlet opens on Drill = Gauntlet, which is why the paste says "set
@@ -597,7 +596,7 @@ D5. CHORD CRUSH (researched 2026-10-26 at the live v51.7.0 = Chord_Crush
 
 D6. ONE RUN, ONE STUDENT on this board (the bind note; —OER 0v).
   - DA CAPO SOLO (DACAPO-BIND, live since 619d4d0958b0a7e6, still in
-    e2b0cb0e3d24288b): a saved run is BOUND to the school ID typed at its
+    e2b0cb0e3d24288b): a saved run is BOUND to the Student ID typed at its
     first GET CODE; any other ID is refused on the code form with THIS
     SAVED RUN BELONGS TO <FIRST NAME>. / PRESS START GAME OR HOMEWORK TO
     PLAY YOUR OWN., and nothing is encoded. Every solo code ends in the

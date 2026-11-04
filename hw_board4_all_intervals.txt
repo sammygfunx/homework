@@ -7,6 +7,7 @@ Grading_Hub's rubric names it. STATUS: DRAFTED. WEEK AND DUE DATE BLANK
 FOR SAM (undecided); every [FILL IN] is listed in section 5, D0. The Da
 Capo id is in the game's source but NOT LIVE until Da Capo's next
 deploy.
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; labels only (still a DRAFT with [FILL IN] blanks, so nothing to re-paste and no trim until it is rebuilt).
 ===========================================================
 
 WHAT THIS FILE IS
@@ -90,13 +91,13 @@ ASCII, no entities, so the read-back verifier has nothing to mis-decode.)
 <p>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>. On the title screen choose <strong>HOMEWORK</strong>, then select <strong>ALL INTERVALS</strong>. That starts the run. A run in any other course does not count for this board.</p>
 <p><strong>Full credit when EITHER is true:</strong> you beat all 24 stages, <em>or</em> you have cleared 50 cards. The game counts for you: GET CODE (pause menu, or the screen at the end) says whether you have earned credit yet and, if not, how many more cards you need.</p>
 <p>Play on a laptop or desktop (the letters A to G play notes; tap T for sharp or R for flat before a letter for a black key; press letters together for notes stacked on top of each other), on an iPad with the on-screen keys, or with a MIDI keyboard. Use the SAME browser on the SAME device each time and press <strong>CONTINUE</strong> to pick a run back up.</p>
-<p><strong>To submit:</strong> GET CODE, type your first name, last name and school ID, COPY CODE, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. Paste only the code.</p>
+<p><strong>To submit:</strong> GET CODE, type your first name, last name and Student ID, COPY CODE, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. Paste only the code.</p>
 
 <h4>Way 2: Piano Tennis</h4>
 <p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Week</strong> list choose the tier whose name ends 'All Intervals (Midterm Prep)'. Type your name, then <strong>START MATCH</strong>.</p>
 <p><strong>Full credit:</strong> [FILL IN: what counts, e.g. win one match on that tier].</p>
 <p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave. Piano Tennis does not run on a phone or an iPad.</p>
-<p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</p>
+<p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CODE</strong>, enter your name and Student ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</p>
 
 <h4>Way 3: Record a video</h4>
 <p>Record yourself at the piano playing <strong>every interval from a minor 2nd to the octave above C, then above F</strong> (thirteen each, twenty-six in all), as blocked intervals, and <strong>say the name of each one out loud</strong> as you play it, for example <em>"C up to E-flat, minor 3rd."</em> For the tritone, say either name: augmented 4th (C to F-sharp) or diminished 5th (C to G-flat).</p>
@@ -117,7 +118,7 @@ how you do it: Da Capo, Piano Tennis or a video. Submit ONE.
 
 Da Capo: on the title screen press HOMEWORK, then ALL INTERVALS. Beat all 24
 stages or clear 50 cards, whichever comes first; the game counts for you.
-GET CODE, name and school ID, copy, paste the whole code in the text box.
+GET CODE, name and Student ID, copy, paste the whole code in the text box.
 
 Piano Tennis: VS COMPUTER, pick the All Intervals (Midterm Prep) tier, play
 the

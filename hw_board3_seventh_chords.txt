@@ -26,6 +26,7 @@ CHANGES IN THIS REBUILD (each is a FOR SAM item in section 5 D0 too):
   The video is now OPTION 5.
 Section 1's paste: 759 words (11-02's four-option paste was 629;
 Board 2's was 704 and 669 later, counted the same way: tags stripped).
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; section 1 trimmed 759 -> 714 words (tags stripped); Canvas assignment needs a re-paste of section 1 (Board 3 is not in Canvas yet: paste the new one).
 TITLE PROPOSED, FOR SAM: "HW #13 — Choice Board 3: Seventh Chords"
 (Pop Tune Composition takes HW #12; section 1).
 ===========================================================
@@ -134,34 +135,32 @@ entities, so the read-back verifier has nothing to mis-decode.)
 
 <h4>OPTION 1: Da Capo</h4>
 <ul>
-<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>SEVENTH CHORDS</strong>.</li>
-<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. All five seventh chords are dealt from stage 4 on. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>? The GET CODE screen tells you how many cards you still need.</li>
-<li>Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
-<li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then <strong>MICROPHONE</strong> (beta), and play the cards on the piano. It works best in a quiet room with headphones.</li>
-<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then <strong>SEVENTH CHORDS</strong>. Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. All five seventh chords are dealt from stage 4 on. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
+<li>At an acoustic piano? Choose <strong>SETTINGS</strong>, then <strong>MICROPHONE</strong> (beta). It works best in a quiet room with headphones.</li>
+<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and <strong>STUDENT ID</strong>, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
 
 <h4>OPTION 2: Da Capo Duet (with a partner)</h4>
 <ul>
-<li>With a partner and one MIDI keyboard (the class pianos work), open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SEVENTH CHORDS</strong>, <strong>P1 TIER</strong> to <strong>TIER 2</strong> or higher, and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
-<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name at the top; <strong>PLAY AGAIN</strong> keeps it, and going back to the lobby starts it over. At 50 a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
-<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC in a match, then <strong>GET CODES</strong>. Each of you scans the QR code for your own seat with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
+<li>With a partner and one MIDI keyboard, open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SEVENTH CHORDS</strong>, <strong>P1 TIER</strong> to <strong>TIER 2</strong> or higher, and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
+<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name; <strong>PLAY AGAIN</strong> keeps it, and going back to the lobby starts it over.</li>
+<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC, then <strong>GET CODES</strong>. Each of you scans your own seat's QR code with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas.</li>
 </ul>
 
 <h4>OPTION 3: Chord Crush</h4>
 <ul>
-<li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>.</li>
-<li><strong>Full credit:</strong> clear levels 1 to 6 of all five seventh-chord stages: <strong>Major 7th Chords</strong>, <strong>Dominant 7th Chords</strong>, <strong>Minor 7th Chords</strong>, <strong>Half-Diminished 7th Chords</strong> and <strong>Diminished 7th Chords</strong>. Each stage earns 20 points once all 6 of those levels are cleared; its card shows your levels, for example 6/12.</li>
+<li>Open <a href="https://chord-crush-mobile.netlify.app">https://chord-crush-mobile.netlify.app</a>. Choose your own player or press <strong>+ NEW PROFILE</strong>, then choose <strong>Chord Stages</strong> and leave <strong>Position</strong> on <strong>Root</strong>. Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
+<li><strong>Full credit:</strong> clear levels 1 to 6 of all five seventh-chord stages: <strong>Major 7th Chords</strong>, <strong>Dominant 7th Chords</strong>, <strong>Minor 7th Chords</strong>, <strong>Half-Diminished 7th Chords</strong> and <strong>Diminished 7th Chords</strong>. Each stage earns 20 points once its 6 levels are cleared; its card shows your levels, for example 6/12.</li>
 <li><strong>Extra credit:</strong> 1 point for each of those stages you finish (all 12 levels).</li>
-<li>Use a MIDI keyboard or a touch screen; a mouse cannot play a chord.</li>
-<li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong> and check that each of the five stages reads 6/12 or more. Then choose <strong>Canvas Code</strong>. Enter your name and school ID, press <strong>Generate code</strong>, then <strong>Copy code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
+<li><strong>To submit:</strong> on the title screen choose <strong>Statistics</strong> and check that each of the five stages reads 6/12 or more. Then choose <strong>Get Code</strong>. Enter your first name, last name and Student ID, press <strong>Get Code</strong>, then <strong>Copy Code</strong>, and paste the code under <strong>Text Entry</strong>.</li>
 </ul>
 
 <h4>OPTION 4: Key Spar</h4>
 <ul>
-<li>Open <a href="https://key-spar.netlify.app">https://key-spar.netlify.app</a> with a MIDI keyboard (the class pianos work). Set <strong>Game</strong> to <strong>Chords</strong>, <strong>Course</strong> to <strong>Seventh Chords</strong> and <strong>Players</strong> to <strong>Solo vs Computer</strong>. Play in the same browser each time.</li>
+<li>Open <a href="https://key-spar.netlify.app">https://key-spar.netlify.app</a> with a MIDI keyboard. Set <strong>Game</strong> to <strong>Chords</strong>, <strong>Course</strong> to <strong>Seventh Chords</strong> and <strong>Players</strong> to <strong>Solo vs Computer</strong>. Play in the same browser each time.</li>
 <li><strong>Full credit:</strong> win matches 1 to 5 against the computer, at any computer level. Play each chord with its root on the bottom. The <strong>Homework</strong> row shows how many you have won.</li>
-<li><strong>To submit:</strong> press <strong>Get Code</strong> (in the <strong>Homework</strong> row, or on the screen after your fifth win), enter your name and school ID, press <strong>Get Code</strong> again, then <strong>Copy Code</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+<li><strong>To submit:</strong> press <strong>Get Code</strong> (in the <strong>Homework</strong> row, or on the screen after your fifth win), enter your name and <strong>Student ID</strong>, press <strong>Get Code</strong> again, then <strong>Copy Code</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
 
 <h4>OPTION 5: Video</h4>
@@ -187,7 +186,7 @@ Da Capo, Da Capo duet, Chord Crush, Key Spar, or a video. Submit ONE.
 Da Capo: HOMEWORK, then SEVENTH CHORDS. Clear 50 cards or beat all 24
 stages. All five chords show up from stage 4. At 50 cards it asks if you
 want your code now. GET CODE, name and
-school ID, copy, paste the whole code in the text box.
+Student ID, COPY CODE, paste the whole code in the text box.
 
 Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, SEVENTH
 CHORDS, P1 TIER 2 or higher (tier 1 skips two of the five chords), same
@@ -197,11 +196,11 @@ GET CODES: each of you scans your own seat's QR code and submits your own.
 Chord Crush: your own player, Chord Stages, Root. The five seventh-chord
 stages, levels 1 to 6 in each. Finishing all 12 levels of a stage is a point
 of extra credit. MIDI keyboard or touch. Before you copy your code, open
-Statistics and check each stage reads 6/12. Then Canvas Code, paste it.
+Statistics and check each stage reads 6/12. Then Get Code, name and Student ID, Get Code, Copy Code, paste it.
 
 Key Spar: a MIDI keyboard. Game Chords, Course Seventh Chords, Solo vs
 Computer. Win matches 1 to 5 against the computer, any computer level, root
-of each chord on the bottom. Get Code, name and school ID, Copy Code, paste
+of each chord on the bottom. Get Code, name and Student ID, Copy Code, paste
 the whole code.
 
 Or a video: the five seventh chords on C, G, D, A, E and B, blocked and
@@ -234,8 +233,8 @@ Subject: HW #13 — Choice Board 3: Seventh Chords, due Sun 11/15 at 11:59 PM
   CHORD CRUSH  https://chord-crush-mobile.netlify.app (MIDI keyboard or
     touch). Your own player, Chord Stages, Root. Levels 1 to 6
     of all five seventh-chord stages; all 12 levels of a stage is +1
-    extra credit. Check Statistics reads 6/12 on each, then Canvas Code,
-    paste it.
+    extra credit. Check Statistics reads 6/12 on each, then Get Code (name,
+    Student ID, Get Code, Copy Code), paste it.
   KEY SPAR  https://key-spar.netlify.app (MIDI keyboard). Chords ->
     Seventh Chords, Solo vs Computer. Win matches 1 to 5 against the
     computer, any level, root on the bottom. Get Code, paste the whole
@@ -263,16 +262,16 @@ way. Your last submission is the one graded.
      needed)
   [ ] https://da-capo-game.netlify.app, hard-refresh. HOMEWORK -> SEVENTH
       CHORDS, clear a card (A-G keys, letters together for a chord), ESC ->
-      GET CANVAS CODE, your name and ID, GET CODE, COPY CODE. Save it.
+      GET CODE, your name and Student ID, COPY CODE. Save it.
   [ ] https://chord-crush-mobile.netlify.app, hard-refresh (the title
       reads v51.9.2). + NEW PROFILE "Test", Chord Stages, Root, Major 7th
       Chords, clear level 1 (one chord, by touch or MIDI). Statistics ->
-      Canvas Code, your name and ID, Generate code, Copy code. Save it.
+      Get Code, your name and Student ID, Get Code, Copy Code. Save it.
       (Without pressing Quit: the level you cleared is already in the
       code, since v51.9.2.)
   [ ] https://key-spar.netlify.app, hard-refresh. Game Chords, Course
       Seventh Chords, Players Solo vs Computer, Homework row -> Get Code,
-      name and ID, Get Code, Copy Code. Save it. (A match win is needed for
+      name and Student ID, Get Code, Copy Code. Save it. (A match win is needed for
       a nonzero goal; the code itself decodes with none. A MIDI keyboard
       plays the match; without one, the Homework screen still makes a code.)
   [ ] Hub: tab 3 "Load folder…" -> Grading_Hub/rubrics/hw13_board3 (the
@@ -451,7 +450,7 @@ D3. EVERY OTHER APP, CHECKED 2026-11-02 (W13-HW; each app's source and
     rows goal, levels, maj7 dom7 min7 hdim7 dim7, inv1 inv2 inv3 review,
     cards, cpu_level, seconds, nonce, input_midi. ONE BROWSER RUN, ONE
     STUDENT (as Da Capo): the first code binds the run to that name and
-    school ID; another ID is refused ("This saved course belongs to Ada.
+    Student ID; another ID is refused ("This saved course belongs to Ada.
     Press Start Over to play your own."). Matches won before 1.7.0 are not
     counted. Only Solo vs Computer matches count (2 Players, teams, online
     and Training do not). Key Spar answers only from MIDI, so a keyboard is

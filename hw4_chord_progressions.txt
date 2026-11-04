@@ -16,6 +16,7 @@ to give students more time). Progression Pond course id for Option B:
 "three_springs" —
 CONFIRMED, a PUBLIC IDENTIFIER now that Grading_Hub's rubric names it;
 never rename it.
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; section 1 trimmed 995 -> 811 words (tags stripped; HW #4 is past due, so a re-paste matters only if it is reused); Canvas assignment needs a re-paste of section 1.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -142,7 +143,7 @@ every emphasized phrase.)
 
 ===HTML===
 <h3>Choose ONE option and submit ONLY ONE. Either option earns full credit for HW #4.</h3>
-<p>You may do both for extra practice if you like, but only one submission is counted. Pick the one you want graded and submit that.</p>
+<p>You may do both for practice, but only one submission is counted.</p>
 
 <h4>Option A - Record a video: three chord progressions in three keys</h4>
 <p>Record yourself at the piano playing these three chord progressions:</p>
@@ -151,34 +152,33 @@ every emphasized phrase.)
   <li>I &ndash; IV<sup>6</sup><sub>4</sub> &ndash; I</li>
   <li>I &ndash; V<sup>6</sup><sub>5</sub> &ndash; I</li>
 </ul>
-<p>in each of three key areas: C major, F major and G major. Nine progressions total. Do all three progressions in one key before moving to the next. C, F, G is the order we used in class, but any order is fine.</p>
-<p>Hands together if you can. Hands separately works too: play all nine progressions once with the right hand, then once with the left. Keep a steady pulse. No metronome required, no set tempo, just play evenly and carefully.</p>
-<p>Use the three-note voicings we use in class, the same ones Progression Pond accepts: for V<sup>6</sup><sub>5</sub>, leave out the 5th and play three notes, not the full four-note chord. For fingering, use what you practiced in this week's play-along videos and handouts.</p>
-<p>Your hands and the keyboard need to be visible on the recording, from an angle where your fingers can be seen. A phone propped on the music stand is fine. Submit one continuous video, not separate clips for each key. No time limit, but the video should show real practice, not a first attempt.</p>
-<p>This is the only assignment this week where fingering is graded, so take the time to get it right. <strong>Grading is based on accuracy (chords, inversions, voice leading) and fingering.</strong></p>
-<p>To submit: upload the video file in the <strong>File Upload</strong> tab below, or paste a link to an unlisted YouTube video in the <strong>Website URL</strong> tab. No cloud drive links.</p>
+<p>in each of three keys: C major, F major and G major. That is nine progressions. Finish all three in one key before the next. Any key order is fine.</p>
+<p>Hands together if you can. Hands separately also works: play all nine once with the right hand, then once with the left. Keep a steady pulse. No metronome and no set tempo, just play evenly and carefully.</p>
+<p>Use the three-note voicings from class, the same ones Progression Pond accepts: for V<sup>6</sup><sub>5</sub>, leave out the 5th. For fingering, use this week's play-along videos and handouts.</p>
+<p>Your hands and the keyboard must be visible, at an angle where your fingers can be seen. Submit one continuous video, not separate clips. No time limit, but it should show real practice, not a first attempt.</p>
+<p>This is the only assignment this week where fingering is graded. <strong>Grading is based on accuracy (chords, inversions, voice leading) and fingering.</strong></p>
+<p>To submit: upload the video file in the <strong>File Upload</strong> tab, or paste a link to an unlisted YouTube video in the <strong>Website URL</strong> tab. No cloud drive links.</p>
 
 <h4>Option B - Play Progression Pond: THE THREE SPRINGS</h4>
-<p>Play Progression Pond's homework adventure, THE THREE SPRINGS: <a href="https://progression-pond.netlify.app">https://progression-pond.netlify.app</a></p>
-<p>You're a frog leading the pond's silenced springs back to song. Each spring is a short crossing where the lily pads only grow when you play the right chord: the first spring is I &ndash; V<sup>6</sup> &ndash; I, the second I &ndash; IV<sup>6</sup><sub>4</sub> &ndash; I, the third I &ndash; V<sup>6</sup><sub>5</sub> &ndash; I. You cross all three springs in C major with the keys lit up, cross back in F major with just the bass note named, then cross once more in G major from the Roman numerals alone. Same nine progressions as the video, taught first and then drilled.</p>
+<p>Open <a href="https://progression-pond.netlify.app">https://progression-pond.netlify.app</a>. You are a frog leading the pond's silenced springs back to song. Each spring is a short crossing where the lily pads grow only when you play the right chord: the first spring is I &ndash; V<sup>6</sup> &ndash; I, the second I &ndash; IV<sup>6</sup><sub>4</sub> &ndash; I, the third I &ndash; V<sup>6</sup><sub>5</sub> &ndash; I. You cross all three in C major with the keys lit up, again in F major with just the bass note named, and once more in G major from the Roman numerals alone. These are the same nine progressions as the video.</p>
 <ol>
   <li>On the title screen choose <strong>HOMEWORK</strong>.</li>
   <li>Select <strong>THE THREE SPRINGS</strong>. <strong>BEGIN</strong> starts a fresh run.</li>
 </ol>
-<p>A wrong chord at a Spring Keeper (on land, before you cross) costs one heart. Three hearts lost and you respawn at the last bank. A wrong chord on the water costs no heart, but it sinks the pad you're standing on and sends you back to the bank to start that crossing again.</p>
-<p>Full credit needs all nine spring crossings cleared, plus one more thing waiting for you at the meadow beyond them. <strong>GET CODE</strong> always tells you exactly where you stand: "CLEAR N MORE SPRINGS" while springs remain, "BEAT THE MURK FOR FULL CREDIT" once all nine are cleared but that last trial isn't, and "FULL CREDIT EARNED" once both are done.</p>
-<p>The game hears your MIDI keyboard: it checks the right chord, the right inversion (right note on the bottom), played together, in every key. It can't see your fingers or which hand you used, so play hands together the way we do in class if you can, but know that fingering and hands are graded only in Option A.</p>
-<p><strong>A MIDI keyboard is required for this option.</strong> The game plays by real chords, not typing, so the on-screen piano is for exploring only, not for submitting a run. Use a laptop or desktop in Chrome or Edge (Safari and iPads don't support Web MIDI), and allow MIDI access when the browser asks. A keyboard with 49 keys or more works best. Room 269 is open select hours this week and every keyboard there is full-size and plugs right in.</p>
-<p>On a small 25-key board at home: in F major, both dominant chords want a bass E, which sits at the east edge of the control zone and can't be reached low with the left hand. Play the bass an octave up with the chord above it, or turn the control zone off in the Tab panel and steer with the arrow keys as a last resort.</p>
-<p>Your progress saves in that browser, on that computer. Use the same browser and computer every time: choose HOMEWORK, then <strong>CONTINUE</strong>. <strong>START OVER</strong> wipes a run and starts fresh. Once you've cleared a key area, <strong>PRACTICE A KEY</strong> lets you replay it without touching your saved progress.</p>
-<p>To submit: press <strong>GET CODE</strong> (from the HOMEWORK screen or the end screen), type your first name, last name and school ID, then <strong>COPY CODE</strong> and paste it into the <strong>Text Entry</strong> tab. Use the school ID your gradebook knows you by. Paste only the code, nothing else in the box, and paste all of it, from KTS1 to the last letter.</p>
+<p>A wrong chord at a Spring Keeper (on land) costs one heart; lose three and you respawn at the last bank. A wrong chord on the water costs no heart, but it sinks your pad and sends you back to start that crossing again.</p>
+<p>Full credit needs all nine crossings cleared, plus one more trial in the meadow beyond them. <strong>GET CODE</strong> tells you where you stand: "CLEAR N MORE SPRINGS", then "BEAT THE MURK FOR FULL CREDIT", then "FULL CREDIT EARNED".</p>
+<p>The game hears your MIDI keyboard and checks the chord, the inversion (right note on the bottom) and that the notes are played together, in every key. It cannot see your fingers, so fingering and hands are graded only in Option A.</p>
+<p><strong>A MIDI keyboard is required for this option.</strong> The on-screen piano is for exploring only, not for submitting a run. Use a laptop or desktop in Chrome or Edge (Safari and iPads do not support Web MIDI), and allow MIDI access when asked. A keyboard with 49 keys or more works best. Room 269 keyboards are full-size and plug right in.</p>
+<p>On a small 25-key board: in F major both dominant chords want a bass E that the left hand cannot reach low. Play the bass an octave up with the chord above it, or as a last resort turn the control zone off in the Tab panel and steer with the arrow keys.</p>
+<p>Your progress saves in that browser on that computer. Use the same one every time: choose HOMEWORK, then <strong>CONTINUE</strong>. <strong>START OVER</strong> wipes a run. <strong>PRACTICE A KEY</strong> replays a cleared key without touching your saved progress.</p>
+<p>To submit: press <strong>GET CODE</strong> (from the HOMEWORK screen or the end screen), type your first name, last name and <strong>STUDENT ID</strong> (the one your gradebook knows you by), press <strong>COPY CODE</strong>, and paste it into the <strong>Text Entry</strong> tab. Paste only the code, and all of it, from KTS1 to the last letter.</p>
 
 <h4>Due Friday, September 25, 2026, 6:00 PM Eastern.</h4>
 <h4>Lab hours (Room 269)</h4>
-<p>Room 269 is open for practice at select hours this week. Check the posted schedule for exact times. Every keyboard there is full-size, MIDI-capable, and plugs into a computer. Cables provided, for either option.</p>
+<p>Room 269 is open at select hours this week; check the posted schedule. Every keyboard there is full-size, MIDI-capable and plugs into a computer. Cables provided, for either option.</p>
 
 <h4>Which option should I pick?</h4>
-<p>Pick the video if you want your fingering checked. That only happens here. Pick Progression Pond if you'd rather drill the chords with the game listening, and you have a MIDI keyboard of your own or can get to the lab. They're worth the same. Submit one. You have until Friday either way.</p>
+<p>Pick the video if you want your fingering checked. That only happens here. Pick Progression Pond if you would rather drill the chords with the game listening, and you have a MIDI keyboard or can get to the lab. They are worth the same. Submit one. You have until Friday either way.</p>
 ===HTML===
 -------------------------------------------------------------------
 

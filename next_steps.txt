@@ -1,6 +1,6 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-11-03 PM (B3-TEXT DONE, item 0B3T: Board 3 is FIVE ways incl. Key Spar, hw_board2 duet TIER line; see FOR SAM under 0B3T). Before that: 2026-11-03 (SCALE-TEXT DONE: quiz6_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
+Updated: 2026-11-04 (CLS-HW DONE, item 0CLS: new Get Code / Copy Code / Student ID labels in every app HW file, section 1 trimmed; re-paste list in 0CLS). Before that: 2026-11-03 PM (B3-TEXT DONE, item 0B3T: Board 3 is FIVE ways incl. Key Spar, hw_board2 duet TIER line; see FOR SAM under 0B3T). Before that: 2026-11-03 (SCALE-TEXT DONE: quiz6_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
 CREATE, final_repertoire_selections.txt READY TO POST, Board 3 PROPOSED with
 its hub set hw13_board3 (Grading_Hub W13-HW-HUB b01eafa), the scale quiz memo
 docs/w13_scale_quiz_options.txt for Sam's decision; roster).
@@ -44,6 +44,22 @@ HTML into the live Canvas assignment; the app itself is unchanged).
 Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
+
+0CLS. CLS-HW (DONE 2026-11-04, commit "CLS-HW:"): homework text uses the new labels; directions trimmed.
+   SAM, RE-PASTE section 1 into Canvas (tab 5, the SAME title, Preview, Create = update in place; do not push from here):
+   - Board 1 (LIVE: "HW #10 — Choice Board 1: Sixths and Sevenths") -- OPTIONS 1-4 label changes, trimmed.
+   - Board 2 (LIVE: "HW #11 — Choice Board 2: Triads") -- labels, trimmed. This rides with the CB-HALF and B3-TEXT re-pastes:
+     one paste covers all three.
+   - Board 3 (PROPOSED, not yet in Canvas): paste the new section 1 at the first Create. Option 4 (Key Spar) says Get Code /
+     Copy Code / Student ID and is true only once Key Spar's label deploy is live: FOR SAM, check that before 11/9.
+   - Quiz 5 item 5 (the EXISTING Canvas assignment): the update click-path already in its section 4 B; Student ID replaces School ID.
+   - Quiz 6 Scale Fingering (READY TO CREATE): paste the new one at Create.
+   - Board 4 is still a DRAFT ([FILL IN]): labels fixed, nothing to paste yet.
+   - HW3, HW4, HW5 and midterm item 5 are past due; their files are updated, and a re-paste matters only if one is reused.
+   - hw12_pop_tune and final_repertoire_selections: no app labels, unchanged.
+   FOR SAM questions: (1) Board 3 Option 4 waits on Key Spar's deploy; (2) the section 1 pastes were already short bullets, so
+   the trim is 5 to 30 percent there (HW3 and HW4 had real paragraphs: 20 to 30 percent); say if you want Boards 1-3 cut harder.
+   (3) conversation_starter.txt (the old brief) still has the old labels in its history; not edited.
 
 0B3T. B3-TEXT (DONE 2026-11-03 PM, commit "B3-TEXT:"; was RUNNING; prompt copied verbatim from —OER/docs/
    passes_2026-11-03_board3_followups.txt block E; sonnet 5.5 | medium | TAG "B3-TEXT:")

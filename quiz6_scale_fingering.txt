@@ -8,6 +8,7 @@ SCALE-HUB (Grading_Hub f3597e4) and PT-E (cebb495). Brief:
 docs/w13_scale_quiz_options.txt (Sam chose a NEW app, not Option B).
 STATUS: READY TO CREATE (no [FILL IN] in the section 1 HTML). NEW
 assignment in Canvas (F26 has none), unlike Quiz 5 item 5.
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; section 1 trimmed 520 -> 476 words (tags stripped; the grading paragraph is untouched); Canvas assignment needs a re-paste of section 1 if it was already created (READY TO CREATE: paste the new one).
 ===========================================================
 
 WHAT THIS FILE IS
@@ -74,7 +75,7 @@ THE FACTS EVERYTHING HANGS ON
       SCREENS        Scale Fingering opens on the quiz with ?quiz=1:
                      First name / Last name / Student ID, then one scale
                      at a time (the F25 order) with Prev / Next, "Finish
-                     and get my code", then a code box and "Copy code".
+                     and Get Code", then a code box and "Copy Code".
                      The results screen always shows the student's best
                      code on that device and says "Paste your BEST code".
 
@@ -101,16 +102,16 @@ quotes. Every quoted app string is the shipped one.)
 
 ===HTML===
 <h3>Quiz 6: the twelve major scales, with their fingering. Take it in Scale Fingering.</h3>
-<p>This quiz replaces the old written scale quiz. For each of the twelve major scales, you show two things, left hand first and then right hand, two octaves going up: <strong>the image of the scale</strong> (tap its keys on the keyboard; the black keys show as dots) and <strong>its fingering</strong> (the finger number for each of the 15 notes, lowest note first).</p>
-<p>Open it here: <a href="https://scale-fingering.netlify.app/?quiz=1">https://scale-fingering.netlify.app/?quiz=1</a>. It works on a phone, a tablet or a computer, with a mouse, your finger or the typing keyboard. You do not need a MIDI keyboard, and there is no MIDI in the quiz. It is open book: the Scale Fingering Chart in the book is the answer.</p>
-<p>Want to practice first? <a href="https://scale-fingering.netlify.app">https://scale-fingering.netlify.app</a> has games for the groupings, where the thumb crosses and where finger 4 lands, a speed round and a grid of all twelve keys for each hand. Practice never counts for a grade.</p>
+<p>This quiz replaces the old written scale quiz. For each of the twelve major scales, left hand first and then right hand, two octaves going up, you show <strong>the image of the scale</strong> (tap its keys on the keyboard; the black keys show as dots) and <strong>its fingering</strong> (the finger number for each of the 15 notes, lowest note first).</p>
+<p>Open it here: <a href="https://scale-fingering.netlify.app/?quiz=1">https://scale-fingering.netlify.app/?quiz=1</a>. It works on a phone, a tablet or a computer. You do not need a MIDI keyboard. It is open book: the Scale Fingering Chart in the book is the answer.</p>
+<p>Want to practice first? <a href="https://scale-fingering.netlify.app">https://scale-fingering.netlify.app</a> has games and a grid of all twelve keys for each hand. Practice never counts for a grade.</p>
 
 <h4>How to take it</h4>
 <ol>
-<li>Open the quiz link. Type your first name, last name and student ID. Use the student ID your gradebook knows you by.</li>
-<li>The scales come in order: C, G, F, D, B-flat, A, E-flat, E, A-flat, B, D-flat, F-sharp/G-flat. For each one, do the left hand, then the right hand: tap the 15 keys of the scale, then tap (or type, with the digits 1 to 5) its 15 fingers, lowest note first. Tap a finger box to change it.</li>
-<li>Use Prev and Next to move between scales. Your work is saved on your device, so a reload or turning your phone will not lose it.</li>
-<li>Press <strong>Finish and get my code</strong>, then <strong>Copy code</strong>. Paste ONLY the code, all of it, from KTS1 to the last letter, under <strong>Text Entry</strong> here.</li>
+<li>Open the quiz link. Type your first name, last name and <strong>Student ID</strong> (the one your gradebook knows you by).</li>
+<li>The scales come in order: C, G, F, D, B-flat, A, E-flat, E, A-flat, B, D-flat, F-sharp/G-flat. For each one, do the left hand, then the right hand: tap the 15 keys, then tap (or type, with the digits 1 to 5) the 15 fingers, lowest note first. Tap a finger box to change it.</li>
+<li>Use Prev and Next to move between scales. Your work is saved on your device, so a reload will not lose it.</li>
+<li>Press <strong>Finish and Get Code</strong>, then <strong>Copy Code</strong>. Paste ONLY the code, all of it, from KTS1 to the last letter, under <strong>Text Entry</strong> here.</li>
 </ol>
 
 <h4>How it is graded</h4>
@@ -140,7 +141,7 @@ MIDI keyboard.
 It's open book. The chart in the book is the answer, and two spots on it
 show a second correct finger in parentheses.
 
-Press Finish, Copy code, and paste the whole code into Canvas, text
+Press Finish and Get Code, then Copy Code, and paste the whole code into Canvas, text
 entry. You can take it as many times as you like and your best code counts,
 so paste your best one. Practice mode is there if you want to drill first.
 Every scale counts the same, each hand is half, and notes and fingering
@@ -166,7 +167,7 @@ enter the 15 fingers, lowest note first. It works on a phone, tablet or
 computer, by tap, click or typing; no MIDI keyboard needed. It is open
 book: the Scale Fingering Chart in the book is the answer.
 
-At the end, press Finish and get my code, then Copy code, and paste the
+At the end, press Finish and Get Code, then Copy Code, and paste the
 whole code into the text box on Canvas. You can take it as many times as
 you like; your best code counts, so paste your best one.
 

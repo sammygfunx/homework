@@ -1,7 +1,7 @@
 HOMEWORK — PROJECT STATE
 =========================
 Created: 2026-09-15 (Pass 24, Opus 5, launched from —OER).
-Last updated: 2026-11-02 (W13-HW, Opus 5.5, —OER docs/passes_2026-11-02_
+Last updated: 2026-11-04 (CLS-HW: every app HW file uses Get Code / Copy Code / Student ID, section 1 trimmed; re-paste list in next_steps 0CLS). Before that: 2026-11-02 (W13-HW, Opus 5.5, —OER docs/passes_2026-11-02_
 ks_w13.txt section 4, gated on W13-SHEETS 83e8579, Sam away): Week 13.
 NEW hw12_pop_tune.txt (HW #12 — Pop Tune Composition, proposed title;
 hand-made in Canvas, File Upload, 100 pts, due Sun 2026-11-15 23:59 EST; one

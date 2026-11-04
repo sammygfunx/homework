@@ -26,6 +26,7 @@ a root counts only when the answer on it WINS THE POINT, each 1v1 player
 has their own strip, the gauntlet runs CPU Levels 2, 3, 3, 3 (Piano
 Tennis v2.10, live pck fc4799c52ce28fa7). Paste the section 1 HTML as it
 is now.
+CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; section 1 trimmed 1063 -> 917 words (tags stripped); Canvas assignment needs a re-paste of section 1.
 ===========================================================
 
 WHAT THIS FILE IS
@@ -157,46 +158,43 @@ entities, so the read-back verifier has nothing to mis-decode.)
 
 <h4>OPTION 1: Da Capo</h4>
 <ul>
-<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then choose <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>.</li>
-<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>? The GET CODE screen tells you how many cards you still need.</li>
-<li>You can play on a computer keyboard, an iPad, or a MIDI keyboard. Use the same browser on the same device each time, and press <strong>CONTINUE</strong> to pick up where you left off.</li>
-<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
+<li>Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>HOMEWORK</strong>, then <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>. Play on a computer keyboard, an iPad or a MIDI keyboard, in the same browser each time; <strong>CONTINUE</strong> picks up where you left off.</li>
+<li><strong>Full credit:</strong> clear 50 cards or beat all 24 stages. At 50 cards a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
+<li><strong>To submit:</strong> press <strong>GET CODE</strong>, enter your name and <strong>STUDENT ID</strong>, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>.</li>
 </ul>
 
 <h4>OPTION 2: Da Capo Duet (with a partner)</h4>
 <ul>
-<li>You need a partner and one MIDI keyboard (the class pianos work). Open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby, set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong>, set <strong>SAME MATERIAL</strong> to <strong>ON</strong>, and press <strong>START</strong>.</li>
-<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name at the top. <strong>PLAY AGAIN</strong> after each match keeps adding to it; going back to the lobby starts the count over. When one of you reaches 50, a window asks: <strong>GET CODE</strong> now, or <strong>KEEP PLAYING</strong>?</li>
-<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or any time in a match: press ESC to pause, then <strong>GET CODES</strong>. Each of you scans the QR code for your own seat (P1 or P2) with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas. You do not type a name or ID in the game.</li>
+<li>With a partner and one MIDI keyboard, open Da Capo and choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then press <strong>START</strong>.</li>
+<li><strong>Full credit:</strong> each of you clears 50 cards. Your count is by your name; <strong>PLAY AGAIN</strong> keeps adding to it, and going back to the lobby starts it over.</li>
+<li><strong>To submit:</strong> press <strong>GET CODES</strong> on the end screen, or press ESC, then <strong>GET CODES</strong>. Each of you scans your own seat's QR code (P1 or P2) with your own phone, presses <strong>COPY CODE</strong>, and pastes the code under <strong>Text Entry</strong> in your own Canvas. You do not type a name or ID in the game.</li>
 </ul>
 
 <h4>OPTION 3: Piano Tennis Gauntlet (alone)</h4>
 <ul>
-<li>You need a MIDI keyboard (the class pianos work). The computer keyboard cannot reach a 6th or 7th from every root. On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
-<li>Choose <strong>VS COMPUTER</strong>, set <strong>Drill</strong> to <strong>Gauntlet</strong>, and press <strong>OPEN THE GAUNTLET</strong>. Pick a <strong>BALL SPEED</strong> (EASY, MEDIUM, HARD or INSANE; MEDIUM is the default), then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
-<li>There are four stages in order: minor 6th, major 6th, minor 7th, major 7th. Each stage has a new computer opponent, and the ball speeds up as you win points.</li>
-<li>Play the interval up from a root; the lower note is the root. Every root you return the ball with turns green on your strip at the top. Win the point and all your green roots are cleared; lose it and they reset. A root can be used once per rally.</li>
-<li>A stage is cleared when all 12 roots are cleared, whatever the score. A window then asks: get your code now, or keep playing?</li>
-<li>Cleared stages are saved on that computer and browser, so you can stop between stages and press <strong>CONTINUE</strong> later.</li>
-<li><strong>Full credit:</strong> clear all four stages. Each stage you clear counts 25% of the grade, and you do not need to win.</li>
-<li><strong>To submit:</strong> press <strong>GET CANVAS CODE</strong> in that window or after any stage; the code counts every stage you have cleared so far. Enter your name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>. If you clear more stages later, submit a new code; your last submission is the one graded.</li>
+<li>You need a MIDI keyboard (the computer keyboard cannot reach every 6th or 7th). On a computer, open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
+<li>Choose <strong>VS COMPUTER</strong>, set <strong>Drill</strong> to <strong>Gauntlet</strong>, and press <strong>OPEN THE GAUNTLET</strong>. Pick a <strong>BALL SPEED</strong> (EASY, MEDIUM, HARD or INSANE), then press <strong>PLAY STAGE 1</strong>. If Gauntlet is grayed out, plug in a MIDI keyboard and play a key.</li>
+<li>The four stages, in order: minor 6th, major 6th, minor 7th, major 7th. Each has a new computer opponent, and the ball speeds up as you win points.</li>
+<li>Play the interval up from a root; the lower note is the root. Each root you return the ball with turns green on your strip. Win the point and your green roots are cleared; lose it and they reset. A root can be used once per rally.</li>
+<li>A stage is cleared when all 12 roots are cleared, whatever the score. Cleared stages are saved on that computer and browser; press <strong>CONTINUE</strong> to pick up later.</li>
+<li><strong>Full credit:</strong> clear all four stages. Each stage counts 25% of the grade, and you do not need to win.</li>
+<li><strong>To submit:</strong> press <strong>GET CODE</strong> in the window after a stage or at any time between stages; the code counts every stage you have cleared so far. Enter your name and <strong>Student ID</strong>, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong>. If you clear more stages later, submit a new code.</li>
 </ul>
 
 <h4>OPTION 4: Piano Tennis Gauntlet (with a partner)</h4>
 <ul>
-<li>You need a partner, one computer, and a MIDI keyboard (the class pianos work). Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
-<li>Choose <strong>LOCAL 1v1</strong>. Share one keyboard split at E4 and F4 (the left player plays E4 and below), or use two MIDI keyboards. Set <strong>Drill</strong> to <strong>Gauntlet</strong> and press <strong>OPEN THE GAUNTLET</strong>. Each of you clicks a character (P1 on the left, P2 on the right). Pick a <strong>BALL SPEED</strong>, then press <strong>PLAY STAGE 1</strong>. Gauntlet stays grayed out until the game finds a MIDI keyboard; plug one in and play a key.</li>
-<li>The four stages are the same as Option 3 (minor 6th, major 6th, minor 7th, major 7th), and your partner is your opponent.</li>
-<li>The rally rule is the same as Option 3, and each of you has your own strip at the top.</li>
-<li>When you clear all 12 of your roots, a window comes up for you while the match waits: get your code now, or keep playing? A stage ends when you BOTH have cleared all 12, whatever the score. Cleared stages are saved on that computer and browser; press <strong>CONTINUE</strong> to pick up later.</li>
-<li><strong>Full credit:</strong> clear all four stages. Each stage you clear counts 25% of the grade, and you do not need to win.</li>
-<li><strong>To submit:</strong> press your own button, <strong>P1 CANVAS CODE</strong> or <strong>P2 CANVAS CODE</strong>, in your window or after any stage. Enter your own name and school ID, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas. Each partner submits their own code; your last submission is the one graded.</li>
+<li>You need a partner, one computer and a MIDI keyboard. Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge.</li>
+<li>Choose <strong>LOCAL 1v1</strong>. Share one keyboard split at E4 and F4 (the left player plays E4 and below), or use two MIDI keyboards. Set <strong>Drill</strong> to <strong>Gauntlet</strong> and press <strong>OPEN THE GAUNTLET</strong>. Each of you clicks a character (P1 left, P2 right). Pick a <strong>BALL SPEED</strong>, then press <strong>PLAY STAGE 1</strong>. If Gauntlet is grayed out, plug in a MIDI keyboard and play a key.</li>
+<li>The stages and the rally rule are the same as Option 3, and each of you has your own strip. Your partner is your opponent.</li>
+<li>When you clear all 12 of your roots, a window comes up for you while the match waits. A stage ends when you BOTH have cleared all 12, whatever the score. Cleared stages are saved on that computer and browser; press <strong>CONTINUE</strong> to pick up later.</li>
+<li><strong>Full credit:</strong> clear all four stages. Each stage counts 25% of the grade, and you do not need to win.</li>
+<li><strong>To submit:</strong> press your own button, <strong>P1 CODE</strong> or <strong>P2 CODE</strong>, in your window or after any stage. Enter your own name and <strong>Student ID</strong>, press <strong>COPY CODE</strong>, and paste the whole code under <strong>Text Entry</strong> in your own Canvas. Each partner submits their own code.</li>
 </ul>
 
 <h4>OPTION 5: Video</h4>
 <ul>
 <li>Record yourself playing major and minor 7ths as blocked intervals (both notes together), and name each one out loud: "C, major 7th. C, minor 7th."</li>
-<li>On each root, play the major 7th, then move the top note down a half step for the minor 7th. Start on middle C and ascend chromatically to the C an octave higher, then descend chromatically back to middle C (25 roots, 50 sevenths). A black-key root may be named either way, such as C-sharp or D-flat.</li>
+<li>On each root, play the major 7th, then move the top note down a half step for the minor 7th. Start on middle C and ascend chromatically to the C an octave higher, then descend back to middle C (25 roots, 50 sevenths). A black-key root may be named either way, such as C-sharp or D-flat.</li>
 <li>Set a metronome to 60 or slower, loud enough to hear on the video. Play each seventh on the first click and say its name while you hold it for four clicks.</li>
 <li>Record one continuous take with no edits; either hand is fine. Keep your hand and the keyboard in the frame.</li>
 <li><strong>To submit:</strong> upload the video under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. Please do not send cloud drive links.</li>
@@ -225,16 +223,16 @@ ADD-ON P: PIANO TENNIS.
   STATUS 2026-10-26 (PT-KTS1): the first two are DONE (Piano Tennis v2.1,
   live index.pck b9336b440ae6c8d9, hash-verified; rubric + pin tests,
   hub suite 1720/1720). LEFT FOR SAM: one VS COMPUTER match on the All
-  Intervals tier on the live site, GET CANVAS CODE, decode it in hub tab
+  Intervals tier on the live site, GET CODE, decode it in hub tab
   2 with pianotennis_board1 loaded: EXPECT app pianotennis, mode "w7",
   100. Then insert this block (section 4 D). The labels below are the
-  shipped ones (GET CANVAS CODE, COPY CODE, Difficulty tier).
+  shipped ones (GET CODE, COPY CODE, Difficulty tier).
 ===ADDON-P===
 <h4>Piano Tennis</h4>
 <p>Open <a href="https://piano-tennis.netlify.app">https://piano-tennis.netlify.app</a> in Chrome or Edge on a computer. Choose <strong>VS COMPUTER</strong>, and in the <strong>Difficulty tier</strong> list choose the tier whose name ends 'All Intervals (Midterm Prep)' (it is the only Piano Tennis tier with 7ths; it also deals every other interval). Then <strong>START MATCH</strong>.</p>
 <p><strong>Full credit:</strong> finish one full match on that tier. A win is not required; a loss counts the same.</p>
 <p>A MIDI keyboard works in Chrome or Edge. Without one, your computer keyboard is a piano: A S D F G H J K are white keys, W E T Y U are black keys, Z and X move the octave.</p>
-<p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CANVAS CODE</strong>, type your first name, last name and school ID, press <strong>COPY CODE</strong>, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. A match on any other tier does not count for this board.</p>
+<p><strong>To submit:</strong> on the screen at the end of the match press <strong>GET CODE</strong>, type your first name, last name and Student ID, press <strong>COPY CODE</strong>, and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong>. A match on any other tier does not count for this board.</p>
 ===ADDON-P===
 
 ADD-ON D: DA CAPO DUET.
@@ -250,7 +248,7 @@ ADD-ON D: DA CAPO DUET.
 <h4>Da Capo DUET (two players, one MIDI keyboard)</h4>
 <p>Find a partner and a MIDI keyboard (the class pianos work). Open <a href="https://da-capo-game.netlify.app">https://da-capo-game.netlify.app</a>, choose <strong>MULTIPLAYER</strong>, then <strong>DUET (ONE KEYBOARD)</strong>. In the lobby set <strong>P1 COURSE</strong> to <strong>SIXTHS</strong> or <strong>SEVENTHS</strong> and <strong>SAME MATERIAL</strong> to <strong>ON</strong>, then <strong>START</strong>. After each match press <strong>PLAY AGAIN</strong> to keep going.</p>
 <p><strong>Full credit:</strong> YOUR seat clears 50 cards in total, across every match you play in one sitting. PLAY AGAIN keeps the count; going back to the LOBBY or the TITLE starts it over. The end screen shows each seat's SITTING count.</p>
-<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat (P1 MINT and P2 EMBER) gets its own code as a QR code. Scan YOUR seat's QR code with your own phone. It opens a page with your code: press <strong>COPY CODE</strong> and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a school ID on the shared keyboard. Each partner submits only their own seat's code.</p>
+<p><strong>To submit:</strong> on the end screen choose <strong>GET CODES</strong>. Each seat (P1 MINT and P2 EMBER) gets its own code as a QR code. Scan YOUR seat's QR code with your own phone. It opens a page with your code: press <strong>COPY CODE</strong> and paste ALL of it (from KTS1 to the last letter) under <strong>Text Entry</strong> in your own Canvas. Nobody types a name or a Student ID on the shared keyboard. Each partner submits only their own seat's code.</p>
 ===ADDON-D===
 -------------------------------------------------------------------------
 
@@ -265,7 +263,7 @@ it: Da Capo, Da Capo duet, Piano Tennis, or a video. Submit ONE.
 Da Capo: on the title screen press HOMEWORK, then SIXTHS or SEVENTHS. Beat
 all 24 stages or clear 50 cards, whichever comes first; the game counts
 for you, and at 50 cards it asks if you want your code now. GET CODE,
-name and school ID, copy, paste the whole code in the text box.
+name and Student ID, copy, paste the whole code in the text box.
 
 Da Capo DUET: a partner and one MIDI keyboard, MULTIPLAYER, DUET, SIXTHS
 or SEVENTHS, same material on, PLAY AGAIN between matches. Each of you
@@ -285,9 +283,9 @@ cleared, whatever the score; with a partner, each of you has your own
 strip and needs your own 12. When you clear a stage, the game asks if
 you want your code now or want to keep playing. Cleared stages are
 saved on that computer. Each stage counts 25%, so clear all four for
-full credit. GET CANVAS CODE works after any stage and counts every
+full credit. GET CODE works after any stage and counts every
 stage you have cleared; with a partner each of you presses your own,
-P1 or P2 CANVAS CODE, and submits your own. If Gauntlet is grayed out, the game has not
+P1 or P2 CODE, and submits your own. If Gauntlet is grayed out, the game has not
 found your MIDI keyboard yet: plug it in and play a key.
 
 Or a video: major and minor 7ths on every root, ascending and descending
@@ -302,7 +300,7 @@ had not been announced under the root-cycle or tier rule, so nothing needs
 correcting in class.)
 (Both add-ons are in the script above since BOARD1-FOUR. Their original notes:
 When ADD-ON P opens, add: "Piano Tennis: VS COMPUTER, the All Intervals
-(Midterm Prep) tier, finish one match, win or lose. GET CANVAS CODE, paste
+(Midterm Prep) tier, finish one match, win or lose. GET CODE, paste
 it. Computer, Chrome or Edge." When ADD-ON D opens, add: "Or play Da Capo
 DUET with a partner on one MIDI keyboard, SIXTHS or SEVENTHS, same
 material on, PLAY AGAIN between matches. Each of you clears 50 cards in
@@ -336,7 +334,7 @@ Subject: Choice Board 1: Sixths and Sevenths, due Sun 11/1 at 11:59 PM
     and they reset. Clear all 12 roots to clear a stage, whatever the
     score. Cleared stages are saved on that computer.
     Each stage counts 25%; clear all four for full credit. GET CANVAS
-    CODE works after any stage (partners: P1 or P2 CANVAS CODE, each
+    CODE works after any stage (partners: P1 or P2 CODE, each
     your own); paste the whole code, and submit a new one if you clear
     more stages later.
   A VIDEO  major and minor 7ths on every root, ascending and
@@ -417,9 +415,9 @@ The due date is the same: Sunday, November 1, at 11:59 PM Eastern.
       CLEARED"); lose it and they reset; a root already green this rally
       is refused ("G IN THIS RALLY"). Clear all 12 (about 2-3 minutes at
       MEDIUM). The window "STAGE 1 CLEARED!" / "Stage cleared! Get your
-      code now, or keep playing?" comes up with GET CANVAS CODE and KEEP
+      code now, or keep playing?" comes up with GET CODE and KEEP
       PLAYING. Read a few of Biscuit's lines: in your voice, and true?
-  [ ] GET CANVAS CODE in the window, your name and ID, COPY CODE. Close the
+  [ ] GET CODE in the window, your name and Student ID, COPY CODE. Close the
       tab, reopen, Drill = Gauntlet, OPEN THE GAUNTLET: it should say
       CONTINUE: STAGE 2 (the stage was saved).
   [ ] LOCAL 1v1 (30 seconds, no need to play): Drill = Gauntlet, OPEN THE
@@ -438,7 +436,7 @@ The due date is the same: Sunday, November 1, at 11:59 PM Eastern.
   [ ] If you tested on a classroom computer, open the gauntlet and press
       START OVER twice so the next student starts at stage 1 (see D3,
       ONE RUN, ONE STUDENT). Optional, 30 seconds: before that, press GET
-      CANVAS CODE again with a made-up school ID. It must refuse ("This
+      CODE again with a made-up Student ID. It must refuse ("This
       saved run belongs to <you>. Press START OVER to play your own.") and
       show no code.
 
@@ -630,7 +628,7 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     b9336b440ae6c8d9 (hash-verified; the contract test also passes run
     against the live pck itself). app_id "pianotennis" (new Brains
     REGISTRY entry, re-copied into the hub). VS COMPUTER only: the
-    end-of-match panel gains GET CANVAS CODE above COPY SCORE REPORT
+    end-of-match panel gains GET CODE above COPY SCORE REPORT
     (FOR CANVAS), which stays; it opens First name / Last name / School
     ID, then COPY CODE (it copies and shows the code). mode = the tier id
     ("w7" here; "w9_plus" board 2); week 0. Rows, frozen in Piano_Tennis
@@ -676,8 +674,8 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     45eacfb37c62a20f; Piano_Tennis docs/PROJECT_STATE.txt THE GAUNTLET).
     Menu Drill "Gauntlet (6ths and 7ths, four opponents)" -> START reads
     OPEN THE GAUNTLET -> a panel with four stage cards and PLAY STAGE 1 /
-    CONTINUE: STAGE n, GET CANVAS CODE (n OF 4) (LOCAL 1v1: P1 / P2
-    CANVAS CODE), START OVER (two presses) and BACK TO MENU. Stages: 1
+    CONTINUE: STAGE n, GET CODE (n OF 4) (LOCAL 1v1: P1 / P2
+    CODE (n OF 4)), START OVER (two presses) and BACK TO MENU. Stages: 1
     minor 6th vs BISCUIT (a sleepy cat, CPU Level 2), 2 major 6th vs BOLT
     (a counting robot, Level 3), 3 minor 7th vs HAZEL (a library owl,
     Level 3), 4 major 7th vs EMBER (a friendly dragon, Level 3); original
@@ -721,9 +719,9 @@ D3. PIANO TENNIS (researched 2026-10-26 at Piano_Tennis main 6677435;
     Before PT-BIND that student could make a code with their own name.
   - ONE RUN, ONE STUDENT (pass PT-BIND, Piano Tennis v2.9, live pck
     0e659550b46d5568; Sam's rule, —OER next_steps 0v). Two layers:
-    GAME: a saved run is BOUND to the first name and school ID typed at its
-    first GET CANVAS CODE (each seat on its own in LOCAL 1v1). Any other
-    school ID is refused with "This saved run belongs to <first name>.
+    GAME: a saved run is BOUND to the first name and Student ID typed at its
+    first GET CODE (each seat on its own in LOCAL 1v1). Any other
+    Student ID is refused with "This saved run belongs to <first name>.
     Press START OVER to play your own." and no code is made; the same ID
     may fix a typo in the name. START OVER (two presses) erases the run,
     its owner and its number, and the next run starts fresh.
@@ -761,7 +759,7 @@ D4. THE DA CAPO DUET (researched 2026-10-26 at the deployed fb9f883).
     TWO MIDI DEVICES (Script/MidiCtl.gd:85-86, 170-197). Online
     COUNTERPOINT rows are "COMING" (Menu.gd MULTI_COMING).
   - Sam's privacy point (2026-10-26): on one shared machine a student
-    should not type a partner-visible school ID. THE PROPOSED FIX (pass
+    should not type a partner-visible Student ID. THE PROPOSED FIX (pass
     DUET-CODE, next_steps.txt): a GET CODES row on the duet end screen
     that makes one KTS1 code PER SEAT with a cards total over the whole
     sitting (not per match), with name and ID left blank, shown as a QR
@@ -835,7 +833,7 @@ L. LATENESS: the hub's Lateness.gd applies to codes automatically; apply
 N. NOT VERIFIED BY A HUMAN: the Da Capo ids (headless suites, and the
   LIVE pck loaded headless 2026-10-13; nobody has played them live),
   the HTML through the hub's read-back verifier, any real submission.
-  The root-cycle codes (solo and LOCAL 1v1, P1 / P2 CANVAS CODE) are
+  The root-cycle codes (solo and LOCAL 1v1, P1 / P2 CODE) are
   live (PT-SEATS v2.6) and graded in headless tests on codes the live
   pck made; no human has finished a root-cycle match live and decoded it.
   THE GAUNTLET (v2.7, MIDI gate v2.8, run binding + nonce v2.9) is live and hash-verified; its full solo and LOCAL
