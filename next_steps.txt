@@ -53,6 +53,8 @@ Ranked high -> low.
    no Canvas pushes. Frozen: app id scalefingering, mode major_scales_f26. Kept as written: last fall's real paper
    quiz title in the options memo.
    FOR SAM: none new; nothing was pasted to Canvas.
+   FINAL GREP (case-insensitive quiz 6 / quiz #6 / quiz6, outside .git, history.txt, ._*): one hit only, exception (b):
+     docs/w13_scale_quiz_options.txt:13: WHAT THE OLD QUIZ ASKED (F25 Quiz #6, "Written Major Scale Quiz (Take
 
 0S2. DONE 2026-11-04 -- pass SCALE-TEXT2 (commit "SCALE-TEXT2:"). Prompt, verbatim:
    SCALE-TEXT2  (—Homework | sonnet 5.5 | low | NO GATE | TAG "SCALE-TEXT2:")
