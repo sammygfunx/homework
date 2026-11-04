@@ -27,6 +27,7 @@ CHANGES IN THIS REBUILD (each is a FOR SAM item in section 5 D0 too):
 Section 1's paste: 759 words (11-02's four-option paste was 629;
 Board 2's was 704 and 669 later, counted the same way: tags stripped).
 CLS 2026-11-04 (CODE-LABEL-SWEEP): labels now Get Code / Copy Code / Student ID; section 1 trimmed 759 -> 714 words (tags stripped); Canvas assignment needs a re-paste of section 1 (Board 3 is not in Canvas yet: paste the new one).
+B3-VIDEO 11-04: OPTION 5 is now 60 chords (all five sevenths on all twelve roots, going up a half step from C, one hand, no ring finger, quality said aloud, coursepack pages 174-175 linked). Section 1's paste is now 792 words (tags stripped). Canvas: paste section 1 again (UPDATE if already created: same title in hub tab 5).
 TITLE PROPOSED, FOR SAM: "HW #13 — Choice Board 3: Seventh Chords"
 (Pop Tune Composition takes HW #12; section 1).
 ===========================================================
@@ -87,7 +88,8 @@ THE FACTS EVERYTHING HANGS ON
                      position) won vs the computer at ANY computer level.
                      app_id keyspar, mode "seventh_chords". Rubric
                      keyspar_seventh_chords (KS-HUB). Build 1.7.0 (D3).
-      VIDEO          OPTION 5. Hand-graded on accuracy (D2).
+      VIDEO          OPTION 5. 60 chords (5 qualities x 12 roots), hand-graded
+                     on accuracy (D2; B3-VIDEO 11-04).
       NOT ON THIS    PIANO TENNIS (its "m7" / "M7" are intervals; a
       BOARD          sevenths tier is only proposed). LEAD SHEET LAB, KRILL
                      KEYS: they drill or name the five chords but send no
@@ -165,10 +167,13 @@ entities, so the read-back verifier has nothing to mis-decode.)
 
 <h4>OPTION 5: Video</h4>
 <ul>
-<li>Record yourself playing all five seventh chords in root position, blocked (all four notes together), on C, G, D, A, E and B (30 chords). Name each one out loud, root first: "C major 7th. C dominant 7th."</li>
-<li>Play one root at a time in this order: major 7th, dominant 7th, minor 7th, half-diminished 7th, fully diminished 7th. Each chord lowers one note of the chord before it by a half step.</li>
-<li>Use a metronome at 60 that the video picks up. Play each chord on a click and name it while you hold it, four clicks or fewer, the same number each time.</li>
-<li>Record one continuous take with no edits; either hand is fine. Keep your hand and the keyboard in the frame.</li>
+<li>Record yourself playing all five seventh chords in root position, blocked (all four notes together), on all twelve roots: 60 chords. Start on C, then go up a half step to the next root, and so on up through B.</li>
+<li>On each root play the chord chain without stopping: major 7th, dominant 7th, minor 7th, half-diminished 7th, fully diminished 7th. Each chord lowers one note of the one before it by a half step. Then move up a half step and start again with the major 7th.</li>
+<li>Say the quality of each chord out loud, for example "major seventh" or "fully diminished seventh". You do not need to say the letter names.</li>
+<li>Use one hand, right or left. Do not use your ring finger: right hand 1-2-3-5, left hand 5-3-2-1 (pinky 5, middle 3, index 2, thumb 1).</li>
+<li>Use a metronome at 60 that the video picks up. Play each chord on a click and say its name while you hold it, four clicks or fewer, the same number each time.</li>
+<li>Record one continuous take with no edits. Keep your hand and the keyboard in the frame.</li>
+<li>Need the chords? See the Week 13 coursepack, <a href="https://keys-to-success-coursepack.netlify.app/#W13-SEVENTH-01">pages 174-175</a>, the seventh chords section.</li>
 <li><strong>To submit:</strong> upload the video under <strong>File Upload</strong>, or paste a link to an unlisted YouTube video under <strong>Text Entry</strong>. Please do not send cloud drive links.</li>
 </ul>
 ===HTML===
@@ -203,9 +208,13 @@ Computer. Win matches 1 to 5 against the computer, any computer level, root
 of each chord on the bottom. Get Code, name and Student ID, Copy Code, paste
 the whole code.
 
-Or a video: the five seventh chords on C, G, D, A, E and B, blocked and
-named, in the order major 7th down to fully diminished, metronome at 60.
-One take, hand and keys in the frame. Upload it or paste an unlisted
+Or a video: all five seventh chords on all twelve roots, 60 chords,
+blocked. On each root play major 7th, dominant 7th, minor 7th,
+half-diminished, fully diminished, then go up a half step to the next
+root, from C up through B. Say each chord's quality out loud; letter names
+are not needed. One hand, no ring finger: right hand 1-2-3-5, left hand
+5-3-2-1. Metronome at 60, one take, hand and keys in the frame. The
+coursepack, pages 174-175, has the chords. Upload it or paste an unlisted
 YouTube link.
 
 Same full credit every way. Due Sunday 11/15 at 11:59 PM, the same night
@@ -239,9 +248,11 @@ Subject: HW #13 — Choice Board 3: Seventh Chords, due Sun 11/15 at 11:59 PM
     Seventh Chords, Solo vs Computer. Win matches 1 to 5 against the
     computer, any level, root on the bottom. Get Code, paste the whole
     code.
-  A VIDEO  the five seventh chords on C, G, D, A, E and B, named,
-    metronome at 60 (the assignment has the details); upload it, or
-    paste an unlisted YouTube link in the text box.
+  A VIDEO  all five seventh chords on all twelve roots (60 chords), going
+    up by half steps from C, one hand, no ring finger, saying each quality
+    aloud, metronome at 60 (the assignment has the details; coursepack
+    pages 174-175); upload it, or paste an unlisted YouTube link in the
+    text box.
 
 Due Sunday, November 15, 2026, 11:59 PM Eastern. Same full credit every
 way. Your last submission is the one graded.
@@ -351,8 +362,9 @@ D0. THE PROPOSAL (W13-HW 2026-11-02, rebuilt B3-TEXT 2026-11-03 PM), ALL FOR
     Capo stays at Board 2's 50 cards (Sam's "50 across the board"). Chord
     Crush is LIGHTER than Board 2's (6 levels a stage = 21 chords, 105 in
     all, against Board 2's 156), because a full seventh stage is 78
-    four-note chords and all five would be 390. The video is 30 chords
-    (Board 2's was 52 triads). Key Spar: five matches. If Sam wants Chord
+    four-note chords and all five would be 390. The video is 60 chords
+    (11-04 B3-VIDEO; was 30; Board 2's was 52 triads), about four minutes at
+    four clicks a chord. Key Spar: five matches. If Sam wants Chord
     Crush heavier: 12 levels per stage is one number per column in
     chordcrush_board3 (D5).
   - KEY SPAR GOAL, FOR SAM (your "approve all" took the defaults): matches
@@ -364,6 +376,13 @@ D0. THE PROPOSAL (W13-HW 2026-11-02, rebuilt B3-TEXT 2026-11-03 PM), ALL FOR
     put the root on the bottom.
   - DUE Sunday of Week 13 (A11), module Week 13, 100 points.
   - TITLE "HW #13 — Choice Board 3: Seventh Chords" (HW #12 = Pop Tune).
+  - B3-VIDEO 11-04, FOR SAM: the video is 60 chords now (was 30). KEPT the
+    "four clicks or fewer per chord" rule: it still reads sensibly (about
+    four minutes of playing). Roots are named C, Db, D, Eb, E, F, F#, G, Ab,
+    A, Bb, B in the key; students need not say them. Scale in D2 is my
+    default (1.5 off per wrong/missing chord, 0.5 unnamed, up to 10 for
+    pulse): change it if you like. Coursepack link is the live anchor
+    W13-SEVENTH-01; if the CP pane moves the pages, the text says 174-175.
   - THE VIDEO: D2. Its order (each chord lowers one note a half step) is
     the same habit the Wednesday chapter teaches (W13-CHAPTER).
   - THE MIC bullet in OPTION 1 is kept as on Board 2; seventh chords are
@@ -407,36 +426,57 @@ D1. DA CAPO (DACAPO-20; Curriculum.spec_for "seventh_chords"; DC-SEVENTHS
   board3_seventh_chords_sample_codes.json): 49 cards -> 0, 50 -> 100, two
   codes from one run under one student not flagged.
 
-D2. THE VIDEO (PROPOSED). All five qualities in root position on the six
-  roots C G D A E B (Chord Crush's levels 1-6), one root at a time, in the
-  order maj7, 7, min7, half-dim 7, dim7: 6 x 5 = 30 blocked chords. Named
-  root first. Metronome at 60, four clicks or fewer per chord, the same
-  count throughout (at four clicks, two minutes of playing). One
-  continuous take, either hand.
-  Graded on accuracy. SUGGESTED (Sam's call): about 3 points per chord
-  (100 / 30), deduct for each chord missing, wrong or misnamed, and for
-  lost pulse.
+D2. THE VIDEO (REWRITTEN 11-04, B3-VIDEO; Sam: fifty Da Capo cards take
+  longer than the old 30-chord video). All five qualities in root position
+  on ALL TWELVE roots = 60 blocked chords, root by root, going UP a half
+  step from C: C, Db, D, Eb, E, F, F#, G, Ab, A, Bb, B. On each root the
+  order maj7, 7, min7, half-dim 7, dim7, then the next root starts with
+  its maj7. The student says each chord's QUALITY aloud ("major seventh",
+  "dominant seventh", "minor seventh", "half-diminished seventh", "fully
+  diminished seventh"); letter names are NOT required. One hand, right or
+  left, no ring finger: RH 1-2-3-5, LH 5-3-2-1 (LH pinky 5, middle 3,
+  index 2, thumb 1; RH thumb 1, index 2, middle 3, pinky 5). Metronome at
+  60, four clicks or fewer per chord, the same count throughout (at four
+  clicks, four minutes of playing). One continuous take.
+  Coursepack link in the paste: pages 174-175, anchor W13-SEVENTH-01
+  (live id checked 11-04 by curl; the TOC lists the unit at 172, the
+  section itself prints at 174).
+  GRADING SCALE for SpeedGrader (SUGGESTED, Sam's call; 100 / 60 = 1 2/3):
+    Start at 100. Take 1.5 points for each chord that is missing, wrong
+    (a wrong note) or named with the wrong quality; take 0.5 for a chord
+    played right but not named; take up to 10 for a lost or changed pulse
+    (more than four clicks, or an uneven count). Floor 0. Rounding: whole
+    points. Quick math: 10 wrong chords = 85; 20 = 70; 40 = 40.
+    A student who stops partway: the chords not played count as missing.
+    Either enharmonic root name (C# for Db, Gb for F#) is right, and the
+    same key is right for any enharmonic spelling in the key below.
   THE ORDER, derived: each step lowers ONE note a half step -- maj7 ->
   dom7 lowers the 7th; dom7 -> min7 the 3rd; min7 -> half-dim the 5th;
   half-dim -> dim7 the 7th again (true on every root; the answer key shows
   it).
-  ANSWER KEY (derived in code by stacking letter names and correcting each
-  by its half-step distance from the root, W13-HW scratchpad sevenths.py;
-  roots in Chord Crush's get_root_for_level order):
-    on C  maj7 C-E-G-B    7 C-E-G-Bb   min7 C-Eb-G-Bb   half-dim C-Eb-Gb-Bb
-          dim7 C-Eb-Gb-Bbb
-    on G  maj7 G-B-D-F#   7 G-B-D-F    min7 G-Bb-D-F    half-dim G-Bb-Db-F
-          dim7 G-Bb-Db-Fb
-    on D  maj7 D-F#-A-C#  7 D-F#-A-C   min7 D-F-A-C     half-dim D-F-Ab-C
-          dim7 D-F-Ab-Cb
-    on A  maj7 A-C#-E-G#  7 A-C#-E-G   min7 A-C-E-G     half-dim A-C-Eb-G
-          dim7 A-C-Eb-Gb
-    on E  maj7 E-G#-B-D#  7 E-G#-B-D   min7 E-G-B-D     half-dim E-G-Bb-D
-          dim7 E-G-Bb-Db
-    on B  maj7 B-D#-F#-A# 7 B-D#-F#-A  min7 B-D-F#-A    half-dim B-D-F-A
-          dim7 B-D-F-Ab
-  (Students name root + quality; a dim7 played with the enharmonic key
-  for Bbb / Fb / Cb is the same key and is right.)
+  ANSWER KEY, ALL 60 CHORDS IN VIDEO ORDER (derived in code by stacking
+  letter names and correcting each by its half-step distance from the root;
+  B3-VIDEO scratchpad key.py; spellings follow the letter rule, so some
+  are double flats -- the keys are what count). Each row is one root, left
+  to right, the order the student plays them:
+  C   maj7 C-E-G-B   7 C-E-G-Bb   min7 C-Eb-G-Bb   half-dim C-Eb-Gb-Bb   dim7 C-Eb-Gb-Bbb
+  Db  maj7 Db-F-Ab-C   7 Db-F-Ab-Cb   min7 Db-Fb-Ab-Cb   half-dim Db-Fb-Abb-Cb   dim7 Db-Fb-Abb-Cbb
+  D   maj7 D-F#-A-C#   7 D-F#-A-C   min7 D-F-A-C   half-dim D-F-Ab-C   dim7 D-F-Ab-Cb
+  Eb  maj7 Eb-G-Bb-D   7 Eb-G-Bb-Db   min7 Eb-Gb-Bb-Db   half-dim Eb-Gb-Bbb-Db   dim7 Eb-Gb-Bbb-Dbb
+  E   maj7 E-G#-B-D#   7 E-G#-B-D   min7 E-G-B-D   half-dim E-G-Bb-D   dim7 E-G-Bb-Db
+  F   maj7 F-A-C-E   7 F-A-C-Eb   min7 F-Ab-C-Eb   half-dim F-Ab-Cb-Eb   dim7 F-Ab-Cb-Ebb
+  F#  maj7 F#-A#-C#-E#   7 F#-A#-C#-E   min7 F#-A-C#-E   half-dim F#-A-C-E   dim7 F#-A-C-Eb
+  G   maj7 G-B-D-F#   7 G-B-D-F   min7 G-Bb-D-F   half-dim G-Bb-Db-F   dim7 G-Bb-Db-Fb
+  Ab  maj7 Ab-C-Eb-G   7 Ab-C-Eb-Gb   min7 Ab-Cb-Eb-Gb   half-dim Ab-Cb-Ebb-Gb   dim7 Ab-Cb-Ebb-Gbb
+  A   maj7 A-C#-E-G#   7 A-C#-E-G   min7 A-C-E-G   half-dim A-C-Eb-G   dim7 A-C-Eb-Gb
+  Bb  maj7 Bb-D-F-A   7 Bb-D-F-Ab   min7 Bb-Db-F-Ab   half-dim Bb-Db-Fb-Ab   dim7 Bb-Db-Fb-Abb
+  B   maj7 B-D#-F#-A#   7 B-D#-F#-A   min7 B-D-F#-A   half-dim B-D-F-A   dim7 B-D-F-Ab
+  60 chords in all (12 rows x 5). Both fingerings, same on every root: LH
+  5-3-2-1 (pinky on the root note, then middle, index, thumb on the top
+  note); RH 1-2-3-5 (thumb on the root, then index, middle, pinky on the
+  top note). No ring finger either hand.
+  (Students name quality only. A dim7 played with the enharmonic key for a
+  double-flat note is the same key and is right.)
 
 D3. EVERY OTHER APP, CHECKED 2026-11-02 (W13-HW; each app's source and
   docs, not assumed):

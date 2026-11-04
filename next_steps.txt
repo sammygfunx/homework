@@ -1,6 +1,6 @@
 HOMEWORK — NEXT STEPS
 ======================
-Updated: 2026-11-04 PM (SCALE-TEXT2 DONE, item 0S2: HW #14 Scale Fingerprint, 200 pts, hw14_scale_fingering.txt). Before that: 2026-11-04 (CLS-HW DONE, item 0CLS: new Get Code / Copy Code / Student ID labels in every app HW file, section 1 trimmed; re-paste list in 0CLS). Before that: 2026-11-03 PM (B3-TEXT DONE, item 0B3T: Board 3 is FIVE ways incl. Key Spar, hw_board2 duet TIER line; see FOR SAM under 0B3T). Before that: 2026-11-03 (SCALE-TEXT DONE: hw14_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
+Updated: 2026-11-04 EVE (B3-VIDEO-HW DONE, item 0B3V: Board 3 OPTION 5 = 60 chords). Before that: 2026-11-04 PM (SCALE-TEXT2 DONE, item 0S2: HW #14 Scale Fingerprint, 200 pts, hw14_scale_fingering.txt). Before that: 2026-11-04 (CLS-HW DONE, item 0CLS: new Get Code / Copy Code / Student ID labels in every app HW file, section 1 trimmed; re-paste list in 0CLS). Before that: 2026-11-03 PM (B3-TEXT DONE, item 0B3T: Board 3 is FIVE ways incl. Key Spar, hw_board2 duet TIER line; see FOR SAM under 0B3T). Before that: 2026-11-03 (SCALE-TEXT DONE: hw14_scale_fingering.txt READY TO CREATE, item 0Q6). Before that: 2026-11-02 PM (Q5-GURLITT-TEXT DONE: quiz5_item5_repertoire.txt now covers both Gurlitt pieces in Clef Runner (only Haydn video-only), is an UPDATE of the EXISTING Canvas assignment (F25 text; FOR SAM 1 = copy its exact title, tab 5 ticks 3 Also-accept boxes incl. the new media recording; section 3b UPDATE ANNOUNCEMENT); hub 2616 tests, rubric unchanged). Before that: 2026-11-02 (W13-HW DONE, item 0W13: hw12_pop_tune.txt READY TO
 CREATE, final_repertoire_selections.txt READY TO POST, Board 3 PROPOSED with
 its hub set hw13_board3 (Grading_Hub W13-HW-HUB b01eafa), the scale quiz memo
 docs/w13_scale_quiz_options.txt for Sam's decision; roster).
@@ -44,6 +44,16 @@ HTML into the live Canvas assignment; the app itself is unchanged).
 Older Updated entries (HW-DEADLINES 2026-09-19, HW5-4 2026-09-18) and
 earlier housekeeping notes archived in history.txt 2026-09-23 (TIDY).
 Ranked high -> low.
+
+0B3V. B3-VIDEO-HW. DONE 2026-11-04 EVE (final commit "B3-VIDEO-HW:", WHATS-NEW: none). Block (from
+   —OER/docs/passes_2026-11-04_b3video.txt item 1): rewrite Board 3 OPTION 5 as 60 chords (five qualities x twelve
+   roots, up a half step from C, one hand, RH 1-2-3-5 / LH 5-3-2-1 no ring finger, quality said aloud, coursepack
+   pages 174-175 hyperlink to #W13-SEVENTH-01, metronome 60, one take); update sections 1-3, header, 4 C, 5 D0/D2
+   (answer key of all 60 chords + accuracy scale); keep other options, title, 100 pts, due, submission types.
+   RESULT: hw_board3_seventh_chords.txt, paste now 792 words (was 714). CANVAS: paste section 1 again (UPDATE if
+   already created: same title, hub tab 5). FOR SAM: kept the "four clicks or fewer" rule (about 4 minutes);
+   scale in D2 is my default (1.5 off per wrong/missing chord, 0.5 unnamed, up to 10 for pulse); anchor
+   W13-SEVENTH-01 verified live (TOC unit page 172, section prints p. 174).
 
 0H14. DONE 2026-11-04 -- pass HW-HW14 (final commit "HW-HW14:", WHATS-NEW: none). Block (from
    —OER/docs/passes_2026-11-04_hw14.txt, item 2): every old-title/old-file-name hit in —Homework becomes HW #14 (files:
