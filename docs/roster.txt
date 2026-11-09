@@ -300,6 +300,16 @@ HW #14  HW #14: Major Scale Fingering (title: Sam, 2026-11-04; SCALE-TEXT2). Sca
        Content: —Homework/hw14_scale_fingering.txt
        Status: READY TO CREATE.
 
+HW #15  HW #15: End-of-Semester Note Reading and Interval Reading Assessment
+       (title: Sam, 2026-11-09; PW-FINAL-MOVE). The final sitting of HW #1's
+       Portato_Web READING DIAGNOSTIC: https://portato.netlify.app/?assessment=1&week=14.
+       Text entry (KTS1 code). 100 points, flat completion; beat your Week 1 total
+       = lowest HW dropped. Week 14: open Mon 11/16, due Sun 11/22 23:59, done
+       AFTER the Week 14 sprint (A-flat). Rubric: none yet (HW #1's is
+       Grading_Hub/rubrics/hw1_note_interval_reading.rubric.json).
+       Content: —Apps/Portato_Web/canvas_workflow.txt WEEK 14 FINAL.
+       Status: READY TO CREATE (week of 11/16).
+
 HW #12  Pop Tune Composition (title PROPOSED by W13-HW, 2026-11-02:
        "HW #12 — Pop Tune Composition"; Boards 1-2 are HW #10-#11 below,
        Board 3 proposed as HW #13). F25's HW #10, kept and simplified (Sam 2026-11-02: shorter, a
