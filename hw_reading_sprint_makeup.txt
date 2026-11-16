@@ -1,0 +1,139 @@
+===========================================================
+EXTRA CREDIT: READING SPRINT MAKE-UP (CLEF RUNNER) -- CANVAS ASSIGNMENT
+Written 2026-11-16 (orchestrator, Sam's ask). Students who missed Reading
+Sprints earn sprints EXCUSED by reading in Clef Runner's Sight-Reading Mode
+and Infinite Runner. Students with every sprint in ignore it.
+STATUS: DRAFT -- the text is final once Sam OKs the tiers; the Clef Runner
+code it describes does not exist until pass CR-MAKEUP ships (—OER
+docs/next_steps.txt). Create in Canvas only after CR-MAKEUP is deployed.
+===========================================================
+
+WHAT THIS FILE IS
+  section 1  the Canvas assignment (title, settings, description to paste)
+  section 2  what to say at the top of class, Wed 11/18 (about a minute)
+  section 3  grading: from codes to excused sprints
+  section 4  design notes + FOR SAM
+
+THE FACTS EVERYTHING HANGS ON
+  WHY          The weekly Reading Sprints were locked after each due date on
+               purpose and stay locked. This is a separate, longer reading
+               task that replaces missed sprints.
+  WHO          Optional. Only students who missed one or more Reading Sprints.
+               A student who turned in every sprint gains nothing from it.
+  WHAT COUNTS  "Reading minutes": time spent in Clef Runner's SIGHT-READING
+               MODE (the random sight-reading, NOT the Schäfer exercises) and
+               in the INFINITE RUNNER, counted only for runs where at least
+               70% of the notes were right, and only for play on or after
+               the day CR-MAKEUP ships. Older play does not count, so nobody
+               is credited for practice they did before the offer.
+  TIERS        10 reading minutes  -> up to 3 missed sprints excused
+               20 reading minutes  -> up to 6 missed sprints excused
+               30 reading minutes  -> ALL missed sprints excused
+               (A sprint is about 2 minutes of work; 30 minutes covers a
+               semester's worth of missed sprints, as Sam asked.)
+  DUE          Mon 11/30/2026, 11:59 pm (last day of classes).
+  SUBMIT       One KTS1 code from Clef Runner's Homework screen, assignment
+               "Reading Sprint Make-Up". The code always reports everything
+               so far, so a student can stop at any tier and paste the code.
+  APP ID/MODE  "clefrunner" / "reading_makeup_f26" (set by CR-MAKEUP).
+
+===========================================================
+SECTION 1. THE CANVAS ASSIGNMENT
+===========================================================
+Title:        Extra Credit: Reading Sprint Make-Up (Clef Runner)
+Points:       0 (Sam excuses sprints by hand; see section 3)
+              -- or mark "Do not count this assignment towards the final
+              grade" if Canvas asks for points.
+Submission:   Online -> Text Entry
+Available:    Wed 11/18 (or as soon as it is created)
+Due / Until:  Mon 11/30, 11:59 pm (no late submissions)
+
+--- DESCRIPTION (paste into the Rich Content Editor) ---
+
+<p><strong>MISSED A READING SPRINT? EARN IT BACK.</strong> If you missed one
+or more Reading Sprints this semester, this is your chance to make them up.
+The sprints themselves stay closed. Instead, you will do some extra reading
+practice in Clef Runner, and I will EXCUSE missed sprints based on how much
+you read. Excused sprints no longer count against your grade.</p>
+
+<p><strong>Turned in every sprint?</strong> You can skip this. It only
+replaces missed sprints; it cannot raise a sprint you already turned in.</p>
+
+<p><strong>WHAT TO DO</strong></p>
+<ol>
+<li>Open Clef Runner: <a href="https://clef-runner.netlify.app">https://clef-runner.netlify.app</a>
+and choose the same player you always use.</li>
+<li>Read in <strong>Sight-Reading Mode</strong> (the random sight-reading,
+not the Schäfer exercises) and/or the <strong>Infinite Runner</strong>. Mix
+them any way you like, in as many sittings as you like.</li>
+<li>Only runs where you get at least <strong>70% of the notes right</strong>
+count, so read carefully rather than quickly. Only practice from today on
+counts.</li>
+</ol>
+
+<p><strong>HOW MANY SPRINTS YOU EARN BACK</strong></p>
+<ul>
+<li><strong>10 reading minutes:</strong> up to 3 missed sprints excused</li>
+<li><strong>20 reading minutes:</strong> up to 6 missed sprints excused</li>
+<li><strong>30 reading minutes:</strong> ALL your missed sprints excused</li>
+</ul>
+
+<p><strong>TO SUBMIT</strong></p>
+<p>In Clef Runner, open the <strong>Homework</strong> screen, choose
+<strong>Reading Sprint Make-Up</strong>, and check your reading minutes. When
+you are done, press <strong>Get Code</strong>, then <strong>Copy Code</strong>,
+and paste the code (it starts with KTS1-) into the text box below. Paste
+exactly ONE code. The code always includes everything you have done so far,
+so take it once at the end.</p>
+
+<p><strong>Due Monday 11/30 at 11:59 pm</strong> (last day of classes). No
+late submissions.</p>
+
+--- END DESCRIPTION ---
+
+[CR-MAKEUP must confirm before Sam pastes: the live URL above, the exact
+menu names ("Sight-Reading Mode", "Infinite Runner", "Homework", the
+assignment's title), and that on-screen keys work in both modes. Edit the
+text to match what ships.]
+
+===========================================================
+SECTION 2. WHAT TO SAY AT THE TOP OF CLASS (WED 11/18)
+===========================================================
+"Quick announcement before Part I. If you missed any Reading Sprints this
+semester, there's a new extra credit assignment on Canvas. The sprints stay
+closed, but you can earn them back by reading in Clef Runner's Sight-Reading
+Mode or the Infinite Runner. Ten minutes of reading excuses up to three
+missed sprints, twenty minutes up to six, and thirty minutes excuses all of
+them. Only runs where you get at least 70 percent right count, so read
+carefully. It's due Monday the 30th at midnight. If you turned in every
+sprint, you can ignore it."
+
+===========================================================
+SECTION 3. GRADING (AFTER 11/30)
+===========================================================
+1. Grading Hub: pull the assignment's codes (tab 1 or "To grade"). The rubric
+   CR-MAKEUP adds shows, per student: reading minutes, the tier, and "sprints
+   to excuse" (3, 6 or ALL). It posts nothing on its own (0-point assignment).
+2. In the Canvas gradebook, for each listed student, set that many of their
+   MISSING Reading Sprints to Excused (EX) -- earliest missed first, or any
+   order, your call. "ALL" = every missing sprint.
+3. A student who missed fewer sprints than their tier allows simply has all
+   of them excused.
+
+===========================================================
+SECTION 4. DESIGN NOTES + FOR SAM
+===========================================================
+WHY MINUTES, NOT XP OR LEVELS: character XP and Sight-Reading levels already
+include everything a student played before the offer, and XP also comes from
+repertoire and scale play, so they can't separate new reading from old.
+Minutes logged from the ship date, with a 70% floor, are one number that is
+fair to every student. Students still level up their character as they
+play; it just isn't what the grade reads.
+
+FOR SAM:
+  1. Tiers OK (10 / 20 / 30 minutes -> 3 / 6 / all)? And the 70% floor?
+  2. Video alternative (house rule: every app HW has one)? Proposed: a
+     screen-plus-hands video of the same Clef Runner reading, same tiers by
+     the video's length, graded by a skim. Or skip it for extra credit.
+  3. Points: 0-point assignment (as above), or a few points as well?
+===========================================================
