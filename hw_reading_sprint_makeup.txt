@@ -3,7 +3,8 @@ EXTRA CREDIT: READING SPRINT MAKE-UP (CLEF RUNNER) -- CANVAS ASSIGNMENT
 Written 2026-11-16 (orchestrator, Sam's ask). Students who missed Reading
 Sprints earn sprints EXCUSED by reading in Clef Runner's Sight-Reading Mode
 and Infinite Runner. Students with every sprint in ignore it.
-STATUS: DRAFT -- the text is final once Sam OKs the tiers; the Clef Runner
+STATUS: TIERS APPROVED (Sam 2026-11-16: 10/20/30 min, 70% floor, no video
+way, 0 points). The Clef Runner
 code it describes does not exist until pass CR-MAKEUP ships (—OER
 docs/next_steps.txt). Create in Canvas only after CR-MAKEUP is deployed.
 ===========================================================
@@ -25,7 +26,9 @@ THE FACTS EVERYTHING HANGS ON
                in the INFINITE RUNNER, counted only for runs where at least
                70% of the notes were right, and only for play on or after
                the day CR-MAKEUP ships. Older play does not count, so nobody
-               is credited for practice they did before the offer.
+               is credited for practice they did before the offer. Any
+               setting counts: one hand or both, any level or tempo (the
+               random sight-reading already adapts to the student).
   TIERS        10 reading minutes  -> up to 3 missed sprints excused
                20 reading minutes  -> up to 6 missed sprints excused
                30 reading minutes  -> ALL missed sprints excused
@@ -65,7 +68,8 @@ replaces missed sprints; it cannot raise a sprint you already turned in.</p>
 and choose the same player you always use.</li>
 <li>Read in <strong>Sight-Reading Mode</strong> (the random sight-reading,
 not the Schäfer exercises) and/or the <strong>Infinite Runner</strong>. Mix
-them any way you like, in as many sittings as you like.</li>
+them any way you like, in as many sittings as you like. One hand or both
+hands, any level: it all counts.</li>
 <li>Only runs where you get at least <strong>70% of the notes right</strong>
 count, so read carefully rather than quickly. Only practice from today on
 counts.</li>
@@ -130,10 +134,11 @@ Minutes logged from the ship date, with a 70% floor, are one number that is
 fair to every student. Students still level up their character as they
 play; it just isn't what the grade reads.
 
-FOR SAM:
-  1. Tiers OK (10 / 20 / 30 minutes -> 3 / 6 / all)? And the 70% floor?
-  2. Video alternative (house rule: every app HW has one)? Proposed: a
-     screen-plus-hands video of the same Clef Runner reading, same tiers by
-     the video's length, graded by a skim. Or skip it for extra credit.
-  3. Points: 0-point assignment (as above), or a few points as well?
+DECIDED (Sam 2026-11-16):
+  1. Tiers 10 / 20 / 30 minutes -> 3 / 6 / all, 70% floor: OK. One-hand runs
+     and any difficulty count (students choose their level; the random
+     sight-reading speeds up or slows down with their accuracy).
+  2. No video way: the make-up path is already a kindness.
+  3. 0 points. The hub reports who submitted, reading minutes, overall
+     accuracy and the tier; Sam excuses that many missing sprints.
 ===========================================================
