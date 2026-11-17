@@ -111,7 +111,8 @@ Homework card and screen title "Reading Sprint Make-Up"; the buttons
 mode (and no computer-keyboard notes): MIDI keyboard or the microphone on an
 acoustic piano only. The touch piano is pass CR-FIRST-TOUCH, after the 11/23
 recital. The text above now says so (the MIDI/microphone line). Microphone
-runs count toward the minutes, like any other setting.]
+runs count toward the minutes, like any other setting: DECIDED by Sam,
+2026-11-17 (CR-MAKEUP-2), microphone runs keep counting.]
 
 ===========================================================
 SECTION 2. WHAT TO SAY AT THE TOP OF CLASS (WED 11/18)
