@@ -95,8 +95,9 @@ reading minutes; open it to see how many sprints they excuse. When you are
 done, fill in your first name, last name and student ID, press
 <strong>Get Code</strong>, then <strong>Copy Code</strong>, and paste the code
 (it starts with KTS1-) into the text box below. Paste exactly ONE code. The
-code always includes everything you have done so far, so take it once at the
-end.</p>
+code always includes everything you have done so far. You can check your
+minutes and take a code any time; if you read more later, take a new code and
+resubmit. I'll use your last one.</p>
 
 <p><strong>Due Monday 11/30 at 11:59 pm</strong> (last day of classes). No
 late submissions.</p>
